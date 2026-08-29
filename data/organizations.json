@@ -14,6 +14,17 @@
     "image": "",
 "aliases": [
   "super earth armed forces"
-]
+  ]
+},
+  "vote-snatchers": {
+    "title": "Vote Snatchers",
+    "category": "Organization",
+    "description": "The Vote Snatchers are an anti-Super Earth dissident movement that emerged during the Second Galactic War. Branded as enemies of Managed Democracy, the group has been associated with sabotage, propaganda, and attempts to undermine Super Earth's democratic institutions.",
+    "source": "https://helldivers.wiki.gg/wiki/Vote_Snatchers",
+    "image": "",
+    "aliases": [
+      "vote snatchers",
+      "vote snatcher"
+    ]
   }
 }
