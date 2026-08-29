@@ -86,8 +86,6 @@ const topic = rawTopic.replace(/\s+/g, '-');
  "malevelon creek": "malevelon-creek",
   "managed democracy": "managed-democracy",
   "super earth": "super-earth",
-"super destroyer": "super-destroyer",
-"destroyer": "super-destroyer",
 "element 710": "element-710",
 "710": "element-710",
 "super earth armed forces": "seaf"
