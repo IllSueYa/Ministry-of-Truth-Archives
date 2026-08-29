@@ -26,7 +26,6 @@
     "description": "Hive Worlds are planets completely infested and terraformed by the Terminids. Beneath their surfaces lie enormous networks of caves containing Terminid nests, hostile organisms, and Spore Lungs believed to produce and sustain the Gloom. Their surfaces are similarly transformed, featuring Terminid structures, spires, and hazardous environments. Oshaune was the first Hive World discovered by Super Earth, while Zagon Prime and Omicron were subsequently identified as Hive Worlds hidden within the Gloom.",
     "source": "https://helldivers.wiki.gg/wiki/Hive_World",
     "image": ""
-  }
 },
 "the-void": {
   "title": "The Void",
@@ -39,14 +38,15 @@
     "illuminate void"
   ]
 },
-"appropriators": {
-  "title": "Appropriators",
-  "category": "Illuminate Subfaction",
-  "description": "The Appropriators are an Illuminate subfaction composed entirely of Illuminate personnel and machinery rather than Voteless forces. Their deployments feature Illuminate foot soldiers, drones, and piloted constructs.",
-  "source": "https://helldivers.wiki.gg/wiki/Appropriators",
-  "image": "",
-  "aliases": [
-    "appropriator",
-    "illuminate appropriators"
-  ]
+ "appropriators": {
+    "title": "Appropriators",
+    "category": "Illuminate Subfaction",
+    "description": "The Appropriators are an Illuminate subfaction composed entirely of Illuminate personnel and machinery rather than Voteless forces. Their deployments feature Illuminate foot soldiers, drones, and piloted constructs.",
+    "source": "https://helldivers.wiki.gg/wiki/Appropriators",
+    "image": "",
+    "aliases": [
+      "appropriator",
+      "illuminate appropriators"
+    ]
+  }
 }
