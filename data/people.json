@@ -4,7 +4,10 @@
     "category": "Person",
     "description": "Eagle-1 is the pilot responsible for delivering Eagle-based air support to Helldivers on the battlefield. From the Super Destroyer, Eagle-1 conducts rapid attack runs using weapons selected as Stratagems by the Helldiver.",
     "source": "https://helldivers.wiki.gg/wiki/Eagle-1",
-    "image": ""
+"image": "",
+"aliases": [
+  "eagle"
+]
   },
   "democracy-officer": {
     "title": "Democracy Officer",
