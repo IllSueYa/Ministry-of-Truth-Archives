@@ -191,7 +191,17 @@ if (!lore[resolvedTopic]) {
   }
 }
 
-    const embed = new EmbedBuilder()
+const entry = lore[resolvedTopic];
+
+if (!entry) {
+  await interaction.reply({
+    content: `No archive entry was found for **${rawTopic}**.`,
+    ephemeral: true,
+  });
+  return;
+}
+
+const embed = new EmbedBuilder()
       .setTitle(entry.title)
       .setDescription(entry.description)
       .setColor(0xD4AF37)
