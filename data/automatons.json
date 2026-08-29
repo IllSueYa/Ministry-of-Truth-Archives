@@ -397,5 +397,77 @@
     "jammer",
     "stratagem blocker"
   ]
+},
+  "detector-tower": {
+  "title": "Detector Tower",
+  "category": "Automaton Structure",
+  "description": "The Detector Tower is an Automaton surveillance installation designed to locate hostile forces and summon reinforcements. Its distinctive rotating scanner searches the surrounding battlefield for Helldivers, and once a target is detected the installation can repeatedly call Bot Drops to defend the area. Detector Towers are commonly encountered as optional objectives and can also appear within heavily fortified Automaton positions.",
+  "source": "https://helldivers.wiki.gg/wiki/Detector_Tower",
+  "image": "",
+  "aliases": [
+    "detector tower",
+    "automaton detector tower",
+    "bot detector tower",
+    "eye of sauron",
+    "sauron tower"
+  ]
+},
+"cannon-turret": {
+  "title": "Cannon Turret",
+  "category": "Automaton Structure",
+  "description": "The Cannon Turret is a heavily armored Automaton defensive weapon consisting of an Annihilator-style turret mounted on a fortified pillar. Armed with a Fusion Battle Cannon, it can engage Helldivers and vehicles at long range with powerful explosive fire. Cannon Turrets defend Automaton Outposts, Fortresses, Orbital Cannons, and other strategic positions, with a glowing heatsink on the rear serving as a major vulnerability.",
+  "source": "https://helldivers.wiki.gg/wiki/Cannon_Turret",
+  "image": "",
+  "aliases": [
+    "cannon turret",
+    "automaton cannon turret",
+    "bot cannon turret",
+    "automaton cannon",
+    "laser cannon tower"
+  ]
+},
+"mortar-emplacement": {
+  "title": "Mortar Emplacement",
+  "category": "Automaton Structure",
+  "description": "The Mortar Emplacement is an Automaton artillery installation found within fortified outposts. Once nearby Automaton forces identify a hostile target, the emplacement launches heavy explosive shells in high arcs toward Helldiver positions. Multiple mortars can operate together to bombard an area, forcing Helldivers to remain mobile until the artillery battery is destroyed.",
+  "source": "https://helldivers.wiki.gg/wiki/Mortar_Emplacement",
+  "image": "",
+  "aliases": [
+    "mortar emplacement",
+    "automaton mortar",
+    "bot mortar",
+    "enemy artillery",
+    "automaton artillery"
+  ]
+},
+"anti-air-emplacement": {
+  "title": "Anti-Air Emplacement",
+  "category": "Automaton Structure",
+  "description": "The Anti-Air Emplacement is an Automaton air-defense installation designed to deny Helldivers access to Eagle support. While an active emplacement is nearby, Eagle Stratagems are obstructed within approximately 150 meters. Anti-Air positions contain multiple heavily armored gun emplacements and must be destroyed before normal Eagle operations can safely resume within the affected area.",
+  "source": "https://helldivers.wiki.gg/wiki/Anti-Air_Emplacement",
+  "image": "",
+  "aliases": [
+    "anti air emplacement",
+    "anti-air emplacement",
+    "automaton anti air",
+    "automaton aa",
+    "aa emplacement",
+    "aa guns"
+  ]
+},
+"automaton-outpost": {
+  "title": "Automaton Outpost",
+  "category": "Automaton Structure",
+  "description": "Automaton Outposts are fortified positions established throughout Automaton-controlled territory. They contain Fabricators that manufacture additional troops and may be protected by infantry, heavy units, emplacements, and defensive structures. Outposts range from small installations to heavily defended bases, while the largest Automaton Fortresses contain six Fabricators and extensive defenses such as Cannon Turrets, Bunker Turrets, MG Emplacements, and sometimes a Detector Tower.",
+  "source": "https://helldivers.wiki.gg/wiki/Automaton_Outpost",
+  "image": "",
+  "aliases": [
+    "automaton outpost",
+    "bot outpost",
+    "automaton base",
+    "bot base",
+    "automaton fortress",
+    "bot fortress"
+  ]
 }
-  
+}
