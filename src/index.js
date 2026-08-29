@@ -46,7 +46,21 @@ client.on('interactionCreate', async interaction => {
       .toLowerCase()
       .trim();
 
-    const entry = lore[topic];
+ const aliases = {
+  "bots": "automatons",
+  "automaton": "automatons",
+  "bugs": "terminids",
+  "terminid": "terminids",
+  "squids": "illuminate",
+  "illuminates": "illuminate",
+  "creek": "malevelon-creek",
+  "malevelon creek": "malevelon-creek",
+  "managed democracy": "managed-democracy",
+  "super earth": "super-earth"
+};
+
+const resolvedTopic = aliases[topic] || topic;
+const entry = lore[resolvedTopic];
 
     if (!entry) {
       await interaction.reply({
