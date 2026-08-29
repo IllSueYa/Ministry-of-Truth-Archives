@@ -97,5 +97,16 @@
       "permanent enclosure",
       "operation permanent enclosure"
     ]
-  }
+  },
+  "operation-void-piercer": {
+  "title": "Operation Void Piercer",
+  "category": "History",
+  "description": "Operation Void Piercer was a major Super Earth campaign conducted from August 12 to August 23, 2186 to penetrate and destroy the Illuminate-created Void. Helldivers first defended Rirga Bay and secured E-711 needed to activate the Void Warp Relay. Super Earth forces then entered the anomaly, explored its obscured worlds, gathered scientific data to locate its hidden source, and advanced to the Void Source Planet. The campaign concluded after Helldivers secured the planet while a Ministry of Science expedition destroyed the source from within, causing the Void to dissipate across the galaxy.",
+  "source": "https://helldivers.wiki.gg/wiki/Campaigns",
+  "image": "",
+  "aliases": [
+    "void piercer",
+    "operation void piercer",
+    "void piercer campaign"
+  ]
 }
