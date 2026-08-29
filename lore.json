@@ -46,11 +46,11 @@
     "description": "Meridia became a Terminid Supercolony after some Terminids adapted to the Termicide used by Super Earth. The planet was eventually destroyed using Dark Fluid, collapsing it into the Meridian Black Hole.",
     "source": "https://helldivers.wiki.gg/wiki/Meridia",
     "image": ""
+  },
+  "helldivers": {
+    "title": "Helldivers",
+    "description": "Helldivers are elite soldiers deployed by Super Earth to conduct high-risk missions across hostile worlds. They are launched from orbit aboard Super Destroyers and are expected to complete objectives under extreme battlefield conditions in service of Managed Democracy.",
+    "source": "https://helldivers.wiki.gg/wiki/Helldivers",
+    "image": ""
   }
-},
-"helldivers": {
-  "title": "Helldivers",
-  "description": "Helldivers are elite soldiers deployed by Super Earth to conduct high-risk missions across hostile worlds. They are launched from orbit aboard Super Destroyers and are expected to complete objectives under extreme battlefield conditions in service of Managed Democracy.",
-  "source": "https://helldivers.wiki.gg/wiki/Helldivers",
-  "image": ""
 }
