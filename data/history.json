@@ -78,13 +78,14 @@
   }
 },
 "operation-valid-pretext": {
-  "title": "Operation Valid Pretext",
-  "category": "History",
-  "description": "Operation Valid Pretext was a multi-phase Super Earth campaign launched in February 2186 to invade Cyberstan and prevent the Automaton Legion from developing a planet-destroying weapon using stolen Star of Peace plans. The operation culminated in the liberation campaign for Cyberstan.",
-  "source": "https://helldivers.wiki.gg/wiki/Operation_Valid_Pretext",
-  "image": "",
-  "aliases": [
-    "valid pretext",
-    "operation valid pretext"
-  ]
+    "title": "Operation Valid Pretext",
+    "category": "History",
+    "description": "Operation Valid Pretext was a multi-phase Super Earth campaign launched in February 2186 to invade Cyberstan and prevent the Automaton Legion from developing a planet-destroying weapon using stolen Star of Peace plans. The operation culminated in the liberation campaign for Cyberstan.",
+    "source": "https://helldivers.wiki.gg/wiki/Operation_Valid_Pretext",
+    "image": "",
+    "aliases": [
+      "valid pretext",
+      "operation valid pretext"
+    ]
+  }
 }
