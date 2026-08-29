@@ -67,6 +67,13 @@
     "category": "History",
     "description": "After their defeat during the First Battle for Super Earth, the surviving Illuminate forces activated cloaking technology and withdrew from the homeworld. Super Earth scientists later studied captured Illuminate wreckage and developed methods to detect the cloaked enemy. Hidden Illuminate positions were subsequently discovered in the southern galaxy, proving that the defeat of the Great Host had not ended the Illuminate threat.",
     "source": "https://helldivers.wiki.gg/wiki/The_Great_Host",
+     "image": ""
+  },
+  "operation-righteous-reclamation": {
+    "title": "Operation Righteous Reclamation",
+    "category": "History",
+    "description": "Operation Righteous Reclamation was Super Earth's major offensive into the Gloom. Beginning in August 2185, Helldivers were ordered to penetrate the massive Terminid spore cloud and establish a permanent forward operating base within its perimeter. Hellmire was liberated and Outpost Alpha was established, giving the Helldiver fleet unprecedented access to the interior of the Gloom. From there, spore-flow analysis led Super Earth to Oshaune, a planet transformed by extreme Terminid terraformation into a Hive World. The operation then expanded into reconnaissance, research, and combat operations against the mutated Terminids hidden within the Gloom.",
+    "source": "https://helldivers.wiki.gg/wiki/Major_Orders_of_2025",
     "image": ""
   }
 }
