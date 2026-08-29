@@ -29,32 +29,42 @@ export function loadEncyclopedia() {
     }
 
     for (const [key, entry] of Object.entries(entries)) {
-      if (!entry || typeof entry !== 'object') {
-        throw new Error(
-          `Invalid encyclopedia entry "${key}" in ${file}`
-        );
-      }
+  if (!entry || typeof entry !== 'object') {
+    throw new Error(
+      `Invalid encyclopedia entry "${key}" in ${file}`
+    );
+  }
 
-      if (!entry.title || typeof entry.title !== 'string') {
-        throw new Error(
-          `Entry "${key}" in ${file} is missing a valid title`
-        );
-      }
+  if (!entry.title || typeof entry.title !== 'string') {
+    throw new Error(
+      `Entry "${key}" in ${file} is missing a valid title`
+    );
+  }
 
-      if (!entry.description || typeof entry.description !== 'string') {
-        throw new Error(
-          `Entry "${key}" in ${file} is missing a valid description`
-        );
-      }
+  if (!entry.description || typeof entry.description !== 'string') {
+    throw new Error(
+      `Entry "${key}" in ${file} is missing a valid description`
+    );
+  }
 
-      if (encyclopedia[key]) {
-        throw new Error(
-          `Duplicate encyclopedia entry "${key}" found in ${file}`
-        );
-      }
+  if (
+    entry.aliases !== undefined &&
+    (!Array.isArray(entry.aliases) ||
+      !entry.aliases.every(alias => typeof alias === 'string'))
+  ) {
+    throw new Error(
+      `Entry "${key}" in ${file} has invalid aliases`
+    );
+  }
 
-      encyclopedia[key] = entry;
-    }
+  if (encyclopedia[key]) {
+    throw new Error(
+      `Duplicate encyclopedia entry "${key}" found in ${file}`
+    );
+  }
+
+  encyclopedia[key] = entry;
+}
   }
 
   return encyclopedia;
