@@ -90,11 +90,18 @@
     "source": "https://helldivers.wiki.gg/wiki/Eagle-1",
     "image": ""
   },
-  "element-710": {
+   "element-710": {
     "title": "Element 710",
     "category": "Technology",
     "description": "Element 710 is a strategically important resource used by Super Earth. Terminids can be processed into Element 710, making the species economically valuable to the Federation despite the enormous threat they pose.",
     "source": "https://helldivers.wiki.gg/wiki/Element_710",
+    "image": ""
+  },
+  "cyberstan": {
+    "title": "Cyberstan",
+    "category": "Planet",
+    "description": "Cyberstan is the historic homeworld of the Cyborgs and a major location in the conflict surrounding the Automatons and Super Earth.",
+    "source": "https://helldivers.wiki.gg/wiki/Cyberstan",
     "image": ""
   }
 }
