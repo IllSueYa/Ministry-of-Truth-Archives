@@ -16,8 +16,17 @@ export function loadEncyclopedia() {
 
   for (const file of files) {
     const filePath = path.join(dataPath, file);
-    const fileContents = fs.readFileSync(filePath, 'utf8');
-    const entries = JSON.parse(fileContents);
+   const fileContents = fs.readFileSync(filePath, 'utf8');
+
+let entries;
+
+try {
+  entries = JSON.parse(fileContents);
+} catch (error) {
+  throw new Error(
+    `Failed to parse ${file}: ${error.message}`
+  );
+}
 
     for (const [key, entry] of Object.entries(entries)) {
       if (encyclopedia[key]) {
