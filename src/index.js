@@ -11,6 +11,8 @@ import {
 
 const lore = loadEncyclopedia();
 
+console.log(`Loaded ${Object.keys(lore).length} encyclopedia entries`);
+
 function normalizeSearch(value) {
   return value
     .toLowerCase()
