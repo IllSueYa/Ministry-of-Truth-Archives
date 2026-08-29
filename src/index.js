@@ -81,12 +81,8 @@ client.on('interactionCreate', async interaction => {
 
 const topic = rawTopic.replace(/\s+/g, '-');
 
- const aliases = {
-  
- "malevelon creek": "malevelon-creek",
-};
 
-let resolvedTopic = aliases[topic] || topic;
+let resolvedTopic = topic;
 
 if (!lore[resolvedTopic]) {
   const aliasMatch = Object.entries(lore).find(([key, entry]) =>
