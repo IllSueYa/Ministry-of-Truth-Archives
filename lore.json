@@ -110,5 +110,12 @@
     "description": "The Democracy Officer serves aboard the Super Destroyer as a representative of Super Earth authority, providing mission guidance and reinforcing the principles of Managed Democracy.",
     "source": "https://helldivers.wiki.gg/wiki/Democracy_Officer",
     "image": ""
+  },
+  "major-orders": {
+    "title": "Major Orders",
+    "category": "Galactic War",
+    "description": "Major Orders are large-scale strategic objectives issued to the Helldiver community. They can require the liberation or defense of planets, destruction of enemy forces, completion of special operations, or other galaxy-wide objectives within a limited period.",
+    "source": "https://helldivers.wiki.gg/wiki/Major_Order",
+    "image": ""
   }
 }
