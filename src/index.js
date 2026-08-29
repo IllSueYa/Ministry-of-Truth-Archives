@@ -1,7 +1,12 @@
 import 'dotenv/config';
 import { loadEncyclopedia } from './loadEncyclopedia.js';
 
-const lore = loadEncyclopedia();
+function normalizeSearch(value) {
+  return value
+    .toLowerCase()
+    .trim()
+    .replace(/\s+/g, '-');
+}
 import {
   Client,
   GatewayIntentBits,
@@ -47,7 +52,7 @@ client.on('interactionCreate', async interaction => {
     .toLowerCase()
     .trim();
 
-  const normalizedFocused = focused.replace(/\s+/g, '-');
+  const normalizedFocused = normalizeSearch(focused);
 
   const choices = Object.entries(lore)
   .filter(([key, entry]) => {
@@ -57,7 +62,7 @@ client.on('interactionCreate', async interaction => {
     const matchesAlias =
       Array.isArray(entry.aliases) &&
       entry.aliases.some(alias =>
-        alias.toLowerCase().includes(focused)
+        normalizeSearch(alias) === topic
       );
 
     return matchesKey || matchesTitle || matchesAlias;
@@ -79,7 +84,7 @@ client.on('interactionCreate', async interaction => {
   .toLowerCase()
   .trim();
 
-const topic = rawTopic.replace(/\s+/g, '-');
+const topic = normalizeSearch(rawTopic);
 
 
 let resolvedTopic = topic;
