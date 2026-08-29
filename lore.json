@@ -6,13 +6,12 @@
     "source": "https://helldivers.wiki.gg/wiki/Automatons",
     "image": ""
   },
-  "terminids": {
-    "title": "Terminids",
-     "category": "Faction"
-    "description": "The Terminids are a rapidly reproducing insectoid species that have repeatedly threatened Super Earth-controlled worlds. They are also closely tied to the production of Element 710.",
-    "source": "https://helldivers.wiki.gg/wiki/Terminids",
-    "image": ""
+ "terminids": {
+  "title": "Terminids",
+  "category": "Faction",
+  "description": "The Terminids are a rapidly reproducing insectoid species that have repeatedly threatened Super Earth-controlled worlds. They are also closely tied to the production of Element 710.",
   },
+  
   "illuminate": {
     "title": "Illuminate",
     "category": "Faction",
