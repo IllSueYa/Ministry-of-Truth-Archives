@@ -105,13 +105,21 @@ const entry = lore[resolvedTopic];
       return;
     }
 
-    const embed = new EmbedBuilder()
+   const embed = new EmbedBuilder()
   .setTitle(entry.title)
   .setDescription(entry.description)
   .setColor(0xD4AF37)
   .setFooter({
     text: 'Ministry of Truth • Super Earth',
   });
+
+if (entry.category) {
+  embed.addFields({
+    name: 'Category',
+    value: entry.category,
+    inline: true
+  });
+}
 
 if (entry.source) {
   embed.addFields({
