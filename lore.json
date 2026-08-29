@@ -35,12 +35,13 @@
     "source": "https://helldivers.wiki.gg/wiki/Cyborgs",
     "image": ""
   },
-  "malevelon-creek": {
-    "title": "Malevelon Creek",
-    "description": "Malevelon Creek is an ionic jungle world in the Severin Sector that became one of the most famous battlefields of the Second Galactic War. Early in the war, Helldivers repeatedly fought Automaton forces there despite difficult conditions and limited support.",
-    "source": "https://helldivers.wiki.gg/wiki/Malevelon_Creek",
-    "image": ""
-  },
+ "malevelon-creek": {
+  "title": "Malevelon Creek",
+  "category": "Planet",
+  "description": "Malevelon Creek is an ionic jungle world in the Severin Sector that became one of the most famous battlefields of the Second Galactic War. Early in the war, Helldivers repeatedly fought Automaton forces there despite difficult conditions and limited support.",
+  "source": "https://helldivers.wiki.gg/wiki/Malevelon_Creek",
+  "image": ""
+},
   "meridia": {
     "title": "Meridia",
     "description": "Meridia became a Terminid Supercolony after some Terminids adapted to the Termicide used by Super Earth. The planet was eventually destroyed using Dark Fluid, collapsing it into the Meridian Black Hole.",
