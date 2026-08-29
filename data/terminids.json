@@ -74,6 +74,55 @@
     "category": "Terminid",
     "description": "The Dragonroach is a massive flying Terminid created through Gloom-induced mutation. First encountered during Helldiver operations around the Hive World Oshaune, it represents one of the most dangerous airborne Terminid organisms yet discovered. Protected by heavy armor, the Dragonroach circles high above the battlefield before diving toward its prey and unleashing sweeping attacks of combustible venom that ignite the ground. Its emergence demonstrated that the Gloom was capable of producing entirely new forms of massive Terminid life.",
     "source": "https://helldivers.wiki.gg/wiki/Dragonroach",
+     "image": ""
+  },
+  "rupture-strain": {
+    "title": "Rupture Strain",
+    "category": "Terminid Strain",
+    "description": "The Rupture Strain is a specialized Terminid subfaction created through mutation within the Gloom. First encountered during Helldiver expeditions into the Hive Worlds, the strain consists of Rupture Warriors, Rupture Spewers, and Rupture Chargers. These Terminids have adapted to subterranean environments and share the ability to burrow underground, rapidly approach their targets, and erupt from beneath the surface to ambush Helldivers. The strain represents one of several dangerous new evolutionary branches produced by the Gloom.",
+    "source": "https://helldivers.wiki.gg/wiki/Rupture_Strain",
+    "image": ""
+  },
+  "predator-strain": {
+    "title": "Predator Strain",
+    "category": "Terminid Strain",
+    "description": "The Predator Strain is a Gloom-enhanced Terminid subfaction consisting of Predator Hunters and Predator Stalkers. First encountered during an attack on the Center of Science on Fenrir III in February 2185, these mutated Terminids displayed unusual discoloration, increased intelligence, and drastically altered hunting behavior. Predator units specialize in speed, flanking, ambush tactics, and concealment. Predator Hunters possess cloaking abilities, while Predator Stalkers sacrifice the traditional Stalker's cloak in favor of appearing in much greater numbers.",
+    "source": "https://helldivers.wiki.gg/wiki/Predator_Strain",
+    "image": ""
+  },
+  "spore-burst-strain": {
+    "title": "Spore Burst Strain",
+    "category": "Terminid Strain",
+    "description": "The Spore Burst Strain is a Gloom-mutated Terminid subfaction first encountered during the First Gloom Expedition. The strain includes mutated Scavengers, Hunters, Warriors, and Bile Titans. Spore Burst Terminids are unusually fast and release explosive clouds of spores when killed. These clouds can damage Helldivers, obscure vision, and drive nearby Spore Burst Terminids into a frenzy that dramatically increases their speed. The strain was originally encountered within the Gloom, demonstrating the extreme evolutionary effects of prolonged exposure to the phenomenon.",
+    "source": "https://helldivers.wiki.gg/wiki/Spore_Burst_Strain",
+    "image": ""
+  },
+  "bile-spewer": {
+    "title": "Bile Spewer",
+    "category": "Terminid",
+    "description": "The Bile Spewer is an armored Terminid developed from the Nursing Spewer and filled with enormous quantities of corrosive acid. It attacks Helldivers by projecting streams of bile capable of burning and slowing its targets. More developed Bile Spewers can also bombard distant positions with bile projectiles, giving the Terminid swarm a form of organic artillery support.",
+    "source": "https://helldivers.wiki.gg/wiki/Bile_Spewer",
+    "image": ""
+  },
+  "nursing-spewer": {
+    "title": "Nursing Spewer",
+    "category": "Terminid",
+    "description": "The Nursing Spewer is a medium-sized Terminid capable of projecting corrosive digestive fluids over a wide area. Fluids once associated with feeding smaller Terminid strains have become dangerous biological weapons against Helldivers. Nursing Spewers also generate a thin cloud of spores around themselves that can obscure nearby smaller Terminids, providing the swarm with both ranged firepower and concealment.",
+    "source": "https://helldivers.wiki.gg/wiki/Nursing_Spewer",
+    "image": ""
+  },
+  "bile-warrior": {
+    "title": "Bile Warrior",
+    "category": "Terminid",
+    "description": "The Bile Warrior is a mutated variant of the standard Terminid Warrior whose body is filled with corrosive bile. Its behavior closely resembles an ordinary Warrior, including its ability to summon Bug Breaches through pheromone signals. When killed through damage to its body, however, the creature can violently explode and spray damaging bile across nearby Helldivers and Terminids.",
+    "source": "https://helldivers.wiki.gg/wiki/Bile_Warrior",
+    "image": ""
+  },
+  "bile-spitter": {
+    "title": "Bile Spitter",
+    "category": "Terminid",
+    "description": "The Bile Spitter is one of the smallest Terminid organisms but possesses a dangerous ranged attack. Exposure to toxic chemicals caused the creature to develop the ability to launch globules of corrosive bile at its enemies. Its acid can damage and slow Helldivers, while killing a Bile Spitter can cause its body to rupture in a small bile explosion capable of harming nearby targets.",
+    "source": "https://helldivers.wiki.gg/wiki/Bile_Spitter",
     "image": ""
   }
 }
