@@ -47,13 +47,14 @@
   ]
 },
 "incineration-corps": {
-  "title": "Incineration Corps",
-  "category": "Automaton Subfaction",
-  "description": "The Incineration Corps is an Automaton assault formation specialized in incendiary warfare. Its forces use flamethrowers, incendiary ammunition, and other fire-based weapons and have been responsible for burning Super Earth colonies during large-scale offensives.",
-  "source": "https://helldivers.wiki.gg/wiki/Incineration_Corps",
-  "image": "",
-  "aliases": [
-    "incineration corps",
-    "ic"
-  ]
+    "title": "Incineration Corps",
+    "category": "Automaton Subfaction",
+    "description": "The Incineration Corps is an Automaton assault formation specialized in incendiary warfare. Its forces use flamethrowers, incendiary ammunition, and other fire-based weapons and have been responsible for burning Super Earth colonies during large-scale offensives.",
+    "source": "https://helldivers.wiki.gg/wiki/Incineration_Corps",
+    "image": "",
+    "aliases": [
+      "incineration corps",
+      "ic"
+    ]
+  }
 }
