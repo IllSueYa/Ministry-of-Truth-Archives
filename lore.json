@@ -1,0 +1,22 @@
+{
+  "automatons": {
+    "title": "Automatons",
+    "description": "The Automatons are a machine faction hostile to Super Earth. They field heavily armored infantry, walkers, tanks, and industrial war machines across the Galactic War.",
+    "image": ""
+  },
+  "terminids": {
+    "title": "Terminids",
+    "description": "The Terminids are a rapidly reproducing insectoid species that threaten Super Earth-controlled worlds and are tied closely to the production of Element 710.",
+    "image": ""
+  },
+  "illuminate": {
+    "title": "Illuminate",
+    "description": "The Illuminate are an advanced alien civilization known for highly sophisticated technology, energy weapons, teleportation, and psionic capabilities.",
+    "image": ""
+  },
+  "super-earth": {
+    "title": "Super Earth",
+    "description": "Super Earth is the center of Managed Democracy and the governing power behind the Helldivers, SEAF, and humanity's expansion throughout the galaxy.",
+    "image": ""
+  }
+}
