@@ -52,5 +52,35 @@
     "description": "Helldivers are elite soldiers deployed by Super Earth to conduct high-risk missions across hostile worlds. They are launched from orbit aboard Super Destroyers and are expected to complete objectives under extreme battlefield conditions in service of Managed Democracy.",
     "source": "https://helldivers.wiki.gg/wiki/Helldivers",
     "image": ""
+  },
+  "seaf": {
+    "title": "Super Earth Armed Forces (SEAF)",
+    "description": "The Super Earth Armed Forces, commonly known as SEAF, are the conventional military forces of Super Earth. They defend Federation territory, operate military installations, and fight alongside the Helldivers throughout the Galactic War.",
+    "source": "https://helldivers.wiki.gg/wiki/Super_Earth_Armed_Forces",
+    "image": ""
+  },
+  "super-destroyer": {
+    "title": "Super Destroyer",
+    "description": "The Super Destroyer is the orbital warship assigned to a Helldiver. It serves as a mobile command center and provides orbital support, equipment deployment, reinforcements, and transportation between operations.",
+    "source": "https://helldivers.wiki.gg/wiki/Super_Destroyer",
+    "image": ""
+  },
+  "pelican-1": {
+    "title": "Pelican-1",
+    "description": "Pelican-1 is the extraction shuttle used to retrieve Helldivers from the battlefield after their mission objectives have been completed. The shuttle arrives at designated extraction zones and transports surviving Helldivers back to their Super Destroyer.",
+    "source": "https://helldivers.wiki.gg/wiki/Pelican-1",
+    "image": ""
+  },
+  "eagle-1": {
+    "title": "Eagle-1",
+    "description": "Eagle-1 is the pilot responsible for delivering Eagle-based air support to Helldivers on the battlefield. From the Super Destroyer, Eagle-1 conducts rapid attack runs using weapons selected as Stratagems by the Helldiver.",
+    "source": "https://helldivers.wiki.gg/wiki/Eagle-1",
+    "image": ""
+  },
+  "element-710": {
+    "title": "Element 710",
+    "description": "Element 710 is a strategically important resource used by Super Earth. Terminids can be processed into Element 710, making the species economically valuable to the Federation despite the enormous threat they pose.",
+    "source": "https://helldivers.wiki.gg/wiki/Element_710",
+    "image": ""
   }
 }
