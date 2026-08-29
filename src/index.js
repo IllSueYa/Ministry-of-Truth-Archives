@@ -96,9 +96,22 @@ const topic = rawTopic.replace(/\s+/g, '-');
 "super earth armed forces": "seaf"
 };
 
-const resolvedTopic = aliases[topic] || topic;
-const entry = lore[resolvedTopic];
+let resolvedTopic = aliases[topic] || topic;
 
+if (!lore[resolvedTopic]) {
+  const aliasMatch = Object.entries(lore).find(([key, entry]) =>
+    Array.isArray(entry.aliases) &&
+    entry.aliases.some(alias =>
+      alias.toLowerCase().replace(/\s+/g, '-') === topic
+    )
+  );
+
+  if (aliasMatch) {
+    resolvedTopic = aliasMatch[0];
+  }
+}
+
+const entry = lore[resolvedTopic];
     if (!entry) {
       await interaction.reply({
         content: `No archive entry was found for **${topic}**.`,
