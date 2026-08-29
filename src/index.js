@@ -50,10 +50,18 @@ client.on('interactionCreate', async interaction => {
   const normalizedFocused = focused.replace(/\s+/g, '-');
 
   const choices = Object.entries(lore)
-    .filter(([key, entry]) =>
-      key.includes(normalizedFocused) ||
-      entry.title.toLowerCase().includes(focused)
-    )
+  .filter(([key, entry]) => {
+    const matchesKey = key.includes(normalizedFocused);
+    const matchesTitle = entry.title.toLowerCase().includes(focused);
+
+    const matchesAlias =
+      Array.isArray(entry.aliases) &&
+      entry.aliases.some(alias =>
+        alias.toLowerCase().includes(focused)
+      );
+
+    return matchesKey || matchesTitle || matchesAlias;
+  })
     .slice(0, 25)
     .map(([key, entry]) => ({
       name: entry.title,
