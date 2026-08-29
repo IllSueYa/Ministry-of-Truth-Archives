@@ -83,8 +83,7 @@ const topic = rawTopic.replace(/\s+/g, '-');
 
  const aliases = {
   
-  "creek": "malevelon-creek",
-  "malevelon creek": "malevelon-creek",
+ "malevelon creek": "malevelon-creek",
   "managed democracy": "managed-democracy",
   "super earth": "super-earth",
    "pelican": "pelican-1",
