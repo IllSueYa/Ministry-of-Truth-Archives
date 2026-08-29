@@ -4,8 +4,12 @@
     "category": "Planet",
     "description": "Malevelon Creek is an ionic jungle world in the Severin Sector that became one of the most famous battlefields of the Second Galactic War. Early in the war, Helldivers repeatedly fought Automaton forces there despite difficult conditions and limited support.",
     "source": "https://helldivers.wiki.gg/wiki/Malevelon_Creek",
-    "image": ""
-  },
+"image": "",
+"aliases": [
+  "creek",
+  "the creek",
+  "malevelon"
+],
   "meridia": {
     "title": "Meridia",
     "category": "Planet",
