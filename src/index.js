@@ -64,7 +64,7 @@ client.on('interactionCreate', async interaction => {
           key.includes(normalizedFocused);
 
         const matchesTitle =
-          entry.title.toLowerCase().includes(focused);
+           normalizeSearch(entry.title).includes(normalizedFocused);
 
         const matchesAlias =
           Array.isArray(entry.aliases) &&
