@@ -1,0 +1,37 @@
+{
+  "hive-lord": {
+    "title": "Hive Lord",
+    "category": "Terminid",
+    "description": "Hive Lords are enormous subterranean Terminids and one of the largest known organisms fielded by the Terminid swarm. The strain existed during the First Galactic War but was believed to have gone extinct. Prolonged mutation within the Gloom caused Hive Lords to reappear during the Second Galactic War. They were encountered beneath the Hive World Oshaune, where their massive burrowing bodies could move through the planet's underground networks and erupt onto the battlefield. Large numbers of Hive Lords later participated in the Terminid defense of Oshaune against the Helldiver offensive.",
+    "source": "https://helldivers.wiki.gg/wiki/Hive_Lord",
+    "image": ""
+  },
+  "impaler": {
+    "title": "Impaler",
+    "category": "Terminid",
+    "description": "The Impaler is a massive Terminid strain recognizable by the enormous armored carapace surrounding its head. When attacking, an Impaler anchors itself to the ground and deploys long subterranean tentacles that erupt beneath distant targets, allowing it to threaten Helldivers without directly approaching them. Impalers were encountered during the First Galactic War and were believed to have been driven to extinction. They later reappeared during the Second Galactic War, demonstrating the Terminids' ability to restore previously lost strains.",
+    "source": "https://helldivers.wiki.gg/wiki/Impaler",
+    "image": ""
+  },
+  "alpha-commander": {
+    "title": "Alpha Commander",
+    "category": "Terminid",
+    "description": "The Alpha Commander is a heavier and more durable variant of the Brood Commander. Hyperevolved as a result of the Gloom, it possesses powerful claws and an aggressive charging attack. Unlike ordinary Brood Commanders, Alpha Commanders summon groups of Alpha Warriors, faster and deadlier variants of standard Terminid Warriors. They are encountered on the highest combat difficulties and can continue summoning reinforcements even after suffering severe injuries.",
+    "source": "https://helldivers.wiki.gg/wiki/Alpha_Commander",
+    "image": ""
+  },
+  "charger": {
+    "title": "Charger",
+    "category": "Terminid",
+    "description": "The Charger is a large and heavily armored Terminid specialized in high-speed frontal attacks. Its thick exoskeleton protects most of its body while allowing it to charge directly through Helldiver formations, trampling soldiers and smashing through obstacles. Chargers are among the Terminids' most recognizable heavy assault organisms and have produced several specialized variants during the Second Galactic War.",
+    "source": "https://helldivers.wiki.gg/wiki/Charger",
+    "image": ""
+  },
+  "bile-titan": {
+    "title": "Bile Titan",
+    "category": "Terminid",
+    "description": "The Bile Titan is one of the largest and most dangerous Terminid organisms regularly encountered by Helldivers. Protected by heavy armor and supported by enormous legs capable of crushing infantry, the creature can also project streams of highly corrosive bile across the battlefield. A single Bile Titan is considered capable of destroying an entire SEAF platoon and generally requires dedicated anti-tank weaponry or heavy Stratagem support to eliminate.",
+    "source": "https://helldivers.wiki.gg/wiki/Bile_Titan",
+    "image": ""
+  }
+}
