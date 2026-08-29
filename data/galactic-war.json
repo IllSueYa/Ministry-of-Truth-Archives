@@ -1,0 +1,30 @@
+{
+  "major-orders": {
+    "title": "Major Orders",
+    "category": "Galactic War",
+    "description": "Major Orders are large-scale strategic objectives issued to the Helldiver community. They can require the liberation or defense of planets, destruction of enemy forces, completion of special operations, or other galaxy-wide objectives within a limited period.",
+    "source": "https://helldivers.wiki.gg/wiki/Major_Orders",
+    "image": ""
+  },
+  "meridian-black-hole": {
+    "title": "Meridian Black Hole",
+    "category": "Galactic Phenomenon",
+    "description": "The Meridian Black Hole formed after Helldivers injected Dark Fluid into the Terminid Supercolony on Meridia, causing the planet to collapse on June 2, 2184. Initially believed to be a black hole, later research determined the anomaly was actually a wormhole. Following the return of the Illuminate, the Meridian Singularity became central to their plans: Dark Energy harvested during Illuminate invasions was used to move the anomaly across the galaxy, turning the remains of Meridia into a devastating weapon.",
+    "source": "https://helldivers.wiki.gg/wiki/Meridian_Black_Hole",
+    "image": ""
+  },
+  "the-gloom": {
+    "title": "The Gloom",
+    "category": "Galactic Phenomenon",
+    "description": "The Gloom is an enormous interstellar cloud of Terminid spores that began emerging from deep Terminid territory in August 2184. The cloud rapidly expanded across multiple planets and sectors, blocking Super Earth from gathering reliable intelligence within its boundaries. Ships and probes entering the Gloom lost communications, while Terminids exposed to its extreme evolutionary conditions developed increasingly dangerous mutations. The Gloom eventually concealed heavily transformed worlds, including Oshaune, which was discovered to have become a Terminid Hive World.",
+    "source": "https://helldivers.wiki.gg/wiki/The_Gloom",
+    "image": ""
+  },
+  "hive-worlds": {
+    "title": "Hive Worlds",
+    "category": "Terminid Territory",
+    "description": "Hive Worlds are planets completely infested and terraformed by the Terminids. Beneath their surfaces lie enormous networks of caves containing Terminid nests, hostile organisms, and Spore Lungs believed to produce and sustain the Gloom. Their surfaces are similarly transformed, featuring Terminid structures, spires, and hazardous environments. Oshaune was the first Hive World discovered by Super Earth, while Zagon Prime and Omicron were subsequently identified as Hive Worlds hidden within the Gloom.",
+    "source": "https://helldivers.wiki.gg/wiki/Hive_World",
+    "image": ""
+  }
+}
