@@ -89,11 +89,19 @@ const entry = lore[resolvedTopic];
     }
 
     const embed = new EmbedBuilder()
-      .setTitle(entry.title)
-      .setDescription(entry.description)
-      .setFooter({
-        text: 'Ministry of Truth • Super Earth',
-      });
+  .setTitle(entry.title)
+  .setDescription(entry.description)
+  .setColor(0xD4AF37)
+  .setFooter({
+    text: 'Ministry of Truth • Super Earth',
+  });
+
+if (entry.source) {
+  embed.addFields({
+    name: 'Archive Source',
+    value: `[View Full Record](${entry.source})`
+  });
+}
 
     if (entry.image) {
       embed.setImage(entry.image);
