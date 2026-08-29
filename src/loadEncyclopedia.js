@@ -48,20 +48,38 @@ export function loadEncyclopedia() {
   }
 
   if (
-    entry.aliases !== undefined &&
-    (!Array.isArray(entry.aliases) ||
-      !entry.aliases.every(alias => typeof alias === 'string'))
-  ) {
-    throw new Error(
-      `Entry "${key}" in ${file} has invalid aliases`
-    );
-  }
+  entry.aliases !== undefined &&
+  (!Array.isArray(entry.aliases) ||
+    !entry.aliases.every(alias => typeof alias === 'string'))
+) {
+  throw new Error(
+    `Entry "${key}" in ${file} has invalid aliases`
+  );
+}
 
-  if (encyclopedia[key]) {
-    throw new Error(
-      `Duplicate encyclopedia entry "${key}" found in ${file}`
-    );
-  }
+if (
+  entry.category !== undefined &&
+  typeof entry.category !== 'string'
+) {
+  throw new Error(
+    `Entry "${key}" in ${file} has an invalid category`
+  );
+}
+
+if (
+  entry.source !== undefined &&
+  typeof entry.source !== 'string'
+) {
+  throw new Error(
+    `Entry "${key}" in ${file} has an invalid source`
+  );
+}
+
+if (encyclopedia[key]) {
+  throw new Error(
+    `Duplicate encyclopedia entry "${key}" found in ${file}`
+  );
+}
 
   encyclopedia[key] = entry;
   }
