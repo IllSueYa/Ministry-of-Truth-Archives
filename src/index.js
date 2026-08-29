@@ -39,23 +39,28 @@ client.once('ready', async () => {
 });
 
 client.on('interactionCreate', async interaction => {
-  if (interaction.isAutocomplete()) {
-    const focused = interaction.options.getFocused().toLowerCase();
+ if (interaction.isAutocomplete()) {
+  const focused = interaction.options
+    .getFocused()
+    .toLowerCase()
+    .trim();
 
-    const choices = Object.entries(lore)
-      .filter(([key, entry]) =>
-        key.includes(focused) ||
-        entry.title.toLowerCase().includes(focused)
-      )
-      .slice(0, 25)
-      .map(([key, entry]) => ({
-        name: entry.title,
-        value: key
-      }));
+  const normalizedFocused = focused.replace(/\s+/g, '-');
 
-    await interaction.respond(choices);
-    return;
-  }
+  const choices = Object.entries(lore)
+    .filter(([key, entry]) =>
+      key.includes(normalizedFocused) ||
+      entry.title.toLowerCase().includes(focused)
+    )
+    .slice(0, 25)
+    .map(([key, entry]) => ({
+      name: entry.title,
+      value: key
+    }));
+
+  await interaction.respond(choices);
+  return;
+}
   if (!interaction.isChatInputCommand()) return;
 
   if (interaction.commandName === 'lore') {
