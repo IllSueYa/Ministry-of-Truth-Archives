@@ -27,4 +27,26 @@
     "source": "https://helldivers.wiki.gg/wiki/Hive_World",
     "image": ""
   }
+},
+"the-void": {
+  "title": "The Void",
+  "category": "Galactic Phenomenon",
+  "description": "The Void is an unnatural Illuminate interstellar anomaly formed as the final stage of an Illuminate Exostorm. It can engulf entire star systems, blocks conventional observation and signals, and severely disrupts navigation and intelligence gathering.",
+  "source": "https://helldivers.wiki.gg/wiki/The_Void",
+  "image": "",
+  "aliases": [
+    "void",
+    "illuminate void"
+  ]
+},
+"appropriators": {
+  "title": "Appropriators",
+  "category": "Illuminate Subfaction",
+  "description": "The Appropriators are an Illuminate subfaction composed entirely of Illuminate personnel and machinery rather than Voteless forces. Their deployments feature Illuminate foot soldiers, drones, and piloted constructs.",
+  "source": "https://helldivers.wiki.gg/wiki/Appropriators",
+  "image": "",
+  "aliases": [
+    "appropriator",
+    "illuminate appropriators"
+  ]
 }
