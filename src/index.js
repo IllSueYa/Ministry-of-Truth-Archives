@@ -74,7 +74,17 @@ client.on('interactionCreate', async interaction => {
   "creek": "malevelon-creek",
   "malevelon creek": "malevelon-creek",
   "managed democracy": "managed-democracy",
-  "super earth": "super-earth"
+  "super earth": "super-earth",
+   "pelican": "pelican-1",
+"pelican 1": "pelican-1",
+"extraction shuttle": "pelican-1",
+"eagle": "eagle-1",
+"eagle 1": "eagle-1",
+"super destroyer": "super-destroyer",
+"destroyer": "super-destroyer",
+"element 710": "element-710",
+"710": "element-710",
+"super earth armed forces": "seaf"
 };
 
 const resolvedTopic = aliases[topic] || topic;
