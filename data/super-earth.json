@@ -4,13 +4,17 @@
     "category": "Government",
     "description": "Super Earth is the center of the Federation and the governing power behind the Helldivers, SEAF, and humanity's expansion throughout the galaxy.",
     "source": "https://helldivers.wiki.gg/wiki/Super_Earth",
-    "image": ""
+    "aliases": [
+  "super earth"
+]
   },
   "managed-democracy": {
     "title": "Managed Democracy",
     "category": "Government",
     "description": "Managed Democracy is Super Earth's computerized voting system. Citizens answer questions and an algorithm determines which candidates best represent their choices, which Super Earth presents as eliminating the uncertainty of older democratic systems.",
     "source": "https://helldivers.wiki.gg/wiki/Managed_Democracy",
-    "image": ""
+    "aliases": [
+  "managed democracy"
+]
   }
 }
