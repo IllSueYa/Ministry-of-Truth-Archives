@@ -1,0 +1,345 @@
+{
+  "gatekeeper": {
+    "title": "Gatekeeper",
+    "category": "Illuminate",
+    "description": "The Gatekeeper is a piloted Illuminate war machine fielded by the Appropriators. Designed for ranged combat, it carries twin Plasma Starcannons capable of firing powerful charged blasts and sustained plasma volleys. Gatekeepers begin appearing on higher-difficulty operations where Appropriator forces are present.",
+    "source": "https://helldivers.wiki.gg/wiki/Gatekeeper",
+    "image": "",
+    "aliases": [
+      "gate keeper",
+      "illuminate gatekeeper"
+    ]
+  },
+  "veracitor": {
+    "title": "Veracitor",
+    "category": "Illuminate",
+    "description": "The Veracitor is a piloted Illuminate war machine fielded by the Appropriators. Built for close-quarters combat, it pursues Helldivers using its large claw-like appendages and powerful charging attacks. Veracitors can also protect their pilots by crossing their arms when threatened at range.",
+    "source": "https://helldivers.wiki.gg/wiki/Veracitor",
+    "image": "",
+    "aliases": [
+      "illuminate veracitor",
+      "veracitor construct"
+    ]
+  },
+  "obtruder": {
+    "title": "Obtruder",
+    "category": "Illuminate",
+    "description": "The Obtruder is a light flying Illuminate drone fielded by the Appropriators. A modified relative of the Watcher, it abandons the Watcher's reinforcement-calling role in favor of directly attacking Helldivers with plasma projectiles. Obtruders commonly deploy in large groups and can quickly overwhelm targets through sheer numbers.",
+    "source": "https://helldivers.wiki.gg/wiki/Obtruder",
+    "image": "",
+    "aliases": [
+      "illuminate obtruder",
+      "obtruder drone"
+    ]
+  },
+  "wretch": {
+    "title": "Wretch",
+    "category": "Illuminate",
+    "description": "The Wretch is a mutated former Super Earth citizen fielded by the Illuminate's Vote Snatchers. Wretches are fast and highly aggressive melee attackers equipped with large claw-like appendages. They can rapidly close the distance on Helldivers, pounce on their targets, and commonly attack in groups alongside Crushers.",
+    "source": "https://helldivers.wiki.gg/wiki/Wretch",
+    "image": "",
+    "aliases": [
+      "illuminate wretch",
+      "vote snatcher wretch"
+    ]
+  },
+  "crusher": {
+    "title": "Crusher",
+    "category": "Illuminate",
+    "description": "The Crusher is a large mutated enemy fielded by the Illuminate's Vote Snatchers. Armed with a massive metallic club, it can withstand heavy punishment and regenerate damaged tissue. Its heavily armored helmet protects a vulnerable head underneath, making destruction of the helmet an effective way to expose its primary weakness.",
+    "source": "https://helldivers.wiki.gg/wiki/Crusher",
+    "image": "",
+    "aliases": [
+      "illuminate crusher",
+      "vote snatcher crusher"
+    ]
+   },
+  "watcher": {
+    "title": "Watcher",
+    "category": "Illuminate",
+    "description": "The Watcher is a flying Illuminate reconnaissance drone that patrols the battlefield searching for Helldivers. When it detects a threat, it can call in Warp Ships carrying Illuminate reinforcements. Watchers can also attack nearby targets with electrical arc weaponry, making them an important priority during Illuminate operations.",
+    "source": "https://helldivers.wiki.gg/wiki/Watcher",
+    "image": "",
+    "aliases": [
+      "illuminate watcher",
+      "watcher drone"
+    ]
+  },
+  "overseer": {
+  "title": "Overseer",
+  "category": "Illuminate",
+  "description": "The Overseer is an elite Illuminate infantry unit that commands and supports groups of Voteless. It carries a Pathfinder Lightspear capable of firing powerful plasma projectiles and serving as a close-range melee weapon. Overseers also use energy shields to protect themselves from incoming fire and can direct nearby Voteless to attack Helldivers.",
+  "source": "https://helldivers.wiki.gg/wiki/Overseer",
+  "image": "",
+  "aliases": [
+    "illuminate overseer",
+    "ground overseer"
+  ]
+},
+  "elevated-overseer": {
+  "title": "Elevated Overseer",
+  "category": "Illuminate",
+  "description": "The Elevated Overseer is a flying Illuminate infantry unit equipped with a jetpack and rapid-firing Plasma Storm Rifle. Highly mobile and evasive, it provides ranged fire support while maneuvering above the battlefield and can also throw Plasma Detonator grenades. Destroying its jetpack can cause it to explode.",
+  "source": "https://helldivers.wiki.gg/wiki/Elevated_Overseer",
+  "image": "",
+  "aliases": [
+    "elevated overseer",
+    "flying overseer",
+    "jetpack overseer"
+  ]
+},
+  "crescent-overseer": {
+  "title": "Crescent Overseer",
+  "category": "Illuminate",
+  "description": "The Crescent Overseer is an Illuminate infantry unit equipped with the powerful Plasma Bombard. It can engage Helldivers directly with plasma projectiles or use the weapon as an artillery piece, launching arcing barrages over long distances and behind cover. Crescent Overseers typically accompany groups of Voteless and provide heavy ranged fire support.",
+  "source": "https://helldivers.wiki.gg/wiki/Crescent_Overseer",
+  "image": "",
+  "aliases": [
+    "crescent overseer",
+    "artillery overseer",
+    "plasma bombard overseer"
+  ]
+},
+  "voteless": {
+  "title": "Voteless",
+  "category": "Illuminate",
+  "description": "The Voteless are former human colonists transformed by the Illuminate into mindless, aggressive servants. They attack Helldivers in large numbers and form the bulk of many Illuminate ground forces. Despite their altered bodies and behavior, the Voteless originate from citizens abducted during Illuminate attacks and subjected to a horrific transformation process.",
+  "source": "https://helldivers.wiki.gg/wiki/Voteless",
+  "image": "",
+  "aliases": [
+    "the voteless",
+    "illuminate voteless",
+    "zombies"
+  ]
+},
+  "fleshmob": {
+  "title": "Fleshmob",
+  "category": "Illuminate",
+  "description": "The Fleshmob is a large Illuminate enemy formed from several Voteless fused together into a single hulking monstrosity. It specializes in close-quarters combat, using its numerous limbs to strike nearby targets and charging at distant Helldivers with enough force to knock them down. Fleshmobs commonly appear alongside Voteless and Overseers.",
+  "source": "https://helldivers.wiki.gg/wiki/Fleshmob",
+  "image": "",
+  "aliases": [
+    "flesh mob",
+    "illuminate fleshmob",
+    "voteless fleshmob"
+  ]
+},
+  "harvester": {
+  "title": "Harvester",
+  "category": "Illuminate",
+  "description": "The Harvester is a massive Illuminate tripod war machine protected by a regenerating energy shield. At long range it attacks with its eye-mounted Disintegration Beamer, a devastating continuous laser capable of sweeping across the battlefield. At close range it can instead discharge powerful electrical attacks from its Tesla Ripper. Harvesters may patrol Illuminate territory, guard Monoliths, or arrive as part of Illuminate reinforcements.",
+  "source": "https://helldivers.wiki.gg/wiki/Harvester",
+  "image": "",
+  "aliases": [
+    "illuminate harvester",
+    "tripod",
+    "illuminate tripod"
+  ]
+},
+  "stingray": {
+  "title": "Stingray",
+  "category": "Illuminate",
+  "description": "The Stingray is a high-speed Illuminate close-air-support aircraft that circles the battlefield before descending to conduct devastating strafing runs. Its Plasma Destructor gunpods bombard a marked path with rapid plasma fire, forcing Helldivers to quickly escape the attack zone. Stingrays are extremely difficult to engage while traveling at full speed but become vulnerable when they slow down to perform an attack run.",
+  "source": "https://helldivers.wiki.gg/wiki/Stingray",
+  "image": "",
+  "aliases": [
+    "illuminate stingray",
+    "stingray aircraft",
+    "illuminate fighter"
+  ]
+},
+  "leviathan": {
+  "title": "Leviathan",
+  "category": "Illuminate",
+  "description": "The Leviathan is a massive, heavily armored Illuminate warship that patrols above Mega Cities. It attacks Helldivers with powerful beam weaponry and plasma bombs while using its immense durability to dominate the battlefield. Leviathans appear during operations affected by the Leviathan Blockade and represent one of the largest Illuminate combat units encountered by Helldivers.",
+  "source": "https://helldivers.wiki.gg/wiki/Leviathan",
+  "image": "",
+  "aliases": [
+    "illuminate leviathan",
+    "leviathan warship",
+    "leviathan blockade"
+  ]
+},
+  "warp-ship": {
+  "title": "Warp Ship",
+  "category": "Illuminate",
+  "description": "The Warp Ship is an Illuminate transport aircraft used to deploy reinforcements. Airborne Warp Ships arrive when Illuminate reinforcements are called and project a tractor beam from their underside that teleports enemy forces directly onto the battlefield. Warp Ships are distinct from the grounded variants used as enemy emplacements and unit spawners.",
+  "source": "https://helldivers.wiki.gg/wiki/Warp_Ship",
+  "image": "",
+  "aliases": [
+    "illuminate warp ship",
+    "warp ships",
+    "reinforcement ship",
+    "illuminate dropship"
+  ]
+},
+  "illuminate-overship": {
+  "title": "Illuminate Overship",
+  "category": "Illuminate",
+  "description": "The Illuminate Overship is a massive host ship that serves as a command center for Illuminate ground forces. Overships were first encountered as part of the Great Host and later became direct targets of Helldiver operations. Protected by powerful shields and extremely heavy armor, an Overship can be brought down during Take Down Overship missions using a Super Earth Planetary Defense Cannon.",
+  "source": "https://helldivers.wiki.gg/wiki/Illuminate_Overship",
+  "image": "",
+  "aliases": [
+    "overship",
+    "illuminate overship",
+    "host ship",
+    "illuminate host ship"
+  ]
+},
+  "gazer": {
+  "title": "Gazer",
+  "category": "Illuminate Structure",
+  "description": "The Gazer is an Illuminate defensive sentry deployed around Illuminate structures and objectives. It scans the surrounding area for hostile targets before charging and firing a searing beam from its eye. Although much of the structure is heavily protected, the central eye is vulnerable to small-arms fire and serves as its primary weak point.",
+  "source": "https://helldivers.wiki.gg/wiki/Gazer",
+  "image": "",
+  "aliases": [
+    "illuminate gazer",
+    "gazer sentry",
+    "gazer defense"
+  ]
+},
+  "gazer-spire": {
+  "title": "Gazer Spire",
+  "category": "Illuminate Structure",
+  "description": "The Gazer Spire is a massive Illuminate defensive structure that functions as long-range laser artillery. It surveys a large area around itself and, after detecting a Helldiver, charges a highly lethal beam capable of striking infantry and vehicles from great distances. Warp Gateways surrounding the structure continuously deploy additional Illuminate forces until destroyed.",
+  "source": "https://helldivers.wiki.gg/wiki/Gazer_Spire",
+  "image": "",
+  "aliases": [
+    "illuminate gazer spire",
+    "laser spire",
+    "gazer tower"
+  ]
+},
+  "monolith": {
+  "title": "Monolith",
+  "category": "Illuminate Structure",
+  "description": "The Monolith is a towering Illuminate structure that generates a mysterious field of negative energy. Its true purpose and nature remain unknown to Super Earth, but direct contact with the structure's energy can be lethal. Helldivers encounter Monoliths during Illuminate occupations and are ordered to destroy them using powerful explosives.",
+  "source": "https://helldivers.wiki.gg/wiki/Monolith",
+  "image": "",
+  "aliases": [
+    "illuminate monolith",
+    "negative energy monolith"
+  ]
+},
+  "cognitive-disruptor": {
+  "title": "Cognitive Disruptor",
+  "category": "Illuminate Structure",
+  "description": "The Cognitive Disruptor is an Illuminate structure designed to interfere with Helldiver Stratagem deployment. While active, it obscures Stratagem names and changes their input sequences for Helldivers within its area of influence. The structure is disabled by locating and destroying the power supplies connected to it.",
+  "source": "https://helldivers.wiki.gg/wiki/Cognitive_Disruptor",
+  "image": "",
+  "aliases": [
+    "illuminate cognitive disruptor",
+    "cognitive disruptor tower",
+    "stratagem disruptor"
+  ]
+},
+  "grounded-warp-ship": {
+  "title": "Grounded Warp Ship",
+  "category": "Illuminate Structure",
+  "description": "The Grounded Warp Ship is an Illuminate emplacement and enemy spawner found within Illuminate Encampments. Protected by a regenerating energy shield, it periodically deploys Illuminate ground forces from its bay doors. Standard deployments include Voteless and Overseers, while Appropriator-controlled planets can instead produce Obtruders alongside Overseers.",
+  "source": "https://helldivers.wiki.gg/wiki/Grounded_Warp_Ship",
+  "image": "",
+  "aliases": [
+    "grounded warp ship",
+    "grounded warpship",
+    "illuminate spawner",
+    "illuminate fabricator"
+  ]
+},
+  "lightning-spire": {
+  "title": "Lightning Spire",
+  "category": "Illuminate Structure",
+  "description": "The Lightning Spire is an Illuminate static defense commonly found around Illuminate Encampments and objectives. It detects nearby non-Illuminate targets and charges before releasing a devastating electrical arc. The discharge can also chain through nearby units, making the structure especially dangerous when Helldivers approach Illuminate positions at close range.",
+  "source": "https://helldivers.wiki.gg/wiki/Lightning_Spire",
+  "image": "",
+  "aliases": [
+    "illuminate lightning spire",
+    "lightning tower",
+    "illuminate tesla tower"
+  ]
+},
+  "warp-gateway": {
+  "title": "Warp Gateway",
+  "category": "Illuminate Structure",
+  "description": "The Warp Gateway is an Illuminate structure used to continuously teleport enemy forces onto the battlefield. Found within Illuminate positions on Void Source planets, the gateway periodically opens its central aperture to deploy additional Illuminate units. Helldivers can destroy the structure by attacking the exposed gateway mechanism or using sufficiently powerful weapons against its armored exterior.",
+  "source": "https://helldivers.wiki.gg/wiki/Warp_Gateway",
+  "image": "",
+  "aliases": [
+    "illuminate warp gateway",
+    "warp gate",
+    "illuminate warp gate"
+  ]
+},
+  "illuminate-encampment": {
+  "title": "Illuminate Encampment",
+  "category": "Illuminate Structure",
+  "description": "Illuminate Encampments are fortified enemy positions containing Grounded Warp Ships or Warp Gateways that periodically deploy Illuminate forces. Encampments vary in size and may be protected by additional defenses such as Lightning Spires, Gazers, and patrolling units. Destroying the ships or gateways eliminates the encampment.",
+  "source": "https://helldivers.wiki.gg/wiki/Illuminate_Encampment",
+  "image": "",
+  "aliases": [
+    "illuminate encampment",
+    "illuminate outpost",
+    "squid outpost"
+  ]
+},
+  "dark-fluid-cell": {
+  "title": "Dark Fluid Cell",
+  "category": "Illuminate Structure",
+  "description": "The Dark Fluid Cell is an Illuminate structure associated with the storage and use of Dark Fluid during Illuminate operations. These cells are tied to the Illuminate's use of Dark Fluid as an energy source in major installations and large-scale projects.",
+  "source": "https://helldivers.wiki.gg/wiki/Dark_Fluid_Cell",
+  "image": "",
+  "aliases": [
+    "dark fluid cell",
+    "illuminate dark fluid cell",
+    "dark fluid container"
+  ]
+},
+  "shield-generator": {
+  "title": "Shield Generator",
+  "category": "Illuminate Structure",
+  "description": "The Shield Generator is an Illuminate defensive structure used to protect important installations such as Exospires. The generator is itself protected by an energy shield that must first be broken before the structure can be destroyed. Helldivers are tasked with eliminating these generators to disable the defensive force fields surrounding key Illuminate objectives.",
+  "source": "https://helldivers.wiki.gg/wiki/Destroy_Exospire",
+  "image": "",
+  "aliases": [
+    "illuminate shield generator",
+    "exospire shield generator",
+    "squid shield generator"
+  ]
+},
+  "mindless-masses": {
+  "title": "Mindless Masses",
+  "category": "Illuminate Subfaction",
+  "description": "The Mindless Masses are an Illuminate subfaction built around overwhelming numbers of Voteless and Fleshmobs. Rather than relying heavily on conventional Illuminate troops, they flood battlefields with enormous hordes of transformed humans and fused Voteless creatures. The Mindless Masses first appeared during Illuminate operations around Heze Bay and Rirga Bay and later continued launching attacks from within and around the Void.",
+  "source": "https://helldivers.wiki.gg/wiki/Mindless_Masses",
+  "image": "",
+  "aliases": [
+    "mindless masses",
+    "illuminate mindless masses",
+    "voteless horde"
+  ]
+},
+  "invasion-fleet": {
+  "title": "Invasion Fleet",
+  "category": "Illuminate Subfaction",
+  "description": "The Invasion Fleet represents the main conventional forces of the Illuminate and can operate alongside other Illuminate subfactions. Its presence allows standard Illuminate units to reinforce specialized enemy formations that would otherwise restrict certain unit types, creating a broader and more varied battlefield force.",
+  "source": "https://helldivers.wiki.gg/wiki/Illuminate",
+  "image": "",
+  "aliases": [
+    "illuminate invasion fleet",
+    "invasion fleet",
+    "main invasion fleet"
+  ]
+},
+  "exospire": {
+  "title": "Exospire",
+  "category": "Illuminate Structure",
+  "description": "Exospires are massive Illuminate structures unearthed from the ruins of their former empire. Powered by Dark Fluid Cells, they generate powerful Exostorms capable of destabilizing planetary weather and affecting space-time. When enough Exospires operate across nearby worlds, their activity can contribute to the formation and expansion of the Void. Helldivers are tasked with breaching their defenses and destroying the Dark Fluid Cells maintaining their cores.",
+  "source": "https://helldivers.wiki.gg/wiki/Destroy_Exospire",
+  "image": "",
+  "aliases": [
+    "exospire",
+    "illuminate exospire",
+    "exospires",
+    "void spire"
+  ]
+}
