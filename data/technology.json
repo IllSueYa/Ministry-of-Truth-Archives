@@ -4,7 +4,12 @@
     "category": "Technology",
     "description": "Element 710 is a strategically important resource used by Super Earth. Terminids can be processed into Element 710, making the species economically valuable to the Federation despite the enormous threat they pose.",
     "source": "https://helldivers.wiki.gg/wiki/Element_710",
-    "image": ""
+    "image": "",
+"aliases": [
+  "element 710",
+  "710",
+  "e-710"
+]
   },
   "democracy-space-station": {
     "title": "Democracy Space Station (DSS)",
