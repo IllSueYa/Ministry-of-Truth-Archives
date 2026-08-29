@@ -18,11 +18,12 @@ const commands = [
     .setName('lore')
     .setDescription('Search the Ministry of Truth Archives')
     .addStringOption(option =>
-      option
-        .setName('topic')
-        .setDescription('What would you like to learn about?')
-        .setRequired(true)
-    ),
+  option
+    .setName('topic')
+    .setDescription('What would you like to learn about?')
+    .setRequired(true)
+    .setAutocomplete(true)
+)
 ];
 
 client.once('ready', async () => {
@@ -38,6 +39,23 @@ client.once('ready', async () => {
 });
 
 client.on('interactionCreate', async interaction => {
+  if (interaction.isAutocomplete()) {
+    const focused = interaction.options.getFocused().toLowerCase();
+
+    const choices = Object.entries(lore)
+      .filter(([key, entry]) =>
+        key.includes(focused) ||
+        entry.title.toLowerCase().includes(focused)
+      )
+      .slice(0, 25)
+      .map(([key, entry]) => ({
+        name: entry.title,
+        value: key
+      }));
+
+    await interaction.respond(choices);
+    return;
+  }
   if (!interaction.isChatInputCommand()) return;
 
   if (interaction.commandName === 'lore') {
