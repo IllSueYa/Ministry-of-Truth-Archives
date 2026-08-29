@@ -28,16 +28,30 @@ try {
   );
 }
 
-    for (const [key, entry] of Object.entries(entries)) {
-      if (encyclopedia[key]) {
-        throw new Error(
-          `Duplicate encyclopedia entry "${key}" found in ${file}`
-        );
-      }
-
-      encyclopedia[key] = entry;
-    }
+   for (const [key, entry] of Object.entries(entries)) {
+  if (!entry || typeof entry !== 'object') {
+    throw new Error(
+      `Invalid encyclopedia entry "${key}" in ${file}`
+    );
   }
 
-  return encyclopedia;
+  if (!entry.title || typeof entry.title !== 'string') {
+    throw new Error(
+      `Entry "${key}" in ${file} is missing a valid title`
+    );
+  }
+
+  if (!entry.description || typeof entry.description !== 'string') {
+    throw new Error(
+      `Entry "${key}" in ${file} is missing a valid description`
+    );
+  }
+
+  if (encyclopedia[key]) {
+    throw new Error(
+      `Duplicate encyclopedia entry "${key}" found in ${file}`
+    );
+  }
+
+  encyclopedia[key] = entry;
 }
