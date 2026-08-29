@@ -33,5 +33,40 @@
     "description": "The Reclamation began on April 9, 2184, only two days after Super Earth believed the Automatons had been eradicated. A massive Automaton invasion fleet arrived from beyond the Galactic Frontier and overwhelmed Super Earth defenses across the Valdis region. The invading force dwarfed the Automaton vanguard destroyed during Operation Swift Disassembly and rapidly captured Cyberstan, revealing that the earlier Automaton armies had represented only a fraction of their true strength.",
     "source": "https://helldivers.wiki.gg/wiki/The_Reclamation",
     "image": ""
+  },
+  "operation-enduring-peace": {
+    "title": "Operation Enduring Peace",
+    "category": "History",
+    "description": "Operation Enduring Peace was Super Earth's campaign to destroy the Terminid Supercolony on Meridia. Helldivers first secured the surrounding staging worlds before deploying weaponized Dark Fluid into Meridia's crust. Once enough Dark Fluid had been injected, the planet collapsed, destroying the Supercolony and leaving the Meridian Black Hole in its place.",
+    "source": "https://helldivers.wiki.gg/wiki/Operation_Enduring_Peace",
+    "image": ""
+  },
+  "battle-of-calypso": {
+    "title": "Battle of Calypso",
+    "category": "History",
+    "description": "The Battle of Calypso marked the return of the Illuminate to open warfare after more than a century. Illuminate forces emerged through the Meridian anomaly and launched a surprise invasion of the Super Earth colony on Calypso. The attackers deployed Overseers, Harvesters, and hordes of Voteless created from abducted and transformed human colonists. Helldivers were ordered to Calypso under LIBCON 1 and fought for roughly three days before successfully repelling the invasion.",
+    "source": "https://helldivers.wiki.gg/wiki/Calypso",
+    "image": ""
+  },
+  "the-great-host": {
+    "title": "The Great Host",
+    "category": "History",
+    "description": "The Great Host was a massive Illuminate invasion fleet constructed in secret beyond the Meridian Wormhole. After the Meridian Singularity was halted, the fleet emerged and began advancing toward Super Earth, bringing new Illuminate forces including Stingrays, Fleshmobs, Crescent Overseers, Leviathans, and Overships. The Great Host eventually reached the Solar System and launched the Illuminate assault on Super Earth before being destroyed during the Battle for Super Earth.",
+    "source": "https://helldivers.wiki.gg/wiki/The_Great_Host",
+    "image": ""
+  },
+  "battle-for-super-earth": {
+    "title": "First Battle for Super Earth",
+    "category": "History",
+    "description": "The First Battle for Super Earth began on May 20, 2185 when the Illuminate Great Host reached humanity's homeworld and assaulted its Mega Cities. Helldivers and SEAF forces fought an eleven-day defense as Eagleopolis, Remembrance, Administrative Center 02, Port Mercy, and York Supreme were destroyed. Despite enormous losses and the death of the President of Super Earth, the defenders reduced the Great Host to a fraction of its original strength. On the final day, the Illuminate withdrew, leaving Prosperity City and Equality-on-Sea standing and Super Earth under Federation control.",
+    "source": "https://helldivers.wiki.gg/wiki/Galactic_War/First_Battle_For_Super_Earth",
+    "image": ""
+  },
+  "great-host-remnants": {
+    "title": "Remnants of the Great Host",
+    "category": "History",
+    "description": "After their defeat during the First Battle for Super Earth, the surviving Illuminate forces activated cloaking technology and withdrew from the homeworld. Super Earth scientists later studied captured Illuminate wreckage and developed methods to detect the cloaked enemy. Hidden Illuminate positions were subsequently discovered in the southern galaxy, proving that the defeat of the Great Host had not ended the Illuminate threat.",
+    "source": "https://helldivers.wiki.gg/wiki/The_Great_Host",
+    "image": ""
   }
 }
