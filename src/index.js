@@ -82,12 +82,7 @@ client.on('interactionCreate', async interaction => {
 const topic = rawTopic.replace(/\s+/g, '-');
 
  const aliases = {
-  "bots": "automatons",
-  "automaton": "automatons",
-  "bugs": "terminids",
-  "terminid": "terminids",
-  "squids": "illuminate",
-  "illuminates": "illuminate",
+  
   "creek": "malevelon-creek",
   "malevelon creek": "malevelon-creek",
   "managed democracy": "managed-democracy",
