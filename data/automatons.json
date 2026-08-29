@@ -33,28 +33,26 @@
     "description": "The Jet Brigade is a specialized Automaton assault division equipped with reverse-engineered jump-pack technology. Designed as a rapid invasion force, the Brigade uses its enhanced mobility to overwhelm planets before moving on to its next target. It first appeared during the Automaton campaign to locate the Democracy Space Station project and has since returned in multiple offensives. Later versions of the Jet Brigade expanded beyond infantry to include jump-pack-equipped Devastators and Hulks.",
     "source": "https://helldivers.wiki.gg/wiki/Jet_Brigade",
     "image": ""
-  }
-},
-"cyborg-legion": {
-  "title": "Cyborg Legion",
-  "category": "Automaton Subfaction",
-  "description": "The Cyborg Legion is an Automaton-aligned subfaction descended from the Cyborgs of the First Galactic War. They returned to active combat during Operation Valid Pretext on Cyberstan and fight alongside Automaton forces.",
-  "source": "https://helldivers.wiki.gg/wiki/Cyborg_Legion",
-  "image": "",
-  "aliases": [
-    "cyborg legion",
-    "new cyborgs"
-  ]
-},
-"incineration-corps": {
-    "title": "Incineration Corps",
+  },
+  "cyborg-legion": {
+    "title": "Cyborg Legion",
     "category": "Automaton Subfaction",
-    "description": "The Incineration Corps is an Automaton assault formation specialized in incendiary warfare. Its forces use flamethrowers, incendiary ammunition, and other fire-based weapons and have been responsible for burning Super Earth colonies during large-scale offensives.",
-    "source": "https://helldivers.wiki.gg/wiki/Incineration_Corps",
+    "description": "The Cyborg Legion is an Automaton-aligned subfaction descended from the Cyborgs of the First Galactic War. They returned to active combat during Operation Valid Pretext on Cyberstan and fight alongside Automaton forces.",
+    "source": "https://helldivers.wiki.gg/wiki/Cyborg_Legion",
     "image": "",
     "aliases": [
-      "incineration corps",
-      "ic"
-    ]
+      "cyborg legion",
+      "new cyborgs"
+  },
+  "incineration-corps": {
+      "title": "Incineration Corps",
+      "category": "Automaton Subfaction",
+      "description": "The Incineration Corps is an Automaton assault formation specialized in incendiary warfare. Its forces use flamethrowers, incendiary ammunition, and other fire-based weapons and have been responsible for burning Super Earth colonies during large-scale offensives.",
+      "source": "https://helldivers.wiki.gg/wiki/Incineration_Corps",
+      "image": "",
+      "aliases": [
+        "incineration corps",
+        "ic"
+      ]
+    }
   }
-}
