@@ -34,4 +34,47 @@
     "source": "https://helldivers.wiki.gg/wiki/Bile_Titan",
     "image": ""
   }
+},
+ "bile-titan": {
+    "title": "Bile Titan",
+    "category": "Terminid",
+    "description": "The Bile Titan is one of the largest and most dangerous Terminid organisms regularly encountered by Helldivers. Protected by heavy armor and supported by enormous legs capable of crushing infantry, the creature can also project streams of highly corrosive bile across the battlefield. A single Bile Titan is considered capable of destroying an entire SEAF platoon and generally requires dedicated anti-tank weaponry or heavy Stratagem support to eliminate.",
+    "source": "https://helldivers.wiki.gg/wiki/Bile_Titan",
+    "image": ""
+  },
+  "charger-behemoth": {
+    "title": "Charger Behemoth",
+    "category": "Terminid",
+    "description": "The Charger Behemoth is a more heavily armored and durable variant of the standard Charger. Originally encountered in limited circumstances, Behemoths later became a regular battlefield threat during the Second Galactic War. They retain the devastating charging behavior of ordinary Chargers but possess greater resilience, making them a particularly dangerous heavy Terminid on high-intensity battlefields.",
+    "source": "https://helldivers.wiki.gg/wiki/Charger_Behemoth",
+    "image": ""
+  },
+  "spore-charger": {
+    "title": "Spore Charger",
+    "category": "Terminid",
+    "description": "The Spore Charger is a mutated Charger variant surrounded by a dense cloud of Terminid spores. The moving cloud dramatically reduces visibility and can conceal the creature until it charges out of the fog toward its target. When killed, the Spore Charger violently explodes and releases corrosive material, making even its death dangerous to nearby Helldivers.",
+    "source": "https://helldivers.wiki.gg/wiki/Spore_Charger",
+    "image": ""
+  },
+  "shrieker": {
+    "title": "Shrieker",
+    "category": "Terminid",
+    "description": "Shriekers are flying Terminids specialized in rapid hit-and-run attacks. They first began appearing during the deployment of the Terminid Control System, with their numbers increasing following the activation of Termicide across the Barrier Planets. Shriekers emerge from specialized Shrieker Nests and attack by circling above Helldivers before diving at high speed with their razor-sharp limbs. Their sudden evolution became one of the early warning signs that Termicide was causing unexpected changes within the Terminid population.",
+    "source": "https://helldivers.wiki.gg/wiki/Shrieker",
+    "image": ""
+  },
+  "brood-commander": {
+    "title": "Brood Commander",
+    "category": "Terminid",
+    "description": "The Brood Commander is a leadership-class Terminid responsible for coordinating attacks and reinforcing the swarm. Larger and more dangerous than ordinary Warriors, Brood Commanders can summon groups of Warriors and release pheromones capable of triggering Bug Breaches. Even after suffering fatal damage to the head, they can enter a berserk state and continue attacking until they bleed out.",
+    "source": "https://helldivers.wiki.gg/wiki/Brood_Commander",
+    "image": ""
+  },
+  "dragonroach": {
+    "title": "Dragonroach",
+    "category": "Terminid",
+    "description": "The Dragonroach is a massive flying Terminid created through Gloom-induced mutation. First encountered during Helldiver operations around the Hive World Oshaune, it represents one of the most dangerous airborne Terminid organisms yet discovered. Protected by heavy armor, the Dragonroach circles high above the battlefield before diving toward its prey and unleashing sweeping attacks of combustible venom that ignite the ground. Its emergence demonstrated that the Gloom was capable of producing entirely new forms of massive Terminid life.",
+    "source": "https://helldivers.wiki.gg/wiki/Dragonroach",
+    "image": ""
+  }
 }
