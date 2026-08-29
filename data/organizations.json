@@ -11,6 +11,9 @@
     "category": "Organization",
     "description": "The Super Earth Armed Forces, commonly known as SEAF, are the conventional military forces of Super Earth. They defend Federation territory, operate military installations, and fight alongside the Helldivers throughout the Galactic War.",
     "source": "https://helldivers.wiki.gg/wiki/Super_Earth_Armed_Forces",
-    "image": ""
+    "image": "",
+"aliases": [
+  "super earth armed forces"
+]
   }
 }
