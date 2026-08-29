@@ -76,16 +76,26 @@
     "source": "https://helldivers.wiki.gg/wiki/Major_Orders_of_2025",
     "image": ""
   },
-  "operation-valid-pretext": {
-      "title": "Operation Valid Pretext",
-      "category": "History",
-      "description": "Operation Valid Pretext was a multi-phase Super Earth campaign launched in February 2186 to invade Cyberstan and prevent the Automaton Legion from developing a planet-destroying weapon using stolen Star of Peace plans. The operation culminated in the liberation campaign for Cyberstan.",
-      "source": "https://helldivers.wiki.gg/wiki/Operation_Valid_Pretext",
-      "image": "",
-      "aliases": [
-        "valid pretext",
-        "operation valid pretext"
-      ]
-   }
+ "operation-valid-pretext": {
+    "title": "Operation Valid Pretext",
+    "category": "History",
+    "description": "Operation Valid Pretext was a multi-phase Super Earth campaign launched in February 2186 to invade Cyberstan and prevent the Automaton Legion from developing a planet-destroying weapon using stolen Star of Peace plans. The operation culminated in the liberation campaign for Cyberstan.",
+    "source": "https://helldivers.wiki.gg/wiki/Operation_Valid_Pretext",
+    "image": "",
+    "aliases": [
+      "valid pretext",
+      "operation valid pretext"
+    ]
+  },
+  "operation-permanent-enclosure": {
+    "title": "Operation Permanent Enclosure",
+    "category": "History",
+    "description": "Operation Permanent Enclosure was a major Super Earth campaign launched on July 28, 2186 to expand the Terminid Control System+ defensive wall. Helldivers secured and defended planets while additional TCS+ arrays were constructed and activated to prevent further Terminid expansion into Super Earth territory. Super Earth High Command declared the operation successfully completed on August 11, 2186.",
+    "source": "https://helldivers.wiki.gg/wiki/Terminid_Control_System%2B",
+    "image": "",
+    "aliases": [
+      "permanent enclosure",
+      "operation permanent enclosure"
+    ]
+  }
 }
-  
