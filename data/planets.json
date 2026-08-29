@@ -32,4 +32,18 @@
     "source": "https://helldivers.wiki.gg/wiki/Oshaune",
     "image": ""
   }
+},
+"seasse": {
+  "title": "Seasse (Void Source Planet)",
+  "category": "Planet",
+  "description": "Seasse was the first planet consumed by the Void after Appropriator forces activated ancient Illuminate Exospires on its surface. Months later, Super Earth identified Seasse as the world located at the center and source of the anomaly. During Operation Void Piercer, Helldivers and SEAF forces invaded the planet while a Ministry of Science expedition descended into its depths. Seasse was liberated on August 23, 2186, and the successful destruction of the Void's source caused the anomaly to dissipate across the galaxy.",
+  "source": "https://helldivers.wiki.gg/wiki/Seasse",
+  "image": "",
+  "aliases": [
+    "void source planet",
+    "seasse",
+    "source of the void",
+    "void source"
+  ]
+ }
 }
