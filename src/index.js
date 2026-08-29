@@ -178,7 +178,9 @@ if (!lore[resolvedTopic]) {
   } else if (partialMatches.length > 1) {
     const suggestions = partialMatches
       .slice(0, 5)
-      .map(result => `• ${result.entry.title}`)
+      .map(result =>
+  `• ${result.entry.title} — ${result.entry.category || 'Uncategorized'}`
+)
       .join('\n');
 
     await interaction.reply({
