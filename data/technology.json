@@ -17,5 +17,16 @@
     "description": "The Democracy Space Station is a massive Super Earth battle station designed to support Helldiver operations across the Galactic War. Its blueprints were recovered from an abandoned First Galactic War weapons laboratory on X-45, and Helldivers later secured Gaellivare as its construction site. Once operational, the DSS became a Helldiver-directed strategic weapon: Helldivers vote on where it deploys and donate resources to activate powerful Tactical Actions that support campaigns on the planet it orbits.",
     "source": "https://helldivers.wiki.gg/wiki/Democracy_Space_Station",
     "image": ""
+  },
+  "star-of-peace": {
+    "title": "Star of Peace",
+    "category": "Technology",
+    "description": "The Star of Peace is a powerful Super Earth weapon whose plans became a major strategic concern during the Second Galactic War. Automaton forces obtained information connected to the weapon, prompting Super Earth to launch Operation Valid Pretext and prevent the Automatons from developing their own planet-destroying capability.",
+    "source": "https://helldivers.wiki.gg/wiki/Star_of_Peace",
+    "image": "",
+    "aliases": [
+      "star of peace",
+      "the star of peace"
+    ]
   }
 }
