@@ -97,11 +97,18 @@
     "source": "https://helldivers.wiki.gg/wiki/Element_710",
     "image": ""
   },
-  "cyberstan": {
+   "cyberstan": {
     "title": "Cyberstan",
     "category": "Planet",
     "description": "Cyberstan is the historic homeworld of the Cyborgs and a major location in the conflict surrounding the Automatons and Super Earth.",
     "source": "https://helldivers.wiki.gg/wiki/Cyberstan",
+    "image": ""
+  },
+  "democracy-officer": {
+    "title": "Democracy Officer",
+    "category": "Person",
+    "description": "The Democracy Officer serves aboard the Super Destroyer as a representative of Super Earth authority, providing mission guidance and reinforcing the principles of Managed Democracy.",
+    "source": "https://helldivers.wiki.gg/wiki/Democracy_Officer",
     "image": ""
   }
 }
