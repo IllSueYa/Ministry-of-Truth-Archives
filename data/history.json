@@ -1,0 +1,37 @@
+{
+  "first-galactic-war": {
+    "title": "First Galactic War",
+    "category": "History",
+    "description": "The First Galactic War was a roughly forty-year conflict fought by the Super Earth Federation against the Bugs, Cyborgs, and Illuminate. The Helldivers fought across all three fronts, and the war ultimately ended in Super Earth victory. The Bugs were placed into farms for Element 710 production, the defeated Cyborgs were forced to labor on Cyberstan, and the Illuminate were defeated and believed to have been eradicated.",
+    "source": "https://helldivers.wiki.gg/wiki/First_Galactic_War",
+    "image": ""
+  },
+  "second-galactic-war": {
+    "title": "Second Galactic War",
+    "category": "History",
+    "description": "The Second Galactic War began around 2184 after approximately a century of relative peace following the First Galactic War. Terminids escaped containment and spread through the eastern sectors while the Automaton Legion emerged in the west, prompting Super Earth to reactivate the Helldivers. The conflict later expanded further with the return of the Illuminate, creating a galaxy-wide war fought across multiple fronts.",
+    "source": "https://helldivers.wiki.gg/wiki/Second_Galactic_War",
+    "image": ""
+  },
+  "operation-valiant-enclosure": {
+    "title": "Operation Valiant Enclosure",
+    "category": "History",
+    "description": "Operation Valiant Enclosure was a major Super Earth campaign against the Terminids during the early Second Galactic War. Helldivers fought to secure the Barrier Planets of Erata Prime, Fenrir III, Meridia, and Turing, where the Terminid Control System was constructed and activated. The TCS dispersed Termicide in an attempt to contain the Terminid threat. Although initially declared a success, some Terminids adapted to the chemical, contributing to explosive reproduction and the eventual transformation of Meridia into a Supercolony.",
+    "source": "https://helldivers.wiki.gg/wiki/Operation_Valiant_Enclosure",
+    "image": ""
+  },
+  "operation-swift-disassembly": {
+    "title": "Operation Swift Disassembly",
+    "category": "History",
+    "description": "Operation Swift Disassembly was a multi-phase Super Earth offensive intended to completely eradicate the Automatons. Helldivers captured a long-range communications array on Troost, attacked Automaton production centers, defended key worlds against a counterattack, and finally assaulted the remaining Automaton planets of Maia, Tibit, and Durgen. The operation appeared successful when the Automaton vanguard was eliminated, but the victory was short-lived: a much larger Automaton fleet soon invaded during the Reclamation.",
+    "source": "https://helldivers.wiki.gg/wiki/Operation_Swift_Disassembly",
+    "image": ""
+  },
+  "the-reclamation": {
+    "title": "The Reclamation",
+    "category": "History",
+    "description": "The Reclamation began on April 9, 2184, only two days after Super Earth believed the Automatons had been eradicated. A massive Automaton invasion fleet arrived from beyond the Galactic Frontier and overwhelmed Super Earth defenses across the Valdis region. The invading force dwarfed the Automaton vanguard destroyed during Operation Swift Disassembly and rapidly captured Cyberstan, revealing that the earlier Automaton armies had represented only a fraction of their true strength.",
+    "source": "https://helldivers.wiki.gg/wiki/The_Reclamation",
+    "image": ""
+  }
+}
