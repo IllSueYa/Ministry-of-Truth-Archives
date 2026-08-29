@@ -469,5 +469,328 @@
     "automaton fortress",
     "bot fortress"
   ]
+},
+  "war-strider": {
+  "title": "War Strider",
+  "category": "Automaton",
+  "description": "The War Strider is a large, heavily armored bipedal Automaton walker designed for sustained battlefield fire support. It is armed with paired Fusion Culverins and Grenade Projectors, allowing it to bombard distant Helldivers with arcing explosive salvos while delivering powerful bursts of fusion fire. War Striders begin appearing on Extreme difficulty and can deploy from Bot Drops, patrol Automaton territory, defend Outposts, or emerge from Bulk Fabricators.",
+  "source": "https://helldivers.wiki.gg/wiki/War_Strider",
+  "image": "",
+  "aliases": [
+    "war strider",
+    "automaton war strider",
+    "bot war strider",
+    "war walker"
+  ]
+},
+"bulk-fabricator": {
+  "title": "Bulk Fabricator",
+  "category": "Automaton Structure",
+  "description": "The Bulk Fabricator is a massive Automaton production structure found in urban Automaton Outposts. Unlike standard Fabricators that primarily deploy Troopers and their variants, Bulk Fabricators manufacture heavier combat units including Devastators, Berserkers, Scout Striders, Hulks, tanks, and War Striders. Their ability to continuously produce heavy units makes them a major priority when assaulting Automaton-controlled cities.",
+  "source": "https://helldivers.wiki.gg/wiki/Bulk_Fabricator",
+  "image": "",
+  "aliases": [
+    "bulk fabricator",
+    "automaton bulk fabricator",
+    "heavy fabricator",
+    "large fabricator",
+    "bulk factory"
+  ]
+},
+"bunker-turret": {
+  "title": "Bunker Turret",
+  "category": "Automaton Structure",
+  "description": "The Bunker Turret is an Automaton defensive weapon installed around heavily fortified positions such as Command Bunkers and Fortresses. These automated weapons protect important Automaton installations by engaging approaching Helldivers with sustained fire and form part of the layered defenses surrounding high-value Automaton strongholds.",
+  "source": "https://helldivers.wiki.gg/wiki/Bunker_Turret",
+  "image": "",
+  "aliases": [
+    "bunker turret",
+    "automaton bunker turret",
+    "bot bunker turret",
+    "bunker gun"
+  ]
+},
+"automaton-mg-emplacement": {
+  "title": "Automaton MG Emplacement",
+  "category": "Automaton Structure",
+  "description": "Automaton MG Emplacements are crew-operated defensive weapons commonly positioned around Outposts and other Automaton installations. Two major variants exist: a single-barreled Light Fusion Cycler with a high rate of fire and a double-barreled Heavy Fusion Repeater that fires more powerful bursts. Both use protective gunshields to shelter their operators, and abandoned emplacements can be operated by Helldivers.",
+  "source": "https://helldivers.wiki.gg/wiki/Automaton_MG_Emplacement",
+  "image": "",
+  "aliases": [
+    "automaton mg emplacement",
+    "mg emplacement",
+    "bot machine gun",
+    "automaton machine gun",
+    "bot mg"
+  ]
+},
+"enemy-bio-processors": {
+  "title": "Enemy Bio-Processors",
+  "category": "Automaton Structure",
+  "description": "Enemy Bio-Processors are Automaton installations involved in the synthesis of organic plasma. They are located inside defended Automaton Outposts and are commonly protected by Automaton troops and at least one Fabricator. Super Earth considers the facilities important enough to designate their destruction as an optional battlefield objective, ordering Helldivers to eliminate the Bio-Processors by any available means.",
+  "source": "https://helldivers.wiki.gg/wiki/Enemy_Bio-Processors",
+  "image": "",
+  "aliases": [
+    "enemy bio processors",
+    "bio processors",
+    "bio-processor",
+    "automaton bio processors",
+    "organic plasma processors"
+  ]
+},
+  "transmission-antenna": {
+  "title": "Transmission Antenna",
+  "category": "Automaton Structure",
+  "description": "The Transmission Antenna is an Automaton communications structure used to broadcast propaganda and other transmissions across occupied territory. Helldivers encounter these installations as objectives during operations against the Automatons and are ordered to destroy them to disrupt enemy communications and broadcasts.",
+  "source": "https://helldivers.wiki.gg/wiki/Transmission_Antenna",
+  "image": "",
+  "aliases": [
+    "transmission antenna",
+    "automaton transmission antenna",
+    "bot antenna",
+    "broadcast tower",
+    "automaton broadcast"
+  ]
+},
+"fuel-silo": {
+  "title": "Fuel Silo",
+  "category": "Automaton Structure",
+  "description": "Fuel Silos are Automaton supply structures used to store reserves supporting their war machine. They can be found at enemy supply bases alongside other logistical infrastructure. Helldivers are tasked with destroying these fuel reserves during sabotage operations to disrupt Automaton supply networks and reduce their ability to sustain military operations.",
+  "source": "https://helldivers.wiki.gg/wiki/Fuel_Silo",
+  "image": "",
+  "aliases": [
+    "fuel silo",
+    "automaton fuel silo",
+    "fuel reserves",
+    "automaton fuel depot",
+    "bot fuel"
+  ]
+},
+"ammo-stockpile": {
+  "title": "Ammo Stockpile",
+  "category": "Automaton Structure",
+  "description": "Ammo Stockpiles are collections of munitions stored at Automaton supply bases and military positions. Super Earth identifies these reserves as important components of the Automaton war effort, and Helldivers are frequently ordered to destroy them during sabotage operations. Eliminating the stockpiles disrupts the flow of ammunition supporting Automaton forces.",
+  "source": "https://helldivers.wiki.gg/wiki/Sabotage_Supply_Bases",
+  "image": "",
+  "aliases": [
+    "ammo stockpile",
+    "ammunition stockpile",
+    "automaton ammo",
+    "automaton ammunition",
+    "munitions stockpile"
+  ]
+},
+"assault-raider": {
+  "title": "Assault Raider",
+  "category": "Jet Brigade Automaton",
+  "description": "The Assault Raider is a light Automaton specialized for aggressive close-quarters combat and associated with the Jet Brigade. Equipped with a Jump Pack, Fusion Pistol, Heat Blade, and grenades, it can rapidly leap toward Helldivers before engaging at close range. Assault Raiders can appear in patrols, Bot Drops, Automaton Outposts, objectives, and Fabricators.",
+  "source": "https://helldivers.wiki.gg/wiki/Assault_Raider",
+  "image": "",
+  "aliases": [
+    "assault raider",
+    "jet brigade assault raider",
+    "jump pack raider",
+    "jetpack raider"
+  ]
+},
+"jet-brigade-commissar": {
+  "title": "Jet Brigade Commissar",
+  "category": "Jet Brigade Automaton",
+  "description": "The Jet Brigade Commissar is a modified Commissar equipped with a Jump Pack. It retains the Fusion Pistol, Heat Blade, grenades, and leadership role of the standard Commissar while gaining the ability to rapidly leap across the battlefield. Jet Brigade Commissars lead patrols, arrive through Bot Drops, guard Automaton positions, and use their enhanced mobility to quickly close the distance with Helldivers.",
+  "source": "https://helldivers.wiki.gg/wiki/Jet_Brigade_Commissar",
+  "image": "",
+  "aliases": [
+    "jet brigade commissar",
+    "jet commissar",
+    "jump pack commissar",
+    "jetpack commissar"
+  ]
+},
+  "jet-brigade-trooper": {
+  "title": "Jet Brigade Trooper",
+  "category": "Jet Brigade Automaton",
+  "description": "The Jet Brigade Trooper is a modified Trooper equipped with a Jump Pack that allows it to rapidly leap across the battlefield. It retains the Fusion SMG and grenades of the standard Trooper but uses its increased mobility to aggressively close the distance with Helldivers. Its volatile Jump Pack can explode when damaged, potentially killing the Trooper and injuring nearby units.",
+  "source": "https://helldivers.wiki.gg/wiki/Jet_Brigade_Trooper",
+  "image": "",
+  "aliases": [
+    "jet brigade trooper",
+    "jet trooper",
+    "jump pack trooper",
+    "jetpack trooper"
+  ]
+},
+"jet-brigade-mg-raider": {
+  "title": "Jet Brigade MG Raider",
+  "category": "Jet Brigade Automaton",
+  "description": "The Jet Brigade MG Raider is a modified MG Raider equipped with a Jump Pack. It retains the Light Fusion Repeater and grenades of the standard MG Raider while gaining the ability to rapidly leap toward Helldivers. The Jump Pack is volatile and can explode when damaged, turning groups of Jet Brigade infantry into potential chain-reaction hazards.",
+  "source": "https://helldivers.wiki.gg/wiki/Jet_Brigade_MG_Raider",
+  "image": "",
+  "aliases": [
+    "jet brigade mg raider",
+    "jet mg raider",
+    "jump pack mg raider",
+    "jetpack mg raider"
+  ]
+},
+"jet-brigade-devastator": {
+  "title": "Jet Brigade Devastator",
+  "category": "Jet Brigade Automaton",
+  "description": "The Jet Brigade Devastator is a modified Devastator repainted and equipped with a Jump Pack. It retains the Fusion Assault Cannon and heavy construction of the standard Devastator while gaining enough mobility to leap large distances and aggressively reposition against Helldivers. Destroying its Jump Pack can trigger an explosion capable of damaging the Devastator and nearby units.",
+  "source": "https://helldivers.wiki.gg/wiki/Jet_Brigade_Devastator",
+  "image": "",
+  "aliases": [
+    "jet brigade devastator",
+    "jet devastator",
+    "jump pack devastator",
+    "jetpack devastator"
+  ]
+},
+"jet-brigade-hulk-bruiser": {
+  "title": "Jet Brigade Hulk Bruiser",
+  "category": "Jet Brigade Automaton",
+  "description": "The Jet Brigade Hulk Bruiser is a modified Hulk Bruiser fitted with a massive Heavy Jump Pack. It retains the Fusion Autocannon and Rotary Munition Launcher of the standard Bruiser while gaining the ability to leap great distances to pursue or reposition against Helldivers. The Heavy Jump Pack covers the Hulk's rear vent and can itself become a dangerous explosive target when destroyed.",
+  "source": "https://helldivers.wiki.gg/wiki/Jet_Brigade_Hulk_Bruiser",
+  "image": "",
+  "aliases": [
+    "jet brigade hulk bruiser",
+    "jet hulk bruiser",
+    "jump pack hulk bruiser",
+    "jetpack bruiser"
+  ]
+},
+"jet-brigade-hulk-scorcher": {
+  "title": "Jet Brigade Hulk Scorcher",
+  "category": "Jet Brigade Automaton",
+  "description": "The Jet Brigade Hulk Scorcher is a modified Hulk Scorcher equipped with a massive Heavy Jump Pack. It retains the Heavy Flamethrower and Rotary Saw of the standard Scorcher but uses its enhanced mobility to rapidly close the distance with Helldivers before attacking at close range. The Heavy Jump Pack covers its rear vent and allows the Scorcher to repeatedly leap after targets attempting to escape.",
+  "source": "https://helldivers.wiki.gg/wiki/Jet_Brigade_Hulk_Scorcher",
+  "image": "",
+  "aliases": [
+    "jet brigade hulk scorcher",
+    "jet hulk scorcher",
+    "jump pack hulk scorcher",
+    "jetpack scorcher"
+  ]
+},
+  "pyro-trooper": {
+  "title": "Pyro Trooper",
+  "category": "Incineration Corps Automaton",
+  "description": "The Pyro Trooper is a light Automaton fielded by the Incineration Corps and specialized for close-range incendiary combat. It carries a Portable Flamer, White Phosphorus Grenades, and a backpack-mounted fuel tank. Pyro Troopers aggressively advance into flamethrower range and can use incendiary grenades to force Helldivers from cover. Their fuel tanks are highly volatile and can explode when damaged, potentially harming nearby units.",
+  "source": "https://helldivers.wiki.gg/wiki/Pyro_Trooper",
+  "image": "",
+  "aliases": [
+    "pyro trooper",
+    "incineration corps pyro trooper",
+    "flamethrower trooper",
+    "flame trooper",
+    "pyro bot"
+  ]
+},
+"incendiary-rocket-raider": {
+  "title": "Incendiary Rocket Raider",
+  "category": "Incineration Corps Automaton",
+  "description": "The Incendiary Rocket Raider is a light Automaton fielded by the Incineration Corps. Unlike the standard Rocket Raider, it carries a Portable Fusion Cannon that fires a powerful single fusion bolt before recharging. It also carries White Phosphorus Grenades and can launch signal flares to summon Bot Drop reinforcements. Incendiary Rocket Raiders typically engage from medium range while attempting to keep their distance from approaching Helldivers.",
+  "source": "https://helldivers.wiki.gg/wiki/Incendiary_Rocket_Raider",
+  "image": "",
+  "aliases": [
+    "incendiary rocket raider",
+    "incineration corps rocket raider",
+    "fire rocket raider",
+    "fusion cannon raider"
+  ]
+},
+"incendiary-mg-devastator": {
+  "title": "Incendiary MG Devastator",
+  "category": "Incineration Corps Automaton",
+  "description": "The Incendiary MG Devastator is an Incineration Corps variant of the Heavy Devastator. It carries a large ballistic shield and replaces the standard Fusion Repeater with a Fusion Conflagrator that fires incendiary projectiles capable of igniting targets. Although its weapon fires more slowly than that of a standard Heavy Devastator, individual hits can inflict dangerous burning effects as the unit steadily advances behind its shield.",
+  "source": "https://helldivers.wiki.gg/wiki/Incendiary_MG_Devastator",
+  "image": "",
+  "aliases": [
+    "incendiary mg devastator",
+    "incineration corps mg devastator",
+    "fire heavy devastator",
+    "incendiary heavy devastator",
+    "fire shield devastator"
+  ]
+},
+"conflagration-devastator": {
+  "title": "Conflagration Devastator",
+  "category": "Incineration Corps Automaton",
+  "description": "The Conflagration Devastator is an Incineration Corps Devastator variant equipped for close- and medium-range incendiary combat. It carries a large ballistic shield and an incendiary fusion shotgun capable of setting Helldivers on fire while suppressing them with powerful bursts. Its shield protects much of its body from frontal attacks, allowing the unit to steadily advance while forcing Helldivers away from exposed positions.",
+  "source": "https://helldivers.wiki.gg/wiki/Conflagration_Devastator",
+  "image": "",
+  "aliases": [
+    "conflagration devastator",
+    "incineration corps conflagration devastator",
+    "fire devastator",
+    "incendiary devastator",
+    "shotgun devastator"
+  ]
+},
+  "radical": {
+  "title": "Radical",
+  "category": "Cyborg Legion",
+  "description": "The Radical is a cybernetically enhanced human soldier fielded by the Cyborg Legion. Specialized for aggressive close-quarters combat, Radicals use Hydrogen-infused Plasma Scatterguns, smoke grenades, augmented limbs, and so-called techno-martial arts. They aggressively pursue Helldivers, using smoke to conceal their approach before attacking with powerful shotgun blasts and cybernetically enhanced melee strikes. Radicals can appear on all difficulties wherever the Cyborg Legion is present.",
+  "source": "https://helldivers.wiki.gg/wiki/Radical",
+  "image": "",
+  "aliases": [
+    "radical",
+    "cyborg radical",
+    "cyborg legion radical",
+    "cyborg shotgunner"
+  ]
+},
+"agitator": {
+  "title": "Agitator",
+  "category": "Cyborg Legion",
+  "description": "The Agitator is a cybernetically enhanced field commander serving the Cyborg Legion. Armed with a Plasma Charger, grenades, and augmented limbs, Agitators generally fight from range while directing nearby Automaton troops. Automatons placed under an Agitator's command gain increased movement speed, identifiable by their glowing yellow eyes. Agitators can also overcharge their Plasma Chargers for more powerful explosive shots and use cybernetic martial arts when forced into close combat.",
+  "source": "https://helldivers.wiki.gg/wiki/Agitator",
+  "image": "",
+  "aliases": [
+    "agitator",
+    "cyborg agitator",
+    "cyborg legion agitator",
+    "cyborg commander"
+  ]
+},
+"vox-engine": {
+  "title": "Vox Engine",
+  "category": "Cyborg Legion",
+  "description": "The Vox Engine is a massive, heavily armored Cyborg war machine and one of the most formidable units fielded alongside the Automatons. Moving on enormous tracks, it carries paired Plasma Macro-Culverins, Plasma Duster Miniguns, and Icarus Missile Launcher Pods while broadcasting Cyborg propaganda through its loudspeakers. Vox Engines appear on Cyborg Legion worlds beginning on Suicide Mission difficulty and replace Factory Striders in several encounters where Cyborg forces are present.",
+  "source": "https://helldivers.wiki.gg/wiki/Vox_Engine",
+  "image": "",
+  "aliases": [
+    "vox engine",
+    "cyborg vox engine",
+    "cyborg legion vox engine",
+    "vox",
+    "cyborg mech"
+  ]
+},
+"cyborg-megafactory": {
+  "title": "Cyborg Megafactory",
+  "category": "Cyborg Structure",
+  "description": "Cyborg Megafactories are enormous industrial complexes used by the Cyborg Legion to manufacture new Cyborg forces. After the return of the Cyborgs, Megafactories became strategically important targets as the Legion attempted to expand its production capacity beyond Cyberstan. These facilities can spread to additional planets and significantly strengthen Cyborg resistance if allowed to remain operational.",
+  "source": "https://helldivers.wiki.gg/wiki/Halt_Cyborg_Production",
+  "image": "",
+  "aliases": [
+    "cyborg megafactory",
+    "megafactory",
+    "cyborg factory",
+    "cyborg production facility"
+  ]
+},
+"cyborg-production-unit": {
+  "title": "Cyborg Production Unit",
+  "category": "Cyborg Structure",
+  "description": "The Cyborg Production Unit is a massive bio-synthetic manufacturing system located within Cyborg Megafactories and used to produce new Cyborgs. The units are structurally resistant to conventional demolition, requiring Helldivers to sabotage them from within. During Halt Cyborg Production operations, Helldivers flood the production system with volatile hydrogen and destabilize the facility until the unit self-destructs.",
+  "source": "https://helldivers.wiki.gg/wiki/Halt_Cyborg_Production",
+  "image": "",
+  "aliases": [
+    "cyborg production unit",
+    "production unit",
+    "cyborg production",
+    "cyborg manufacturing unit",
+    "bio synthetic production unit"
+  ]
 }
 }
