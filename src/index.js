@@ -117,23 +117,62 @@ client.on('interactionCreate', async interaction => {
 
     const topic = normalizeSearch(rawTopic);
 
-    let resolvedTopic = topic;
+   let resolvedTopic = topic;
 
-    // SEARCH JSON ALIASES
-    if (!lore[resolvedTopic]) {
-      const aliasMatch = Object.entries(lore).find(([key, entry]) =>
-        Array.isArray(entry.aliases) &&
-        entry.aliases.some(alias =>
-          normalizeSearch(alias) === topic
-        )
-      );
+// EXACT ALIAS MATCH
+if (!lore[resolvedTopic]) {
+  const aliasMatch = Object.entries(lore).find(([key, entry]) =>
+    Array.isArray(entry.aliases) &&
+    entry.aliases.some(alias =>
+      normalizeSearch(alias) === topic
+    )
+  );
 
-      if (aliasMatch) {
-        resolvedTopic = aliasMatch[0];
+  if (aliasMatch) {
+    resolvedTopic = aliasMatch[0];
+  }
+}
+
+// PARTIAL SEARCH FALLBACK
+if (!lore[resolvedTopic]) {
+  const partialMatch = Object.entries(lore)
+    .map(([key, entry]) => {
+      const normalizedTitle = normalizeSearch(entry.title);
+
+      const aliases = Array.isArray(entry.aliases)
+        ? entry.aliases.map(alias => normalizeSearch(alias))
+        : [];
+
+      let score = 0;
+
+      if (key.startsWith(topic)) {
+        score = 80;
+      } else if (normalizedTitle.startsWith(topic)) {
+        score = 75;
+      } else if (aliases.some(alias => alias.startsWith(topic))) {
+        score = 70;
+      } else if (key.includes(topic)) {
+        score = 60;
+      } else if (normalizedTitle.includes(topic)) {
+        score = 55;
+      } else if (aliases.some(alias => alias.includes(topic))) {
+        score = 50;
       }
-    }
 
-    const entry = lore[resolvedTopic];
+      return {
+        key,
+        score
+      };
+    })
+    .filter(result => result.score > 0)
+    .sort((a, b) => b.score - a.score)[0];
+
+  if (partialMatch) {
+    resolvedTopic = partialMatch.key;
+  }
+}
+
+const entry = lore[resolvedTopic];
 
     if (!entry) {
       await interaction.reply({
