@@ -75,17 +75,17 @@
     "description": "Operation Righteous Reclamation was Super Earth's major offensive into the Gloom. Beginning in August 2185, Helldivers were ordered to penetrate the massive Terminid spore cloud and establish a permanent forward operating base within its perimeter. Hellmire was liberated and Outpost Alpha was established, giving the Helldiver fleet unprecedented access to the interior of the Gloom. From there, spore-flow analysis led Super Earth to Oshaune, a planet transformed by extreme Terminid terraformation into a Hive World. The operation then expanded into reconnaissance, research, and combat operations against the mutated Terminids hidden within the Gloom.",
     "source": "https://helldivers.wiki.gg/wiki/Major_Orders_of_2025",
     "image": ""
-  }
-},
-"operation-valid-pretext": {
-    "title": "Operation Valid Pretext",
-    "category": "History",
-    "description": "Operation Valid Pretext was a multi-phase Super Earth campaign launched in February 2186 to invade Cyberstan and prevent the Automaton Legion from developing a planet-destroying weapon using stolen Star of Peace plans. The operation culminated in the liberation campaign for Cyberstan.",
-    "source": "https://helldivers.wiki.gg/wiki/Operation_Valid_Pretext",
-    "image": "",
-    "aliases": [
-      "valid pretext",
-      "operation valid pretext"
-    ]
-  }
+  },
+  "operation-valid-pretext": {
+      "title": "Operation Valid Pretext",
+      "category": "History",
+      "description": "Operation Valid Pretext was a multi-phase Super Earth campaign launched in February 2186 to invade Cyberstan and prevent the Automaton Legion from developing a planet-destroying weapon using stolen Star of Peace plans. The operation culminated in the liberation campaign for Cyberstan.",
+      "source": "https://helldivers.wiki.gg/wiki/Operation_Valid_Pretext",
+      "image": "",
+      "aliases": [
+        "valid pretext",
+        "operation valid pretext"
+      ]
+   }
 }
+  
