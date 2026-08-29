@@ -1,0 +1,30 @@
+{
+  "malevelon-creek": {
+    "title": "Malevelon Creek",
+    "category": "Planet",
+    "description": "Malevelon Creek is an ionic jungle world in the Severin Sector that became one of the most famous battlefields of the Second Galactic War. Early in the war, Helldivers repeatedly fought Automaton forces there despite difficult conditions and limited support.",
+    "source": "https://helldivers.wiki.gg/wiki/Malevelon_Creek",
+    "image": ""
+  },
+  "meridia": {
+    "title": "Meridia",
+    "category": "Planet",
+    "description": "Meridia became a Terminid Supercolony after some Terminids adapted to the Termicide used by Super Earth. The planet was eventually destroyed using Dark Fluid, collapsing it into the Meridian Black Hole.",
+    "source": "https://helldivers.wiki.gg/wiki/Meridia",
+    "image": ""
+  },
+  "cyberstan": {
+    "title": "Cyberstan",
+    "category": "Planet",
+    "description": "Cyberstan is the historic homeworld of the Cyborgs and a major location in the conflict surrounding the Automatons and Super Earth.",
+    "source": "https://helldivers.wiki.gg/wiki/Cyberstan",
+    "image": ""
+  },
+  "oshaune": {
+    "title": "Oshaune",
+    "category": "Planet",
+    "description": "Oshaune is a planet in the Mirin Sector and the first Terminid Hive World discovered by Super Earth. After being hidden within the Gloom for more than a year, the planet underwent extreme Terminid terraformation, developing vast subterranean cave networks and Spore Lungs responsible for producing Gloom spores. Helldiver expeditions discovered dangerous new and returning Terminid threats on Oshaune, including the Rupture Strain, Dragonroaches, and Hive Lords. In November 2185, Oshaune was liberated and 99% of its Spore Lungs were destroyed, causing the Gloom to dramatically recede.",
+    "source": "https://helldivers.wiki.gg/wiki/Oshaune",
+    "image": ""
+  }
+}
