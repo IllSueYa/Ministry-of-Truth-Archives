@@ -96,4 +96,26 @@
     "source": "https://helldivers.wiki.gg/wiki/Element_710",
     "image": ""
   }
+},
+  "cyberstan": {
+    "title": "Cyberstan",
+    "category": "Planet",
+    "description": "Cyberstan is the historic homeworld of the Cyborgs and a major center of the Automaton and Cyborg war effort. It played a major role in the First Galactic War and later became the focus of renewed fighting during the Second Galactic War.",
+    "source": "https://helldivers.wiki.gg/wiki/Cyberstan",
+    "image": ""
+  },
+  "democracy-officer": {
+    "title": "Democracy Officer",
+    "category": "Person",
+    "description": "The Democracy Officer serves aboard the Super Destroyer beside the Galactic War table. He supports Helldiver operations while also acting as a representative of the Ministry of Truth, providing guidance and reinforcing loyalty to Managed Democracy.",
+    "source": "https://helldivers.wiki.gg/wiki/Democracy_Officer",
+    "image": ""
+  },
+  "major-orders": {
+    "title": "Major Orders",
+    "category": "History",
+    "description": "Major Orders are galaxy-wide objectives issued to the Helldiver community. They direct the strategic course of the Galactic War and may involve liberating planets, defending territory, destroying enemy forces, or completing special objectives within a limited time.",
+    "source": "https://helldivers.wiki.gg/wiki/Major_order",
+    "image": ""
+  }
 }
