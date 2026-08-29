@@ -1,4 +1,5 @@
 import 'dotenv/config';
+import lore from './lore.json' with { type: 'json' };
 import {
   Client,
   GatewayIntentBits,
@@ -40,16 +41,31 @@ client.on('interactionCreate', async interaction => {
   if (!interaction.isChatInputCommand()) return;
 
   if (interaction.commandName === 'lore') {
-    const topic = interaction.options.getString('topic', true);
+    const topic = interaction.options
+      .getString('topic', true)
+      .toLowerCase()
+      .trim();
+
+    const entry = lore[topic];
+
+    if (!entry) {
+      await interaction.reply({
+        content: `No archive entry was found for **${topic}**.`,
+        ephemeral: true,
+      });
+      return;
+    }
 
     const embed = new EmbedBuilder()
-      .setTitle('Ministry of Truth Archives')
-      .setDescription(
-        `Archive search received for **${topic}**.\n\nThe Ministry's historical database is now operational.`
-      )
+      .setTitle(entry.title)
+      .setDescription(entry.description)
       .setFooter({
         text: 'Ministry of Truth • Super Earth',
       });
+
+    if (entry.image) {
+      embed.setImage(entry.image);
+    }
 
     await interaction.reply({ embeds: [embed] });
   }
