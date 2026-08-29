@@ -11,10 +11,11 @@
     "category": "Vehicle",
     "description": "Pelican-1 is the extraction shuttle used to retrieve Helldivers from the battlefield after their mission objectives have been completed. The shuttle arrives at designated extraction zones and transports surviving Helldivers back to their Super Destroyer.",
     "source": "https://helldivers.wiki.gg/wiki/Pelican-1",
-"image": "",
-"aliases": [
-  "pelican",
-  "pelican 1",
-  "extraction shuttle"
-  ]
+    "image": "",
+    "aliases": [
+      "pelican",
+      "pelican 1",
+      "extraction shuttle"
+    ]
+  }
 }
