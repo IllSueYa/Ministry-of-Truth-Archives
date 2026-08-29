@@ -135,7 +135,7 @@ if (!lore[resolvedTopic]) {
 
 // PARTIAL SEARCH FALLBACK
 if (!lore[resolvedTopic]) {
-  const partialMatch = Object.entries(lore)
+  const partialMatches = Object.entries(lore)
     .map(([key, entry]) => {
       const normalizedTitle = normalizeSearch(entry.title);
 
@@ -161,26 +161,35 @@ if (!lore[resolvedTopic]) {
 
       return {
         key,
+        entry,
         score
       };
     })
     .filter(result => result.score > 0)
-    .sort((a, b) => b.score - a.score)[0];
+    .sort((a, b) => b.score - a.score);
 
-  if (partialMatch) {
-    resolvedTopic = partialMatch.key;
+  if (partialMatches.length === 1) {
+    resolvedTopic = partialMatches[0].key;
+  } else if (
+    partialMatches.length > 1 &&
+    partialMatches[0].score > partialMatches[1].score
+  ) {
+    resolvedTopic = partialMatches[0].key;
+  } else if (partialMatches.length > 1) {
+    const suggestions = partialMatches
+      .slice(0, 5)
+      .map(result => `• ${result.entry.title}`)
+      .join('\n');
+
+    await interaction.reply({
+      content:
+        `I found multiple archive entries matching **${rawTopic}**:\n\n${suggestions}\n\nPlease be more specific.`,
+      ephemeral: true,
+    });
+
+    return;
   }
 }
-
-const entry = lore[resolvedTopic];
-
-    if (!entry) {
-      await interaction.reply({
-        content: `No archive entry was found for **${rawTopic}**.`,
-        ephemeral: true,
-      });
-      return;
-    }
 
     const embed = new EmbedBuilder()
       .setTitle(entry.title)
