@@ -59,10 +59,12 @@ client.on('interactionCreate', async interaction => {
   if (!interaction.isChatInputCommand()) return;
 
   if (interaction.commandName === 'lore') {
-    const topic = interaction.options
-      .getString('topic', true)
-      .toLowerCase()
-      .trim();
+   const rawTopic = interaction.options
+  .getString('topic', true)
+  .toLowerCase()
+  .trim();
+
+const topic = rawTopic.replace(/\s+/g, '-');
 
  const aliases = {
   "bots": "automatons",
