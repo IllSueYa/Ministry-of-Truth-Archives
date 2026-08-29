@@ -19,7 +19,15 @@ export function loadEncyclopedia() {
     const fileContents = fs.readFileSync(filePath, 'utf8');
     const entries = JSON.parse(fileContents);
 
-    Object.assign(encyclopedia, entries);
+    for (const [key, entry] of Object.entries(entries)) {
+      if (encyclopedia[key]) {
+        throw new Error(
+          `Duplicate encyclopedia entry "${key}" found in ${file}`
+        );
+      }
+
+      encyclopedia[key] = entry;
+    }
   }
 
   return encyclopedia;
