@@ -1,5 +1,5 @@
 import 'dotenv/config';
-import lore from './lore.json' with { type: 'json' };
+import lore from '../lore.json' with { type: 'json' };
 import {
   Client,
   GatewayIntentBits,
