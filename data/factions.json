@@ -1,1 +1,30 @@
-{}
+{
+  "automatons": {
+    "title": "Automatons",
+    "category": "Faction",
+    "description": "The Automatons are a machine civilization and one of Super Earth's primary enemies during the Second Galactic War. They field heavily armed infantry, armored vehicles, aircraft, artillery, and massive war machines while operating with a clear military hierarchy and strategic objectives. Their connection to the Cyborgs of Cyberstan and references uncovered in Automaton intelligence have made their origins one of the most important mysteries of the current Galactic War.",
+    "source": "https://helldivers.wiki.gg/wiki/Automatons",
+    "image": ""
+  },
+  "terminids": {
+    "title": "Terminids",
+    "category": "Faction",
+    "description": "The Terminids are a rapidly reproducing alien species that spread through enormous swarms and biological infestations. Super Earth has long exploited the species as a source of Element 710, but repeated containment failures and genetic manipulation have contributed to increasingly dangerous mutations. During the Second Galactic War, Terminid populations expanded across the eastern galaxy and later evolved dramatically within the Gloom.",
+    "source": "https://helldivers.wiki.gg/wiki/Terminids",
+    "image": ""
+  },
+  "illuminate": {
+    "title": "Illuminate",
+    "category": "Faction",
+    "description": "The Illuminate are an advanced alien civilization first encountered during the First Galactic War. Super Earth declared them defeated and driven from the galaxy, but surviving Illuminate forces returned during the Second Galactic War through the Meridian Wormhole. Their technology includes energy weapons, shields, teleportation, mind control, advanced spacecraft, and biological conversion of human populations into Voteless.",
+    "source": "https://helldivers.wiki.gg/wiki/Illuminate",
+    "image": ""
+  },
+  "cyborgs": {
+    "title": "Cyborgs",
+    "category": "Faction",
+    "description": "The Cyborgs are a technologically modified human faction that rebelled against Super Earth and established their center of power on Cyberstan. They fought Super Earth during the First Galactic War and were defeated, after which surviving Cyborg populations were placed under Federation control. Their relationship with the later Automaton civilization remains a major part of the history surrounding Cyberstan and the western Galactic War.",
+    "source": "https://helldivers.wiki.gg/wiki/Cyborgs",
+    "image": ""
+  }
+}
