@@ -1,0 +1,37 @@
+{
+  "vessel-00": {
+    "title": "Vessel 00",
+    "category": "Automaton History",
+    "description": "Vessel 00 is a mysterious spacecraft connected to the origins of the Automatons. Intelligence recovered from Database One revealed that the vessel departed Cyberstan in 2180, four years before the beginning of the Second Galactic War. Its destination and cargo records were erased, while Automaton records refer to Vessel 00 as their 'seed' or 'origin,' making it one of the most important clues concerning the true origin of the Automaton Legion.",
+    "source": "https://helldivers.wiki.gg/wiki/Automatons",
+    "image": ""
+  },
+  "database-one": {
+    "title": "Database One",
+    "category": "Automaton Intelligence",
+    "description": "Database One was the codename for a massive and heavily encrypted Automaton Data Center located on Wasat. Helldivers fought through Wezen and Vega Bay to reach Wasat and successfully captured the facility in June 2184. The enormous archive revealed information about an Automaton terraforming project on Cyberstan and contained repeated references to several mysterious subjects, including Vessel 00, Nucleus, and The Final Collective. Much of the recovered information remained encrypted and required extensive analysis by Super Earth.",
+    "source": "https://helldivers.wiki.gg/wiki/Database_One",
+    "image": ""
+  },
+  "nucleus": {
+    "title": "Nucleus",
+    "category": "Classified Automaton Intelligence",
+    "description": "Nucleus is a mysterious term repeatedly discovered within the encrypted files of Database One. In October 2185, Super Earth located an encryption key on Aesir Pass that could have unlocked the Nucleus files. Helldivers instead secured the competing Vessel 00 encryption key on Menkent, causing the Nucleus data to be lost. The true nature and significance of Nucleus therefore remain unknown.",
+    "source": "https://helldivers.wiki.gg/wiki/Database_One",
+    "image": ""
+  },
+  "the-final-collective": {
+    "title": "The Final Collective",
+    "category": "Classified Automaton Intelligence",
+    "description": "The Final Collective is a mysterious term recovered from Database One, the massive Automaton data center captured on Wasat. It appeared repeatedly alongside other classified subjects including Vessel 00 and Nucleus. Unlike Vessel 00, no confirmed intelligence has yet revealed what The Final Collective actually refers to. Its identity, purpose, and significance remain unknown.",
+    "source": "https://helldivers.wiki.gg/wiki/Database_One",
+    "image": ""
+  },
+  "jet-brigade": {
+    "title": "Jet Brigade",
+    "category": "Automaton Division",
+    "description": "The Jet Brigade is a specialized Automaton assault division equipped with reverse-engineered jump-pack technology. Designed as a rapid invasion force, the Brigade uses its enhanced mobility to overwhelm planets before moving on to its next target. It first appeared during the Automaton campaign to locate the Democracy Space Station project and has since returned in multiple offensives. Later versions of the Jet Brigade expanded beyond infantry to include jump-pack-equipped Devastators and Hulks.",
+    "source": "https://helldivers.wiki.gg/wiki/Jet_Brigade",
+    "image": ""
+  }
+}
