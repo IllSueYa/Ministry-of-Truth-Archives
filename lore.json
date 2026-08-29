@@ -1,26 +1,4 @@
-{
-  "automatons": {
-    "title": "Automatons",
-    "category": "Faction",
-    "description": "The Automatons are a machine faction hostile to Super Earth. They field heavily armored infantry, walkers, tanks, industrial war machines, and large-scale invasion forces across the Galactic War.",
-    "source": "https://helldivers.wiki.gg/wiki/Automatons",
-    "image": ""
-  },
-  "terminids": {
-    "title": "Terminids",
-    "category": "Faction",
-    "description": "The Terminids are a rapidly reproducing insectoid species that have repeatedly threatened Super Earth-controlled worlds. They are also closely tied to the production of Element 710.",
-    "source": "https://helldivers.wiki.gg/wiki/Terminids",
-    "image": ""
-  },
-  "illuminate": {
-    "title": "Illuminate",
-    "category": "Faction",
-    "description": "The Illuminate are an advanced alien civilization known for highly sophisticated technology, energy weapons, teleportation, and other abilities far beyond ordinary human technology.",
-    "source": "https://helldivers.wiki.gg/wiki/Illuminate",
-    "image": ""
-  },
-  "super-earth": {
+ "super-earth": {
     "title": "Super Earth",
     "category": "Government",
     "description": "Super Earth is the center of the Federation and the governing power behind the Helldivers, SEAF, and humanity's expansion throughout the galaxy.",
@@ -32,13 +10,6 @@
     "category": "Government",
     "description": "Managed Democracy is Super Earth's computerized voting system. Citizens answer questions and an algorithm determines which candidates best represent their choices, which Super Earth presents as eliminating the uncertainty of older democratic systems.",
     "source": "https://helldivers.wiki.gg/wiki/Managed_Democracy",
-    "image": ""
-  },
-  "cyborgs": {
-    "title": "Cyborgs",
-    "category": "Faction",
-    "description": "The Cyborgs originated as former Super Earth citizens who attempted to secede from the Federation. After their defeat, they were forced into labor on Cyberstan. Their history is closely connected to the later rise of the Automatons.",
-    "source": "https://helldivers.wiki.gg/wiki/Cyborgs",
     "image": ""
   },
   "malevelon-creek": {
