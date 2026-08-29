@@ -55,5 +55,347 @@
       "incineration corps",
       "ic"
     ]
-  }
+  },
+  "trooper": {
+  "title": "Trooper",
+  "category": "Automaton",
+  "description": "The Trooper is a light Automaton infantry unit and one of the most common soldiers fielded by the Automaton Legion. Armed with a Fusion SMG and explosive grenades, Troopers patrol Automaton territory, defend outposts and objectives, deploy from Fabricators and Bot Drops, and can call for reinforcements using a flare launcher. Specialized variants have also been deployed by forces such as the Jet Brigade and Incineration Corps.",
+  "source": "https://helldivers.wiki.gg/wiki/Trooper",
+  "image": "",
+  "aliases": [
+    "automaton trooper",
+    "bot trooper",
+    "troopers"
+  ]
+},
+  "commissar": {
+  "title": "Commissar",
+  "category": "Automaton",
+  "description": "The Commissar is a light Automaton squad leader commonly found leading patrols and guarding Automaton positions. Armed with a Fusion Pistol, Heat Blade, and grenades, it can engage Helldivers at both ranged and close quarters. Commissars can also launch signal flares to summon Bot Drop reinforcements. The Jet Brigade fields a specialized Commissar variant equipped with a jump pack.",
+  "source": "https://helldivers.wiki.gg/wiki/Commissar",
+  "image": "",
+  "aliases": [
+    "automaton commissar",
+    "bot commissar",
+    "commissars"
+  ]
+},
+  "brawler": {
+  "title": "Brawler",
+  "category": "Automaton",
+  "description": "The Brawler is a light Automaton infantry unit specialized for close-quarters combat. Armed with twin Heat Blades, Brawlers aggressively advance on Helldivers and attack once they reach melee range. They can appear in patrols, Bot Drops, Automaton Outposts, objectives, and emerge from Automaton Fabricators. Like other light Automatons, Brawlers can also launch signal flares to call in Bot Drop reinforcements.",
+  "source": "https://helldivers.wiki.gg/wiki/Brawler",
+  "image": "",
+  "aliases": [
+    "automaton brawler",
+    "bot brawler",
+    "brawlers"
+  ]
+},
+  "rocket-raider": {
+  "title": "Rocket Raider",
+  "category": "Automaton",
+  "description": "The Rocket Raider is a light Automaton infantry unit equipped with a Portable Launcher firing explosive rockets. It typically engages Helldivers from medium to long range, firing a rocket before reloading and repositioning away from approaching enemies. Rocket Raiders can appear in patrols, Bot Drops, Automaton Outposts, objectives, and Fabricators, and can launch signal flares to call for Bot Drop reinforcements. The Incineration Corps also fields a specialized incendiary variant equipped with a Portable Fusion Cannon.",
+  "source": "https://helldivers.wiki.gg/wiki/Rocket_Raider",
+  "image": "",
+  "aliases": [
+    "rocket raider",
+    "automaton rocket raider",
+    "bot rocket raider",
+    "rocket trooper"
+  ]
+},
+  "marauder": {
+  "title": "Marauder",
+  "category": "Automaton",
+  "description": "The Marauder is a reinforced light Automaton infantry unit and a more heavily protected variant of the Trooper. Armed with a Fusion SMG and explosive grenades, Marauders engage Helldivers with five-round bursts while attempting to maintain distance from approaching targets. They can deploy from Bot Drops and Fabricators, patrol Automaton territory, guard objectives and outposts, and launch signal flares to summon Bot Drop reinforcements.",
+  "source": "https://helldivers.wiki.gg/wiki/Marauder",
+  "image": "",
+  "aliases": [
+    "automaton marauder",
+    "bot marauder",
+    "marauders"
+  ]
+},
+  "mg-raider": {
+  "title": "MG Raider",
+  "category": "Automaton",
+  "description": "The MG Raider is a reinforced light Automaton infantry unit equipped with a Light Fusion Repeater, explosive grenades, and a volatile backpack-mounted power supply. It delivers sustained suppressive fire at medium range and can call in Bot Drop reinforcements using a signal flare. Damaging its power backpack can cause a violent explosion capable of killing the MG Raider and damaging nearby units. The Jet Brigade also fields a specialized MG Raider variant equipped with a jump pack.",
+  "source": "https://helldivers.wiki.gg/wiki/MG_Raider",
+  "image": "",
+  "aliases": [
+    "mg raider",
+    "automaton mg raider",
+    "machine gun raider",
+    "bot mg raider"
+  ]
+},
+  "berserker": {
+  "title": "Berserker",
+  "category": "Automaton",
+  "description": "The Berserker is a durable, medium-sized Automaton designed for close-quarters combat. Equipped with a Meatsaw on each arm, it relentlessly advances toward Helldivers to attack at melee range. Berserkers commonly deploy in groups through Bot Drops, patrols, Automaton Outposts, and objectives, where their durability and aggressive pursuit can force Helldivers out of defensive positions.",
+  "source": "https://helldivers.wiki.gg/wiki/Berserker",
+  "image": "",
+  "aliases": [
+    "automaton berserker",
+    "bot berserker",
+    "chainsaw bot",
+    "berserkers"
+  ]
+},
+  "devastator": {
+  "title": "Devastator",
+  "category": "Automaton",
+  "description": "The Devastator is a medium-armored Automaton infantry unit equipped with a double-barreled Fusion Assault Cannon. It steadily advances while firing bursts at Helldivers and can use powerful melee attacks at close range. Devastators appear in patrols, Bot Drops, Automaton Outposts, and objectives, and can also be deployed directly from the undercarriage of a Factory Strider. The standard Devastator design serves as the basis for several specialized variants, including the Heavy Devastator and Rocket Devastator.",
+  "source": "https://helldivers.wiki.gg/wiki/Devastator",
+  "image": "",
+  "aliases": [
+    "automaton devastator",
+    "bot devastator",
+    "devastators"
+  ]
+},
+  "heavy-devastator": {
+  "title": "Heavy Devastator",
+  "category": "Automaton",
+  "description": "The Heavy Devastator is a medium Automaton and specialized variant of the Devastator equipped with a rapid-firing Fusion Repeater and a large ballistic shield. It steadily advances while unleashing sustained volleys of fire, using its shield to block incoming attacks and bash nearby Helldivers. Heavy Devastators can appear in patrols, Bot Drops, Automaton Outposts, objectives, and Minor Places of Interest.",
+  "source": "https://helldivers.wiki.gg/wiki/Heavy_Devastator",
+  "image": "",
+  "aliases": [
+    "heavy devastator",
+    "automaton heavy devastator",
+    "shield devastator",
+    "shield bot"
+  ]
+},
+  "rocket-devastator": {
+  "title": "Rocket Devastator",
+  "category": "Automaton",
+  "description": "The Rocket Devastator is a medium Automaton and specialized variant of the Devastator equipped with shoulder-mounted Rocket Pods and a double-barreled Fusion Assault Cannon. It attacks Helldivers with four-rocket salvos capable of striking targets behind cover while using its arm cannon between volleys. Rocket Devastators carry a limited supply of rockets and can reload their Rocket Pods once before relying entirely on their Fusion Assault Cannon. They commonly appear in patrols, Bot Drops, Automaton Outposts, objectives, and Minor Places of Interest.",
+  "source": "https://helldivers.wiki.gg/wiki/Rocket_Devastator",
+  "image": "",
+  "aliases": [
+    "rocket devastator",
+    "automaton rocket devastator",
+    "missile devastator",
+    "rocket bot"
+  ]
+},
+  "scout-strider": {
+  "title": "Scout Strider",
+  "category": "Automaton",
+  "description": "The Scout Strider is an armored Automaton reconnaissance walker operated by a single Trooper. Armed with a Heavy Fusion Repeater, it advances rapidly on Helldivers and fires three-round bursts while its frontal armor protects the pilot from small-arms fire. Scout Striders appear in patrols, Bot Drops, Automaton Outposts, objectives, and Minor Places of Interest. On the highest difficulties, they are replaced by the more heavily armored Reinforced Scout Strider.",
+  "source": "https://helldivers.wiki.gg/wiki/Scout_Strider",
+  "image": "",
+  "aliases": [
+    "scout strider",
+    "automaton scout strider",
+    "bot walker",
+    "walker"
+  ]
+},
+  "reinforced-scout-strider": {
+  "title": "Reinforced Scout Strider",
+  "category": "Automaton",
+  "description": "The Reinforced Scout Strider is an upgraded and significantly more dangerous variant of the Scout Strider. Its Trooper pilot is completely enclosed by additional armor, eliminating the exposed pilot weakness of the standard model. It is armed with a Heavy Fusion Repeater and four heavy rockets capable of inflicting devastating explosive damage. Reinforced Scout Striders begin appearing on Impossible difficulty, replacing standard Scout Striders, and can be encountered in patrols, Bot Drops, Automaton Outposts, objectives, and Minor Places of Interest.",
+  "source": "https://helldivers.wiki.gg/wiki/Reinforced_Scout_Strider",
+  "image": "",
+  "aliases": [
+    "reinforced scout strider",
+    "armored scout strider",
+    "rocket strider",
+    "rocket scout strider",
+    "reinforced strider"
+  ]
+},
+  "hulk": {
+  "title": "Hulk",
+  "category": "Automaton",
+  "description": "Hulks are large, heavily armored Automaton war machines built to deliver overwhelming heavy firepower. Rather than representing a single weapon configuration, the Hulk chassis is fielded in several specialized variants, including the Hulk Bruiser, Hulk Scorcher, and Hulk Obliterator. Additional modified Hulks are deployed by Automaton subfactions such as the Jet Brigade and Incineration Corps.",
+  "source": "https://helldivers.wiki.gg/wiki/Hulk",
+  "image": "",
+  "aliases": [
+    "hulk",
+    "automaton hulk",
+    "bot hulk",
+    "hulks"
+  ]
+},
+  "hulk-bruiser": {
+  "title": "Hulk Bruiser",
+  "category": "Automaton",
+  "description": "The Hulk Bruiser is a heavily armored Automaton war machine built for ranged combat. It carries a Fusion Autocannon on one arm and a Rotary Munition Launcher on the other, allowing it to unleash sustained cannon fire and seven-rocket salvos at Helldivers. Hulk Bruisers can appear in patrols, Bot Drops, Automaton Outposts, objectives, Minor Places of Interest, and Bulk Fabricators. On planets controlled by the Jet Brigade, they are replaced by a specialized variant equipped with a Heavy Jump Pack.",
+  "source": "https://helldivers.wiki.gg/wiki/Hulk_Bruiser",
+  "image": "",
+  "aliases": [
+    "hulk bruiser",
+    "automaton hulk bruiser",
+    "bruiser hulk",
+    "bruiser"
+  ]
+},
+  "hulk-scorcher": {
+  "title": "Hulk Scorcher",
+  "category": "Automaton",
+  "description": "The Hulk Scorcher is a heavily armored Automaton war machine specialized for close-quarters combat. It is armed with a Heavy Flamethrower on its left arm and a Heavy Rotary Saw on its right, aggressively pursuing Helldivers before sweeping them with fire or attacking at melee range. Hulk Scorchers can appear in patrols, Bot Drops, Automaton Outposts, objectives, Minor Places of Interest, and Bulk Fabricators. On Jet Brigade-controlled planets, they are replaced by a specialized variant equipped with a Heavy Jump Pack.",
+  "source": "https://helldivers.wiki.gg/wiki/Hulk_Scorcher",
+  "image": "",
+  "aliases": [
+    "hulk scorcher",
+    "automaton hulk scorcher",
+    "scorcher hulk",
+    "flamethrower hulk"
+  ]
+},
+  "hulk-obliterator": {
+  "title": "Hulk Obliterator",
+  "category": "Automaton",
+  "description": "The Hulk Obliterator is a heavily armored Automaton war machine specialized for rocket bombardment. It carries a Revolving Munition Launcher on each arm and alternates between them to fire three-rocket salvos at Helldivers. Unlike other Hulk variants, the Obliterator is encountered specifically during Eliminate Automaton Hulks missions on Medium difficulty, where it serves as the mission's designated Hulk target.",
+  "source": "https://helldivers.wiki.gg/wiki/Hulk_Obliterator",
+  "image": "",
+  "aliases": [
+    "hulk obliterator",
+    "automaton hulk obliterator",
+    "obliterator hulk",
+    "obliterator",
+    "rocket hulk"
+  ]
+},
+  "hulk-firebomber": {
+  "title": "Hulk Firebomber",
+  "category": "Automaton",
+  "description": "The Hulk Firebomber is a heavily modified Hulk fielded by the Incineration Corps. Built around incendiary warfare, it carries a Rotary Phosphorus Launcher and Heavy Flamethrower. The Firebomber can launch phosphorus shells over terrain and cover, creating lingering areas of fire before closing the distance and attacking with its flamethrower. It appears on Incineration Corps-controlled battlefields beginning on Challenging difficulty.",
+  "source": "https://helldivers.wiki.gg/wiki/Hulk_Firebomber",
+  "image": "",
+  "aliases": [
+    "hulk firebomber",
+    "firebomber",
+    "firebomber hulk",
+    "incineration corps hulk",
+    "flame hulk"
+  ]
+},
+"annihilator-tank": {
+  "title": "Annihilator Tank",
+  "category": "Automaton",
+  "description": "The Annihilator Tank is a massive armored Automaton combat vehicle equipped with a Fusion Battle Cannon, coaxial Fusion Cycler, and hull-mounted Heavy Fusion Repeater. It combines devastating long-range cannon fire with rapid fusion weaponry and can appear in patrols, Bot Drops, Automaton Outposts, Fortresses, and other defended positions. The Annihilator serves as the basis for several specialized Automaton tank variants.",
+  "source": "https://helldivers.wiki.gg/wiki/Annihilator_Tank",
+  "image": "",
+  "aliases": [
+    "annihilator tank",
+    "automaton tank",
+    "bot tank",
+    "annihilator"
+  ]
+},
+"shredder-tank": {
+  "title": "Shredder Tank",
+  "category": "Automaton",
+  "description": "The Shredder Tank is an Automaton tank variant that replaces the Annihilator Tank's main cannon with a quad-linked Heavy Fusion Cycler turret. Designed to overwhelm infantry with sustained fire, it can unleash short precision bursts or sweep its weapons across an area. Shredder Tanks can deploy through Bot Drops, patrol Automaton territory, and guard Outposts, Fortresses, and other strategic positions.",
+  "source": "https://helldivers.wiki.gg/wiki/Shredder_Tank",
+  "image": "",
+  "aliases": [
+    "shredder tank",
+    "automaton shredder tank",
+    "shredder",
+    "machine gun tank"
+  ]
+},
+"barrager-tank": {
+  "title": "Barrager Tank",
+  "category": "Automaton",
+  "description": "The Barrager Tank, also known as the Rocket Tank, is an Automaton tank variant armed with a Heavy Multiple Rocket Launch System. It fires three-rocket volleys directly at nearby Helldivers or raises its launcher to bombard more distant targets like mobile artillery. Barrager Tanks begin appearing on Suicide Mission difficulty and may replace Annihilator or Shredder Tanks in high-intensity Automaton operations.",
+  "source": "https://helldivers.wiki.gg/wiki/Barrager_Tank",
+  "image": "",
+  "aliases": [
+    "barrager tank",
+    "rocket tank",
+    "automaton rocket tank",
+    "barrager",
+    "missile tank"
+  ]
+},
+"gunship": {
+  "title": "Gunship",
+  "category": "Automaton",
+  "description": "The Gunship is a flying Automaton combat vehicle armed with a Heavy Fusion Cycler and rockets. Gunships maneuver above the battlefield while tracking and attacking Helldivers from the air. They are primarily produced by Gunship Facilities and can also appear in aerial patrols under certain battlefield conditions. Their combination of mobility, rockets, and sustained fusion fire makes them one of the Automaton Legion's principal aerial threats.",
+  "source": "https://helldivers.wiki.gg/wiki/Gunship",
+  "image": "",
+  "aliases": [
+    "automaton gunship",
+    "bot gunship",
+    "gun ship",
+    "automaton aircraft"
+  ]
+},
+  "factory-strider": {
+  "title": "Factory Strider",
+  "category": "Automaton",
+  "description": "The Factory Strider is a massive quadrupedal Automaton war machine that combines heavy firepower with the ability to manufacture troops directly on the battlefield. It is armed with twin Fusion Gatling Guns and a Fusion Repeater Cannon capable of firing explosive three-round bursts. The Factory Strider periodically deploys squads of Devastators from its underside, effectively functioning as both a heavily armored combat vehicle and a mobile Automaton factory.",
+  "source": "https://helldivers.wiki.gg/wiki/Factory_Strider",
+  "image": "",
+  "aliases": [
+    "factory strider",
+    "automaton factory strider",
+    "factory walker",
+    "big strider",
+    "at-at"
+  ]
+},
+"dropship": {
+  "title": "Dropship",
+  "category": "Automaton",
+  "description": "The Dropship is an unarmed Automaton transport aircraft responsible for rapidly deploying reinforcements during Bot Drops. When Automaton forces successfully call for assistance, Dropships arrive carrying infantry, walkers, Hulks, tanks, and even Factory Striders depending on the reinforcement group. The aircraft itself carries no offensive weapons and exists primarily to transport Automaton units directly onto the battlefield.",
+  "source": "https://helldivers.wiki.gg/wiki/Dropship",
+  "image": "",
+  "aliases": [
+    "automaton dropship",
+    "bot dropship",
+    "drop ship",
+    "bot drop ship"
+  ]
+},
+"gunship-facility": {
+  "title": "Gunship Facility",
+  "category": "Automaton Structure",
+  "description": "The Gunship Facility is a heavily fortified Automaton production structure dedicated to manufacturing Gunships. While operational, each facility continuously launches additional Gunships whenever Helldivers remain nearby, allowing the number of hostile aircraft to rapidly increase. Helldivers encounter Gunship Facilities as optional objectives and must demolish the structures with sufficiently powerful explosives such as a Hellbomb.",
+  "source": "https://helldivers.wiki.gg/wiki/Gunship_Facility",
+  "image": "",
+  "aliases": [
+    "gunship facility",
+    "automaton gunship facility",
+    "gunship fabricator",
+    "gunship factory",
+    "gunship tower"
+  ]
+},
+"automaton-fabricator": {
+  "title": "Automaton Fabricator",
+  "category": "Automaton Structure",
+  "description": "The Automaton Fabricator is a production structure found throughout Automaton Outposts. Standard Fabricators continuously deploy Troopers and their variants until their available forces are exhausted or the structure is destroyed. Larger Bulk Fabricators found in urban Automaton positions can manufacture substantially heavier units, including Devastators, Berserkers, Scout Striders, Hulks, tanks, and War Striders.",
+  "source": "https://helldivers.wiki.gg/wiki/Automaton_Fabricator",
+  "image": "",
+  "aliases": [
+    "automaton fabricator",
+    "bot fabricator",
+    "fabricator",
+    "bot factory",
+    "light fabricator",
+    "bulk fabricator"
+  ]
+},
+"stratagem-jammer": {
+  "title": "Stratagem Jammer",
+  "category": "Automaton Structure",
+  "description": "The Stratagem Jammer is an Automaton electronic warfare installation designed to prevent Helldivers from calling most Stratagems within its area of influence. Its jamming field extends approximately 150 meters and can prevent access to vital support such as weapons, airstrikes, orbital attacks, resupply, and manually called reinforcements. Helldivers can infiltrate the installation and use its terminal to temporarily disable the jammer before destroying the structure.",
+  "source": "https://helldivers.wiki.gg/wiki/Stratagem_Jammer",
+  "image": "",
+  "aliases": [
+    "stratagem jammer",
+    "automaton jammer",
+    "bot jammer",
+    "jammer",
+    "stratagem blocker"
+  ]
 }
+  
