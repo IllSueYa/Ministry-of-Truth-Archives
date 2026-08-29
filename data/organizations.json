@@ -1,0 +1,16 @@
+{
+  "helldivers": {
+    "title": "Helldivers",
+    "category": "Organization",
+    "description": "Helldivers are elite soldiers deployed by Super Earth to conduct high-risk missions across hostile worlds. They are launched from orbit aboard Super Destroyers and are expected to complete objectives under extreme battlefield conditions in service of Managed Democracy.",
+    "source": "https://helldivers.wiki.gg/wiki/Helldivers",
+    "image": ""
+  },
+  "seaf": {
+    "title": "Super Earth Armed Forces (SEAF)",
+    "category": "Organization",
+    "description": "The Super Earth Armed Forces, commonly known as SEAF, are the conventional military forces of Super Earth. They defend Federation territory, operate military installations, and fight alongside the Helldivers throughout the Galactic War.",
+    "source": "https://helldivers.wiki.gg/wiki/Super_Earth_Armed_Forces",
+    "image": ""
+  }
+}
