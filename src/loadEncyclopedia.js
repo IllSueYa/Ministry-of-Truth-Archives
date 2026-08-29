@@ -28,7 +28,7 @@ export function loadEncyclopedia() {
       );
     }
 
-    for (const [key, entry] of Object.entries(entries)) {
+  for (const [key, entry] of Object.entries(entries)) {
   if (!entry || typeof entry !== 'object') {
     throw new Error(
       `Invalid encyclopedia entry "${key}" in ${file}`
@@ -64,8 +64,8 @@ export function loadEncyclopedia() {
   }
 
   encyclopedia[key] = entry;
-}
   }
+}
 
   return encyclopedia;
 }
