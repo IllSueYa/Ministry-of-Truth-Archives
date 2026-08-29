@@ -4,7 +4,11 @@
     "category": "Vehicle",
     "description": "The Super Destroyer is the orbital warship assigned to a Helldiver. It serves as a mobile command center and provides orbital support, equipment deployment, reinforcements, and transportation between operations.",
     "source": "https://helldivers.wiki.gg/wiki/Super_Destroyer",
-    "image": ""
+"image": "",
+"aliases": [
+  "super destroyer",
+  "destroyer"
+]
   },
   "pelican-1": {
     "title": "Pelican-1",
