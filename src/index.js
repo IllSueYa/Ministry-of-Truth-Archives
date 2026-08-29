@@ -86,7 +86,6 @@ const topic = rawTopic.replace(/\s+/g, '-');
  "malevelon creek": "malevelon-creek",
   "managed democracy": "managed-democracy",
   "super earth": "super-earth",
-"super earth armed forces": "seaf"
 };
 
 let resolvedTopic = aliases[topic] || topic;
