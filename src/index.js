@@ -1,12 +1,5 @@
 import 'dotenv/config';
 import { loadEncyclopedia } from './loadEncyclopedia.js';
-
-function normalizeSearch(value) {
-  return value
-    .toLowerCase()
-    .trim()
-    .replace(/\s+/g, '-');
-}
 import {
   Client,
   GatewayIntentBits,
@@ -15,6 +8,15 @@ import {
   SlashCommandBuilder,
   EmbedBuilder,
 } from 'discord.js';
+
+const lore = loadEncyclopedia();
+
+function normalizeSearch(value) {
+  return value
+    .toLowerCase()
+    .trim()
+    .replace(/\s+/g, '-');
+}
 
 const client = new Client({
   intents: [GatewayIntentBits.Guilds],
@@ -25,12 +27,12 @@ const commands = [
     .setName('lore')
     .setDescription('Search the Ministry of Truth Archives')
     .addStringOption(option =>
-  option
-    .setName('topic')
-    .setDescription('What would you like to learn about?')
-    .setRequired(true)
-    .setAutocomplete(true)
-)
+      option
+        .setName('topic')
+        .setDescription('What would you like to learn about?')
+        .setRequired(true)
+        .setAutocomplete(true)
+    )
 ];
 
 client.once('ready', async () => {
@@ -46,99 +48,107 @@ client.once('ready', async () => {
 });
 
 client.on('interactionCreate', async interaction => {
- if (interaction.isAutocomplete()) {
-  const focused = interaction.options
-    .getFocused()
-    .toLowerCase()
-    .trim();
 
-  const normalizedFocused = normalizeSearch(focused);
+  // AUTOCOMPLETE
+  if (interaction.isAutocomplete()) {
+    const focused = interaction.options
+      .getFocused()
+      .toLowerCase()
+      .trim();
 
-  const choices = Object.entries(lore)
-  .filter(([key, entry]) => {
-    const matchesKey = key.includes(normalizedFocused);
-    const matchesTitle = entry.title.toLowerCase().includes(focused);
+    const normalizedFocused = normalizeSearch(focused);
 
-    const matchesAlias =
-      Array.isArray(entry.aliases) &&
-      entry.aliases.some(alias =>
-        normalizeSearch(alias) === topic
-      );
+    const choices = Object.entries(lore)
+      .filter(([key, entry]) => {
+        const matchesKey =
+          key.includes(normalizedFocused);
 
-    return matchesKey || matchesTitle || matchesAlias;
-  })
-    .slice(0, 25)
-    .map(([key, entry]) => ({
-      name: entry.title,
-      value: key
-    }));
+        const matchesTitle =
+          entry.title.toLowerCase().includes(focused);
 
-  await interaction.respond(choices);
-  return;
-}
+        const matchesAlias =
+          Array.isArray(entry.aliases) &&
+          entry.aliases.some(alias =>
+            normalizeSearch(alias).includes(normalizedFocused)
+          );
+
+        return matchesKey || matchesTitle || matchesAlias;
+      })
+      .slice(0, 25)
+      .map(([key, entry]) => ({
+        name: entry.title,
+        value: key
+      }));
+
+    await interaction.respond(choices);
+    return;
+  }
+
+  // SLASH COMMANDS
   if (!interaction.isChatInputCommand()) return;
 
   if (interaction.commandName === 'lore') {
-   const rawTopic = interaction.options
-  .getString('topic', true)
-  .toLowerCase()
-  .trim();
+    const rawTopic = interaction.options
+      .getString('topic', true);
 
-const topic = normalizeSearch(rawTopic);
+    const topic = normalizeSearch(rawTopic);
 
+    let resolvedTopic = topic;
 
-let resolvedTopic = topic;
+    // SEARCH JSON ALIASES
+    if (!lore[resolvedTopic]) {
+      const aliasMatch = Object.entries(lore).find(([key, entry]) =>
+        Array.isArray(entry.aliases) &&
+        entry.aliases.some(alias =>
+          normalizeSearch(alias) === topic
+        )
+      );
 
-if (!lore[resolvedTopic]) {
-  const aliasMatch = Object.entries(lore).find(([key, entry]) =>
-    Array.isArray(entry.aliases) &&
-    entry.aliases.some(alias =>
-      alias.toLowerCase().replace(/\s+/g, '-') === topic
-    )
-  );
+      if (aliasMatch) {
+        resolvedTopic = aliasMatch[0];
+      }
+    }
 
-  if (aliasMatch) {
-    resolvedTopic = aliasMatch[0];
-  }
-}
+    const entry = lore[resolvedTopic];
 
-const entry = lore[resolvedTopic];
     if (!entry) {
       await interaction.reply({
-        content: `No archive entry was found for **${topic}**.`,
+        content: `No archive entry was found for **${rawTopic}**.`,
         ephemeral: true,
       });
       return;
     }
 
-   const embed = new EmbedBuilder()
-  .setTitle(entry.title)
-  .setDescription(entry.description)
-  .setColor(0xD4AF37)
-  .setFooter({
-    text: 'Ministry of Truth • Super Earth',
-  });
+    const embed = new EmbedBuilder()
+      .setTitle(entry.title)
+      .setDescription(entry.description)
+      .setColor(0xD4AF37)
+      .setFooter({
+        text: 'Ministry of Truth • Super Earth',
+      });
 
-if (entry.category) {
-  embed.addFields({
-    name: 'Category',
-    value: entry.category,
-    inline: true
-  });
-}
+    if (entry.category) {
+      embed.addFields({
+        name: 'Category',
+        value: entry.category,
+        inline: true
+      });
+    }
 
-if (entry.source) {
-  embed.addFields({
-    name: 'Archive Source',
-    value: `[View Full Record](${entry.source})`
-  });
-}
+    if (entry.source) {
+      embed.addFields({
+        name: 'Archive Source',
+        value: `[View Full Record](${entry.source})`
+      });
+    }
 
     if (entry.image) {
       embed.setImage(entry.image);
     }
 
-    await interaction.reply({ embeds: [embed] });
+    await interaction.reply({
+      embeds: [embed]
+    });
   }
 });
 
