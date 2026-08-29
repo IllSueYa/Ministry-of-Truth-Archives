@@ -61,26 +61,48 @@ client.on('interactionCreate', async interaction => {
     const normalizedFocused = normalizeSearch(focused);
 
     const choices = Object.entries(lore)
-      .filter(([key, entry]) => {
-        const matchesKey =
-          key.includes(normalizedFocused);
+  .map(([key, entry]) => {
+    const normalizedTitle = normalizeSearch(entry.title);
 
-        const matchesTitle =
-           normalizeSearch(entry.title).includes(normalizedFocused);
+    const aliases = Array.isArray(entry.aliases)
+      ? entry.aliases.map(alias => normalizeSearch(alias))
+      : [];
 
-        const matchesAlias =
-          Array.isArray(entry.aliases) &&
-          entry.aliases.some(alias =>
-            normalizeSearch(alias).includes(normalizedFocused)
-          );
+    let score = 0;
 
-        return matchesKey || matchesTitle || matchesAlias;
-      })
-      .slice(0, 25)
-      .map(([key, entry]) => ({
-        name: entry.title,
-        value: key
-      }));
+    if (key === normalizedFocused) {
+      score = 100;
+    } else if (normalizedTitle === normalizedFocused) {
+      score = 95;
+    } else if (aliases.includes(normalizedFocused)) {
+      score = 90;
+    } else if (key.startsWith(normalizedFocused)) {
+      score = 80;
+    } else if (normalizedTitle.startsWith(normalizedFocused)) {
+      score = 75;
+    } else if (aliases.some(alias => alias.startsWith(normalizedFocused))) {
+      score = 70;
+    } else if (key.includes(normalizedFocused)) {
+      score = 60;
+    } else if (normalizedTitle.includes(normalizedFocused)) {
+      score = 55;
+    } else if (aliases.some(alias => alias.includes(normalizedFocused))) {
+      score = 50;
+    }
+
+    return {
+      key,
+      entry,
+      score
+    };
+  })
+  .filter(result => result.score > 0)
+  .sort((a, b) => b.score - a.score)
+  .slice(0, 25)
+  .map(({ key, entry }) => ({
+    name: entry.title,
+    value: key
+  }));
 
     await interaction.respond(choices);
     return;
