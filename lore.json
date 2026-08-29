@@ -1,22 +1,42 @@
 {
   "automatons": {
     "title": "Automatons",
-    "description": "The Automatons are a machine faction hostile to Super Earth. They field heavily armored infantry, walkers, tanks, and industrial war machines across the Galactic War.",
+    "description": "The Automatons are a machine faction hostile to Super Earth. They field heavily armored infantry, walkers, tanks, industrial war machines, and large-scale invasion forces across the Galactic War.",
     "image": ""
   },
   "terminids": {
     "title": "Terminids",
-    "description": "The Terminids are a rapidly reproducing insectoid species that threaten Super Earth-controlled worlds and are tied closely to the production of Element 710.",
+    "description": "The Terminids are a rapidly reproducing insectoid species that have repeatedly threatened Super Earth-controlled worlds. They are also closely tied to the production of Element 710.",
     "image": ""
   },
   "illuminate": {
     "title": "Illuminate",
-    "description": "The Illuminate are an advanced alien civilization known for highly sophisticated technology, energy weapons, teleportation, and psionic capabilities.",
+    "description": "The Illuminate are an advanced alien civilization known for highly sophisticated technology, energy weapons, teleportation, and other abilities far beyond ordinary human technology.",
     "image": ""
   },
   "super-earth": {
     "title": "Super Earth",
-    "description": "Super Earth is the center of Managed Democracy and the governing power behind the Helldivers, SEAF, and humanity's expansion throughout the galaxy.",
+    "description": "Super Earth is the center of the Federation and the governing power behind the Helldivers, SEAF, and humanity's expansion throughout the galaxy.",
+    "image": ""
+  },
+  "managed-democracy": {
+    "title": "Managed Democracy",
+    "description": "Managed Democracy is Super Earth's computerized voting system. Citizens answer questions and an algorithm determines which candidates best represent their choices, which Super Earth presents as eliminating the uncertainty of older democratic systems.",
+    "image": ""
+  },
+  "cyborgs": {
+    "title": "Cyborgs",
+    "description": "The Cyborgs originated as former Super Earth citizens who attempted to secede from the Federation. After their defeat, they were forced into labor on Cyberstan. Their history is closely connected to the later rise of the Automatons.",
+    "image": ""
+  },
+  "malevelon-creek": {
+    "title": "Malevelon Creek",
+    "description": "Malevelon Creek is an ionic jungle world in the Severin Sector that became one of the most famous battlefields of the Second Galactic War. Early in the war, Helldivers repeatedly fought Automaton forces there despite difficult conditions and limited support.",
+    "image": ""
+  },
+  "meridia": {
+    "title": "Meridia",
+    "description": "Meridia became a Terminid Supercolony after some Terminids adapted to the Termicide used by Super Earth. The planet was eventually destroyed using Dark Fluid, collapsing it into the Meridian Black Hole.",
     "image": ""
   }
 }
