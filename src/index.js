@@ -1,5 +1,11 @@
 import 'dotenv/config';
-import lore from '../lore.json' with { type: 'json' };
+import legacyLore from '../lore.json' with { type: 'json' };
+import { loadEncyclopedia } from './loadEncyclopedia.js';
+
+const lore = {
+  ...legacyLore,
+  ...loadEncyclopedia(),
+};
 import {
   Client,
   GatewayIntentBits,
