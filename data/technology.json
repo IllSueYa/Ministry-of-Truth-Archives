@@ -1,381 +1,335 @@
 {
   "element-710": {
-    "title": "Element 710",
-    "category": "Technology",
-    "description": "Element 710 is a strategically important resource used by Super Earth. Terminids can be processed into Element 710, making the species economically valuable to the Federation despite the enormous threat they pose.",
-    "source": "https://helldivers.wiki.gg/wiki/Element_710",
+    "title": "Element-710",
+    "category": "Strategic Resource",
+    "description": "Element-710, commonly abbreviated E-710, is an energy-dense substance produced from the oils of decomposing Terminids. It is the primary fuel used by Super Earth's faster-than-light Alcubierre Drives, powering spacecraft ranging from Super Destroyers to the Democracy Space Station. The immense strategic importance of E-710 has led Super Earth to establish a large industry dedicated to farming Terminids and harvesting the substance.",
+    "source": "https://helldivers.wiki.gg/wiki/Element-710",
     "image": "",
-"aliases": [
-  "element 710",
-  "710",
-  "e-710"
-]
+    "aliases": [
+      "element 710",
+      "element-710",
+      "e-710",
+      "e710",
+      "terminid oil"
+    ]
   },
   "democracy-space-station": {
-    "title": "Democracy Space Station (DSS)",
-    "category": "Super Earth Megastructure",
-    "description": "The Democracy Space Station is a massive Super Earth battle station designed to support Helldiver operations across the Galactic War. Its blueprints were recovered from an abandoned First Galactic War weapons laboratory on X-45, and Helldivers later secured Gaellivare as its construction site. Once operational, the DSS became a Helldiver-directed strategic weapon: Helldivers vote on where it deploys and donate resources to activate powerful Tactical Actions that support campaigns on the planet it orbits.",
+    "title": "Democracy Space Station",
+    "category": "Super Earth Space Structure",
+    "description": "The Democracy Space Station, commonly abbreviated DSS, is a massive Super Earth-controlled battle station that provides strategic support to Helldiver campaigns. Its plans were recovered from the Advanced Weapons Lab on X-45 and it was constructed in orbit of Gaellivare. Helldivers vote on its destination and donate resources to activate Tactical Actions that affect missions and the wider Galactic War.",
     "source": "https://helldivers.wiki.gg/wiki/Democracy_Space_Station",
-    "image": ""
+    "image": "",
+    "aliases": [
+      "democracy space station",
+      "dss",
+      "the dss",
+      "super earth space station"
+    ]
   },
   "star-of-peace": {
     "title": "Star of Peace",
-    "category": "Technology",
-    "description": "The Star of Peace is a powerful Super Earth weapon whose plans became a major strategic concern during the Second Galactic War. Automaton forces obtained information connected to the weapon, prompting Super Earth to launch Operation Valid Pretext and prevent the Automatons from developing their own planet-destroying capability.",
-    "source": "https://helldivers.wiki.gg/wiki/Star_of_Peace",
+    "category": "Super Earth Superweapon",
+    "description": "The Star of Peace is a major weapon system installed on the Democracy Space Station as part of Operation Free Space. Its primary weapon fires a beam of ionized Dark Fluid synthesized using E-711, with enough energy to collapse an entire planet into a conventional black hole. After resources were gathered and construction completed at Pandora Base, Helldivers voted for Penta as its inaugural target. The weapon fired successfully, destroying Penta and leaving behind a stable black hole.",
+    "source": "https://helldivers.wiki.gg/wiki/Democracy_Space_Station",
     "image": "",
     "aliases": [
       "star of peace",
-      "the star of peace"
+      "dss star of peace",
+      "dark fluid weapon",
+      "planet killer",
+      "dark fluid beam"
     ]
-  },
-  "element-e-711": {
-    "title": "Element E-711",
-    "category": "Technology",
-    "description": "Element E-711 is a substance associated with later Super Earth research and technological development during the Second Galactic War. It is distinct from Element 710 and became relevant as Super Earth continued developing new technologies in response to the escalating galactic conflict.",
-    "source": "https://helldivers.wiki.gg/wiki/Element-711",
-    "image": "",
-    "aliases": [
-      "e-711",
-      "e711",
-      "element 711",
-      "711"
-    ]
-  },
-  "star-of-peace": {
-  "title": "Star of Peace",
-  "category": "Super Earth Superweapon",
-  "description": "The Star of Peace is a major weapon system installed on the Democracy Space Station as part of Operation Free Space. Its primary weapon fires a beam of ionized Dark Fluid synthesized using E-711, with enough energy to collapse an entire planet into a conventional black hole. After resources were gathered and construction completed at Pandora Base, Helldivers voted for Penta as its inaugural target. The weapon fired successfully, destroying Penta and leaving behind a stable black hole.",
-  "source": "https://helldivers.wiki.gg/wiki/Democracy_Space_Station",
-  "image": "",
-  "aliases": [
-    "star of peace",
-    "dss star of peace",
-    "dark fluid weapon",
-    "planet killer",
-    "dark fluid beam"
-  ]
   },
   "terminid-control-system": {
-  "title": "Terminid Control System",
-  "category": "Super Earth Technology",
-  "description": "The Terminid Control System, commonly called the TCS, was a network of massive Termicide-dispensing towers constructed by SEAF engineers to quarantine the Terminid advance. Helldivers activated the system during Operation Valiant Enclosure. The plan ultimately backfired when Terminids developed resistance to Termicide and began reproducing and mutating at dramatically increased rates, contributing to the transformation of Meridia into a Terminid Supercolony.",
-  "source": "https://helldivers.wiki.gg/wiki/Terminid_Control_System",
-  "image": "",
-  "aliases": [
-    "terminid control system",
-    "tcs",
-    "termicide control system",
-    "termicide towers"
-  ]
-},
+    "title": "Terminid Control System",
+    "category": "Super Earth Technology",
+    "description": "The Terminid Control System, commonly called the TCS, was a network of massive Termicide-dispensing towers constructed by SEAF engineers to quarantine the Terminid advance. Helldivers activated the system during Operation Valiant Enclosure. The plan ultimately backfired when Terminids developed resistance to Termicide and began reproducing and mutating at dramatically increased rates, contributing to the transformation of Meridia into a Terminid Supercolony.",
+    "source": "https://helldivers.wiki.gg/wiki/Terminid_Control_System",
+    "image": "",
+    "aliases": [
+      "terminid control system",
+      "tcs",
+      "termicide control system",
+      "termicide towers"
+    ]
+  },
   "terminid-control-system-plus": {
-  "title": "Terminid Control System+",
-  "category": "Super Earth Technology",
-  "description": "The Terminid Control System+, commonly called TCS+, is a new generation of Terminid containment technology developed by Super Earth in 2186. The system uses networks of towers to dispense Termicide 2.0 on planets bordering the Terminid Gloom front. Construction began as part of Operation Celestial Fence, with the planned network intended to form a defensive barrier against further Terminid expansion.",
-  "source": "https://helldivers.wiki.gg/wiki/Terminid_Control_System%2B",
-  "image": "",
-  "aliases": [
-    "terminid control system plus",
-    "terminid control system+",
-    "tcs+",
-    "tcs plus",
-    "new terminid control system"
-  ]
-},
+    "title": "Terminid Control System+",
+    "category": "Super Earth Technology",
+    "description": "The Terminid Control System+, commonly called TCS+, is the second generation of Super Earth's Terminid containment network. Developed in 2186 after the failure of the original TCS, its planetary arrays disperse refined Termicide 2.0. The network was expanded during Operations Celestial Fence and Permanent Enclosure to form an interplanetary containment wall along the Gloom front.",
+    "source": "https://helldivers.wiki.gg/wiki/Terminid_Control_System%2B",
+    "image": "",
+    "aliases": [
+      "terminid control system plus",
+      "terminid control system+",
+      "tcs+",
+      "tcs plus",
+      "new terminid control system"
+    ]
+  },
   "termicide-2": {
-  "title": "Termicide 2.0",
-  "category": "Super Earth Technology",
-  "description": "Termicide 2.0 is a newer anti-Terminid chemical developed by Super Earth following the disastrous long-term consequences of the original Termicide. Completed in 2186, the formula was designed for deployment through the Terminid Control System+ network along the Gloom front. Super Earth intended the improved chemical and TCS+ towers to prevent further Terminid expansion into Federation territory.",
-  "source": "https://helldivers.wiki.gg/wiki/Terminid_Control_System%2B",
-  "image": "",
-  "aliases": [
-    "termicide 2.0",
-    "termicide 2",
-    "new termicide",
-    "tcs+ termicide"
-  ]
-},
+    "title": "Termicide 2.0",
+    "category": "Super Earth Technology",
+    "description": "Termicide 2.0 is a newer anti-Terminid chemical developed by Super Earth following the disastrous long-term consequences of the original Termicide. Completed in 2186, the formula was designed for deployment through the Terminid Control System+ network along the Gloom front. Super Earth intended the improved chemical and TCS+ towers to prevent further Terminid expansion into Federation territory.",
+    "source": "https://helldivers.wiki.gg/wiki/Terminid_Control_System%2B",
+    "image": "",
+    "aliases": [
+      "termicide 2.0",
+      "termicide 2",
+      "new termicide",
+      "tcs+ termicide"
+    ]
+  },
   "dark-fluid": {
-  "title": "Dark Fluid",
-  "category": "Super Earth Technology",
-  "description": "Dark Fluid is a highly classified exotic substance originally derived from Illuminate technology captured following the First Galactic War. Super Earth scientists weaponized Dark Fluid during Operation Enduring Peace to destroy the Terminid Supercolony on Meridia, where its deployment ultimately collapsed the planet into a black hole. Super Earth later learned to synthesize Dark Fluid using Element-711 recovered from Hive Worlds, allowing the substance to be used as part of the Star of Peace weapon system.",
-  "source": "https://helldivers.wiki.gg/wiki/Dark_Fluid",
-  "image": "",
-  "aliases": [
-    "dark fluid",
-    "darkfluid",
-    "illuminate dark fluid",
-    "synthesized dark fluid"
-  ]
-},
+    "title": "Dark Fluid",
+    "category": "Super Earth Technology",
+    "description": "Dark Fluid is a highly classified exotic substance originally derived from Illuminate technology captured following the First Galactic War. Super Earth scientists weaponized Dark Fluid during Operation Enduring Peace to destroy the Terminid Supercolony on Meridia, where its deployment ultimately collapsed the planet into a black hole. Super Earth later learned to synthesize Dark Fluid using Element-711 recovered from Hive Worlds, allowing the substance to be used as part of the Star of Peace weapon system.",
+    "source": "https://helldivers.wiki.gg/wiki/Dark_Fluid",
+    "image": "",
+    "aliases": [
+      "dark fluid",
+      "darkfluid",
+      "illuminate dark fluid",
+      "synthesized dark fluid"
+    ]
+  },
   "dark-fluid-vessel": {
-  "title": "Dark Fluid Vessel",
-  "category": "Super Earth Technology",
-  "description": "The Dark Fluid Vessel is a specialized backpack container designed to transport highly unstable Dark Fluid. During the operation to destroy the Meridia Supercolony, Helldivers carried these vessels to Tectonic Drills and inserted them into the equipment so Dark Fluid could be injected beneath the planet's surface. The vessel can also function as an unusually powerful jump pack, although repeated use destabilizes its contents and can eventually cause a lethal explosion.",
-  "source": "https://helldivers.wiki.gg/wiki/Dark_Fluid_Vessel",
-  "image": "",
-  "aliases": [
-    "dark fluid vessel",
-    "dark fluid backpack",
-    "dark fluid pack",
-    "meridia dark fluid vessel"
-  ]
-},
+    "title": "Dark Fluid Vessel",
+    "category": "Super Earth Technology",
+    "description": "The Dark Fluid Vessel is a specialized backpack container designed to transport highly unstable Dark Fluid. During the operation to destroy the Meridia Supercolony, Helldivers carried these vessels to Tectonic Drills and inserted them into the equipment so Dark Fluid could be injected beneath the planet's surface. The vessel can also function as an unusually powerful jump pack, although repeated use destabilizes its contents and can eventually cause a lethal explosion.",
+    "source": "https://helldivers.wiki.gg/wiki/Dark_Fluid_Vessel",
+    "image": "",
+    "aliases": [
+      "dark fluid vessel",
+      "dark fluid backpack",
+      "dark fluid pack",
+      "meridia dark fluid vessel"
+    ]
+  },
   "galactic-wide-web": {
-  "title": "Galactic Wide Web",
-  "category": "Super Earth Technology",
-  "description": "The Galactic Wide Web, commonly abbreviated as GWW, is Super Earth's galaxy-spanning communications network. It uses arrays of interlinked quantum devices to transmit information across enormous distances, allowing citizens and military personnel to receive voice communications, text, news, and official information even during deep-space travel and wartime operations. The network also supports Super Earth's Managed Democracy voting system.",
-  "source": "https://helldivers.wiki.gg/wiki/Super_Earth_Lore",
-  "image": "",
-  "aliases": [
-    "galactic wide web",
-    "gww",
-    "super earth internet",
-    "galactic web"
-  ]
-},
+    "title": "Galactic Wide Web",
+    "category": "Super Earth Technology",
+    "description": "The Galactic Wide Web, commonly abbreviated as GWW, is Super Earth's galaxy-spanning communications network. It uses arrays of interlinked quantum devices to transmit information across enormous distances, allowing citizens and military personnel to receive voice communications, text, news, and official information even during deep-space travel and wartime operations. The network also supports Super Earth's Managed Democracy voting system.",
+    "source": "https://helldivers.wiki.gg/wiki/Super_Earth_Lore",
+    "image": "",
+    "aliases": [
+      "galactic wide web",
+      "gww",
+      "super earth internet",
+      "galactic web"
+    ]
+  },
   "voting-algorithm": {
-  "title": "Voting Algorithm",
-  "category": "Super Earth Technology",
-  "description": "The Voting Algorithm is the computerized system used to implement Managed Democracy throughout the Federation of Super Earth. Instead of manually selecting a candidate, citizens answer questions at a voting terminal and the algorithm determines which candidate best corresponds to their responses. Voting terminals aboard Super Destroyers allow Helldivers to participate in this system while deployed.",
-  "source": "https://helldivers.wiki.gg/wiki/Government_of_Super_Earth",
-  "image": "",
-  "aliases": [
-    "voting algorithm",
-    "managed democracy algorithm",
-    "voting software",
-    "managed democracy voting system"
-  ]
-},
+    "title": "Voting Algorithm",
+    "category": "Super Earth Technology",
+    "description": "The Voting Algorithm is the computerized system used to implement Managed Democracy throughout the Federation of Super Earth. Instead of manually selecting a candidate, citizens answer questions at a voting terminal and the algorithm determines which candidate best corresponds to their responses. Voting terminals aboard Super Destroyers allow Helldivers to participate in this system while deployed.",
+    "source": "https://helldivers.wiki.gg/wiki/Government_of_Super_Earth",
+    "image": "",
+    "aliases": [
+      "voting algorithm",
+      "managed democracy algorithm",
+      "voting software",
+      "managed democracy voting system"
+    ]
+  },
   "seaf-artillery": {
-  "title": "SEAF Artillery",
-  "category": "Super Earth Technology",
-  "description": "SEAF Artillery is a stationary Super Earth artillery platform found on planetary battlefields. Helldivers can reactivate an artillery site by loading five available shells and establishing a connection between the platform and their Super Destroyer. Once operational, the squad gains access to five artillery strikes using the shells that were loaded. Available ammunition includes Explosive, High-Yield Explosive, Mini-Nuke, Smoke, Static Field, and Napalm shells.",
-  "source": "https://helldivers.wiki.gg/wiki/SEAF_Artillery",
-  "image": "",
-  "aliases": [
-    "seaf artillery",
-    "artillery",
-    "seaf artillery cannon",
-    "seaf artillery emplacement"
-  ]
-},
+    "title": "SEAF Artillery",
+    "category": "Super Earth Technology",
+    "description": "SEAF Artillery is a stationary Super Earth artillery platform found on planetary battlefields. Helldivers can reactivate an artillery site by loading five available shells and establishing a connection between the platform and their Super Destroyer. Once operational, the squad gains access to five artillery strikes using the shells that were loaded. Available ammunition includes Explosive, High-Yield Explosive, Mini-Nuke, Smoke, Static Field, and Napalm shells.",
+    "source": "https://helldivers.wiki.gg/wiki/SEAF_Artillery",
+    "image": "",
+    "aliases": [
+      "seaf artillery",
+      "seaf artillery cannon",
+      "seaf artillery emplacement"
+    ]
+  },
   "seaf-sam-site": {
-  "title": "SEAF SAM Site",
-  "category": "Super Earth Technology",
-  "description": "SEAF SAM Sites are surface-to-air defense installations constructed by Super Earth. Helldivers can reactivate abandoned or captured sites during operations, after which the launcher automatically engages hostile aircraft within approximately 300 meters. The system carries twenty-four missiles before exhausting its ammunition and can target threats including Automaton Dropships and Gunships as well as Illuminate Stingrays, Warp Ships, and Leviathans.",
-  "source": "https://helldivers.wiki.gg/wiki/SEAF_SAM_Site",
-  "image": "",
-  "aliases": [
-    "seaf sam site",
-    "sam site",
-    "seaf sam",
-    "surface to air missile site",
-    "surface-to-air missile site"
-  ]
-},
+    "title": "SEAF SAM Site",
+    "category": "Super Earth Technology",
+    "description": "SEAF SAM Sites are surface-to-air defense installations constructed by Super Earth. Helldivers can reactivate abandoned or captured sites during operations, after which the launcher automatically engages hostile aircraft within approximately 300 meters. The system carries twenty-four missiles before exhausting its ammunition and can target threats including Automaton Dropships and Gunships as well as Illuminate Stingrays, Warp Ships, and Leviathans.",
+    "source": "https://helldivers.wiki.gg/wiki/SEAF_SAM_Site",
+    "image": "",
+    "aliases": [
+      "seaf sam site",
+      "sam site",
+      "seaf sam",
+      "surface to air missile site",
+      "surface-to-air missile site"
+    ]
+  },
   "radar-station": {
-  "title": "Radar Station",
-  "category": "Super Earth Technology",
-  "description": "Radar Stations are Super Earth installations used to survey planetary mission areas. Helldivers can reactivate a station by raising its radar tower and correctly aligning the dish. Once operational, the station reveals enemy outposts, optional objectives, and Minor Places of Interest across the mission map. Radar Stations are sometimes labeled LiDAR Stations in the field, although this naming has been identified as an unintended inconsistency.",
-  "source": "https://helldivers.wiki.gg/wiki/Radar_Station",
-  "image": "",
-  "aliases": [
-    "radar station",
-    "lidar station",
-    "radar tower",
-    "lidar tower"
-  ]
-},
+    "title": "Radar Station",
+    "category": "Super Earth Technology",
+    "description": "Radar Stations are Super Earth installations used to survey planetary mission areas. Helldivers can reactivate a station by raising its radar tower and correctly aligning the dish. Once operational, the station reveals enemy outposts, optional objectives, and Minor Places of Interest across the mission map. Radar Stations are sometimes labeled LiDAR Stations in the field, although this naming has been identified as an unintended inconsistency.",
+    "source": "https://helldivers.wiki.gg/wiki/Radar_Station",
+    "image": "",
+    "aliases": [
+      "radar station",
+      "lidar station",
+      "radar tower",
+      "lidar tower"
+    ]
+  },
   "icbm-launch-site": {
-  "title": "ICBM Launch Site",
-  "category": "Super Earth Technology",
-  "description": "ICBM Launch Sites are fortified Super Earth missile installations containing powerful intercontinental ballistic missiles. Dormant launch sites can be reactivated by Helldivers during planetary operations and used to destroy major enemy targets at long range. Depending on the operation, these missiles have been directed against massive Automaton factories, mature Terminid hives, and Illuminate positions.",
-  "source": "https://helldivers.wiki.gg/wiki/Launch_ICBM",
-  "image": "",
-  "aliases": [
-    "icbm launch site",
-    "icbm silo",
-    "icbm",
-    "missile silo",
-    "super earth icbm"
-  ]
-},
+    "title": "ICBM Launch Site",
+    "category": "Super Earth Technology",
+    "description": "ICBM Launch Sites are fortified Super Earth missile installations containing powerful intercontinental ballistic missiles. Dormant launch sites can be reactivated by Helldivers during planetary operations and used to destroy major enemy targets at long range. Depending on the operation, these missiles have been directed against massive Automaton factories, mature Terminid hives, and Illuminate positions.",
+    "source": "https://helldivers.wiki.gg/wiki/Launch_ICBM",
+    "image": "",
+    "aliases": [
+      "icbm launch site",
+      "icbm silo",
+      "missile silo",
+      "super earth icbm"
+    ]
+  },
   "alcubierre-warp-bubble": {
-  "title": "Modified Alcubierre Warp Bubble",
-  "category": "Super Earth Technology",
-  "description": "Modified Alcubierre Warp Bubbles were developed by Super Earth scientists as a method of safely penetrating the Illuminate-created Void. Conventional travel into the anomaly had previously been impossible due to its severe spacetime effects. The breakthrough enabled Super Earth ships to enter Void-engulfed space and formed the technological basis for the assault that ultimately reached the Void Source Planet during Operation Void Piercer.",
-  "source": "https://helldivers.wiki.gg/wiki/Void_Source_Planet",
-  "image": "",
-  "aliases": [
-    "alcubierre warp bubble",
-    "modified alcubierre warp bubble",
-    "warp bubble",
-    "void warp bubble",
-    "alcubierre drive"
-  ]
-},
-  "tcs-plus-wall": {
-  "title": "TCS+ Wall",
-  "category": "Super Earth Technology",
-  "description": "The TCS+ Wall is an interplanetary containment network composed of Terminid Control System+ arrays positioned across strategically selected planets. Each array disperses Termicide 2.0 into its planet's atmosphere to prevent Terminid infestation and expansion. Construction began during Operation Celestial Fence and was extended during Operation Permanent Enclosure, producing a multi-sector defensive cordon intended to contain the Terminid Horde.",
-  "source": "https://helldivers.wiki.gg/wiki/Terminid_Control_System%2B",
-  "image": "",
-  "aliases": [
-    "tcs+ wall",
-    "tcs plus wall",
-    "terminid containment wall",
-    "termicide wall",
-    "tcs+ barrier"
-  ]
-},
-  "democracy-space-station": {
-  "title": "Democracy Space Station",
-  "category": "Super Earth Space Structure",
-  "description": "The Democracy Space Station, commonly abbreviated DSS, is a massive Super Earth-controlled space structure designed to provide strategic support to Helldiver operations. Its destination is determined through Helldiver voting, while donated resources activate powerful Tactical Actions. Plans for the station were recovered from an abandoned Advanced Weapons Lab on X-45, and the DSS was subsequently constructed in orbit of Gaellivare before entering service during the Second Galactic War.",
-  "source": "https://helldivers.wiki.gg/wiki/Democracy_Space_Station",
-  "image": "",
-  "aliases": [
-    "democracy space station",
-    "dss",
-    "the dss",
-    "super earth space station"
-  ]
-},
+    "title": "Modified Alcubierre Warp Bubble",
+    "category": "Super Earth Technology",
+    "description": "Modified Alcubierre Warp Bubbles were developed by Super Earth scientists as a method of safely penetrating the Illuminate-created Void. Conventional travel into the anomaly had previously been impossible due to its severe spacetime effects. The breakthrough enabled Super Earth ships to enter Void-engulfed space and formed the technological basis for the assault that ultimately reached the Void Source Planet during Operation Void Piercer.",
+    "source": "https://helldivers.wiki.gg/wiki/Void_Source_Planet",
+    "image": "",
+    "aliases": [
+      "alcubierre warp bubble",
+      "modified alcubierre warp bubble",
+      "warp bubble",
+      "void warp bubble"
+    ]
+  },
   "high-efficiency-alcubierre-drive": {
-  "title": "High-Efficiency Alcubierre Drive",
-  "category": "Super Earth Technology",
-  "description": "The High-Efficiency Alcubierre Drive is an advanced Super Earth faster-than-light propulsion system developed to transport enormous space structures such as the Democracy Space Station without the prohibitive E-710 consumption of conventional drives. Development was assigned to scientists at the Xenoentomology Center on Turing during construction of the DSS, allowing the completed station to redeploy between planets during the Galactic War.",
-  "source": "https://helldivers.wiki.gg/wiki/Democracy_Space_Station",
-  "image": "",
-  "aliases": [
-    "high-efficiency alcubierre drive",
-    "high efficiency alcubierre drive",
-    "dss alcubierre drive",
-    "dss warp drive",
-    "high efficiency warp drive"
-  ]
-},
+    "title": "High-Efficiency Alcubierre Drive",
+    "category": "Super Earth Technology",
+    "description": "The High-Efficiency Alcubierre Drive is an advanced Super Earth faster-than-light propulsion system developed to transport enormous space structures such as the Democracy Space Station without the prohibitive E-710 consumption of conventional drives. Development was assigned to scientists at the Xenoentomology Center on Turing during construction of the DSS, allowing the completed station to redeploy between planets during the Galactic War.",
+    "source": "https://helldivers.wiki.gg/wiki/Democracy_Space_Station",
+    "image": "",
+    "aliases": [
+      "high-efficiency alcubierre drive",
+      "high efficiency alcubierre drive",
+      "dss alcubierre drive",
+      "dss warp drive",
+      "high efficiency warp drive"
+    ]
+  },
   "dss-tactical-actions": {
-  "title": "DSS Tactical Actions",
-  "category": "Super Earth Technology",
-  "description": "DSS Tactical Actions are strategic support capabilities activated through the Democracy Space Station. Helldivers contribute resources to the station to fund these actions, which then provide battlefield or Galactic War benefits to the planet currently orbited by the DSS. The system allows the Helldiver population to collectively determine both the station's destination and which strategic capabilities receive resources.",
-  "source": "https://helldivers.wiki.gg/wiki/Democracy_Space_Station",
-  "image": "",
-  "aliases": [
-    "dss tactical actions",
-    "tactical actions",
-    "dss actions",
-    "democracy space station tactical actions"
-  ]
-},
+    "title": "DSS Tactical Actions",
+    "category": "Super Earth Technology",
+    "description": "DSS Tactical Actions are strategic support capabilities activated through the Democracy Space Station. Helldivers contribute resources to the station to fund these actions, which then provide battlefield or Galactic War benefits to the planet currently orbited by the DSS. The system allows the Helldiver population to collectively determine both the station's destination and which strategic capabilities receive resources.",
+    "source": "https://helldivers.wiki.gg/wiki/Democracy_Space_Station",
+    "image": "",
+    "aliases": [
+      "dss tactical actions",
+      "tactical actions",
+      "dss actions",
+      "democracy space station tactical actions"
+    ]
+  },
   "eagle-storm": {
-  "title": "Eagle Storm",
-  "category": "DSS Tactical Action",
-  "description": "Eagle Storm is a Democracy Space Station Tactical Action that deploys periodic Eagle air support during Helldiver missions on the planet currently supported by the DSS. In addition to providing Eagle strikes during missions, the action can slow enemy progress during planetary Defense Campaigns, allowing the station to influence both individual operations and the wider Galactic War.",
-  "source": "https://helldivers.wiki.gg/wiki/Effects",
-  "image": "",
-  "aliases": [
-    "eagle storm",
-    "dss eagle storm",
-    "eagle storm tactical action",
-    "dss eagle support"
-  ]
-},
+    "title": "Eagle Storm",
+    "category": "DSS Tactical Action",
+    "description": "Eagle Storm is a Democracy Space Station Tactical Action that deploys periodic Eagle air support during Helldiver missions on the planet currently supported by the DSS. In addition to providing Eagle strikes during missions, the action can slow enemy progress during planetary Defense Campaigns, allowing the station to influence both individual operations and the wider Galactic War.",
+    "source": "https://helldivers.wiki.gg/wiki/Effects",
+    "image": "",
+    "aliases": [
+      "eagle storm",
+      "dss eagle storm",
+      "eagle storm tactical action",
+      "dss eagle support"
+    ]
+  },
   "orbital-blockade": {
-  "title": "Orbital Blockade",
-  "category": "DSS Tactical Action",
-  "description": "Orbital Blockade is a Democracy Space Station Tactical Action intended to interfere with enemy movement around the planet currently supported by the DSS. By using the station as a strategic blockade platform, Super Earth can restrict hostile activity at the planetary level and influence the wider Galactic War beyond the effects of individual Helldiver missions.",
-  "source": "https://helldivers.wiki.gg/wiki/Democracy_Space_Station",
-  "image": "",
-  "aliases": [
-    "orbital blockade",
-    "dss orbital blockade",
-    "blockade",
-    "dss blockade"
-  ]
-},
-  "planetary-bombardment": {
-  "title": "Planetary Bombardment",
-  "category": "DSS Tactical Action",
-  "description": "Planetary Bombardment is a Democracy Space Station Tactical Action that uses the station's heavy orbital weaponry to support Helldiver operations on the planet below. When active, the DSS conducts bombardments during missions while also contributing strategic pressure to the Galactic War. The action represents the station functioning as a massive orbital fire-support platform.",
-  "source": "https://helldivers.wiki.gg/wiki/Democracy_Space_Station",
-  "image": "",
-  "aliases": [
-    "planetary bombardment",
-    "dss planetary bombardment",
-    "dss bombardment",
-    "orbital bombardment"
-  ]
-},
+    "title": "Orbital Blockade",
+    "category": "DSS Tactical Action",
+    "description": "Orbital Blockade is a Democracy Space Station Tactical Action that activates the station's Zero-G Anti-Ship Missile System against large enemy spacecraft attempting to leave the supported planet. While active, new Defense Campaigns cannot originate from that planet and the Hellpod Space Optimization Booster is automatically active for Helldiver missions.",
+    "source": "https://helldivers.wiki.gg/wiki/Democracy_Space_Station",
+    "image": "",
+    "aliases": [
+      "orbital blockade",
+      "dss orbital blockade",
+      "dss blockade"
+    ]
+  },
   "planetary-defense-cannon": {
-  "title": "Planetary Defense Cannon",
-  "category": "Super Earth Weapon",
-  "description": "The Planetary Defense Cannon is an enormous Super Earth defensive weapon designed to engage massive hostile spacecraft from the planetary surface. During operations against the Illuminate, Helldivers can restore and operate these installations to attack Illuminate Overships. Once brought online and properly targeted, the cannon provides the firepower necessary to penetrate the defenses of these enormous enemy vessels.",
-  "source": "https://helldivers.wiki.gg/wiki/Take_Down_Overship",
-  "image": "",
-  "aliases": [
-    "planetary defense cannon",
-    "planetary defence cannon",
-    "pdc",
-    "overship cannon",
-    "super earth planetary defense cannon"
-  ]
-},
+    "title": "Planetary Defense Cannon",
+    "category": "Super Earth Weapon",
+    "description": "The Planetary Defense Cannon is an enormous Super Earth defensive weapon designed to engage massive hostile spacecraft from the planetary surface. During operations against the Illuminate, Helldivers can restore and operate these installations to attack Illuminate Overships. Once brought online and properly targeted, the cannon provides the firepower necessary to penetrate the defenses of these enormous enemy vessels.",
+    "source": "https://helldivers.wiki.gg/wiki/Take_Down_Overship",
+    "image": "",
+    "aliases": [
+      "planetary defense cannon",
+      "planetary defence cannon",
+      "pdc",
+      "overship cannon",
+      "super earth planetary defense cannon"
+    ]
+  },
   "hellpod": {
-  "title": "Hellpod",
-  "category": "Super Earth Technology",
-  "description": "The Hellpod is Super Earth's high-velocity atmospheric deployment system used to transport Helldivers, equipment, supplies, and other assets from a Super Destroyer to a planetary surface. Helldivers deploy inside crewed Hellpods at the beginning of operations and when called as reinforcements. Other Hellpods deliver equipment, supplies, emplacements, extraction beacons, and mission-critical devices directly to the battlefield.",
-  "source": "https://helldivers.wiki.gg/wiki/Hellpod",
-  "image": "",
-  "aliases": [
-    "hellpod",
-    "hellpods",
-    "drop pod",
-    "helldiver drop pod",
-    "helldiver hellpod"
-  ]
-},
+    "title": "Hellpod",
+    "category": "Super Earth Technology",
+    "description": "The Hellpod is Super Earth's high-velocity atmospheric deployment system used to transport Helldivers, equipment, supplies, and other assets from a Super Destroyer to a planetary surface. Helldivers deploy inside crewed Hellpods at the beginning of operations and when called as reinforcements. Other Hellpods deliver equipment, supplies, emplacements, extraction beacons, and mission-critical devices directly to the battlefield.",
+    "source": "https://helldivers.wiki.gg/wiki/Hellpod",
+    "image": "",
+    "aliases": [
+      "hellpod",
+      "hellpods",
+      "drop pod",
+      "helldiver drop pod",
+      "helldiver hellpod"
+    ]
+  },
   "e-711": {
-  "title": "Element-711",
-  "category": "Strategic Resource",
-  "description": "Element-711, commonly abbreviated E-711, is a highly valuable substance recovered from deposits associated with Terminid Hive Worlds. Following the liberation of Oshaune, Super Earth established extensive extraction operations to recover E-711 from beneath the planet's surface. The resource proved especially important when Super Earth scientists successfully used it to synthesize Dark Fluid for the first time.",
-  "source": "https://helldivers.wiki.gg/wiki/E-711_Extraction_Facility",
-  "image": "",
-  "aliases": [
-    "element-711",
-    "element 711",
-    "e-711",
-    "e711",
-    "711"
-  ]
-},
-  "element-710": {
-  "title": "Element-710",
-  "category": "Strategic Resource",
-  "description": "Element-710, commonly abbreviated E-710, is an energy-dense substance produced from the oils of decomposing Terminids. It is the primary fuel used by Super Earth's faster-than-light Alcubierre Drives, powering spacecraft ranging from Super Destroyers to the Democracy Space Station. The immense strategic importance of E-710 has led Super Earth to establish a large industry dedicated to farming Terminids and harvesting the substance.",
-  "source": "https://helldivers.wiki.gg/wiki/Element-710",
-  "image": "",
-  "aliases": [
-    "element 710",
-    "element-710",
-    "e-710",
-    "e710",
-    "terminid oil"
-  ]
-},
+    "title": "Element-711",
+    "category": "Strategic Resource",
+    "description": "Element-711, commonly abbreviated E-711, is a highly valuable substance recovered from deposits associated with Terminid Hive Worlds. Following the liberation of Oshaune, Super Earth established extensive extraction operations to recover E-711 from beneath the planet's surface. The resource proved especially important when Super Earth scientists successfully used it to synthesize Dark Fluid for the first time.",
+    "source": "https://helldivers.wiki.gg/wiki/E-711_Extraction_Facility",
+    "image": "",
+    "aliases": [
+      "e 711",
+      "element-711",
+      "element 711",
+      "e-711",
+      "e711"
+    ]
+  },
   "gloom-infused-oil": {
-  "title": "Gloom-Infused Oil",
-  "category": "Strategic Resource",
-  "description": "Gloom-Infused Oil is Terminid-derived oil altered by prolonged exposure to the Gloom and the environments of Gloom-consumed worlds. Super Earth scientists investigated the substance both for information about the Gloom's effects beneath planetary surfaces and for its unusually high energy potential. Gloom-mutated Terminids have demonstrated significantly increased E-710 yields, making the altered oil valuable for both scientific research and fuel production.",
-  "source": "https://helldivers.wiki.gg/wiki/Collect_Gloom-Infused_Oil",
-  "image": "",
-  "aliases": [
-    "gloom-infused oil",
-    "gloom infused oil",
-    "gloom oil",
-    "infused oil",
-    "gloom e-710"
-  ]
+    "title": "Gloom-Infused Oil",
+    "category": "Strategic Resource",
+    "description": "Gloom-Infused Oil is Terminid-derived oil altered by prolonged exposure to the Gloom and the environments of Gloom-consumed worlds. Super Earth scientists investigated the substance both for information about the Gloom's effects beneath planetary surfaces and for its unusually high energy potential. Gloom-mutated Terminids have demonstrated significantly increased E-710 yields, making the altered oil valuable for both scientific research and fuel production.",
+    "source": "https://helldivers.wiki.gg/wiki/Collect_Gloom-Infused_Oil",
+    "image": "",
+    "aliases": [
+      "gloom-infused oil",
+      "gloom infused oil",
+      "gloom oil",
+      "infused oil",
+      "gloom e-710"
+    ]
+  },
+  "dss-orbital-bombardment": {
+    "title": "DSS Orbital Bombardment",
+    "category": "DSS Tactical Action",
+    "description": "DSS Orbital Bombardment is the modern form of the Democracy Space Station's planetwide bombardment system, using its 77 PRESIDENTIAL-Class Cannons for orbital fire support. The original Planetary Bombardment was replaced by Heavy Ordnance Distribution in January 2185; an improved bombardment later returned under the DSS Orbital Bombardment name with targeting changes intended to reduce fratricide.",
+    "source": "https://helldivers.wiki.gg/wiki/Democracy_Space_Station",
+    "image": "",
+    "aliases": [
+      "dss orbital bombardment",
+      "orbital bombardment",
+      "planetary bombardment",
+      "dss planetary bombardment",
+      "dss bombardment"
+    ]
+  },
+  "heavy-ordnance-distribution": {
+    "title": "Heavy Ordnance Distribution",
+    "category": "DSS Tactical Action",
+    "description": "Heavy Ordnance Distribution is a Democracy Space Station Tactical Action that supplies Super Destroyers with surplus 380mm ammunition. While active, Helldivers receive access to an additional Orbital 380mm HE Barrage during missions, while DSS support accelerates Super Earth campaign progress on the planet.",
+    "source": "https://helldivers.wiki.gg/wiki/Democracy_Space_Station",
+    "image": "",
+    "aliases": [
+      "heavy ordnance distribution",
+      "dss heavy ordnance distribution",
+      "heavy ordnance",
+      "dss 380mm support"
+    ]
+  }
 }
