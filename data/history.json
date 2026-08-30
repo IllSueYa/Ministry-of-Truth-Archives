@@ -182,4 +182,45 @@
     "diamond protocol",
     "ruby protocol"
   ]
+},
+  "great-host": {
+  "title": "The Great Host",
+  "category": "Illuminate Military Force",
+  "description": "The Great Host was a massive Illuminate invasion fleet that emerged from the Meridian Wormhole in 2185 and launched a direct campaign against Super Earth. Believed to have been prepared over the century following the First Galactic War, the fleet advanced through Federation territory before reaching the Solar System and invading humanity's homeworld. The Great Host destroyed five of Super Earth's seven Mega Cities and killed the sitting President before its fleet strength was exhausted by Helldiver and SEAF resistance, the Democracy Space Station, and a devastating cyberattack. Its surviving forces retreated from Super Earth and later established themselves in the southern reaches of the known galaxy.",
+  "source": "https://helldivers.wiki.gg/wiki/The_Great_Host",
+  "image": "",
+  "aliases": [
+    "the great host",
+    "great host",
+    "illuminate great host",
+    "great host invasion",
+    "illuminate invasion fleet"
+  ]
+},
+"eagle-blockade": {
+  "title": "Eagle Blockade",
+  "category": "Democracy Space Station Action",
+  "description": "Eagle Blockade was a temporary Democracy Space Station Tactical Action deployed during the Battle for Super Earth. It combined the effects of Eagle Storm and Orbital Blockade, maintaining a rotating fleet of Eagle Fighters over Super Earth while providing logistical support to Super Destroyers. During missions it produced periodic Eagle Strafing Runs and automatically supplied Hellpod Space Optimization. Its activation helped relieve severe logistical problems and inflicted heavy losses on the Illuminate during the final stages of the Great Host invasion.",
+  "source": "https://helldivers.wiki.gg/wiki/Democracy_Space_Station",
+  "image": "",
+  "aliases": [
+    "eagle blockade",
+    "dss eagle blockade",
+    "super earth eagle blockade",
+    "eagle storm blockade"
+  ]
+},
+"fort-union-cyberattack": {
+  "title": "Fort Union Cyberattack",
+  "category": "Historical Event",
+  "description": "The Fort Union Cyberattack was a decisive cyberwarfare operation conducted during the final stages of the Battle for Super Earth. A former satellite technician on Fort Union developed malware capable of disabling Illuminate technology, but a Terminid attack threatened the planet before the code could be deployed. Helldivers successfully defended Fort Union, allowing long-range satellites to transmit the malware. The attack disabled approximately five percent of the Great Host, and the technician responsible was promoted to command the 405th Cyberwarfare Detachment.",
+  "source": "https://helldivers.wiki.gg/wiki/Fort_Union",
+  "image": "",
+  "aliases": [
+    "fort union cyberattack",
+    "fort union malware",
+    "illuminate malware",
+    "great host cyberattack",
+    "fort union cyberwarfare"
+  ]
 }
