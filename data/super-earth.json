@@ -157,4 +157,18 @@
     "mind influence act",
     "freedom and readiness act"
   ]
+},
+  "wall-of-martyrs": {
+  "title": "Wall of Martyrs",
+  "category": "Super Earth Monument",
+  "description": "The Wall of Martyrs is a Super Earth monument dedicated to members of the Helldivers and SEAF who die in service to the Federation. The names of fallen soldiers are inscribed upon the Wall, with Super Earth broadcasts claiming that millions of names are added every day. The monument is frequently referenced in military messaging, equipment descriptions, and propaganda, although its physical appearance has never been officially shown.",
+  "source": "https://helldivers.wiki.gg/wiki/Wall_of_Martyrs",
+  "image": "",
+  "aliases": [
+    "wall of martyrs",
+    "martyrs wall",
+    "wall of the fallen",
+    "fallen helldivers memorial",
+    "super earth memorial"
+  ]
 }
