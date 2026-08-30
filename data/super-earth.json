@@ -563,4 +563,18 @@
     "moradesh laboratory",
     "moradesh project"
   ]
+},
+  "ultramafic-mine": {
+  "title": "Ultramafic Mine",
+  "category": "Strategic Industrial Site",
+  "description": "The Ultramafic Mine is a strategic mining complex on Mintoria originally constructed in secret by the Automatons. The facility extracted uncommon metals from deep ultramafic rock deposits, including nickel, chromium, and platinum. Super Earth discovered the operation through decrypted Automaton communications and ordered Helldivers to liberate Mintoria, securing the mine and technological assets associated with it.",
+  "source": "https://helldivers.wiki.gg/wiki/Ultramafic_Mine",
+  "image": "",
+  "aliases": [
+    "ultramafic mine",
+    "mintoria mine",
+    "automaton ultramafic mine",
+    "platinum mine",
+    "mintoria ultramafic mine"
+  ]
 }
