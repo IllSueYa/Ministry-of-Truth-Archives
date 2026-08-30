@@ -367,4 +367,29 @@
     "terminid bug wardens",
     "acamar bug wardens"
   ]
+},
+  "super-earth-senate": {
+  "title": "Super Earth Senate",
+  "category": "Super Earth Government",
+  "description": "The Super Earth Senate is a governmental body of the Federation of Super Earth documented during the First Galactic War. Senators participated in the political response to threats facing the Federation, with Senator John W. Killjoy becoming particularly notable for speeches concerning the Cyborg conflict. The Senate forms part of the broader political history of Super Earth's Managed Democracy.",
+  "source": "https://helldivers.wiki.gg/wiki/Government_of_Super_Earth",
+  "image": "",
+  "aliases": [
+    "super earth senate",
+    "senate",
+    "federation senate"
+  ]
+},
+  "super-earth-house-of-representatives": {
+  "title": "Super Earth House of Representatives",
+  "category": "Super Earth Government",
+  "description": "The Super Earth House of Representatives is a governmental body documented during the First Galactic War. One of its known members, Representative Powley Colle, publicly supported Super Earth's case for military action against the Illuminate by asserting that they possessed weapons capable of destroying entire planets. The House forms part of the historical governmental structure of the Federation of Super Earth.",
+  "source": "https://helldivers.wiki.gg/wiki/Government_of_Super_Earth",
+  "image": "",
+  "aliases": [
+    "super earth house of representatives",
+    "house of representatives",
+    "super earth house",
+    "federation house of representatives"
+  ]
 }
