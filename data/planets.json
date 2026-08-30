@@ -177,4 +177,32 @@
     "destroyed york supreme",
     "new york supreme former name"
   ]
+},
+  "new-hope-city": {
+  "title": "New Hope City",
+  "category": "Super Earth City",
+  "description": "New Hope City is the flagship Maximum Security City located on Fort Union. Constructed in 2185 as part of Super Earth's Maximum Security City project, it was designed with extensive surveillance and defensive systems intended to make the city impregnable to tyranny. After construction was completed, citizens began moving into New Hope City in August 2185. Later that month, Terminid forces advanced toward Fort Union and directly threatened the city, prompting an emergency Helldiver defense.",
+  "source": "https://helldivers.wiki.gg/wiki/Fort_Union",
+  "image": "",
+  "aliases": [
+    "new hope city",
+    "new hope",
+    "fort union maximum security city",
+    "fort union megacity",
+    "flagship maximum security city"
+  ]
+},
+"new-aspiration-city": {
+  "title": "New Aspiration City",
+  "category": "Super Earth City",
+  "description": "New Aspiration City is one of the first three Maximum Security Cities constructed by Super Earth and is located on Emeria. Built in 2185, the city incorporates extensive surveillance and security systems intended to protect its citizens from dissidents and other agents of tyranny. As the first residents began moving into the new cities, nearby Automaton forces in the Nanos Sector were considered a threat to New Aspiration City's security and public confidence, prompting Helldivers to establish a defensive buffer by clearing the sector.",
+  "source": "https://helldivers.wiki.gg/wiki/Maximum_Security_City",
+  "image": "",
+  "aliases": [
+    "new aspiration city",
+    "new aspiration",
+    "emeria maximum security city",
+    "emeria megacity",
+    "aspiration city"
+  ]
 }
