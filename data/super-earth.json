@@ -184,4 +184,18 @@
     "barrier reef",
     "super earth reef"
   ]
+},
+  "presidential-security-bunker": {
+  "title": "Presidential Security Bunker",
+  "category": "Super Earth Government Facility",
+  "description": "The Presidential Security Bunker is a fortified government facility located in Prosperity City and intended to protect the President of Super Earth during major emergencies. During the final Illuminate assault on Prosperity City in 2185, Great Host forces breached the bunker. The sitting President was killed in action while defending the facility with only a pistol, after which presidential authority was temporarily transferred to the Ministry of Defense.",
+  "source": "https://helldivers.wiki.gg/wiki/Galactic_War/First_Battle_For_Super_Earth",
+  "image": "",
+  "aliases": [
+    "presidential security bunker",
+    "presidential bunker",
+    "super earth presidential bunker",
+    "prosperity city bunker",
+    "president bunker"
+  ]
 }
