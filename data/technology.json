@@ -41,5 +41,19 @@
       "element 711",
       "711"
     ]
-  }
+  },
+  "star-of-peace": {
+  "title": "Star of Peace",
+  "category": "Super Earth Superweapon",
+  "description": "The Star of Peace is a major weapon system installed on the Democracy Space Station as part of Operation Free Space. Its primary weapon fires a beam of ionized Dark Fluid synthesized using E-711, with enough energy to collapse an entire planet into a conventional black hole. After resources were gathered and construction completed at Pandora Base, Helldivers voted for Penta as its inaugural target. The weapon fired successfully, destroying Penta and leaving behind a stable black hole.",
+  "source": "https://helldivers.wiki.gg/wiki/Democracy_Space_Station",
+  "image": "",
+  "aliases": [
+    "star of peace",
+    "dss star of peace",
+    "dark fluid weapon",
+    "planet killer",
+    "dark fluid beam"
+  ]
+ }
 }
