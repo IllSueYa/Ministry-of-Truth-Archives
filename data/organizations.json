@@ -74,4 +74,200 @@
     "general brasch tactics",
     "brasch training"
   ]
+},
+  "strohmann-news": {
+  "title": "Strohmann News",
+  "category": "Super Earth Media",
+  "description": "Strohmann News is a Super Earth news channel hosted primarily by Coretta Kelly. Its broadcasts report on major developments in the Second Galactic War and are approved by the Ministry of Truth. Helldivers can watch its reports on television screens aboard their Super Destroyers, where broadcasts change to reflect major events occurring throughout the Galactic War.",
+  "source": "https://helldivers.wiki.gg/wiki/Strohmann_News",
+  "image": "",
+  "aliases": [
+    "strohmann news",
+    "strohmann",
+    "super earth news",
+    "news broadcast",
+    "ship news"
+  ]
+},
+"ministry-of-expansion": {
+  "title": "Ministry of Expansion",
+  "category": "Super Earth Ministry",
+  "description": "The Ministry of Expansion is a branch of the Super Earth government responsible for expanding the Federation's reach and securing resources needed by its society. Its responsibilities include colonial development, planetary terraforming, resource extraction, and colonist management. The Ministry oversees Colonial Overseers and has played an active role in major expansion and infrastructure projects during the Second Galactic War.",
+  "source": "https://helldivers.wiki.gg/wiki/Ministry_of_Expansion",
+  "image": "",
+  "aliases": [
+    "ministry of expansion",
+    "expansion ministry",
+    "super earth expansion",
+    "moe"
+  ]
+},
+  "ministry-of-humanity": {
+  "title": "Ministry of Humanity",
+  "category": "Super Earth Ministry",
+  "description": "The Ministry of Humanity is a Super Earth government ministry responsible for maintaining healthy and productive voters. Its authority extends across education, healthcare, social grading, and gene management. The Ministry also handles aspects of citizens' personal lives, including marriage approvals, missing-person reports, and procedures following the deaths of family members.",
+  "source": "https://helldivers.wiki.gg/wiki/Ministry_of_Humanity",
+  "image": "",
+  "aliases": [
+    "ministry of humanity",
+    "humanity ministry",
+    "super earth humanity"
+  ]
+},
+"ministry-of-unity": {
+  "title": "Ministry of Unity",
+  "category": "Super Earth Ministry",
+  "description": "The Ministry of Unity is a Super Earth government ministry responsible for protecting society from internal threats, including deviant behavior and dangerous ideas. It conducts programs aimed at identifying dissidents and has deployed Loyalty Intervention & Enforcement Squads against suspected traitors. The Ministry also oversees the Unity Corps, a security force tasked with apprehending loyalty-challenged individuals identified through Super Earth's civilian surveillance system.",
+  "source": "https://helldivers.wiki.gg/wiki/Ministry_of_Unity",
+  "image": "",
+  "aliases": [
+    "ministry of unity",
+    "unity ministry",
+    "super earth unity",
+    "mou"
+  ]
+},
+"colonial-overseers": {
+  "title": "Colonial Overseers",
+  "category": "Super Earth Government",
+  "description": "Colonial Overseers are officials responsible for managing colonies throughout the Super Earth Federation and operate under the Ministry of Expansion. Their responsibilities include overseeing colonists, productivity, security, planetary terraforming, and resource extraction. Communications found throughout Super Earth territory show that Colonial Overseers receive government directives concerning colony budgets, worker productivity, and compliance.",
+  "source": "https://helldivers.wiki.gg/wiki/Government_of_Super_Earth",
+  "image": "",
+  "aliases": [
+    "colonial overseers",
+    "colonial overseer",
+    "colony overseer",
+    "super earth colonial overseer"
+  ]
+},
+"government-of-super-earth": {
+  "title": "Government of Super Earth",
+  "category": "Super Earth Government",
+  "description": "The Government of Super Earth administers the Federation under the system of Managed Democracy. The Federation is overseen by institutions including the Democratic Council and Democratic Assembly, while specialized Ministries administer areas such as defense, science, expansion, truth, unity, and humanity. Government authority extends throughout Super Earth's colonies, armed forces, public institutions, and civilian society.",
+  "source": "https://helldivers.wiki.gg/wiki/Government_of_Super_Earth",
+  "image": "",
+  "aliases": [
+    "government of super earth",
+    "super earth government",
+    "federation government",
+    "government"
+  ]
+},
+"democratic-council": {
+  "title": "Democratic Council",
+  "category": "Super Earth Government",
+  "description": "The Democratic Council is one of the principal governing institutions of the Super Earth Federation. It is closely associated with the establishment of Managed Democracy, having presented its first and final draft before the system was instituted. Super Earth commemorates this event every Liberty Day, and official broadcasts state that the Council ensures elected leaders act according to the shared values of the Federation.",
+  "source": "https://helldivers.wiki.gg/wiki/Government_of_Super_Earth",
+  "image": "",
+  "aliases": [
+    "democratic council",
+    "super earth democratic council",
+    "council",
+    "democracy council"
+  ]
+},
+  "democratic-assembly": {
+  "title": "Democratic Assembly",
+  "category": "Super Earth Government",
+  "description": "The Democratic Assembly is one of the governing institutions overseeing the Federation of Super Earth alongside the Democratic Council. It forms part of the political structure operating under Managed Democracy and is identified in official lore as one of the institutions responsible for the governance of the Federation.",
+  "source": "https://helldivers.wiki.gg/wiki/Lore",
+  "image": "",
+  "aliases": [
+    "democratic assembly",
+    "super earth democratic assembly",
+    "assembly",
+    "federation assembly"
+  ]
+},
+"ministry-of-prosperity": {
+  "title": "Ministry of Prosperity",
+  "category": "Super Earth Ministry",
+  "description": "The Ministry of Prosperity is responsible for managing Super Earth's economy and ensuring resources are distributed throughout the Federation. Its activities include economic administration, management of currency and resources, and ensuring colonies have access to approved consumer goods. The Ministry has also issued rewards and commemorative items to Helldivers.",
+  "source": "https://helldivers.wiki.gg/wiki/Ministry_of_Prosperity",
+  "image": "",
+  "aliases": [
+    "ministry of prosperity",
+    "prosperity ministry",
+    "super earth prosperity",
+    "economic ministry"
+  ]
+},
+"ministry-of-intelligence": {
+  "title": "Ministry of Intelligence",
+  "category": "Super Earth Ministry",
+  "description": "The Ministry of Intelligence is a Super Earth government ministry associated with military intelligence and classified briefings. It has provided intelligence concerning major threats during the Second Galactic War, including the emergence of Terminid Shriekers and the return of the Illuminate. Compared with other Super Earth ministries, relatively little is publicly known about its organization or operations.",
+  "source": "https://helldivers.wiki.gg/wiki/Ministry_of_Intelligence",
+  "image": "",
+  "aliases": [
+    "ministry of intelligence",
+    "intelligence ministry",
+    "super earth intelligence",
+    "military intelligence"
+  ]
+},
+"ministry-of-employment": {
+  "title": "Ministry of Employment",
+  "category": "Super Earth Ministry",
+  "description": "The Ministry of Employment is a Super Earth government ministry known primarily through the Helldiver Contract of Employment. The Ministry classifies service as a Helldiver as an 'Exceptionally Patriotic Duty.' Under the contract, commencement of a Helldiver's service awards 4.5 citizenship points to members of the enlisted Helldiver's immediate family.",
+  "source": "https://helldivers.wiki.gg/wiki/Ministry_of_Employment",
+  "image": "",
+  "aliases": [
+    "ministry of employment",
+    "employment ministry",
+    "super earth employment",
+    "helldiver employment"
+  ]
+},
+"unity-corps": {
+  "title": "Unity Corps",
+  "category": "Super Earth Security Organization",
+  "description": "The Unity Corps is a Super Earth security force created as part of the FREEDOM Act. Working under the Ministry of Unity, the organization apprehends individuals identified as loyalty-challenged through the Center for Civilian Surveillance and Safety. The surveillance center detects and reports signs of dissidence or Illuminate influence, after which the Unity Corps can act against the identified individuals.",
+  "source": "https://helldivers.wiki.gg/wiki/Unity_Corps",
+  "image": "",
+  "aliases": [
+    "unity corps",
+    "super earth unity corps",
+    "unity security",
+    "loyalty enforcement"
+  ]
+},
+  "president-of-super-earth": {
+  "title": "President of Super Earth",
+  "category": "Super Earth Government",
+  "description": "The President of Super Earth is a major political office within the Federation's government. During the Battle of Super Earth in 2185, the sitting President was killed when Illuminate forces breached the Presidential Security Bunker during the siege of Prosperity City. Presidential authority temporarily passed to the Minister of Defense. Following Super Earth's victory over the Illuminate assault, a new President was sworn in after winning a landslide Managed Election.",
+  "source": "https://helldivers.wiki.gg/wiki/Government_Of_Super_Earth",
+  "image": "",
+  "aliases": [
+    "president of super earth",
+    "super earth president",
+    "president",
+    "federation president"
+  ]
+},
+"super-earth-senate": {
+  "title": "Super Earth Senate",
+  "category": "Super Earth Government",
+  "description": "The Super Earth Senate is part of the legislative branch of the Federation's government. The institution dates back to at least the era of the First Galactic War and forms part of Super Earth's wider political structure alongside the House of Representatives, Democratic Council, and Presidency.",
+  "source": "https://helldivers.wiki.gg/wiki/Government_Of_Super_Earth",
+  "image": "",
+  "aliases": [
+    "super earth senate",
+    "senate",
+    "federation senate",
+    "super earth senators"
+  ]
+},
+"super-earth-house-of-representatives": {
+  "title": "Super Earth House of Representatives",
+  "category": "Super Earth Government",
+  "description": "The Super Earth House of Representatives is part of the Federation's legislative branch and was established in lore during the First Galactic War. A House representative, Powley Colle, publicly supported Super Earth's case for war against the Illuminate by claiming they possessed weapons capable of destroying entire planets.",
+  "source": "https://helldivers.wiki.gg/wiki/Government_Of_Super_Earth",
+  "image": "",
+  "aliases": [
+    "super earth house of representatives",
+    "house of representatives",
+    "super earth house",
+    "house representative",
+    "representatives"
+  ]
 }
