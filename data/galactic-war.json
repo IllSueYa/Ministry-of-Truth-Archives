@@ -75,5 +75,16 @@
     "void warp relay",
     "rirga bay warp relay"
   ]
- }
+ },
+  "void-sector": {
+  "title": "Void Sector",
+  "category": "Galactic War Region",
+  "description": "The Void Sector was a temporary region of the Galactic Map containing planets engulfed by the Illuminate-created Void. The anomaly obscured conventional galactic intelligence and isolated the affected worlds from normal space. Super Earth eventually penetrated the region during Operation Void Piercer, allowing Helldivers and SEAF forces to conduct operations inside it. The Void Sector ceased to exist after the Void dissipated on August 23, 2186.",
+  "source": "https://helldivers.wiki.gg/wiki/Void_Sector",
+  "image": "",
+  "aliases": [
+    "void sector",
+    "the void sector",
+    "illuminate void sector"
+  ]
 }
