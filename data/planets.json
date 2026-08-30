@@ -44,5 +44,137 @@
       "source of the void",
       "void source"
     ]
-  }
+  },
+  "afoyay-bay": {
+  "title": "Afoyay Bay",
+  "category": "Planet",
+  "description": "Afoyay Bay is a human-controlled world in the Gallux Sector that became an important strategic and political center during the later Second Galactic War. The planet is home to the Center for the Confinement of Dissidence and Pandora Base. It was liberated to allow construction of the massive CECOD detention complex and later became the primary development site for Operation Free Space and the Star of Peace.",
+  "source": "https://helldivers.wiki.gg/wiki/Afoyay_Bay",
+  "image": "",
+  "aliases": [
+    "afoyay bay",
+    "afoyay",
+    "cecod planet",
+    "pandora base planet"
+  ]
+},
+"new-york-supreme": {
+  "title": "New York Supreme",
+  "category": "Super Earth City",
+  "description": "New York Supreme is the name selected for the reconstruction of York Supreme, the former Sector 7 Mega City on Super Earth. York Supreme was catastrophically destroyed during the Illuminate invasion of Super Earth in 2185. Citizens later voted on a replacement name, with New York Supreme winning the Managed Democratic poll. Reconstruction resources intended for the city were subsequently diverted to Afoyay Bay to accelerate construction of the Center for the Confinement of Dissidence.",
+  "source": "https://helldivers.wiki.gg/wiki/Super_Earth",
+  "image": "",
+  "aliases": [
+    "new york supreme",
+    "york supreme",
+    "sector 7 capital",
+    "new york"
+  ]
+},
+"prosperity-city": {
+  "title": "Prosperity City",
+  "category": "Super Earth City",
+  "description": "Prosperity City is the Mega City capital of Super Earth's Sector 3, corresponding broadly to the region once known as Northern Europe. During the Illuminate invasion of Super Earth in 2185, most of the planet's Mega Cities were devastated or destroyed. Prosperity City and Equality-on-Sea were the only two reported to remain standing after the Illuminate were repelled, making Prosperity City one of the surviving major urban centers of Super Earth.",
+  "source": "https://helldivers.wiki.gg/wiki/Super_Earth",
+  "image": "",
+  "aliases": [
+    "prosperity city",
+    "sector 3 capital",
+    "prosperity",
+    "super earth prosperity city"
+  ]
+},
+  "equality-on-sea": {
+  "title": "Equality-on-Sea",
+  "category": "Super Earth City",
+  "description": "Equality-on-Sea is the Mega City capital of Super Earth's Sector 2, covering much of the region once known as mainland China. The city takes its name from the historic conference at which Humanity was declared the most Equal species in the galaxy. During the 2185 Battle for Super Earth, Equality-on-Sea endured repeated Illuminate attacks but never fell. Alongside Prosperity City, it was one of only two Mega Cities still standing when the Great Host was driven from Super Earth.",
+  "source": "https://helldivers.wiki.gg/wiki/Super_Earth",
+  "image": "",
+  "aliases": [
+    "equality-on-sea",
+    "equality on sea",
+    "equality",
+    "sector 2 capital"
+  ]
+},
+"port-mercy": {
+  "title": "Port Mercy",
+  "category": "Super Earth City",
+  "description": "Port Mercy was the Mega City capital of Super Earth's Sector 1, corresponding broadly to Oceania, Southeast Asia, and Japan. The city became famous after sheltering millions of loyal refugees during the Last Great War and was described as a safe haven for Class-A citizens in need. During the 2185 Illuminate invasion of Super Earth, Port Mercy came under siege and was ultimately destroyed by the Great Host.",
+  "source": "https://helldivers.wiki.gg/wiki/Super_Earth",
+  "image": "",
+  "aliases": [
+    "port mercy",
+    "sector 1 capital",
+    "super earth port mercy"
+  ]
+},
+"administrative-center-02": {
+  "title": "Administrative Center 02",
+  "category": "Super Earth City",
+  "description": "Administrative Center 02 was the Mega City capital of Super Earth's Sector 4, spanning Southern Europe and Western Africa. Known commonly as AdminCen, the city was celebrated for its vast bureaucratic institutions, where official forms and applications were marked with the revered Stamp of Ages. Administrative Center 02 was assaulted and destroyed by Illuminate forces during the 2185 Battle for Super Earth.",
+  "source": "https://helldivers.wiki.gg/wiki/Super_Earth",
+  "image": "",
+  "aliases": [
+    "administrative center 02",
+    "administrative center",
+    "admincen",
+    "admin center 02",
+    "sector 4 capital"
+  ]
+},
+"eagleopolis": {
+  "title": "Eagleopolis",
+  "category": "Super Earth City",
+  "description": "Eagleopolis was the Mega City capital of Super Earth's Sector 5, covering India, the Middle East, and Eastern Africa. Known as a great center of commerce, the city was renowned throughout the galaxy for its enormous shopping malls and entertainment centers. Eagleopolis was the first Mega City to fall during the 2185 Illuminate invasion of Super Earth and was ultimately destroyed by the Great Host.",
+  "source": "https://helldivers.wiki.gg/wiki/Super_Earth",
+  "image": "",
+  "aliases": [
+    "eagleopolis",
+    "sector 5 capital",
+    "super earth eagleopolis",
+    "eagle city"
+  ]
+},
+"gun": {
+  "title": "Gun",
+  "category": "Super Earth City",
+  "description": "Gun is the reconstruction name selected for Remembrance, the former Mega City capital of Super Earth's Sector 6 in Central and South America. Remembrance was destroyed by the Illuminate during the 2185 Battle for Super Earth. During a later official community vote to choose the city's new name, Gun won decisively with more than 85,000 votes and approximately 72.5 percent of the total, becoming the name chosen for the rebuilt Sector 6 capital.",
+  "source": "https://helldivers.wiki.gg/wiki/Super_Earth",
+  "image": "",
+  "aliases": [
+    "gun",
+    "city of gun",
+    "new remembrance",
+    "remembrance reconstruction",
+    "sector 6 capital"
+  ]
+},
+  "remembrance": {
+  "title": "Remembrance",
+  "category": "Super Earth City",
+  "description": "Remembrance was the Mega City capital of Super Earth's Sector 6, covering Central and South America. The city was destroyed by the Illuminate during the 2185 Battle for Super Earth. It was later selected by the Ministry of Prosperity as the first destroyed Mega City to be rebuilt. Following a Managed Democratic naming vote, its reconstructed successor was officially named Gun.",
+  "source": "https://helldivers.wiki.gg/wiki/Super_Earth",
+  "image": "",
+  "aliases": [
+    "remembrance",
+    "old remembrance",
+    "sector 6 capital",
+    "destroyed remembrance",
+    "gun former name"
+  ]
+},
+"york-supreme": {
+  "title": "York Supreme",
+  "category": "Super Earth City",
+  "description": "York Supreme was the Mega City capital of Super Earth's Sector 7, covering Northern America. During the final stages of the 2185 Battle for Super Earth, the city was attacked and destroyed by the Illuminate Great Host. Reconstruction was later planned and a Managed Democratic naming vote selected New York Supreme as the city's successor name. Resources gathered for its reconstruction were subsequently redirected to construction of the Center for the Confinement of Dissidence.",
+  "source": "https://helldivers.wiki.gg/wiki/Super_Earth",
+  "image": "",
+  "aliases": [
+    "york supreme",
+    "old york supreme",
+    "sector 7 capital",
+    "destroyed york supreme",
+    "new york supreme former name"
+  ]
 }
