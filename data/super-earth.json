@@ -411,4 +411,30 @@
     "urban megastructure",
     "super earth city biome"
   ]
+},
+  "voteless-processing-plant": {
+  "title": "Voteless Processing Plant",
+  "category": "Super Earth Facility",
+  "description": "The Voteless Processing Plant was a specialized Super Earth scientific facility constructed during the Census Thunder campaign. Automaton bio-processing equipment captured on Blistica was repurposed alongside millions of Voteless tissue samples collected by Helldivers. The facility's bio-centrifuges processed Void-altered Voteless tissue for Ministry of Science research, helping Super Earth investigate the biological effects of the Void.",
+  "source": "https://helldivers.wiki.gg/wiki/Campaigns",
+  "image": "",
+  "aliases": [
+    "voteless processing plant",
+    "voteless tissue processing plant",
+    "voteless research facility",
+    "voteless processing facility"
+  ]
+},
+  "dss-logistics-hub": {
+  "title": "DSS Logistics Hub",
+  "category": "Super Earth Facility",
+  "description": "The DSS Logistics Hub was a major Super Earth facility established on Tarsh to support construction and operation of the Democracy Space Station. The hub provided logistical support for the immense quantities of personnel, materials, fuel, and technology required by the project. Its strategic importance made Tarsh a critical location during the DSS construction effort and a target of Automaton attacks.",
+  "source": "https://helldivers.wiki.gg/wiki/Democracy_Space_Station",
+  "image": "",
+  "aliases": [
+    "dss logistics hub",
+    "democracy space station logistics hub",
+    "tarsh logistics hub",
+    "dss hub"
+  ]
 }
