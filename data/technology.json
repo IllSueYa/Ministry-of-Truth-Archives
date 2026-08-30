@@ -336,4 +336,18 @@
     "helldiver drop pod",
     "helldiver hellpod"
   ]
+},
+  "e-711": {
+  "title": "Element-711",
+  "category": "Strategic Resource",
+  "description": "Element-711, commonly abbreviated E-711, is a highly valuable substance recovered from deposits associated with Terminid Hive Worlds. Following the liberation of Oshaune, Super Earth established extensive extraction operations to recover E-711 from beneath the planet's surface. The resource proved especially important when Super Earth scientists successfully used it to synthesize Dark Fluid for the first time.",
+  "source": "https://helldivers.wiki.gg/wiki/E-711_Extraction_Facility",
+  "image": "",
+  "aliases": [
+    "element-711",
+    "element 711",
+    "e-711",
+    "e711",
+    "711"
+  ]
 }
