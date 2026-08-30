@@ -482,4 +482,18 @@
     "excavation corps",
     "super earth excavation corps"
   ]
+},
+  "morgunson": {
+  "title": "Morgunson",
+  "category": "Super Earth Corporation",
+  "description": "Morgunson is a Super Earth mega-corporation and the primary weapons supplier for the Ministry of Defense. The company manufactures numerous weapons and military systems used by Federation forces, including the SG-225 Breaker, EAT-17 Expendable Anti-Tank, and EXO-45 Patriot Exosuit. Its exosuit production facilities on Tien Kwan became strategically important during the early Automaton campaigns of the Second Galactic War.",
+  "source": "https://helldivers.wiki.gg/wiki/Morgunson",
+  "image": "",
+  "aliases": [
+    "morgunson",
+    "morgunson arsenal",
+    "morgunson corporation",
+    "morgunson mega-corporation",
+    "super earth weapons supplier"
+  ]
 }
