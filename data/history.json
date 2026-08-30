@@ -313,4 +313,18 @@
     "cyborg orbital superweapon campaign",
     "orbital superweapon campaign"
   ]
+},
+  "operation-enduring-peace": {
+  "title": "Operation Enduring Peace",
+  "category": "Military Operation",
+  "description": "Operation Enduring Peace was a multi-phase Super Earth campaign conducted from May 30 to June 3, 2184 to eliminate the Terminid Supercolony on Meridia. Helldivers first secured access to the planet before deploying weaponized Illuminate Dark Fluid deep beneath its surface. Once sufficient Dark Fluid reached critical mass, Meridia collapsed into a singularity, destroying the Supercolony and creating what became known as the Meridian Black Hole.",
+  "source": "https://helldivers.wiki.gg/wiki/Operation_Enduring_Peace",
+  "image": "",
+  "aliases": [
+    "operation enduring peace",
+    "enduring peace",
+    "meridia operation",
+    "dark fluid operation",
+    "destruction of meridia"
+  ]
 }
