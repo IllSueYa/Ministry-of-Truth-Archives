@@ -253,5 +253,29 @@
     "maximum security construction site",
     "msc construction"
   ]
-}
+},
+  "terminid-research-preserve": {
+  "title": "Terminid Research Preserve",
+  "category": "Super Earth Facility",
+  "description": "The Terminid Research Preserve was a planet-wide Super Earth quarantine facility established on Acamar IV. The preserve allowed researchers to study live Terminids and provided a large supply of specimens for E-710 extraction and scientific research. Its containment measures included SEAF Wardens, above- and below-ground electrical fencing, and automatic nuclear bombardment protocols. The preserve was ultimately destroyed after a catastrophic subterranean Terminid outbreak erupted beneath Tyranny Park and spread to neighboring planets.",
+  "source": "https://helldivers.wiki.gg/wiki/Terminid_Research_Preserve",
+  "image": "",
+  "aliases": [
+    "terminid research preserve",
+    "research preserve",
+    "acamar iv preserve",
+    "terminid preserve"
+  ]
+},
+  "tyranny-park": {
+  "title": "Tyranny Park",
+  "category": "Super Earth Facility",
+  "description": "Tyranny Park was a public attraction located within the Terminid Research Preserve on Acamar IV. Wealthy Super Earth citizens could visit the park to observe Terminids in a controlled environment, while particularly adventurous visitors could participate in Big Tyrant Hunts. Revenue from the attraction was intended to support Terminid research and E-710 production. The park became the site of disaster when a massive subterranean Terminid hive erupted beneath it during the catastrophic failure of the preserve.",
+  "source": "https://helldivers.wiki.gg/wiki/Terminid_Research_Preserve",
+  "image": "",
+  "aliases": [
+    "tyranny park",
+    "big tyrant hunt",
+    "acamar tyranny park"
+  ]
 }
