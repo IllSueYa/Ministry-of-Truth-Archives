@@ -270,4 +270,75 @@
     "house representative",
     "representatives"
   ]
+},
+  "center-for-civilian-surveillance-and-safety": {
+  "title": "Center for Civilian Surveillance and Safety",
+  "category": "Super Earth Government Facility",
+  "description": "The Center for Civilian Surveillance and Safety is a government surveillance facility located on Mastia and constructed under the FREEDOM Act. Operated by the Ministry of Truth, the Center analyzes citizens' activity, speech, data, DNA, RNA, and neural topology for evidence of Illuminate manipulation, dissidence, and other threats. Suspicious individuals identified by the Center can be reported to the Ministry of Unity and apprehended by the Unity Corps.",
+  "source": "https://helldivers.wiki.gg/wiki/Center_for_Civilian_Surveillance_and_Safety",
+  "image": "",
+  "aliases": [
+    "center for civilian surveillance and safety",
+    "center for citizen surveillance and safety",
+    "civilian surveillance center",
+    "citizen surveillance center",
+    "ccss"
+  ]
+},
+"pre-dissidence-program": {
+  "title": "Pre-Dissidence Program",
+  "category": "Super Earth Government Program",
+  "description": "The Pre-Dissidence Program is an initiative operated through the Center for Civilian Surveillance and Safety. Recovered Automaton technology, including neural processors and optical lenses, was allocated to the program to improve Super Earth's ability to identify individuals considered at risk of disloyal thought. Expansion of the Center for the program included a database for identifying potential dissidents, facilities for training undercover agents, and mortar fields used for Loyalty Intervention and Enforcement Squad training.",
+  "source": "https://helldivers.wiki.gg/wiki/Center_for_Civilian_Surveillance_and_Safety",
+  "image": "",
+  "aliases": [
+    "pre-dissidence program",
+    "pre dissidence program",
+    "predissidence",
+    "dissidence program",
+    "pre-dissidence"
+  ]
+},
+  "center-for-confinement-of-dissidence": {
+  "title": "Center for the Confinement of Dissidence",
+  "category": "Super Earth Government Facility",
+  "description": "The Center for the Confinement of Dissidence, abbreviated CECOD, is a massive high-security Super Earth detention and re-education facility located on Afoyay Bay. It was constructed during the War on Dissidence after existing detention facilities became overwhelmed by mass arrests throughout Federation territory. CECOD was designed to hold as many as 15 million dissidents for confinement, rehabilitation, and re-education. Its construction was prioritized so heavily that resources intended for the reconstruction of New York Supreme were redirected to the project.",
+  "source": "https://helldivers.wiki.gg/wiki/Center_for_the_Confinement_of_Dissidence",
+  "image": "",
+  "aliases": [
+    "center for the confinement of dissidence",
+    "center for confinement of dissidence",
+    "cecod",
+    "dissident prison",
+    "dissident center",
+    "afoyay bay prison"
+  ]
+},
+"loyalty-intervention-enforcement-squads": {
+  "title": "Loyalty Intervention & Enforcement Squads",
+  "category": "Super Earth Security Organization",
+  "description": "Loyalty Intervention & Enforcement Squads are Ministry of Unity forces deployed to locate and apprehend suspected dissidents within the Super Earth Federation. They were activated during the 2185 loyalty crisis on Gaellivare, Alta V, and Diluvia after surveillance reports identified widespread dissident activity. The squads worked alongside SEAF forces during mass apprehension operations and later received dedicated mortar training fields as part of the expansion of Super Earth's anti-dissidence infrastructure.",
+  "source": "https://helldivers.wiki.gg/wiki/Ministry_of_Unity",
+  "image": "",
+  "aliases": [
+    "loyalty intervention and enforcement squads",
+    "loyalty intervention enforcement squads",
+    "loyalty enforcement squads",
+    "enforcement squads",
+    "lies"
+  ]
+},
+"pandora-base": {
+  "title": "Pandora Base",
+  "category": "Super Earth Government Facility",
+  "description": "Pandora Base is a top-secret Super Earth development facility located on Afoyay Bay and commissioned by the Ministry of Expansion. Established as part of Operation Free Space, the facility was created to construct upgrades for the Democracy Space Station, including the Star of Peace. Pandora Base shares Afoyay Bay with the Center for the Confinement of Dissidence, whose detained dissidents provide the workforce used by the facility.",
+  "source": "https://helldivers.wiki.gg/wiki/Pandora_Base",
+  "image": "",
+  "aliases": [
+    "pandora base",
+    "pandora",
+    "operation free space base",
+    "dss foundry",
+    "afoyay bay foundry"
+  ]
 }
