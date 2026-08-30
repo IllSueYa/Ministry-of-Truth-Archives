@@ -240,5 +240,18 @@
     "cyberwarfare detachment",
     "fort union cyberwarfare unit"
   ]
+},
+  "maximum-security-city-construction-site": {
+  "title": "Maximum Security City Construction Site",
+  "category": "Super Earth Infrastructure",
+  "description": "Maximum Security City Construction Sites were Super Earth points of interest established on Emeria, Fort Union, and Fort Sanctuary following Major Order A2-7-5. The sites were used to construct the Federation's first three Maximum Security Cities: New Aspiration City, New Hope City, and New Yearning City. The completed cities were designed with extensive security measures including high-definition facial recognition cameras, increased foot and drone patrols, and dedicated surveillance satellites.",
+  "source": "https://helldivers.wiki.gg/wiki/Maximum_Security_City_Construction_Site",
+  "image": "",
+  "aliases": [
+    "maximum security city construction site",
+    "msc construction site",
+    "maximum security construction site",
+    "msc construction"
+  ]
 }
 }
