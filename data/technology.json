@@ -121,4 +121,30 @@
     "dark fluid pack",
     "meridia dark fluid vessel"
   ]
+},
+  "galactic-wide-web": {
+  "title": "Galactic Wide Web",
+  "category": "Super Earth Technology",
+  "description": "The Galactic Wide Web, commonly abbreviated as GWW, is Super Earth's galaxy-spanning communications network. It uses arrays of interlinked quantum devices to transmit information across enormous distances, allowing citizens and military personnel to receive voice communications, text, news, and official information even during deep-space travel and wartime operations. The network also supports Super Earth's Managed Democracy voting system.",
+  "source": "https://helldivers.wiki.gg/wiki/Super_Earth_Lore",
+  "image": "",
+  "aliases": [
+    "galactic wide web",
+    "gww",
+    "super earth internet",
+    "galactic web"
+  ]
+},
+  "voting-algorithm": {
+  "title": "Voting Algorithm",
+  "category": "Super Earth Technology",
+  "description": "The Voting Algorithm is the computerized system used to implement Managed Democracy throughout the Federation of Super Earth. Instead of manually selecting a candidate, citizens answer questions at a voting terminal and the algorithm determines which candidate best corresponds to their responses. Voting terminals aboard Super Destroyers allow Helldivers to participate in this system while deployed.",
+  "source": "https://helldivers.wiki.gg/wiki/Government_of_Super_Earth",
+  "image": "",
+  "aliases": [
+    "voting algorithm",
+    "managed democracy algorithm",
+    "voting software",
+    "managed democracy voting system"
+  ]
 }
