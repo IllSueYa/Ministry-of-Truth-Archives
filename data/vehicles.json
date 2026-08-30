@@ -198,4 +198,19 @@
     "fighter craft",
     "cyberstan fighter"
   ]
+},
+  "td-220-bastion": {
+  "title": "TD-220 Bastion MK XVI",
+  "category": "Super Earth Ground Vehicle",
+  "description": "The TD-220 Bastion MK XVI is a heavily armored Super Earth tank destroyer deployed as a Helldiver Stratagem. The tracked vehicle is armed with a 120mm high-velocity cannon and a heavy coaxial machine gun. It is operated by a driver and gunner while also providing positions for two additional Helldiver passengers, allowing an entire squad to travel aboard the vehicle.",
+  "source": "https://helldivers.wiki.gg/wiki/TD-220_Bastion_MK_XVI",
+  "image": "",
+  "aliases": [
+    "td-220 bastion",
+    "td 220 bastion",
+    "bastion",
+    "bastion mk xvi",
+    "bastion tank",
+    "tank destroyer"
+  ]
 }
