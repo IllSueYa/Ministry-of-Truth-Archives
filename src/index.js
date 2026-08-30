@@ -1,3 +1,5 @@
+import 'dotenv/config';
+import { loadEncyclopedia } from './loadEncyclopedia.js';
 import {
   Client,
   GatewayIntentBits,
@@ -36,18 +38,50 @@ const commands = [
     )
 ];
 
+const activities = [
+  {
+    name: 'the Galactic War',
+    type: ActivityType.Watching,
+  },
+  {
+    name: 'Ministry-approved records',
+    type: ActivityType.Watching,
+  },
+  {
+    name: 'the Archives',
+    type: ActivityType.Watching,
+  },
+  {
+    name: 'Managed Democracy',
+    type: ActivityType.Watching,
+  },
+  {
+    name: '/lore',
+    type: ActivityType.Listening,
+  },
+];
+
+function rotateActivity() {
+  let index = 0;
+
+  const updateActivity = () => {
+    client.user.setPresence({
+      activities: [activities[index]],
+      status: 'online',
+    });
+
+    index = (index + 1) % activities.length;
+  };
+
+  updateActivity();
+
+  setInterval(updateActivity, 30000);
+}
+
 client.once('clientReady', async () => {
   console.log(`Logged in as ${client.user.tag}`);
 
-  client.user.setPresence({
-    activities: [
-      {
-        name: 'the Galactic War',
-        type: ActivityType.Watching,
-      },
-    ],
-    status: 'online',
-  });
+  rotateActivity();
 
   const rest = new REST({ version: '10' }).setToken(process.env.BOT_TOKEN);
 
