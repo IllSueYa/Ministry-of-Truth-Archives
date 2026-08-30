@@ -350,4 +350,32 @@
     "e711",
     "711"
   ]
+},
+  "element-710": {
+  "title": "Element-710",
+  "category": "Strategic Resource",
+  "description": "Element-710, commonly abbreviated E-710, is an energy-dense substance produced from the oils of decomposing Terminids. It is the primary fuel used by Super Earth's faster-than-light Alcubierre Drives, powering spacecraft ranging from Super Destroyers to the Democracy Space Station. The immense strategic importance of E-710 has led Super Earth to establish a large industry dedicated to farming Terminids and harvesting the substance.",
+  "source": "https://helldivers.wiki.gg/wiki/Element-710",
+  "image": "",
+  "aliases": [
+    "element 710",
+    "element-710",
+    "e-710",
+    "e710",
+    "terminid oil"
+  ]
+},
+  "gloom-infused-oil": {
+  "title": "Gloom-Infused Oil",
+  "category": "Strategic Resource",
+  "description": "Gloom-Infused Oil is Terminid-derived oil altered by prolonged exposure to the Gloom and the environments of Gloom-consumed worlds. Super Earth scientists investigated the substance both for information about the Gloom's effects beneath planetary surfaces and for its unusually high energy potential. Gloom-mutated Terminids have demonstrated significantly increased E-710 yields, making the altered oil valuable for both scientific research and fuel production.",
+  "source": "https://helldivers.wiki.gg/wiki/Collect_Gloom-Infused_Oil",
+  "image": "",
+  "aliases": [
+    "gloom-infused oil",
+    "gloom infused oil",
+    "gloom oil",
+    "infused oil",
+    "gloom e-710"
+  ]
 }
