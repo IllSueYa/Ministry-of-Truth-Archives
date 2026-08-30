@@ -382,4 +382,16 @@
     "fractured moradesh",
     "moradesh planet"
   ]
+},
+  "mintoria": {
+  "title": "Mintoria",
+  "category": "Planet",
+  "description": "Mintoria is a Plains planet located in the Gellert Sector. The world became strategically important after Super Earth discovered secret Automaton mining operations beneath its surface, most notably the Ultramafic Mine extracting rare metals such as nickel, chromium, and platinum. Helldivers later liberated the planet and recovered technologies from the mining complex for use in Super Earth's wider war effort.",
+  "source": "https://helldivers.wiki.gg/wiki/Mintoria",
+  "image": "",
+  "aliases": [
+    "mintoria",
+    "mintoria planet",
+    "ultramafic mine planet"
+  ]
 }
