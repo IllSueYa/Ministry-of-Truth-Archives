@@ -1,5 +1,3 @@
-import 'dotenv/config';
-import { loadEncyclopedia } from './loadEncyclopedia.js';
 import {
   Client,
   GatewayIntentBits,
@@ -7,6 +5,7 @@ import {
   Routes,
   SlashCommandBuilder,
   EmbedBuilder,
+  ActivityType,
 } from 'discord.js';
 
 const lore = loadEncyclopedia();
@@ -37,8 +36,18 @@ const commands = [
     )
 ];
 
-client.once('ready', async () => {
+client.once('clientReady', async () => {
   console.log(`Logged in as ${client.user.tag}`);
+
+  client.user.setPresence({
+    activities: [
+      {
+        name: 'the Galactic War',
+        type: ActivityType.Watching,
+      },
+    ],
+    status: 'online',
+  });
 
   const rest = new REST({ version: '10' }).setToken(process.env.BOT_TOKEN);
 
