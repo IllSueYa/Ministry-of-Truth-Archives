@@ -205,5 +205,68 @@
     "emeria megacity",
     "aspiration city"
   ]
- }
+ },
+  "new-yearning-city": {
+  "title": "New Yearning City",
+  "category": "Super Earth City",
+  "description": "New Yearning City is one of the first three Maximum Security Cities constructed by Super Earth and is located on Fort Sanctuary in the Cancri Sector. Built in 2185 as part of the Maximum Security City project, the city was equipped with extensive surveillance and security measures intended to protect its citizens from dissidents and other agents of tyranny. Construction was completed by early August 2185 and citizens began moving into the city. Later that month, Illuminate forces advanced toward Fort Sanctuary, threatening the newly established Maximum Security City.",
+  "source": "https://helldivers.wiki.gg/wiki/Fort_Sanctuary",
+  "image": "",
+  "aliases": [
+    "new yearning city",
+    "new yearning",
+    "fort sanctuary maximum security city",
+    "fort sanctuary megacity",
+    "yearning city"
+  ]
+},
+  "fort-union": {
+  "title": "Fort Union",
+  "category": "Planet",
+  "description": "Fort Union is a Plains planet located in the Orion Sector. In 2185, it became one of three worlds selected for Super Earth's Maximum Security City project and became home to New Hope City, the flagship Maximum Security City. Fort Union later became strategically important during several operations, including a cyberwarfare effort against enemy forces and the defense of New Hope City from an advancing Terminid outbreak.",
+  "source": "https://helldivers.wiki.gg/wiki/Fort_Union",
+  "image": "",
+  "aliases": [
+    "fort union",
+    "new hope city planet",
+    "new hope planet"
+  ]
+},
+  "emeria": {
+  "title": "Emeria",
+  "category": "Planet",
+  "description": "Emeria is a Rocky Canyons planet located in the Kelvin Sector. In 2185, it was selected as one of three worlds to host Super Earth's first Maximum Security Cities and became home to New Aspiration City. Because Automaton forces operated nearby, Helldivers were ordered to establish a defensive buffer around Emeria. The planet was later directly attacked by Automaton forces, placing New Aspiration City under threat.",
+  "source": "https://helldivers.wiki.gg/wiki/Emeria",
+  "image": "",
+  "aliases": [
+    "emeria",
+    "new aspiration city planet",
+    "new aspiration planet"
+  ]
+},
+  "fort-sanctuary": {
+  "title": "Fort Sanctuary",
+  "category": "Planet",
+  "description": "Fort Sanctuary is an Ionic Crimson planet located in the Cancri Sector, where widespread crimson algae covers much of its rocky landscape. The planet experiences Ion Storms that can disrupt Stratagem use. In 2185, Fort Sanctuary was selected as one of the three worlds hosting Super Earth's first Maximum Security Cities and became home to New Yearning City. Illuminate forces later advanced toward the planet, threatening the newly established city.",
+  "source": "https://helldivers.wiki.gg/wiki/Fort_Sanctuary",
+  "image": "",
+  "aliases": [
+    "fort sanctuary",
+    "new yearning city planet",
+    "new yearning planet"
+  ]
+},
+  "maximum-security-city-construction-site": {
+  "title": "Maximum Security City Construction Site",
+  "category": "Super Earth Infrastructure",
+  "description": "Maximum Security City Construction Sites were Super Earth points of interest established on Emeria, Fort Union, and Fort Sanctuary following Major Order A2-7-5. The sites were used to construct the Federation's first three Maximum Security Cities: New Aspiration City, New Hope City, and New Yearning City. The completed cities were designed with extensive security measures including high-definition facial recognition cameras, increased foot and drone patrols, and dedicated surveillance satellites.",
+  "source": "https://helldivers.wiki.gg/wiki/Maximum_Security_City_Construction_Site",
+  "image": "",
+  "aliases": [
+    "maximum security city construction site",
+    "msc construction site",
+    "maximum security construction site",
+    "msc construction"
+  ]
+}
 }
