@@ -1,45 +1,68 @@
 {
+  "super-earth-federation": {
+    "title": "Federation of Super Earth",
+    "category": "Faction",
+    "description": "The Federation of Super Earth is the governing human faction of Super Earth and its interstellar territory. It operates under Managed Democracy and directs the Super Earth Armed Forces, including the Helldivers, in the Second Galactic War against the Terminids, Automatons, and Illuminate.",
+    "source": "https://helldivers.wiki.gg/wiki/Federation_of_Super_Earth",
+    "image": "",
+    "aliases": [
+      "federation of super earth",
+      "super earth federation",
+      "super earth",
+      "federation"
+    ]
+  },
   "automatons": {
     "title": "Automatons",
     "category": "Faction",
-    "description": "The Automatons are a machine civilization and one of Super Earth's primary enemies during the Second Galactic War. They field heavily armed infantry, armored vehicles, aircraft, artillery, and massive war machines while operating with a clear military hierarchy and strategic objectives. Their connection to the Cyborgs of Cyberstan and references uncovered in Automaton intelligence have made their origins one of the most important mysteries of the current Galactic War.",
+    "description": "The Automatons are a machine civilization and one of the three enemy factions fought by the Helldivers during the Second Galactic War. The Automatons are described as the children of the Cyborgs and share their goal of independence from Super Earth. Their forces combine light infantry with heavily armored troops, vehicles, aircraft, artillery, production facilities, and specialized subfactions such as the Jet Brigade, Incineration Corps, and Cyborg Legion.",
     "source": "https://helldivers.wiki.gg/wiki/Automatons",
     "image": "",
     "aliases": [
+      "automatons",
+      "automaton",
       "bots",
-      "automaton"
+      "automaton legion"
     ]
   },
   "terminids": {
     "title": "Terminids",
     "category": "Faction",
-    "description": "The Terminids are a rapidly reproducing alien species that spread through enormous swarms and biological infestations. Super Earth has long exploited the species as a source of Element 710, but repeated containment failures and genetic manipulation have contributed to increasingly dangerous mutations. During the Second Galactic War, Terminid populations expanded across the eastern galaxy and later evolved dramatically within the Gloom.",
+    "description": "The Terminids are a rapidly reproducing alien species and one of the three enemy factions fought by the Helldivers during the Second Galactic War. They are successors to the Bugs of the First Galactic War and were selectively bred by Super Earth for Element-710 production before later escaping containment. Their forces rely on swarming attacks, claws, acidic bile, and rapidly evolving specialized strains.",
     "source": "https://helldivers.wiki.gg/wiki/Terminids",
     "image": "",
     "aliases": [
+      "terminids",
+      "terminid",
       "bugs",
-      "terminid"
+      "terminid horde"
     ]
   },
   "illuminate": {
     "title": "Illuminate",
     "category": "Faction",
-    "description": "The Illuminate are an advanced alien civilization first encountered during the First Galactic War. Super Earth declared them defeated and driven from the galaxy, but surviving Illuminate forces returned during the Second Galactic War through the Meridian Wormhole. Their technology includes energy weapons, shields, teleportation, mind control, advanced spacecraft, and biological conversion of human populations into Voteless.",
+    "description": "The Illuminate are an ancient, highly advanced alien civilization and one of the three enemy factions fought by the Helldivers during the Second Galactic War. Known colloquially as Squids, they possess advanced shielding, stealth, energy weapons, spacecraft, and mind-control technology. Their modern forces include multiple subfactions such as the Mindless Masses, Appropriators, Vote Snatchers, and Invasion Fleet.",
     "source": "https://helldivers.wiki.gg/wiki/Illuminate",
     "image": "",
     "aliases": [
+      "illuminate",
+      "the illuminate",
       "squids",
-      "illuminates"
+      "squid",
+      "squ'ith"
     ]
   },
   "cyborgs": {
     "title": "Cyborgs",
-    "category": "Faction",
-    "description": "The Cyborgs are a technologically modified human faction that rebelled against Super Earth and established their center of power on Cyberstan. They fought Super Earth during the First Galactic War and were defeated, after which surviving Cyborg populations were placed under Federation control. Their relationship with the later Automaton civilization remains a major part of the history surrounding Cyberstan and the western Galactic War.",
+    "category": "Historical Faction",
+    "description": "The Cyborgs are a technologically augmented human faction that rebelled against Super Earth and established their center of power on Cyberstan. They fought Super Earth during the First Galactic War and were defeated, after which surviving Cyborgs were forced into labor on Cyberstan. The later Automatons are described as the children of the Cyborgs, and Cyborg fighters have since returned to active combat as the Cyborg Legion, an Automaton subfaction.",
     "source": "https://helldivers.wiki.gg/wiki/Cyborgs",
     "image": "",
     "aliases": [
-      "cyborg"
+      "cyborgs",
+      "cyborg",
+      "original cyborgs",
+      "first galactic war cyborgs"
     ]
   }
 }
