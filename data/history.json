@@ -1,343 +1,257 @@
 {
   "first-galactic-war": {
     "title": "First Galactic War",
-    "category": "History",
+    "category": "Galactic War",
     "description": "The First Galactic War was a roughly forty-year conflict fought by the Super Earth Federation against the Bugs, Cyborgs, and Illuminate. The Helldivers fought across all three fronts, and the war ultimately ended in Super Earth victory. The Bugs were placed into farms for Element 710 production, the defeated Cyborgs were forced to labor on Cyberstan, and the Illuminate were defeated and believed to have been eradicated.",
     "source": "https://helldivers.wiki.gg/wiki/First_Galactic_War",
-    "image": ""
+    "image": "",
+    "aliases": [
+      "first galactic war",
+      "the first galactic war",
+      "fgw"
+    ]
   },
   "second-galactic-war": {
     "title": "Second Galactic War",
-    "category": "History",
+    "category": "Galactic War",
     "description": "The Second Galactic War began around 2184 after approximately a century of relative peace following the First Galactic War. Terminids escaped containment and spread through the eastern sectors while the Automaton Legion emerged in the west, prompting Super Earth to reactivate the Helldivers. The conflict later expanded further with the return of the Illuminate, creating a galaxy-wide war fought across multiple fronts.",
     "source": "https://helldivers.wiki.gg/wiki/Second_Galactic_War",
-    "image": ""
+    "image": "",
+    "aliases": [
+      "second galactic war",
+      "the second galactic war",
+      "sgw"
+    ]
+  },
+  "great-democratization": {
+    "title": "The Great Democratization",
+    "category": "Historical Era",
+    "description": "The Great Democratization was the approximately century-long period of expansion and relative peace following Super Earth's victory in the First Galactic War. With its major enemies defeated, Super Earth expanded its colonies throughout the galaxy. The surviving Cyborgs were imprisoned and forced to work the mines of Cyberstan, the Bugs were placed into farms for Element-710 production, and the Illuminate were believed by the Federation to have been eliminated. The era ended as new conflicts with the Terminids and Automatons developed into the Second Galactic War.",
+    "source": "https://helldivers.wiki.gg/wiki/Second_Galactic_War",
+    "image": "",
+    "aliases": [
+      "great democratization",
+      "the great democratization",
+      "century of peace"
+    ]
   },
   "operation-valiant-enclosure": {
     "title": "Operation Valiant Enclosure",
-    "category": "History",
+    "category": "Military Operation",
     "description": "Operation Valiant Enclosure was a major Super Earth campaign against the Terminids during the early Second Galactic War. Helldivers fought to secure the Barrier Planets of Erata Prime, Fenrir III, Meridia, and Turing, where the Terminid Control System was constructed and activated. The TCS dispersed Termicide in an attempt to contain the Terminid threat. Although initially declared a success, some Terminids adapted to the chemical, contributing to explosive reproduction and the eventual transformation of Meridia into a Supercolony.",
     "source": "https://helldivers.wiki.gg/wiki/Operation_Valiant_Enclosure",
-    "image": ""
+    "image": "",
+    "aliases": [
+      "operation valiant enclosure",
+      "valiant enclosure"
+    ]
   },
   "operation-swift-disassembly": {
     "title": "Operation Swift Disassembly",
-    "category": "History",
+    "category": "Military Operation",
     "description": "Operation Swift Disassembly was a multi-phase Super Earth offensive intended to completely eradicate the Automatons. Helldivers captured a long-range communications array on Troost, attacked Automaton production centers, defended key worlds against a counterattack, and finally assaulted the remaining Automaton planets of Maia, Tibit, and Durgen. The operation appeared successful when the Automaton vanguard was eliminated, but the victory was short-lived: a much larger Automaton fleet soon invaded during the Reclamation.",
     "source": "https://helldivers.wiki.gg/wiki/Operation_Swift_Disassembly",
-    "image": ""
+    "image": "",
+    "aliases": [
+      "operation swift disassembly",
+      "swift disassembly"
+    ]
   },
   "the-reclamation": {
     "title": "The Reclamation",
-    "category": "History",
+    "category": "Historical Event",
     "description": "The Reclamation began on April 9, 2184, only two days after Super Earth believed the Automatons had been eradicated. A massive Automaton invasion fleet arrived from beyond the Galactic Frontier and overwhelmed Super Earth defenses across the Valdis region. The invading force dwarfed the Automaton vanguard destroyed during Operation Swift Disassembly and rapidly captured Cyberstan, revealing that the earlier Automaton armies had represented only a fraction of their true strength.",
     "source": "https://helldivers.wiki.gg/wiki/The_Reclamation",
-    "image": ""
+    "image": "",
+    "aliases": [
+      "the reclamation",
+      "reclamation",
+      "automaton reclamation"
+    ]
   },
   "operation-enduring-peace": {
     "title": "Operation Enduring Peace",
-    "category": "History",
-    "description": "Operation Enduring Peace was Super Earth's campaign to destroy the Terminid Supercolony on Meridia. Helldivers first secured the surrounding staging worlds before deploying weaponized Dark Fluid into Meridia's crust. Once enough Dark Fluid had been injected, the planet collapsed, destroying the Supercolony and leaving the Meridian Black Hole in its place.",
+    "category": "Military Operation",
+    "description": "Operation Enduring Peace was a multi-phase Super Earth campaign conducted from May 27 to June 2, 2184 to eliminate the Terminid Supercolony on Meridia. Helldivers first secured staging worlds and a route to Meridia while scientists on Moradesh weaponized Dark Fluid. During the final phase, Helldivers injected Dark Fluid beneath Meridia's surface until the planet imploded, destroying the Supercolony and creating the Meridian Singularity.",
     "source": "https://helldivers.wiki.gg/wiki/Operation_Enduring_Peace",
-    "image": ""
+    "image": "",
+    "aliases": [
+      "operation enduring peace",
+      "enduring peace",
+      "meridia operation",
+      "destruction of meridia"
+    ]
   },
   "battle-of-calypso": {
     "title": "Battle of Calypso",
-    "category": "History",
+    "category": "Historical Event",
     "description": "The Battle of Calypso marked the return of the Illuminate to open warfare after more than a century. Illuminate forces emerged through the Meridian anomaly and launched a surprise invasion of the Super Earth colony on Calypso. The attackers deployed Overseers, Harvesters, and hordes of Voteless created from abducted and transformed human colonists. Helldivers were ordered to Calypso under LIBCON 1 and fought for roughly three days before successfully repelling the invasion.",
     "source": "https://helldivers.wiki.gg/wiki/Calypso",
-    "image": ""
+    "image": "",
+    "aliases": [
+      "battle of calypso",
+      "calypso invasion",
+      "illuminate return"
+    ]
   },
   "the-great-host": {
     "title": "The Great Host",
-    "category": "History",
-    "description": "The Great Host was a massive Illuminate invasion fleet constructed in secret beyond the Meridian Wormhole. After the Meridian Singularity was halted, the fleet emerged and began advancing toward Super Earth, bringing new Illuminate forces including Stingrays, Fleshmobs, Crescent Overseers, Leviathans, and Overships. The Great Host eventually reached the Solar System and launched the Illuminate assault on Super Earth before being destroyed during the Battle for Super Earth.",
+    "category": "Illuminate Military Campaign",
+    "description": "The Great Host was a massive Illuminate invasion fleet that emerged from the Meridian Wormhole in 2185 and launched a direct campaign against Super Earth. Believed to have been prepared over the century following the First Galactic War, the fleet advanced through Federation territory before reaching the Solar System and invading humanity's homeworld. The Great Host destroyed five of Super Earth's seven Mega Cities and killed the sitting President before its fleet strength was exhausted by Helldiver and SEAF resistance, the Democracy Space Station, and a devastating cyberattack. Its surviving forces retreated from Super Earth and later established themselves in the southern reaches of the known galaxy.",
     "source": "https://helldivers.wiki.gg/wiki/The_Great_Host",
-    "image": ""
+    "image": "",
+    "aliases": [
+      "the great host",
+      "great host",
+      "illuminate great host",
+      "great host invasion"
+    ]
   },
   "battle-for-super-earth": {
-    "title": "First Battle for Super Earth",
-    "category": "History",
-    "description": "The First Battle for Super Earth began on May 20, 2185 when the Illuminate Great Host reached humanity's homeworld and assaulted its Mega Cities. Helldivers and SEAF forces fought an eleven-day defense as Eagleopolis, Remembrance, Administrative Center 02, Port Mercy, and York Supreme were destroyed. Despite enormous losses and the death of the President of Super Earth, the defenders reduced the Great Host to a fraction of its original strength. On the final day, the Illuminate withdrew, leaving Prosperity City and Equality-on-Sea standing and Super Earth under Federation control.",
+    "title": "Battle for Super Earth",
+    "category": "Historical Event",
+    "description": "The Battle for Super Earth was the massive 2185 defense of humanity's homeworld against the Illuminate Great Host. The invasion developed into a prolonged struggle across Super Earth's seven Mega Cities, forcing High Command to activate the Super Defense Protocols as casualties and infrastructure losses mounted. Eagleopolis, Administrative Center 02, Remembrance, Port Mercy, and York Supreme were destroyed. During the final assault on Prosperity City, the President of Super Earth was killed. Helldivers and SEAF forces ultimately broke the invasion with assistance from the repaired Democracy Space Station, leaving Prosperity City and Equality-on-Sea as the two surviving Mega Cities.",
     "source": "https://helldivers.wiki.gg/wiki/Galactic_War/First_Battle_For_Super_Earth",
-    "image": ""
+    "image": "",
+    "aliases": [
+      "battle for super earth",
+      "first battle for super earth",
+      "battle of super earth",
+      "defense of super earth"
+    ]
   },
-  "great-host-remnants": {
-    "title": "Remnants of the Great Host",
-    "category": "History",
-    "description": "After their defeat during the First Battle for Super Earth, the surviving Illuminate forces activated cloaking technology and withdrew from the homeworld. Super Earth scientists later studied captured Illuminate wreckage and developed methods to detect the cloaked enemy. Hidden Illuminate positions were subsequently discovered in the southern galaxy, proving that the defeat of the Great Host had not ended the Illuminate threat.",
-    "source": "https://helldivers.wiki.gg/wiki/The_Great_Host",
-     "image": ""
+  "battle-for-super-earth-aftermath": {
+    "title": "Aftermath of the Battle for Super Earth",
+    "category": "Historical Event",
+    "description": "The Battle for Super Earth ended on the eleventh day of the Illuminate invasion when the Great Host's remaining fleet strength was depleted and its forces retreated. Five of Super Earth's seven Mega Cities had been destroyed, leaving only Prosperity City and Equality-on-Sea standing. The sitting President had been killed, and a new President was subsequently elected in a landslide Managed Election. Surviving Great Host forces activated cloaking technology and escaped into the southern galaxy. Super Earth later began reconstruction of its devastated cities while continuing operations to locate and destroy the Illuminate remnants.",
+    "source": "https://helldivers.wiki.gg/wiki/Galactic_War/First_Battle_For_Super_Earth",
+    "image": "",
+    "aliases": [
+      "battle for super earth aftermath",
+      "aftermath of the battle for super earth",
+      "great host retreat"
+    ]
+  },
+  "fort-union-cyberattack": {
+    "title": "Fort Union Cyberattack",
+    "category": "Historical Event",
+    "description": "The Fort Union Cyberattack was a decisive cyberwarfare operation conducted during the final stages of the Battle for Super Earth. A former satellite technician on Fort Union developed malware capable of disabling Illuminate technology, but a Terminid attack threatened the planet before the code could be deployed. Helldivers successfully defended Fort Union, allowing long-range satellites to transmit the malware. The attack disabled approximately five percent of the Great Host, and the technician responsible was promoted to command the 405th Cyberwarfare Detachment.",
+    "source": "https://helldivers.wiki.gg/wiki/Fort_Union",
+    "image": "",
+    "aliases": [
+      "fort union cyberattack",
+      "fort union malware",
+      "great host cyberattack"
+    ]
   },
   "operation-righteous-reclamation": {
     "title": "Operation Righteous Reclamation",
-    "category": "History",
-    "description": "Operation Righteous Reclamation was Super Earth's major offensive into the Gloom. Beginning in August 2185, Helldivers were ordered to penetrate the massive Terminid spore cloud and establish a permanent forward operating base within its perimeter. Hellmire was liberated and Outpost Alpha was established, giving the Helldiver fleet unprecedented access to the interior of the Gloom. From there, spore-flow analysis led Super Earth to Oshaune, a planet transformed by extreme Terminid terraformation into a Hive World. The operation then expanded into reconnaissance, research, and combat operations against the mutated Terminids hidden within the Gloom.",
+    "category": "Military Operation",
+    "description": "Operation Righteous Reclamation was a Super Earth campaign launched in August 2185 to penetrate and reduce the Terminid Gloom. Helldivers established Gloom Base Alpha on Hellmire, used the forward base to reach Oshaune, and conducted reconnaissance and research on the newly discovered Hive World. Subsequent operations targeted the subterranean spore-producing structures sustaining the Gloom and contributed to major reductions in its extent.",
     "source": "https://helldivers.wiki.gg/wiki/Major_Orders_of_2025",
-    "image": ""
+    "image": "",
+    "aliases": [
+      "operation righteous reclamation",
+      "righteous reclamation",
+      "gloom offensive"
+    ]
   },
- "operation-valid-pretext": {
+  "war-on-dissidence": {
+    "title": "War on Dissidence",
+    "category": "Historical Campaign",
+    "description": "The War on Dissidence was a Super Earth internal-security campaign declared in late 2185 after investigations reported dissident activity across Federation territory. SEAF forces and Loyalty Intervention & Enforcement Squads carried out mass apprehensions while Helldivers secured Afoyay Bay for construction of the Center for the Confinement of Dissidence. Super Earth declared the campaign a victory after Afoyay Bay was secured and millions of dissidents were apprehended.",
+    "source": "https://helldivers.wiki.gg/wiki/Second_Galactic_War",
+    "image": "",
+    "aliases": [
+      "war on dissidence",
+      "dissidence war",
+      "dissident crisis"
+    ]
+  },
+  "operation-free-space": {
+    "title": "Operation Free Space",
+    "category": "Military Operation",
+    "description": "Operation Free Space was a Super Earth strategic initiative to dramatically upgrade the Democracy Space Station through construction of the Star of Peace. The operation centered on Pandora Base at Afoyay Bay and required massive quantities of E-711, platinum, and salvaged Automaton components. Its centerpiece was an ionized Dark Fluid weapon capable of collapsing an entire planet into a black hole. The operation concluded when Helldivers voted for Penta as the first target and the Star of Peace successfully destroyed the planet.",
+    "source": "https://helldivers.wiki.gg/wiki/Democracy_Space_Station",
+    "image": "",
+    "aliases": [
+      "operation free space",
+      "free space",
+      "star of peace operation"
+    ]
+  },
+  "operation-valid-pretext": {
     "title": "Operation Valid Pretext",
-    "category": "History",
-    "description": "Operation Valid Pretext was a multi-phase Super Earth campaign launched in February 2186 to invade Cyberstan and prevent the Automaton Legion from developing a planet-destroying weapon using stolen Star of Peace plans. The operation culminated in the liberation campaign for Cyberstan.",
+    "category": "Military Operation",
+    "description": "Operation Valid Pretext was a major Super Earth offensive launched in February 2186 to invade Cyberstan and prevent the Automaton Legion and Cyborgs from developing planet-destroying capabilities using stolen Star of Peace plans. Helldivers opened a route to Cyberstan, established a Drophead for SEAF forces, and advanced toward Transcendence, the Cyborg capital Megafactory. The offensive ultimately failed, prompting High Command to activate the TERMINAL DIRECTIVE and order a Democracy Space Station bombardment.",
     "source": "https://helldivers.wiki.gg/wiki/Operation_Valid_Pretext",
     "image": "",
     "aliases": [
+      "operation valid pretext",
       "valid pretext",
-      "operation valid pretext"
+      "march to cyberstan",
+      "cyberstan invasion"
+    ]
+  },
+  "census-thunder": {
+    "title": "Census Thunder",
+    "category": "Military Operation",
+    "description": "Census Thunder was a Super Earth campaign conducted from June 16 to June 29, 2186 in response to Voteless hordes emerging from the vicinity of the Void. Helldivers fought the incursions, collected millions of Voteless tissue samples, and secured Automaton bio-processing equipment for Ministry of Science research. The resulting Voteless Processing Plant allowed researchers to study Void-altered tissue while the campaign also served as a field test for new Fast Recon Vehicle variants.",
+    "source": "https://helldivers.wiki.gg/wiki/Campaigns",
+    "image": "",
+    "aliases": [
+      "census thunder",
+      "operation census thunder",
+      "voteless processing campaign"
+    ]
+  },
+  "operation-celestial-fence": {
+    "title": "Operation Celestial Fence",
+    "category": "Military Operation",
+    "description": "Operation Celestial Fence was a Super Earth campaign conducted from June 30 to July 13, 2186 to begin construction of the Terminid Control System+ barrier. Helldivers defended construction sites, secured resources, and fought Terminid attempts to break through the developing cordon. By the operation's conclusion, the first half of the planned interplanetary TCS+ wall had been completed, with its towers dispersing Termicide 2.0.",
+    "source": "https://helldivers.wiki.gg/wiki/Campaigns",
+    "image": "",
+    "aliases": [
+      "operation celestial fence",
+      "celestial fence",
+      "tcs+ celestial fence"
+    ]
+  },
+  "lightning-intercept": {
+    "title": "Lightning Intercept",
+    "category": "Military Operation",
+    "description": "Lightning Intercept was a Super Earth campaign conducted from July 14 to July 27, 2186 after Cyborg forces deployed a prototype orbital weapons platform capable of devastating entire planets. Helldivers defended worlds struck by the weapon, gathered intelligence from Automaton and Cyborg positions, and traced the platform through its support network. The campaign ended when Helldiver forces and the Democracy Space Station intercepted and destroyed the orbital superweapon before it could attack Mort.",
+    "source": "https://helldivers.wiki.gg/wiki/Campaigns",
+    "image": "",
+    "aliases": [
+      "lightning intercept",
+      "operation lightning intercept",
+      "orbital superweapon campaign"
     ]
   },
   "operation-permanent-enclosure": {
     "title": "Operation Permanent Enclosure",
-    "category": "History",
-    "description": "Operation Permanent Enclosure was a major Super Earth campaign launched on July 28, 2186 to expand the Terminid Control System+ defensive wall. Helldivers secured and defended planets while additional TCS+ arrays were constructed and activated to prevent further Terminid expansion into Super Earth territory. Super Earth High Command declared the operation successfully completed on August 11, 2186.",
+    "category": "Military Operation",
+    "description": "Operation Permanent Enclosure was the follow-up campaign to Operation Celestial Fence, launched on July 28, 2186 to complete the remaining half of Super Earth's TCS+ barrier. Helldivers defended and activated new Terminid Control System+ arrays across multiple border planets while fighting Terminid assaults and responding to reported sabotage. The final cordon was declared complete on August 11, 2186, creating a multi-sector network of Termicide 2.0-dispersing worlds intended to contain the Terminids.",
     "source": "https://helldivers.wiki.gg/wiki/Terminid_Control_System%2B",
     "image": "",
     "aliases": [
+      "operation permanent enclosure",
       "permanent enclosure",
-      "operation permanent enclosure"
+      "tcs+ permanent enclosure"
     ]
   },
   "operation-void-piercer": {
-  "title": "Operation Void Piercer",
-  "category": "History",
-  "description": "Operation Void Piercer was a major Super Earth campaign conducted from August 12 to August 23, 2186 to penetrate and destroy the Illuminate-created Void. Helldivers first defended Rirga Bay and secured E-711 needed to activate the Void Warp Relay. Super Earth forces then entered the anomaly, explored its obscured worlds, gathered scientific data to locate its hidden source, and advanced to the Void Source Planet. The campaign concluded after Helldivers secured the planet while a Ministry of Science expedition destroyed the source from within, causing the Void to dissipate across the galaxy.",
-  "source": "https://helldivers.wiki.gg/wiki/Campaigns",
-  "image": "",
-  "aliases": [
-    "void piercer",
-    "operation void piercer",
-    "void piercer campaign"
-  ]
- },
-  "war-on-dissidence": {
-  "title": "War on Dissidence",
-  "category": "Historical Event",
-  "description": "The War on Dissidence is a Super Earth campaign against widespread internal dissidence discovered throughout Federation territory. The crisis followed investigations by the Center for Civilian Surveillance and Safety, which found evidence of dissident activity across Super Earth-controlled planets. SEAF forces and Ministry of Unity enforcement units conducted large-scale apprehension operations while the Helldivers maintained the external Galactic War fronts. The campaign also resulted in the construction of the Center for the Confinement of Dissidence on Afoyay Bay.",
-  "source": "https://helldivers.wiki.gg/wiki/Second_Galactic_War",
-  "image": "",
-  "aliases": [
-    "war on dissidence",
-    "dissidence war",
-    "dissident crisis",
-    "war against dissidence",
-    "2185 dissident crisis"
-  ]
-},
-  "operation-free-space": {
-  "title": "Operation Free Space",
-  "category": "Military Operation",
-  "description": "Operation Free Space was a Super Earth strategic initiative to dramatically upgrade the Democracy Space Station through construction of the Star of Peace. The operation centered on Pandora Base at Afoyay Bay and required massive quantities of E-711, platinum, and salvaged Automaton components. Its centerpiece was an ionized Dark Fluid weapon capable of collapsing an entire planet into a black hole. The operation concluded when Helldivers voted for Penta as the first target and the Star of Peace successfully destroyed the planet.",
-  "source": "https://helldivers.wiki.gg/wiki/Democracy_Space_Station",
-  "image": "",
-  "aliases": [
-    "operation free space",
-    "free space",
-    "star of peace operation",
-    "dss upgrade operation"
-  ]
-},
-  "battle-for-super-earth": {
-  "title": "Battle for Super Earth",
-  "category": "Historical Event",
-  "description": "The Battle for Super Earth was the massive 2185 defense of humanity's homeworld against the Illuminate Great Host. The invasion developed into a prolonged struggle across Super Earth's seven Mega Cities, forcing High Command to activate the Super Defense Protocols as casualties and infrastructure losses mounted. Eagleopolis, Administrative Center 02, Remembrance, Port Mercy, and York Supreme were destroyed. During the final assault on Prosperity City, the President of Super Earth was killed. Helldivers and SEAF forces ultimately broke the invasion with assistance from the repaired Democracy Space Station, leaving Prosperity City and Equality-on-Sea as the two surviving Mega Cities.",
-  "source": "https://helldivers.wiki.gg/wiki/Galactic_War/First_Battle_For_Super_Earth",
-  "image": "",
-  "aliases": [
-    "battle for super earth",
-    "battle of super earth",
-    "first battle for super earth",
-    "defense of super earth",
-    "super earth invasion",
-    "2185 battle for super earth"
-  ]
-},
-"super-defense-protocols": {
-  "title": "Super Defense Protocols",
-  "category": "Super Earth Military Doctrine",
-  "description": "The Super Defense Protocols are emergency global defense measures reserved for situations in which Super Earth itself faces an extreme military threat. They were activated during the 2185 Battle for Super Earth as the Illuminate destroyed Mega Cities and overwhelmed planetary defenses. Protocol Sapphire converted Super Earth's remaining rainforests into tactical Eagle airstrips, Protocol Diamond suspended Collateral Damage Mitigation Procedures and provided Orbital Napalm Barrages, and Protocol Ruby opened Super Destroyer high-cost reserves and provided Fast Recon Vehicles.",
-  "source": "https://helldivers.wiki.gg/wiki/Super_Earth",
-  "image": "",
-  "aliases": [
-    "super defense protocols",
-    "super defense protocol",
-    "protocol sapphire",
-    "protocol diamond",
-    "protocol ruby",
-    "sapphire protocol",
-    "diamond protocol",
-    "ruby protocol"
-  ]
-},
-  "great-host": {
-  "title": "The Great Host",
-  "category": "Illuminate Military Force",
-  "description": "The Great Host was a massive Illuminate invasion fleet that emerged from the Meridian Wormhole in 2185 and launched a direct campaign against Super Earth. Believed to have been prepared over the century following the First Galactic War, the fleet advanced through Federation territory before reaching the Solar System and invading humanity's homeworld. The Great Host destroyed five of Super Earth's seven Mega Cities and killed the sitting President before its fleet strength was exhausted by Helldiver and SEAF resistance, the Democracy Space Station, and a devastating cyberattack. Its surviving forces retreated from Super Earth and later established themselves in the southern reaches of the known galaxy.",
-  "source": "https://helldivers.wiki.gg/wiki/The_Great_Host",
-  "image": "",
-  "aliases": [
-    "the great host",
-    "great host",
-    "illuminate great host",
-    "great host invasion",
-    "illuminate invasion fleet"
-  ]
-},
-"eagle-blockade": {
-  "title": "Eagle Blockade",
-  "category": "Democracy Space Station Action",
-  "description": "Eagle Blockade was a temporary Democracy Space Station Tactical Action deployed during the Battle for Super Earth. It combined the effects of Eagle Storm and Orbital Blockade, maintaining a rotating fleet of Eagle Fighters over Super Earth while providing logistical support to Super Destroyers. During missions it produced periodic Eagle Strafing Runs and automatically supplied Hellpod Space Optimization. Its activation helped relieve severe logistical problems and inflicted heavy losses on the Illuminate during the final stages of the Great Host invasion.",
-  "source": "https://helldivers.wiki.gg/wiki/Democracy_Space_Station",
-  "image": "",
-  "aliases": [
-    "eagle blockade",
-    "dss eagle blockade",
-    "super earth eagle blockade",
-    "eagle storm blockade"
-  ]
-},
-"fort-union-cyberattack": {
-  "title": "Fort Union Cyberattack",
-  "category": "Historical Event",
-  "description": "The Fort Union Cyberattack was a decisive cyberwarfare operation conducted during the final stages of the Battle for Super Earth. A former satellite technician on Fort Union developed malware capable of disabling Illuminate technology, but a Terminid attack threatened the planet before the code could be deployed. Helldivers successfully defended Fort Union, allowing long-range satellites to transmit the malware. The attack disabled approximately five percent of the Great Host, and the technician responsible was promoted to command the 405th Cyberwarfare Detachment.",
-  "source": "https://helldivers.wiki.gg/wiki/Fort_Union",
-  "image": "",
-  "aliases": [
-    "fort union cyberattack",
-    "fort union malware",
-    "illuminate malware",
-    "great host cyberattack",
-    "fort union cyberwarfare"
-  ]
-},
-  "battle-for-super-earth-aftermath": {
-  "title": "Aftermath of the Battle for Super Earth",
-  "category": "Historical Event",
-  "description": "The Battle for Super Earth ended on the eleventh day of the Illuminate invasion when the Great Host's remaining fleet strength was depleted and its forces retreated. Five of Super Earth's seven Mega Cities had been destroyed, leaving only Prosperity City and Equality-on-Sea standing. The sitting President had been killed, and a new President was subsequently elected in a landslide Managed Election. Surviving Great Host forces activated cloaking technology and escaped into the southern galaxy. Super Earth later began reconstruction of its devastated cities while continuing operations to locate and destroy the Illuminate remnants.",
-  "source": "https://helldivers.wiki.gg/wiki/Galactic_War/First_Battle_For_Super_Earth",
-  "image": "",
-  "aliases": [
-    "battle for super earth aftermath",
-    "super earth aftermath",
-    "aftermath of super earth",
-    "great host retreat",
-    "end of battle for super earth"
-  ]
-},
-  "great-democratization": {
-  "title": "The Great Democratization",
-  "category": "Historical Era",
-  "description": "The Great Democratization was the approximately century-long period of expansion and relative peace following Super Earth's victory in the First Galactic War. With its major enemies defeated, Super Earth expanded its colonies throughout the galaxy. The surviving Cyborgs were imprisoned and forced to work the mines of Cyberstan, the Bugs were placed into farms for Element-710 production, and the Illuminate were believed by the Federation to have been eliminated. The era ended as new conflicts with the Terminids and Automatons developed into the Second Galactic War.",
-  "source": "https://helldivers.wiki.gg/wiki/Second_Galactic_War",
-  "image": "",
-  "aliases": [
-    "great democratization",
-    "the great democratization",
-    "century of peace",
-    "post first galactic war"
-  ]
-},
-  "operation-celestial-fence": {
-  "title": "Operation Celestial Fence",
-  "category": "Military Operation",
-  "description": "Operation Celestial Fence was a Super Earth campaign conducted from June 30 to July 13, 2186 to begin construction of the Terminid Control System+ barrier. Helldivers defended construction sites, secured resources, and fought Terminid attempts to break through the developing cordon. By the operation's conclusion, the first half of the planned interplanetary TCS+ wall had been completed, with its towers dispersing Termicide 2.0.",
-  "source": "https://helldivers.wiki.gg/wiki/Campaigns",
-  "image": "",
-  "aliases": [
-    "operation celestial fence",
-    "celestial fence",
-    "tcs+ celestial fence",
-    "tcs plus celestial fence"
-  ]
-},
-  "operation-permanent-enclosure": {
-  "title": "Operation Permanent Enclosure",
-  "category": "Military Operation",
-  "description": "Operation Permanent Enclosure was the follow-up campaign to Operation Celestial Fence, launched on July 28, 2186 to complete the remaining half of Super Earth's TCS+ barrier. Helldivers defended and activated new Terminid Control System+ arrays across multiple border planets while fighting Terminid assaults and responding to reported sabotage. The final cordon was declared complete on August 11, 2186, creating a multi-sector network of Termicide 2.0-dispersing worlds intended to contain the Terminids.",
-  "source": "https://helldivers.wiki.gg/wiki/Terminid_Control_System%2B",
-  "image": "",
-  "aliases": [
-    "operation permanent enclosure",
-    "permanent enclosure",
-    "tcs permanent enclosure",
-    "tcs+ permanent enclosure"
-  ]
-},
-  "operation-void-piercer": {
-  "title": "Operation Void Piercer",
-  "category": "Military Operation",
-  "description": "Operation Void Piercer was a major Super Earth offensive conducted from August 12 to August 23, 2186 against the Illuminate-created Void. Using newly developed means of entering the anomaly, Helldivers and SEAF forces penetrated Void-controlled space and advanced toward its hidden source. The campaign culminated at the Void Source Planet, where Super Earth forces eliminated the source of the anomaly. The Void subsequently dissipated, ending the immediate threat it posed to the galaxy.",
-  "source": "https://helldivers.wiki.gg/wiki/Campaigns",
-  "image": "",
-  "aliases": [
-    "operation void piercer",
-    "void piercer",
-    "void piercer campaign",
-    "assault on the void"
-  ]
-},"operation-valid-pretext": {
-  "title": "Operation Valid Pretext",
-  "category": "Military Operation",
-  "description": "Operation Valid Pretext was a major Super Earth offensive launched in February 2186 against the Automaton Legion and Cyborg forces on Cyberstan. High Command claimed the enemy intended to use stolen Star of Peace plans to construct a planet-destroying weapon. The operation began with a March to Cyberstan, progressed into an invasion of the planet itself, and culminated in a ground campaign toward Transcendence, the Cyborg capital Megafactory.",
-  "source": "https://helldivers.wiki.gg/wiki/Major_Order",
-  "image": "",
-  "aliases": [
-    "operation valid pretext",
-    "valid pretext",
-    "march to cyberstan",
-    "cyberstan invasion"
-  ]
-},
-  "census-thunder": {
-  "title": "Census Thunder",
-  "category": "Military Campaign",
-  "description": "Census Thunder was a Super Earth campaign conducted from June 16 to June 29, 2186 in response to Voteless hordes emerging from the vicinity of the Void. Helldivers fought the incursions, collected millions of Voteless tissue samples, and secured Automaton bio-processing equipment for Ministry of Science research. The resulting Voteless Processing Plant allowed researchers to study Void-altered tissue while the campaign also served as a field test for new Fast Recon Vehicle variants.",
-  "source": "https://helldivers.wiki.gg/wiki/Campaigns",
-  "image": "",
-  "aliases": [
-    "census thunder",
-    "operation census thunder",
-    "voteless census thunder",
-    "voteless processing campaign"
-  ]
-},
-  "lightning-intercept": {
-  "title": "Lightning Intercept",
-  "category": "Military Campaign",
-  "description": "Lightning Intercept was a Super Earth campaign conducted from July 14 to July 27, 2186 after Cyborg forces deployed a prototype orbital weapons platform capable of devastating entire planets. Helldivers defended worlds struck by the weapon, gathered intelligence from Automaton and Cyborg positions, and traced the platform through its support network. The campaign ended when Helldiver forces and the Democracy Space Station intercepted and destroyed the orbital superweapon before it could attack Mort.",
-  "source": "https://helldivers.wiki.gg/wiki/Campaigns",
-  "image": "",
-  "aliases": [
-    "lightning intercept",
-    "operation lightning intercept",
-    "cyborg orbital superweapon campaign",
-    "orbital superweapon campaign"
-  ]
-},
-  "operation-enduring-peace": {
-  "title": "Operation Enduring Peace",
-  "category": "Military Operation",
-  "description": "Operation Enduring Peace was a multi-phase Super Earth campaign conducted from May 30 to June 3, 2184 to eliminate the Terminid Supercolony on Meridia. Helldivers first secured access to the planet before deploying weaponized Illuminate Dark Fluid deep beneath its surface. Once sufficient Dark Fluid reached critical mass, Meridia collapsed into a singularity, destroying the Supercolony and creating what became known as the Meridian Black Hole.",
-  "source": "https://helldivers.wiki.gg/wiki/Operation_Enduring_Peace",
-  "image": "",
-  "aliases": [
-    "operation enduring peace",
-    "enduring peace",
-    "meridia operation",
-    "dark fluid operation",
-    "destruction of meridia"
-  ]
-},
-  "terminid-research-initiative": {
-  "title": "Terminid Research Initiative",
-  "category": "Scientific Initiative",
-  "description": "The Terminid Research Initiative was a Ministry of Science program conducted during the Second Galactic War to study Terminid biology and improve Element-710 production. Research found that Terminids harvested after periods of extreme duress produced significantly greater E-710 yields. Follow-up trials ordered Helldivers to exterminate large numbers of Terminids using varied methods so scientists could investigate the relationship between extermination conditions and E-710 production.",
-  "source": "https://helldivers.wiki.gg/wiki/Major_Orders_of_2024",
-  "image": "",
-  "aliases": [
-    "terminid research initiative",
-    "terminid research program",
-    "e-710 research initiative",
-    "e710 research initiative"
-  ]
+    "title": "Operation Void Piercer",
+    "category": "Military Operation",
+    "description": "Operation Void Piercer was a major Super Earth offensive conducted from August 12 to August 23, 2186 against the Illuminate-created Void. Using newly developed means of entering the anomaly, Helldivers and SEAF forces penetrated Void-controlled space and advanced toward its hidden source. The campaign culminated at the Void Source Planet, where Super Earth forces eliminated the source of the anomaly. The Void subsequently dissipated, ending the immediate threat it posed to the galaxy.",
+    "source": "https://helldivers.wiki.gg/wiki/Campaigns",
+    "image": "",
+    "aliases": [
+      "operation void piercer",
+      "void piercer",
+      "void piercer campaign",
+      "assault on the void"
+    ]
+  }
 }
