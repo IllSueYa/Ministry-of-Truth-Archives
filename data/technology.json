@@ -229,4 +229,97 @@
     "termicide wall",
     "tcs+ barrier"
   ]
+},
+  "democracy-space-station": {
+  "title": "Democracy Space Station",
+  "category": "Super Earth Space Structure",
+  "description": "The Democracy Space Station, commonly abbreviated DSS, is a massive Super Earth-controlled space structure designed to provide strategic support to Helldiver operations. Its destination is determined through Helldiver voting, while donated resources activate powerful Tactical Actions. Plans for the station were recovered from an abandoned Advanced Weapons Lab on X-45, and the DSS was subsequently constructed in orbit of Gaellivare before entering service during the Second Galactic War.",
+  "source": "https://helldivers.wiki.gg/wiki/Democracy_Space_Station",
+  "image": "",
+  "aliases": [
+    "democracy space station",
+    "dss",
+    "the dss",
+    "super earth space station"
+  ]
+},
+  "high-efficiency-alcubierre-drive": {
+  "title": "High-Efficiency Alcubierre Drive",
+  "category": "Super Earth Technology",
+  "description": "The High-Efficiency Alcubierre Drive is an advanced Super Earth faster-than-light propulsion system developed to transport enormous space structures such as the Democracy Space Station without the prohibitive E-710 consumption of conventional drives. Development was assigned to scientists at the Xenoentomology Center on Turing during construction of the DSS, allowing the completed station to redeploy between planets during the Galactic War.",
+  "source": "https://helldivers.wiki.gg/wiki/Democracy_Space_Station",
+  "image": "",
+  "aliases": [
+    "high-efficiency alcubierre drive",
+    "high efficiency alcubierre drive",
+    "dss alcubierre drive",
+    "dss warp drive",
+    "high efficiency warp drive"
+  ]
+},
+  "dss-tactical-actions": {
+  "title": "DSS Tactical Actions",
+  "category": "Super Earth Technology",
+  "description": "DSS Tactical Actions are strategic support capabilities activated through the Democracy Space Station. Helldivers contribute resources to the station to fund these actions, which then provide battlefield or Galactic War benefits to the planet currently orbited by the DSS. The system allows the Helldiver population to collectively determine both the station's destination and which strategic capabilities receive resources.",
+  "source": "https://helldivers.wiki.gg/wiki/Democracy_Space_Station",
+  "image": "",
+  "aliases": [
+    "dss tactical actions",
+    "tactical actions",
+    "dss actions",
+    "democracy space station tactical actions"
+  ]
+},
+  "eagle-storm": {
+  "title": "Eagle Storm",
+  "category": "DSS Tactical Action",
+  "description": "Eagle Storm is a Democracy Space Station Tactical Action that deploys periodic Eagle air support during Helldiver missions on the planet currently supported by the DSS. In addition to providing Eagle strikes during missions, the action can slow enemy progress during planetary Defense Campaigns, allowing the station to influence both individual operations and the wider Galactic War.",
+  "source": "https://helldivers.wiki.gg/wiki/Effects",
+  "image": "",
+  "aliases": [
+    "eagle storm",
+    "dss eagle storm",
+    "eagle storm tactical action",
+    "dss eagle support"
+  ]
+},
+  "orbital-blockade": {
+  "title": "Orbital Blockade",
+  "category": "DSS Tactical Action",
+  "description": "Orbital Blockade is a Democracy Space Station Tactical Action intended to interfere with enemy movement around the planet currently supported by the DSS. By using the station as a strategic blockade platform, Super Earth can restrict hostile activity at the planetary level and influence the wider Galactic War beyond the effects of individual Helldiver missions.",
+  "source": "https://helldivers.wiki.gg/wiki/Democracy_Space_Station",
+  "image": "",
+  "aliases": [
+    "orbital blockade",
+    "dss orbital blockade",
+    "blockade",
+    "dss blockade"
+  ]
+},
+  "planetary-bombardment": {
+  "title": "Planetary Bombardment",
+  "category": "DSS Tactical Action",
+  "description": "Planetary Bombardment is a Democracy Space Station Tactical Action that uses the station's heavy orbital weaponry to support Helldiver operations on the planet below. When active, the DSS conducts bombardments during missions while also contributing strategic pressure to the Galactic War. The action represents the station functioning as a massive orbital fire-support platform.",
+  "source": "https://helldivers.wiki.gg/wiki/Democracy_Space_Station",
+  "image": "",
+  "aliases": [
+    "planetary bombardment",
+    "dss planetary bombardment",
+    "dss bombardment",
+    "orbital bombardment"
+  ]
+},
+  "planetary-defense-cannon": {
+  "title": "Planetary Defense Cannon",
+  "category": "Super Earth Weapon",
+  "description": "The Planetary Defense Cannon is an enormous Super Earth defensive weapon designed to engage massive hostile spacecraft from the planetary surface. During operations against the Illuminate, Helldivers can restore and operate these installations to attack Illuminate Overships. Once brought online and properly targeted, the cannon provides the firepower necessary to penetrate the defenses of these enormous enemy vessels.",
+  "source": "https://helldivers.wiki.gg/wiki/Take_Down_Overship",
+  "image": "",
+  "aliases": [
+    "planetary defense cannon",
+    "planetary defence cannon",
+    "pdc",
+    "overship cannon",
+    "super earth planetary defense cannon"
+  ]
 }
