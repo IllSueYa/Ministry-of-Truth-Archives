@@ -2,579 +2,633 @@
   "super-earth": {
     "title": "Super Earth",
     "category": "Government",
-    "description": "Super Earth is the center of the Federation and the governing power behind the Helldivers, SEAF, and humanity's expansion throughout the galaxy.",
+    "description": "Super Earth is humanity's homeworld and the capital of the Federation of Super Earth. It is the political center of Managed Democracy and the seat of the federal government that directs the Super Earth Armed Forces, the Helldivers, and humanity's interstellar territories.",
     "source": "https://helldivers.wiki.gg/wiki/Super_Earth",
+    "image": "",
     "aliases": [
-  "super earth"
-]
+      "super earth"
+    ]
   },
   "managed-democracy": {
     "title": "Managed Democracy",
     "category": "Government",
     "description": "Managed Democracy is Super Earth's computerized voting system. Citizens answer questions and an algorithm determines which candidates best represent their choices, which Super Earth presents as eliminating the uncertainty of older democratic systems.",
     "source": "https://helldivers.wiki.gg/wiki/Managed_Democracy",
+    "image": "",
     "aliases": [
-  "managed democracy"
-]
+      "managed democracy"
+    ]
   },
   "liberty-day": {
-  "title": "Liberty Day",
-  "category": "Super Earth Culture",
-  "description": "Liberty Day is one of Super Earth's most important patriotic holidays and is celebrated annually on October 26. The holiday commemorates Managed Democracy and the citizens and soldiers who defend Super Earth's way of life. Traditions include re-swearing the Oath of Citizenship, watching the televised Lunar Bombardment, gathering gifts from town pyres, and celebrating the achievements of Super Earth and the Helldivers.",
-  "source": "https://helldivers.wiki.gg/wiki/Liberty_Day",
-  "image": "",
-  "aliases": [
-    "liberty day",
-    "super earth liberty day",
-    "october 26",
-    "liberty day celebration"
-  ]
-},
-"super-earth-national-anthem": {
-  "title": "Super Earth National Anthem",
-  "category": "Super Earth Culture",
-  "description": "The Super Earth National Anthem is the official musical anthem of Super Earth and celebrates the Federation, Managed Democracy, sacrifice, liberty, and humanity's supremacy across the galaxy. Instrumental versions of the anthem accompany patriotic activities such as raising the Super Earth Flag during Spread Democracy missions. The anthem also appears as an official track on the Helldivers 2 soundtrack.",
-  "source": "https://helldivers.wiki.gg/wiki/Super_Earth_National_Anthem",
-  "image": "",
-  "aliases": [
-    "super earth national anthem",
-    "super earth anthem",
-    "anthem of super earth",
-    "national anthem",
-    "anthem"
-  ]
-},
+    "title": "Liberty Day",
+    "category": "Super Earth Culture",
+    "description": "Liberty Day is one of Super Earth's most important patriotic holidays and is celebrated annually on October 26. The holiday commemorates Managed Democracy and the citizens and soldiers who defend Super Earth's way of life. Traditions include re-swearing the Oath of Citizenship, watching the televised Lunar Bombardment, gathering gifts from town pyres, and celebrating the achievements of Super Earth and the Helldivers.",
+    "source": "https://helldivers.wiki.gg/wiki/Liberty_Day",
+    "image": "",
+    "aliases": [
+      "liberty day",
+      "super earth liberty day",
+      "october 26",
+      "liberty day celebration"
+    ]
+  },
+  "super-earth-national-anthem": {
+    "title": "Super Earth National Anthem",
+    "category": "Super Earth Culture",
+    "description": "The Super Earth National Anthem is the official musical anthem of Super Earth and celebrates the Federation, Managed Democracy, sacrifice, liberty, and humanity's supremacy across the galaxy. Instrumental versions of the anthem accompany patriotic activities such as raising the Super Earth Flag during Spread Democracy missions. The anthem also appears as an official track on the Helldivers 2 soundtrack.",
+    "source": "https://helldivers.wiki.gg/wiki/Super_Earth_National_Anthem",
+    "image": "",
+    "aliases": [
+      "super earth national anthem",
+      "super earth anthem",
+      "anthem of super earth",
+      "national anthem"
+    ]
+  },
   "malevelon-creek-memorial-day": {
-  "title": "Malevelon Creek Memorial Day",
-  "category": "Super Earth Holiday",
-  "description": "Malevelon Creek Memorial Day is a Super Earth holiday observed every year on April 3 in remembrance of the Helldivers who died fighting for Malevelon Creek. The holiday was established by presidential decree following the planet's liberation during the Second Galactic War. Citizens commemorate the fallen by dedicating three full minutes of their lunch break to solemn remembrance, while Helldivers were originally issued the Fallen Hero's Vengeance cape to carry the memory of the fallen into battle.",
-  "source": "https://helldivers.wiki.gg/wiki/Malevelon_Creek_Memorial_Day",
-  "image": "",
-  "aliases": [
-    "malevelon creek memorial day",
-    "creek memorial day",
-    "memorial day",
-    "remember the creek",
-    "april 3"
-  ]
-},
-"festival-of-reckoning": {
-  "title": "Festival of Reckoning",
-  "category": "Super Earth Holiday",
-  "description": "The Festival of Reckoning is Super Earth's winter holiday celebration, traditionally lasting three days and dedicated to love, family, peace, commerce, and vengeance against the enemies of Managed Democracy. Citizens gather with friends and family, purchase discounted consumer goods, sing holiday carols, and watch televised coverage of Helldiver victories. The celebration is supported by the annual Reckoning Fund, which finances additional ordnance for the Helldivers. The festival also includes traditions such as a dissident execution parade and the Feast of the Electorate.",
-  "source": "https://helldivers.wiki.gg/wiki/Festival_of_Reckoning",
-  "image": "",
-  "aliases": [
-    "festival of reckoning",
-    "reckoning",
-    "winter holiday",
-    "super earth christmas",
-    "reckoning festival"
-  ]
-},
-"feast-of-the-electorate": {
-  "title": "Feast of the Electorate",
-  "category": "Super Earth Holiday",
-  "description": "The Feast of the Electorate is a celebration held during the Festival of Reckoning in honor of Super Earth's first free and Managed Election. It traditionally occurs on the third and final day of the Festival of Reckoning and represents the political culmination of the holiday's celebrations of family, peace, patriotism, and Managed Democracy.",
-  "source": "https://helldivers.wiki.gg/wiki/Festival_of_Reckoning",
-  "image": "",
-  "aliases": [
-    "feast of the electorate",
-    "electorate feast",
-    "managed election feast",
-    "third day of reckoning"
-  ]
-},
-"reckoning-fund": {
-  "title": "Reckoning Fund",
-  "category": "Super Earth Culture",
-  "description": "The Reckoning Fund is an allocation of resources set aside each year for the Festival of Reckoning. Rather than being devoted solely to civilian festivities, the fund finances additional ordnance and military activities so the Helldivers can deliver vengeance against the enemies of Super Earth for citizens to witness. Portions of the fund have also been used for experimental Stratagem testing during Festival campaigns.",
-  "source": "https://helldivers.wiki.gg/wiki/Festival_of_Reckoning",
-  "image": "",
-  "aliases": [
-    "reckoning fund",
-    "festival reckoning fund",
-    "holiday fund",
-    "ordnance fund"
-  ]
-},
-"super-earth-flag": {
-  "title": "Super Earth Flag",
-  "category": "Super Earth Symbol",
-  "description": "The Super Earth Flag is one of the Federation's most recognizable patriotic symbols and represents Super Earth, Managed Democracy, and humanity's authority across the galaxy. Helldivers deploy the flag during Spread Democracy operations, defending the area while it is raised over enemy-controlled territory. An instrumental version of the Super Earth National Anthem plays during the ceremony, turning the battlefield objective into a highly visible declaration of Super Earth sovereignty.",
-  "source": "https://helldivers.wiki.gg/wiki/Super_Earth_Flag",
-  "image": "",
-  "aliases": [
-    "super earth flag",
-    "flag of super earth",
-    "federation flag",
-    "democracy flag",
-    "super earth banner"
-  ]
-},
+    "title": "Malevelon Creek Memorial Day",
+    "category": "Super Earth Holiday",
+    "description": "Malevelon Creek Memorial Day is a Super Earth holiday observed every year on April 3 in remembrance of the Helldivers who died fighting for Malevelon Creek. The holiday was established by presidential decree following the planet's liberation during the Second Galactic War. Citizens commemorate the fallen by dedicating three full minutes of their lunch break to solemn remembrance, while Helldivers were originally issued the Fallen Hero's Vengeance cape to carry the memory of the fallen into battle.",
+    "source": "https://helldivers.wiki.gg/wiki/Malevelon_Creek_Memorial_Day",
+    "image": "",
+    "aliases": [
+      "malevelon creek memorial day",
+      "creek memorial day",
+      "remember the creek",
+      "april 3"
+    ]
+  },
+  "festival-of-reckoning": {
+    "title": "Festival of Reckoning",
+    "category": "Super Earth Holiday",
+    "description": "The Festival of Reckoning is Super Earth's winter holiday celebration, traditionally lasting three days and dedicated to love, family, peace, commerce, and vengeance against the enemies of Managed Democracy. Citizens gather with friends and family, purchase discounted consumer goods, sing holiday carols, and watch televised coverage of Helldiver victories. The celebration is supported by the annual Reckoning Fund, which finances additional ordnance for the Helldivers. The festival also includes traditions such as a dissident execution parade and the Feast of the Electorate.",
+    "source": "https://helldivers.wiki.gg/wiki/Festival_of_Reckoning",
+    "image": "",
+    "aliases": [
+      "festival of reckoning",
+      "reckoning",
+      "winter holiday",
+      "super earth christmas",
+      "reckoning festival"
+    ]
+  },
+  "feast-of-the-electorate": {
+    "title": "Feast of the Electorate",
+    "category": "Super Earth Holiday",
+    "description": "The Feast of the Electorate is a celebration held during the Festival of Reckoning in honor of Super Earth's first free and Managed Election. It traditionally occurs on the third and final day of the Festival of Reckoning and represents the political culmination of the holiday's celebrations of family, peace, patriotism, and Managed Democracy.",
+    "source": "https://helldivers.wiki.gg/wiki/Festival_of_Reckoning",
+    "image": "",
+    "aliases": [
+      "feast of the electorate",
+      "electorate feast",
+      "managed election feast",
+      "third day of reckoning"
+    ]
+  },
+  "reckoning-fund": {
+    "title": "Reckoning Fund",
+    "category": "Super Earth Culture",
+    "description": "The Reckoning Fund is an allocation of resources set aside each year for the Festival of Reckoning. Rather than being devoted solely to civilian festivities, the fund finances additional ordnance and military activities so the Helldivers can deliver vengeance against the enemies of Super Earth for citizens to witness. Portions of the fund have also been used for experimental Stratagem testing during Festival campaigns.",
+    "source": "https://helldivers.wiki.gg/wiki/Festival_of_Reckoning",
+    "image": "",
+    "aliases": [
+      "reckoning fund",
+      "festival reckoning fund",
+      "holiday fund",
+      "ordnance fund"
+    ]
+  },
+  "super-earth-flag": {
+    "title": "Super Earth Flag",
+    "category": "Super Earth Symbol",
+    "description": "The Super Earth Flag is one of the Federation's most recognizable patriotic symbols and represents Super Earth, Managed Democracy, and humanity's authority across the galaxy. Helldivers deploy the flag during Spread Democracy operations, defending the area while it is raised over enemy-controlled territory. An instrumental version of the Super Earth National Anthem plays during the ceremony, turning the battlefield objective into a highly visible declaration of Super Earth sovereignty.",
+    "source": "https://helldivers.wiki.gg/wiki/Super_Earth_Flag",
+    "image": "",
+    "aliases": [
+      "super earth flag",
+      "flag of super earth",
+      "federation flag",
+      "democracy flag",
+      "super earth banner"
+    ]
+  },
   "c-01-permit": {
-  "title": "C-01 Permit",
-  "category": "Super Earth Society",
-  "description": "The C-01 Permit is a government authorization required before Super Earth citizens perform any act that could result in the conception of a child. The permit forms part of the Federation's population-control system and requires citizens to submit an application for government approval. C-01 availability has also been influenced by events in the Galactic War, with Super Earth suspending or increasing permit approvals in response to military and economic circumstances.",
-  "source": "https://helldivers.wiki.gg/wiki/C-01_Permit",
-  "image": "",
-  "aliases": [
-    "c-01 permit",
-    "c01 permit",
-    "c1-perm",
-    "child permit",
-    "procreation permit"
-  ]
-},
-"citizenship-classification-structure": {
-  "title": "Citizenship Classification Structure",
-  "category": "Super Earth Society",
-  "description": "The Citizenship Classification Structure is the system used by the Federation to divide citizens into social classes. Six classes are currently known, ranging from Class A through Class F. Citizenship status can be influenced by service to Super Earth, with military personnel and their families sometimes receiving improved citizenship classifications as rewards for exceptional democratic service.",
-  "source": "https://helldivers.wiki.gg/wiki/Super_Earth_Federation",
-  "image": "",
-  "aliases": [
-    "citizenship classification structure",
-    "citizenship classes",
-    "citizen classes",
-    "class a",
-    "class b",
-    "class c",
-    "class d",
-    "class e",
-    "class f",
-    "ccs"
-  ]
-},
-"freedom-act": {
-  "title": "FREEDOM Act",
-  "category": "Super Earth Law",
-  "description": "The FREEDOM Act, formally the Freedom & Readiness to Enable Effective Defense & Obstruction of Mind-Influence Act of 2184, was enacted in response to the threat of Illuminate mind control and genetic manipulation. The law expanded the Ministry of Unity's authority to combat internal and external threats, created a new loyalty-enforcement security force known as the Unity Corps, and authorized construction of the Center for Civilian Surveillance and Safety on Mastia.",
-  "source": "https://helldivers.wiki.gg/wiki/Center_for_Civilian_Surveillance_and_Safety",
-  "image": "",
-  "aliases": [
-    "freedom act",
-    "freedom act of 2184",
-    "mind influence act",
-    "freedom and readiness act"
-  ]
-},
+    "title": "C-01 Permit",
+    "category": "Super Earth Society",
+    "description": "The C-01 Permit is a government authorization required before Super Earth citizens perform any act that could result in the conception of a child. The permit forms part of the Federation's population-control system and requires citizens to submit an application for government approval. C-01 availability has also been influenced by events in the Galactic War, with Super Earth suspending or increasing permit approvals in response to military and economic circumstances.",
+    "source": "https://helldivers.wiki.gg/wiki/C-01_Permit",
+    "image": "",
+    "aliases": [
+      "c 01 permit",
+      "c-01 permit",
+      "c01 permit",
+      "c1-perm",
+      "child permit",
+      "procreation permit"
+    ]
+  },
+  "citizenship-classification-structure": {
+    "title": "Citizenship Classification Structure",
+    "category": "Super Earth Society",
+    "description": "The Citizenship Classification Structure is the system used by the Federation to divide citizens into social classes. Six classes are currently known, ranging from Class A through Class F. Citizenship status can be influenced by service to Super Earth, with military personnel and their families sometimes receiving improved citizenship classifications as rewards for exceptional democratic service.",
+    "source": "https://helldivers.wiki.gg/wiki/Super_Earth_Federation",
+    "image": "",
+    "aliases": [
+      "citizenship classification structure",
+      "citizenship classes",
+      "citizen classes",
+      "class a",
+      "class b",
+      "class c",
+      "class d",
+      "class e",
+      "class f",
+      "ccs"
+    ]
+  },
+  "freedom-act": {
+    "title": "FREEDOM Act",
+    "category": "Super Earth Law",
+    "description": "The FREEDOM Act, formally the Freedom & Readiness to Enable Effective Defense & Obstruction of Mind-Influence Act of 2184, was enacted in response to the threat of Illuminate mind control and genetic manipulation. The law expanded the Ministry of Unity's authority to combat internal and external threats, created a new loyalty-enforcement security force known as the Unity Corps, and authorized construction of the Center for Civilian Surveillance and Safety on Mastia.",
+    "source": "https://helldivers.wiki.gg/wiki/Center_for_Civilian_Surveillance_and_Safety",
+    "image": "",
+    "aliases": [
+      "freedom act",
+      "freedom act of 2184",
+      "mind influence act",
+      "freedom and readiness act"
+    ]
+  },
   "wall-of-martyrs": {
-  "title": "Wall of Martyrs",
-  "category": "Super Earth Monument",
-  "description": "The Wall of Martyrs is a Super Earth monument dedicated to members of the Helldivers and SEAF who die in service to the Federation. The names of fallen soldiers are inscribed upon the Wall, with Super Earth broadcasts claiming that millions of names are added every day. The monument is frequently referenced in military messaging, equipment descriptions, and propaganda, although its physical appearance has never been officially shown.",
-  "source": "https://helldivers.wiki.gg/wiki/Wall_of_Martyrs",
-  "image": "",
-  "aliases": [
-    "wall of martyrs",
-    "martyrs wall",
-    "wall of the fallen",
-    "fallen helldivers memorial",
-    "super earth memorial"
-  ]
-},
+    "title": "Wall of Martyrs",
+    "category": "Super Earth Monument",
+    "description": "The Wall of Martyrs is a Super Earth monument dedicated to members of the Helldivers and SEAF who die in service to the Federation. The names of fallen soldiers are inscribed upon the Wall, with Super Earth broadcasts claiming that millions of names are added every day. The monument is frequently referenced in military messaging, equipment descriptions, and propaganda, although its physical appearance has never been officially shown.",
+    "source": "https://helldivers.wiki.gg/wiki/Wall_of_Martyrs",
+    "image": "",
+    "aliases": [
+      "wall of martyrs",
+      "martyrs wall",
+      "wall of the fallen",
+      "fallen helldivers memorial",
+      "super earth memorial"
+    ]
+  },
   "minor-barrier-reef": {
-  "title": "Minor Barrier Reef",
-  "category": "Super Earth Landmark",
-  "description": "The Minor Barrier Reef is a landmark located in Sector 1 of Super Earth. It was formerly known as the Great Barrier Reef, reflecting the Federation's renaming of the historic terrestrial landmark. Although little additional information is currently documented about it, the Minor Barrier Reef is one of the surviving named geographic landmarks connecting modern Super Earth to humanity's pre-Federation past.",
-  "source": "https://helldivers.wiki.gg/wiki/Super_Earth",
-  "image": "",
-  "aliases": [
-    "minor barrier reef",
-    "great barrier reef",
-    "barrier reef",
-    "super earth reef"
-  ]
-},
+    "title": "Minor Barrier Reef",
+    "category": "Super Earth Landmark",
+    "description": "The Minor Barrier Reef is a landmark located in Sector 1 of Super Earth. It was formerly known as the Great Barrier Reef, reflecting the Federation's renaming of the historic terrestrial landmark. Although little additional information is currently documented about it, the Minor Barrier Reef is one of the surviving named geographic landmarks connecting modern Super Earth to humanity's pre-Federation past.",
+    "source": "https://helldivers.wiki.gg/wiki/Super_Earth",
+    "image": "",
+    "aliases": [
+      "minor barrier reef",
+      "great barrier reef",
+      "barrier reef",
+      "super earth reef"
+    ]
+  },
   "presidential-security-bunker": {
-  "title": "Presidential Security Bunker",
-  "category": "Super Earth Government Facility",
-  "description": "The Presidential Security Bunker is a fortified government facility located in Prosperity City and intended to protect the President of Super Earth during major emergencies. During the final Illuminate assault on Prosperity City in 2185, Great Host forces breached the bunker. The sitting President was killed in action while defending the facility with only a pistol, after which presidential authority was temporarily transferred to the Ministry of Defense.",
-  "source": "https://helldivers.wiki.gg/wiki/Galactic_War/First_Battle_For_Super_Earth",
-  "image": "",
-  "aliases": [
-    "presidential security bunker",
-    "presidential bunker",
-    "super earth presidential bunker",
-    "prosperity city bunker",
-    "president bunker"
-  ]
-},
+    "title": "Presidential Security Bunker",
+    "category": "Super Earth Government Facility",
+    "description": "The Presidential Security Bunker is a fortified government facility located in Prosperity City and intended to protect the President of Super Earth during major emergencies. During the final Illuminate assault on Prosperity City in 2185, Great Host forces breached the bunker. The sitting President was killed in action while defending the facility with only a pistol, after which presidential authority was temporarily transferred to the Ministry of Defense.",
+    "source": "https://helldivers.wiki.gg/wiki/Galactic_War/First_Battle_For_Super_Earth",
+    "image": "",
+    "aliases": [
+      "presidential security bunker",
+      "presidential bunker",
+      "super earth presidential bunker",
+      "prosperity city bunker",
+      "president bunker"
+    ]
+  },
   "victory-day": {
-  "title": "Victory Day",
-  "category": "Super Earth Holiday",
-  "description": "Victory Day commemorates Super Earth's victory over the Illuminate Great Host during the Battle for Super Earth. The observance honors the millions of citizens and defenders who died during the invasion, including those who fought at Equality-on-Sea and the President who was killed during the siege of Prosperity City. In 2186, the first anniversary was preceded by the Victory Day Crusade, during which Helldivers were ordered to carry the war into Illuminate territory while continuing to defend Super Earth.",
-  "source": "https://helldivers.wiki.gg/wiki/Major_Orders",
-  "image": "",
-  "aliases": [
-    "victory day",
-    "super earth victory day",
-    "battle for super earth anniversary",
-    "victory day crusade"
-  ]
-},
-"maximum-security-cities": {
-  "title": "Maximum Security Cities",
-  "category": "Super Earth Society",
-  "description": "Maximum Security Cities are heavily fortified Super Earth cities designed to provide exceptional protection against dissidents, thoughtcriminals, and other threats to Managed Democracy. Their security systems include high-definition facial recognition cameras throughout buildings and city blocks, increased foot and drone patrols, and dedicated surveillance satellites. The first three Maximum Security Cities were constructed on Fort Union, Emeria, and Fort Sanctuary and named New Hope City, New Aspiration City, and New Yearning City.",
-  "source": "https://helldivers.wiki.gg/wiki/Maximum_Security_City",
-  "image": "",
-  "aliases": [
-    "maximum security cities",
-    "maximum security city",
-    "msc",
-    "mscs",
-    "security cities",
-    "msc project"
-  ]
-},
-"405th-cyberwarfare-detachment": {
-  "title": "405th Cyberwarfare Detachment",
-  "category": "Super Earth Military Unit",
-  "description": "The 405th Cyberwarfare Detachment is a Super Earth cyberwarfare formation associated with the decisive Fort Union cyberattack during the Battle for Super Earth. After a former satellite technician developed malware capable of disabling Illuminate technology, Helldivers defended Fort Union long enough for the code to be transmitted through the planet's long-range satellites. The malware disabled a significant portion of the Great Host, and the technician responsible received a field promotion to command the 405th Cyberwarfare Detachment.",
-  "source": "https://helldivers.wiki.gg/wiki/Fort_Union",
-  "image": "",
-  "aliases": [
-    "405th cyberwarfare detachment",
-    "405th",
-    "405th cyberwarfare",
-    "cyberwarfare detachment",
-    "fort union cyberwarfare unit"
-  ]
-},
+    "title": "Victory Day",
+    "category": "Super Earth Holiday",
+    "description": "Victory Day commemorates Super Earth's victory over the Illuminate Great Host during the Battle for Super Earth. The observance honors the millions of citizens and defenders who died during the invasion, including those who fought at Equality-on-Sea and the President who was killed during the siege of Prosperity City. In 2186, the first anniversary was preceded by the Victory Day Crusade, during which Helldivers were ordered to carry the war into Illuminate territory while continuing to defend Super Earth.",
+    "source": "https://helldivers.wiki.gg/wiki/Major_Orders",
+    "image": "",
+    "aliases": [
+      "victory day",
+      "super earth victory day",
+      "battle for super earth anniversary",
+      "victory day crusade"
+    ]
+  },
+  "maximum-security-cities": {
+    "title": "Maximum Security Cities",
+    "category": "Super Earth Society",
+    "description": "Maximum Security Cities are heavily fortified Super Earth cities designed to provide exceptional protection against dissidents, thoughtcriminals, and other threats to Managed Democracy. Their security systems include high-definition facial recognition cameras throughout buildings and city blocks, increased foot and drone patrols, and dedicated surveillance satellites. The first three Maximum Security Cities were constructed on Fort Union, Emeria, and Fort Sanctuary and named New Hope City, New Aspiration City, and New Yearning City.",
+    "source": "https://helldivers.wiki.gg/wiki/Maximum_Security_City",
+    "image": "",
+    "aliases": [
+      "maximum security cities",
+      "maximum security city",
+      "msc",
+      "mscs",
+      "security cities",
+      "msc project"
+    ]
+  },
+  "405th-cyberwarfare-detachment": {
+    "title": "405th Cyberwarfare Detachment",
+    "category": "Super Earth Military Unit",
+    "description": "The 405th Cyberwarfare Detachment is a Super Earth cyberwarfare formation associated with the decisive Fort Union cyberattack during the Battle for Super Earth. After a former satellite technician developed malware capable of disabling Illuminate technology, Helldivers defended Fort Union long enough for the code to be transmitted through the planet's long-range satellites. The malware disabled a significant portion of the Great Host, and the technician responsible received a field promotion to command the 405th Cyberwarfare Detachment.",
+    "source": "https://helldivers.wiki.gg/wiki/Fort_Union",
+    "image": "",
+    "aliases": [
+      "405th cyberwarfare detachment",
+      "405th",
+      "405th cyberwarfare",
+      "cyberwarfare detachment",
+      "fort union cyberwarfare unit"
+    ]
+  },
   "maximum-security-city-construction-site": {
-  "title": "Maximum Security City Construction Site",
-  "category": "Super Earth Infrastructure",
-  "description": "Maximum Security City Construction Sites were Super Earth points of interest established on Emeria, Fort Union, and Fort Sanctuary following Major Order A2-7-5. The sites were used to construct the Federation's first three Maximum Security Cities: New Aspiration City, New Hope City, and New Yearning City. The completed cities were designed with extensive security measures including high-definition facial recognition cameras, increased foot and drone patrols, and dedicated surveillance satellites.",
-  "source": "https://helldivers.wiki.gg/wiki/Maximum_Security_City_Construction_Site",
-  "image": "",
-  "aliases": [
-    "maximum security city construction site",
-    "msc construction site",
-    "maximum security construction site",
-    "msc construction"
-  ]
-},
+    "title": "Maximum Security City Construction Site",
+    "category": "Super Earth Infrastructure",
+    "description": "Maximum Security City Construction Sites were Super Earth points of interest established on Emeria, Fort Union, and Fort Sanctuary following Major Order A2-7-5. The sites were used to construct the Federation's first three Maximum Security Cities: New Aspiration City, New Hope City, and New Yearning City. The completed cities were designed with extensive security measures including high-definition facial recognition cameras, increased foot and drone patrols, and dedicated surveillance satellites.",
+    "source": "https://helldivers.wiki.gg/wiki/Maximum_Security_City_Construction_Site",
+    "image": "",
+    "aliases": [
+      "maximum security city construction site",
+      "msc construction site",
+      "maximum security construction site",
+      "msc construction"
+    ]
+  },
   "terminid-research-preserve": {
-  "title": "Terminid Research Preserve",
-  "category": "Super Earth Facility",
-  "description": "The Terminid Research Preserve was a planet-wide Super Earth quarantine facility established on Acamar IV. The preserve allowed researchers to study live Terminids and provided a large supply of specimens for E-710 extraction and scientific research. Its containment measures included SEAF Wardens, above- and below-ground electrical fencing, and automatic nuclear bombardment protocols. The preserve was ultimately destroyed after a catastrophic subterranean Terminid outbreak erupted beneath Tyranny Park and spread to neighboring planets.",
-  "source": "https://helldivers.wiki.gg/wiki/Terminid_Research_Preserve",
-  "image": "",
-  "aliases": [
-    "terminid research preserve",
-    "research preserve",
-    "acamar iv preserve",
-    "terminid preserve"
-  ]
-},
+    "title": "Terminid Research Preserve",
+    "category": "Super Earth Facility",
+    "description": "The Terminid Research Preserve was a planet-wide Super Earth quarantine facility established on Acamar IV. The preserve allowed researchers to study live Terminids and provided a large supply of specimens for E-710 extraction and scientific research. Its containment measures included SEAF Wardens, above- and below-ground electrical fencing, and automatic nuclear bombardment protocols. The preserve was ultimately destroyed after a catastrophic subterranean Terminid outbreak erupted beneath Tyranny Park and spread to neighboring planets.",
+    "source": "https://helldivers.wiki.gg/wiki/Terminid_Research_Preserve",
+    "image": "",
+    "aliases": [
+      "terminid research preserve",
+      "research preserve",
+      "acamar iv preserve",
+      "terminid preserve"
+    ]
+  },
   "tyranny-park": {
-  "title": "Tyranny Park",
-  "category": "Super Earth Facility",
-  "description": "Tyranny Park was a public attraction located within the Terminid Research Preserve on Acamar IV. Wealthy Super Earth citizens could visit the park to observe Terminids in a controlled environment, while particularly adventurous visitors could participate in Big Tyrant Hunts. Revenue from the attraction was intended to support Terminid research and E-710 production. The park became the site of disaster when a massive subterranean Terminid hive erupted beneath it during the catastrophic failure of the preserve.",
-  "source": "https://helldivers.wiki.gg/wiki/Terminid_Research_Preserve",
-  "image": "",
-  "aliases": [
-    "tyranny park",
-    "big tyrant hunt",
-    "acamar tyranny park"
-  ]
-},
+    "title": "Tyranny Park",
+    "category": "Super Earth Facility",
+    "description": "Tyranny Park was a public attraction located within the Terminid Research Preserve on Acamar IV. Wealthy Super Earth citizens could visit the park to observe Terminids in a controlled environment, while particularly adventurous visitors could participate in Big Tyrant Hunts. Revenue from the attraction was intended to support Terminid research and E-710 production. The park became the site of disaster when a massive subterranean Terminid hive erupted beneath it during the catastrophic failure of the preserve.",
+    "source": "https://helldivers.wiki.gg/wiki/Terminid_Research_Preserve",
+    "image": "",
+    "aliases": [
+      "tyranny park",
+      "big tyrant hunt",
+      "acamar tyranny park"
+    ]
+  },
   "center-of-science": {
-  "title": "Center of Science",
-  "category": "Super Earth Facility",
-  "description": "The Center of Science is a major Super Earth research facility located on Fenrir III. Constructed in 2184, it became home to leading astrophysicists studying the Meridian anomaly, Dark Fluid, Dark Energy, and Illuminate-related phenomena. Research conducted there helped reveal the unusual nature of the Meridian object and contributed to Super Earth's attempts to understand and counter its movement. The facility later became strategically important enough to draw attacks from multiple enemy factions.",
-  "source": "https://helldivers.wiki.gg/wiki/Center_of_Science",
-  "image": "",
-  "aliases": [
-    "center of science",
-    "centre of science",
-    "fenrir center of science",
-    "fenrir science center"
-  ]
-},
+    "title": "Center of Science",
+    "category": "Super Earth Facility",
+    "description": "The Center of Science is a major Super Earth research facility located on Fenrir III. Constructed in 2184, it became home to leading astrophysicists studying the Meridian anomaly, Dark Fluid, Dark Energy, and Illuminate-related phenomena. Research conducted there helped reveal the unusual nature of the Meridian object and contributed to Super Earth's attempts to understand and counter its movement. The facility later became strategically important enough to draw attacks from multiple enemy factions.",
+    "source": "https://helldivers.wiki.gg/wiki/Center_of_Science",
+    "image": "",
+    "aliases": [
+      "center of science",
+      "centre of science",
+      "fenrir center of science",
+      "fenrir science center"
+    ]
+  },
   "seaf-soldier": {
-  "title": "SEAF Soldier",
-  "category": "Super Earth Unit",
-  "description": "SEAF Soldiers are lightly armored conventional infantry serving in the Super Earth Armed Forces. They fight with weapons including assault rifles, submachine guns, machine guns, expendable anti-tank launchers, and grenades. SEAF Soldiers can be encountered defending Mega Cities and can also be deployed from Pelican Shuttles on planets with a Heavy SEAF Presence. Helldivers can recruit nearby squads to follow and support them in combat.",
-  "source": "https://helldivers.wiki.gg/wiki/SEAF_Soldier",
-  "image": "",
-  "aliases": [
-    "seaf soldier",
-    "seaf soldiers",
-    "seaf trooper",
-    "seaf infantry",
-    "super earth soldier"
-  ]
-},
+    "title": "SEAF Soldier",
+    "category": "Super Earth Military Unit",
+    "description": "SEAF Soldiers are lightly armored conventional infantry serving in the Super Earth Armed Forces. They fight with weapons including assault rifles, submachine guns, machine guns, expendable anti-tank launchers, and grenades. SEAF Soldiers can be encountered defending Mega Cities and can also be deployed from Pelican Shuttles on planets with a Heavy SEAF Presence. Helldivers can recruit nearby squads to follow and support them in combat.",
+    "source": "https://helldivers.wiki.gg/wiki/SEAF_Soldier",
+    "image": "",
+    "aliases": [
+      "seaf soldier",
+      "seaf soldiers",
+      "seaf trooper",
+      "seaf infantry",
+      "super earth soldier"
+    ]
+  },
   "seaf-squad": {
-  "title": "SEAF Squad",
-  "category": "Super Earth Unit",
-  "description": "A SEAF Squad is a conventional Super Earth infantry formation that can support Helldivers during planetary operations. A standard deployed squad consists of one Squad Leader, two Riflemen, two Specialists, and one Medic. The soldiers follow their Squad Leader, and a Helldiver who recruits the Squad Leader gains the support of the entire squad.",
-  "source": "https://helldivers.wiki.gg/wiki/SEAF_Soldier",
-  "image": "",
-  "aliases": [
-    "seaf squad",
-    "seaf infantry squad",
-    "super earth squad",
-    "seaf fireteam"
-  ]
-},
+    "title": "SEAF Squad",
+    "category": "Super Earth Military Unit",
+    "description": "A SEAF Squad is a conventional Super Earth infantry formation that can support Helldivers during planetary operations. A standard deployed squad consists of one Squad Leader, two Riflemen, two Specialists, and one Medic. The soldiers follow their Squad Leader, and a Helldiver who recruits the Squad Leader gains the support of the entire squad.",
+    "source": "https://helldivers.wiki.gg/wiki/SEAF_Soldier",
+    "image": "",
+    "aliases": [
+      "seaf squad",
+      "seaf infantry squad",
+      "super earth squad",
+      "seaf fireteam"
+    ]
+  },
   "heavy-seaf-presence": {
-  "title": "Heavy SEAF Presence",
-  "category": "Galactic War Modifier",
-  "description": "Heavy SEAF Presence is a planetary modifier indicating that conventional Super Earth Armed Forces are heavily deployed on a world and can directly support Helldiver missions. When active, Pelican Shuttles can deploy SEAF infantry squads into mission areas to reinforce Helldivers engaged with enemy forces. The modifier was introduced during Operation Void Piercer.",
-  "source": "https://helldivers.wiki.gg/wiki/Heavy_SEAF_Presence",
-  "image": "",
-  "aliases": [
-    "heavy seaf presence",
-    "seaf presence",
-    "seaf reinforcements",
-    "seaf support"
-  ]
-},
+    "title": "Heavy SEAF Presence",
+    "category": "Galactic War Modifier",
+    "description": "Heavy SEAF Presence is a planetary modifier indicating that conventional Super Earth Armed Forces are heavily deployed on a world and can directly support Helldiver missions. When active, Pelican Shuttles can deploy SEAF infantry squads into mission areas to reinforce Helldivers engaged with enemy forces. The modifier was introduced during Operation Void Piercer.",
+    "source": "https://helldivers.wiki.gg/wiki/Heavy_SEAF_Presence",
+    "image": "",
+    "aliases": [
+      "heavy seaf presence",
+      "seaf presence",
+      "seaf reinforcements",
+      "seaf support"
+    ]
+  },
   "seaf-training-facilities": {
-  "title": "SEAF Training Facilities",
-  "category": "Super Earth Facility",
-  "description": "SEAF Training Facilities were massive emergency military training centers constructed during the early Second Galactic War to rapidly expand the Super Earth Armed Forces. Facilities were established on Aesir Pass, Vernen Wells, Heeth, and Angel's Venture and were capable of supporting enormous numbers of recruits through SEAF basic training. While operational and under Super Earth control, the facilities increased SEAF support for galactic liberation campaigns.",
-  "source": "https://helldivers.wiki.gg/wiki/Minor_Locations",
-  "image": "",
-  "aliases": [
-    "seaf training facilities",
-    "seaf training facility",
-    "seaf basic training facilities",
-    "seaf recruitment facilities"
-  ]
-},
+    "title": "SEAF Training Facilities",
+    "category": "Super Earth Facility",
+    "description": "SEAF Training Facilities were massive emergency military training centers constructed during the early Second Galactic War to rapidly expand the Super Earth Armed Forces. Facilities were established on Aesir Pass, Vernen Wells, Heeth, and Angel's Venture and were capable of supporting enormous numbers of recruits through SEAF basic training. While operational and under Super Earth control, the facilities increased SEAF support for galactic liberation campaigns.",
+    "source": "https://helldivers.wiki.gg/wiki/Minor_Locations",
+    "image": "",
+    "aliases": [
+      "seaf training facilities",
+      "seaf training facility",
+      "seaf basic training facilities",
+      "seaf recruitment facilities"
+    ]
+  },
   "democratic-youth-scouts-camps": {
-  "title": "Democratic Youth Scouts Camps",
-  "category": "Super Earth Facility",
-  "description": "Democratic Youth Scouts Camps were recreational campgrounds created from surviving emergency SEAF Training Facilities after Super Earth's military recruitment requirements had been met. The facilities on Heeth and Angel's Venture were shut down and converted for use by the Democratic Youth Scouts. The Angel's Venture campground was later destroyed along with the planet, while the status of the Heeth campground remains uncertain.",
-  "source": "https://helldivers.wiki.gg/wiki/Minor_Locations",
-  "image": "",
-  "aliases": [
-    "democratic youth scouts camps",
-    "democratic youth scouts camp",
-    "youth scouts camps",
-    "dys camps"
-  ]
-},
+    "title": "Democratic Youth Scouts Camps",
+    "category": "Super Earth Facility",
+    "description": "Democratic Youth Scouts Camps were recreational campgrounds created from surviving emergency SEAF Training Facilities after Super Earth's military recruitment requirements had been met. The facilities on Heeth and Angel's Venture were shut down and converted for use by the Democratic Youth Scouts. The Angel's Venture campground was later destroyed along with the planet, while the status of the Heeth campground remains uncertain.",
+    "source": "https://helldivers.wiki.gg/wiki/Minor_Locations",
+    "image": "",
+    "aliases": [
+      "democratic youth scouts camps",
+      "democratic youth scouts camp",
+      "youth scouts camps",
+      "dys camps"
+    ]
+  },
   "zegema-paradise-training-facility": {
-  "title": "Zegema Paradise Helldiver Training Facility",
-  "category": "Super Earth Facility",
-  "description": "The Zegema Paradise Helldiver Training Facility was authorized in 2185 as a replacement for the Helldiver training site lost on Mars. Super Earth launched a major recruitment expansion and ordered Helldivers to secure Terminid-controlled worlds and collect fifty million Terminid samples to support breeding programs for live-fire training. The facility was intended to provide the same elite Helldiver training previously conducted at the Mars installation.",
-  "source": "https://helldivers.wiki.gg/wiki/Major_Orders_of_2025",
-  "image": "",
-  "aliases": [
-    "zegema paradise training facility",
-    "zegema paradise helldiver training facility",
-    "zegema training facility",
-    "new helldiver training facility"
-  ]
-},
+    "title": "Zegema Paradise Helldiver Training Facility",
+    "category": "Super Earth Facility",
+    "description": "The Zegema Paradise Helldiver Training Facility was authorized in 2185 as a replacement for the Helldiver training site lost on Mars. Super Earth launched a major recruitment expansion and ordered Helldivers to secure Terminid-controlled worlds and collect fifty million Terminid samples to support breeding programs for live-fire training. The facility was intended to provide the same elite Helldiver training previously conducted at the Mars installation.",
+    "source": "https://helldivers.wiki.gg/wiki/Major_Orders_of_2025",
+    "image": "",
+    "aliases": [
+      "zegema paradise training facility",
+      "zegema paradise helldiver training facility",
+      "zegema training facility",
+      "new helldiver training facility"
+    ]
+  },
   "rogue-research-station": {
-  "title": "Rogue Research Station",
-  "category": "Super Earth Facility",
-  "description": "Rogue Research Stations are unauthorized Super Earth research facilities encountered on planetary battlefields. The stations contain research deemed unpatriotic by the Federation and are therefore marked for destruction. Helldivers are ordered to demolish the facility and eliminate the illegally produced research data, commonly using a Hellbomb or other sufficiently powerful ordnance.",
-  "source": "https://helldivers.wiki.gg/wiki/Destroy_Rogue_Research_Station",
-  "image": "",
-  "aliases": [
-    "rogue research station",
-    "illegal research station",
-    "research station",
-    "rogue laboratory"
-  ]
-},
+    "title": "Rogue Research Station",
+    "category": "Super Earth Facility",
+    "description": "Rogue Research Stations are unauthorized Super Earth research facilities encountered on planetary battlefields. The stations contain research deemed unpatriotic by the Federation and are therefore marked for destruction. Helldivers are ordered to demolish the facility and eliminate the illegally produced research data, commonly using a Hellbomb or other sufficiently powerful ordnance.",
+    "source": "https://helldivers.wiki.gg/wiki/Destroy_Rogue_Research_Station",
+    "image": "",
+    "aliases": [
+      "rogue research station",
+      "illegal research station",
+      "rogue laboratory"
+    ]
+  },
   "super-earth-colony": {
-  "title": "Super Earth Colony",
-  "category": "Super Earth Settlement",
-  "description": "Super Earth Colonies are organized human settlements established across Federation-controlled planets. Unlike the enormous Metropolises found in major urban regions, colonies occupy only part of a planetary mission area and contain networks of roads, buildings, civilian infrastructure, and military installations. Colony infrastructure can include SEAF Artillery, SAM Sites, ICBM Launch Sites, evacuation facilities, storage plants, broadcast towers, and data uplinks.",
-  "source": "https://helldivers.wiki.gg/wiki/Colonies",
-  "image": "",
-  "aliases": [
-    "super earth colony",
-    "colony",
-    "colonies",
-    "human colony",
-    "federation colony"
-  ]
-},
+    "title": "Super Earth Colony",
+    "category": "Super Earth Settlement",
+    "description": "Super Earth Colonies are organized human settlements established across Federation-controlled planets. Unlike the enormous Metropolises found in major urban regions, colonies occupy only part of a planetary mission area and contain networks of roads, buildings, civilian infrastructure, and military installations. Colony infrastructure can include SEAF Artillery, SAM Sites, ICBM Launch Sites, evacuation facilities, storage plants, broadcast towers, and data uplinks.",
+    "source": "https://helldivers.wiki.gg/wiki/Colonies",
+    "image": "",
+    "aliases": [
+      "super earth colony",
+      "colony",
+      "colonies",
+      "human colony",
+      "federation colony"
+    ]
+  },
   "metropolis": {
-  "title": "Metropolis",
-  "category": "Super Earth Settlement",
-  "description": "A Metropolis is an enormous urban megastructure constructed by the Super Earth Federation. Unlike smaller colonies, a Metropolis can encompass an entire planetary mission area. These densely developed regions contain extensive road networks, city blocks, skyscrapers, parks, playgrounds, and smaller structures. Metropolises form the urban environments of major Federation population centers, including the Mega Cities of Super Earth.",
-  "source": "https://helldivers.wiki.gg/wiki/Metropolis",
-  "image": "",
-  "aliases": [
-    "metropolis",
-    "metropolises",
-    "super earth metropolis",
-    "urban megastructure",
-    "super earth city biome"
-  ]
-},
+    "title": "Metropolis",
+    "category": "Super Earth Settlement",
+    "description": "A Metropolis is an enormous urban megastructure constructed by the Super Earth Federation. Unlike smaller colonies, a Metropolis can encompass an entire planetary mission area. These densely developed regions contain extensive road networks, city blocks, skyscrapers, parks, playgrounds, and smaller structures. Metropolises form the urban environments of major Federation population centers, including the Mega Cities of Super Earth.",
+    "source": "https://helldivers.wiki.gg/wiki/Metropolis",
+    "image": "",
+    "aliases": [
+      "metropolis",
+      "metropolises",
+      "super earth metropolis",
+      "urban megastructure",
+      "super earth city biome"
+    ]
+  },
   "voteless-processing-plant": {
-  "title": "Voteless Processing Plant",
-  "category": "Super Earth Facility",
-  "description": "The Voteless Processing Plant was a specialized Super Earth scientific facility constructed during the Census Thunder campaign. Automaton bio-processing equipment captured on Blistica was repurposed alongside millions of Voteless tissue samples collected by Helldivers. The facility's bio-centrifuges processed Void-altered Voteless tissue for Ministry of Science research, helping Super Earth investigate the biological effects of the Void.",
-  "source": "https://helldivers.wiki.gg/wiki/Campaigns",
-  "image": "",
-  "aliases": [
-    "voteless processing plant",
-    "voteless tissue processing plant",
-    "voteless research facility",
-    "voteless processing facility"
-  ]
-},
+    "title": "Voteless Processing Plant",
+    "category": "Super Earth Facility",
+    "description": "The Voteless Processing Plant was a specialized Super Earth scientific facility constructed during the Census Thunder campaign. Automaton bio-processing equipment captured on Blistica was repurposed alongside millions of Voteless tissue samples collected by Helldivers. The facility's bio-centrifuges processed Void-altered Voteless tissue for Ministry of Science research, helping Super Earth investigate the biological effects of the Void.",
+    "source": "https://helldivers.wiki.gg/wiki/Campaigns",
+    "image": "",
+    "aliases": [
+      "voteless processing plant",
+      "voteless tissue processing plant",
+      "voteless research facility",
+      "voteless processing facility"
+    ]
+  },
   "dss-logistics-hub": {
-  "title": "DSS Logistics Hub",
-  "category": "Super Earth Facility",
-  "description": "The DSS Logistics Hub was a major Super Earth facility established on Tarsh to support construction and operation of the Democracy Space Station. The hub provided logistical support for the immense quantities of personnel, materials, fuel, and technology required by the project. Its strategic importance made Tarsh a critical location during the DSS construction effort and a target of Automaton attacks.",
-  "source": "https://helldivers.wiki.gg/wiki/Democracy_Space_Station",
-  "image": "",
-  "aliases": [
-    "dss logistics hub",
-    "democracy space station logistics hub",
-    "tarsh logistics hub",
-    "dss hub"
-  ]
-},
+    "title": "DSS Logistics Hub",
+    "category": "Super Earth Facility",
+    "description": "The DSS Logistics Hub was a major Super Earth facility established on Tarsh to support construction and operation of the Democracy Space Station. The hub provided logistical support for the immense quantities of personnel, materials, fuel, and technology required by the project. Its strategic importance made Tarsh a critical location during the DSS construction effort and a target of Automaton attacks.",
+    "source": "https://helldivers.wiki.gg/wiki/Democracy_Space_Station",
+    "image": "",
+    "aliases": [
+      "dss logistics hub",
+      "democracy space station logistics hub",
+      "tarsh logistics hub",
+      "dss hub"
+    ]
+  },
   "advanced-weapons-lab": {
-  "title": "Advanced Weapons Lab",
-  "category": "Super Earth Facility",
-  "description": "The Advanced Weapons Lab on X-45 was an abandoned Super Earth research installation containing plans for a powerful interplanetary battle station. During the Second Galactic War, Helldivers defended X-45 and secured the plans held within the facility. Those plans became the foundation of the Democracy Space Station project, making the laboratory an important part of the DSS's origins.",
-  "source": "https://helldivers.wiki.gg/wiki/Democracy_Space_Station",
-  "image": "",
-  "aliases": [
-    "advanced weapons lab",
-    "advanced weaponry lab",
-    "x-45 weapons lab",
-    "x45 weapons lab",
-    "dss weapons lab"
-  ]
-},
+    "title": "Advanced Weapons Lab",
+    "category": "Super Earth Facility",
+    "description": "The Advanced Weapons Lab on X-45 was an abandoned Super Earth research installation containing plans for a powerful interplanetary battle station. During the Second Galactic War, Helldivers defended X-45 and secured the plans held within the facility. Those plans became the foundation of the Democracy Space Station project, making the laboratory an important part of the DSS's origins.",
+    "source": "https://helldivers.wiki.gg/wiki/Democracy_Space_Station",
+    "image": "",
+    "aliases": [
+      "advanced weapons lab",
+      "advanced weaponry lab",
+      "x-45 weapons lab",
+      "x45 weapons lab",
+      "dss weapons lab"
+    ]
+  },
   "varylia-5-petafactory": {
-  "title": "Varylia 5 Petafactory",
-  "category": "Captured Super Earth Facility",
-  "description": "The Varylia 5 Petafactory was a massive Automaton manufacturing complex discovered on Varylia 5 in May 2184. Its design resembled the Morgunson Arsenal on Tien Kwan. Super Earth determined that the facility could be converted to manufacture a dual-autocannon Exosuit, prompting Helldivers to liberate the planet. Following their victory, Super Earth engineers retrofitted the captured Petafactory for production of the EXO-49 Emancipator Exosuit.",
-  "source": "https://helldivers.wiki.gg/wiki/Varylia_5",
-  "image": "",
-  "aliases": [
-    "varylia 5 petafactory",
-    "varylia petafactory",
-    "automaton petafactory",
-    "emancipator petafactory",
-    "captured petafactory"
-  ]
-},
+    "title": "Varylia 5 Petafactory",
+    "category": "Captured Super Earth Facility",
+    "description": "The Varylia 5 Petafactory was a massive Automaton manufacturing complex discovered on Varylia 5 in May 2184. Its design resembled the Morgunson Arsenal on Tien Kwan. Super Earth determined that the facility could be converted to manufacture a dual-autocannon Exosuit, prompting Helldivers to liberate the planet. Following their victory, Super Earth engineers retrofitted the captured Petafactory for production of the EXO-49 Emancipator Exosuit.",
+    "source": "https://helldivers.wiki.gg/wiki/Varylia_5",
+    "image": "",
+    "aliases": [
+      "varylia 5 petafactory",
+      "varylia petafactory",
+      "automaton petafactory",
+      "emancipator petafactory",
+      "captured petafactory"
+    ]
+  },
   "morgunson-arsenal": {
-  "title": "Morgunson Arsenal",
-  "category": "Super Earth Facility",
-  "description": "The Morgunson Arsenal on Tien Kwan is a major Super Earth military manufacturing facility associated with the production of Exosuit technology. When Automatons captured Tien Kwan on March 7, 2184, Super Earth ordered an immediate counteroffensive to prevent the enemy from discovering and stealing the technology. Helldivers liberated the planet the following day, recovering the arsenal and its stockpile of newly produced EXO-45 Patriot Exosuits intact.",
-  "source": "https://helldivers.wiki.gg/wiki/Tien_Kwan",
-  "image": "",
-  "aliases": [
-    "morgunson arsenal",
-    "tien kwan arsenal",
-    "exosuit arsenal",
-    "patriot arsenal",
-    "exosuit production facility"
-  ]
-},
-  "morgunson-arsenal": {
-  "title": "Morgunson Arsenal",
-  "category": "Super Earth Facility",
-  "description": "The Morgunson Arsenal on Tien Kwan is a major Super Earth military manufacturing facility associated with the production of Exosuit technology. When Automatons captured Tien Kwan on March 7, 2184, Super Earth ordered an immediate counteroffensive to prevent the enemy from discovering and stealing the technology. Helldivers liberated the planet the following day, recovering the arsenal and its stockpile of newly produced EXO-45 Patriot Exosuits intact.",
-  "source": "https://helldivers.wiki.gg/wiki/Tien_Kwan",
-  "image": "",
-  "aliases": [
-    "morgunson arsenal",
-    "tien kwan arsenal",
-    "exosuit arsenal",
-    "patriot arsenal",
-    "exosuit production facility"
-  ]
-},
+    "title": "Morgunson Arsenal",
+    "category": "Super Earth Facility",
+    "description": "The Morgunson Arsenal on Tien Kwan is a major Super Earth military manufacturing facility associated with the production of Exosuit technology. When Automatons captured Tien Kwan on March 7, 2184, Super Earth ordered an immediate counteroffensive to prevent the enemy from discovering and stealing the technology. Helldivers liberated the planet the following day, recovering the arsenal and its stockpile of newly produced EXO-45 Patriot Exosuits intact.",
+    "source": "https://helldivers.wiki.gg/wiki/Tien_Kwan",
+    "image": "",
+    "aliases": [
+      "morgunson arsenal",
+      "tien kwan arsenal",
+      "exosuit arsenal",
+      "patriot arsenal",
+      "exosuit production facility"
+    ]
+  },
   "deep-mantle-forge-complex": {
-  "title": "Deep Mantle Forge Complex",
-  "category": "Super Earth Facility",
-  "description": "The Deep Mantle Forge Complex is a Super Earth industrial facility on Claorell established during construction of the Democracy Space Station. Helldivers liberated Automaton deep-mantle mining infrastructure on the planet so it could be repurposed for the project. Using the extreme heat and pressure near Claorell's core, the complex produces chromium-cobalt-nickel alloys strong and ductile enough to help the DSS withstand the acceleration forces of faster-than-light travel.",
-  "source": "https://helldivers.wiki.gg/wiki/Deep_Mantle_Forge_Complex",
-  "image": "",
-  "aliases": [
-    "deep mantle forge complex",
-    "deep mantle forge",
-    "claorell forge",
-    "dss forge",
-    "forge complex"
-  ]
-},
+    "title": "Deep Mantle Forge Complex",
+    "category": "Super Earth Facility",
+    "description": "The Deep Mantle Forge Complex is a Super Earth industrial facility on Claorell established during construction of the Democracy Space Station. Helldivers liberated Automaton deep-mantle mining infrastructure on the planet so it could be repurposed for the project. Using the extreme heat and pressure near Claorell's core, the complex produces chromium-cobalt-nickel alloys strong and ductile enough to help the DSS withstand the acceleration forces of faster-than-light travel.",
+    "source": "https://helldivers.wiki.gg/wiki/Deep_Mantle_Forge_Complex",
+    "image": "",
+    "aliases": [
+      "deep mantle forge complex",
+      "deep mantle forge",
+      "claorell forge",
+      "dss forge",
+      "forge complex"
+    ]
+  },
   "factory-hub": {
-  "title": "Factory Hub",
-  "category": "Super Earth Facility",
-  "description": "The Factory Hub is a major industrial facility on Achernar Secundus constructed by AM Defense under a multitrillion-Supercredit Ministry of Defense contract. The complex produces military equipment and other goods important to Super Earth's war effort. Its construction began in December 2184, and the facility later became associated with development and production of Fast Recon Vehicles for Helldiver forces.",
-  "source": "https://helldivers.wiki.gg/wiki/Factory_Hub",
-  "image": "",
-  "aliases": [
-    "factory hub",
-    "am defense factory hub",
-    "achernar secundus factory hub",
-    "frv factory",
-    "am defense factory"
-  ]
-},
+    "title": "Factory Hub",
+    "category": "Super Earth Facility",
+    "description": "The Factory Hub is a major industrial facility on Achernar Secundus constructed by AM Defense under a multitrillion-Supercredit Ministry of Defense contract. The complex produces military equipment and other goods important to Super Earth's war effort. Its construction began in December 2184, and the facility later became associated with development and production of Fast Recon Vehicles for Helldiver forces.",
+    "source": "https://helldivers.wiki.gg/wiki/Factory_Hub",
+    "image": "",
+    "aliases": [
+      "factory hub",
+      "am defense factory hub",
+      "achernar secundus factory hub",
+      "frv factory",
+      "am defense factory"
+    ]
+  },
   "negative-energy-laboratory": {
-  "title": "Negative Energy Laboratory",
-  "category": "Super Earth Research Facility",
-  "description": "The Negative Energy Laboratory was a Super Earth research facility established on Pilen V in April 2185. Its scientists investigated Dark Energy and the poorly understood Negative Energy associated with Illuminate phenomena such as Monoliths. The facility may have been intended to replace research capabilities lost with the Moradesh Research Facility, but it survived for only a short period before being destroyed.",
-  "source": "https://helldivers.wiki.gg/wiki/Negative_Energy_Laboratory",
-  "image": "",
-  "aliases": [
-    "negative energy laboratory",
-    "negative energy lab",
-    "pilen v laboratory",
-    "pilen v lab",
-    "dark energy laboratory"
-  ]
-},
+    "title": "Negative Energy Laboratory",
+    "category": "Super Earth Research Facility",
+    "description": "The Negative Energy Laboratory was a Super Earth research facility established on Pilen V in April 2185. Its scientists investigated Dark Energy and the poorly understood Negative Energy associated with Illuminate phenomena such as Monoliths. The facility may have been intended to replace research capabilities lost with the Moradesh Research Facility, but it survived for only a short period before being destroyed.",
+    "source": "https://helldivers.wiki.gg/wiki/Negative_Energy_Laboratory",
+    "image": "",
+    "aliases": [
+      "negative energy laboratory",
+      "negative energy lab",
+      "pilen v laboratory",
+      "pilen v lab",
+      "dark energy laboratory"
+    ]
+  },
   "e-711-extraction-facility": {
-  "title": "E-711 Extraction Facility",
-  "category": "Super Earth Facility",
-  "description": "The E-711 Extraction Facility is a Super Earth industrial installation on Oshaune constructed to recover Element-711 from deposits beneath the former Hive World. Extensive drilling and mining operations were established after Oshaune's liberation in November 2185 to extract the valuable substance. The recovered E-711 later enabled Super Earth to synthesize Dark Fluid, providing an important new source of the exotic material.",
-  "source": "https://helldivers.wiki.gg/wiki/E-711_Extraction_Facility",
-  "image": "",
-  "aliases": [
-    "e-711 extraction facility",
-    "e711 extraction facility",
-    "element 711 extraction facility",
-    "oshaune extraction facility",
-    "e-711 facility"
-  ]
-},
+    "title": "E-711 Extraction Facility",
+    "category": "Super Earth Facility",
+    "description": "The E-711 Extraction Facility is a Super Earth industrial installation on Oshaune constructed to recover Element-711 from deposits beneath the former Hive World. Extensive drilling and mining operations were established after Oshaune's liberation in November 2185 to extract the valuable substance. The recovered E-711 later enabled Super Earth to synthesize Dark Fluid, providing an important new source of the exotic material.",
+    "source": "https://helldivers.wiki.gg/wiki/E-711_Extraction_Facility",
+    "image": "",
+    "aliases": [
+      "e 711 extraction facility",
+      "e-711 extraction facility",
+      "e711 extraction facility",
+      "element 711 extraction facility",
+      "oshaune extraction facility",
+      "e-711 facility"
+    ]
+  },
   "moradesh-research-facility": {
-  "title": "Moradesh Research Facility",
-  "category": "Super Earth Research Facility",
-  "description": "The Moradesh Research Facility was a Super Earth scientific installation established to study and weaponize Illuminate Dark Fluid for use against the Meridia Supercolony. During research in May 2184, an accident caused exotic material within the facility to collapse into a temporary micro-black hole, killing twelve scientists before evaporating. Research conducted at Moradesh ultimately contributed to the Dark Fluid weapon deployed against Meridia. The facility was later evacuated before Moradesh itself was destroyed by the Meridian Black Hole in March 2185.",
-  "source": "https://helldivers.wiki.gg/wiki/Moradesh",
-  "image": "",
-  "aliases": [
-    "moradesh research facility",
-    "moradesh dark fluid facility",
-    "dark fluid research facility",
-    "moradesh laboratory",
-    "moradesh project"
-  ]
-},
+    "title": "Moradesh Research Facility",
+    "category": "Super Earth Research Facility",
+    "description": "The Moradesh Research Facility was a Super Earth scientific installation established to study and weaponize Illuminate Dark Fluid for use against the Meridia Supercolony. During research in May 2184, an accident caused exotic material within the facility to collapse into a temporary micro-black hole, killing twelve scientists before evaporating. Research conducted at Moradesh ultimately contributed to the Dark Fluid weapon deployed against Meridia. The facility was later evacuated before Moradesh itself was destroyed by the Meridian Black Hole in March 2185.",
+    "source": "https://helldivers.wiki.gg/wiki/Moradesh",
+    "image": "",
+    "aliases": [
+      "moradesh research facility",
+      "moradesh dark fluid facility",
+      "dark fluid research facility",
+      "moradesh laboratory",
+      "moradesh project"
+    ]
+  },
   "ultramafic-mine": {
-  "title": "Ultramafic Mine",
-  "category": "Strategic Industrial Site",
-  "description": "The Ultramafic Mine is a strategic mining complex on Mintoria originally constructed in secret by the Automatons. The facility extracted uncommon metals from deep ultramafic rock deposits, including nickel, chromium, and platinum. Super Earth discovered the operation through decrypted Automaton communications and ordered Helldivers to liberate Mintoria, securing the mine and technological assets associated with it.",
-  "source": "https://helldivers.wiki.gg/wiki/Ultramafic_Mine",
-  "image": "",
-  "aliases": [
-    "ultramafic mine",
-    "mintoria mine",
-    "automaton ultramafic mine",
-    "platinum mine",
-    "mintoria ultramafic mine"
-  ]
+    "title": "Ultramafic Mine",
+    "category": "Strategic Industrial Site",
+    "description": "The Ultramafic Mine is a strategic mining complex on Mintoria originally constructed in secret by the Automatons. The facility extracted uncommon metals from deep ultramafic rock deposits, including nickel, chromium, and platinum. Super Earth discovered the operation through decrypted Automaton communications and ordered Helldivers to liberate Mintoria, securing the mine and technological assets associated with it.",
+    "source": "https://helldivers.wiki.gg/wiki/Ultramafic_Mine",
+    "image": "",
+    "aliases": [
+      "ultramafic mine",
+      "mintoria mine",
+      "automaton ultramafic mine",
+      "platinum mine",
+      "mintoria ultramafic mine"
+    ]
+  },
+  "center-for-civilian-surveillance-and-safety": {
+    "title": "Center for Civilian Surveillance and Safety",
+    "category": "Super Earth Facility",
+    "description": "The Center for Civilian Surveillance and Safety is a Super Earth surveillance facility on Mastia overseen by the Ministry of Truth. Expanded under the FREEDOM Act, it developed systems for identifying citizens considered at risk of disloyal thought and trained undercover personnel. Its later investigation reported dissident activity on every Federation planet except Super Earth itself, helping trigger the War on Dissidence.",
+    "source": "https://helldivers.wiki.gg/wiki/Center_for_Civilian_Surveillance_and_Safety",
+    "image": "",
+    "aliases": [
+      "center for civilian surveillance and safety",
+      "ccss",
+      "civilian surveillance center",
+      "citizen surveillance and safety"
+    ]
+  },
+  "pre-dissidence-program": {
+    "title": "Pre-Dissidence Program",
+    "category": "Super Earth Security Program",
+    "description": "The Pre-Dissidence Program is a Super Earth internal-security initiative associated with the Center for Civilian Surveillance and Safety. It was created to identify citizens considered at risk of future disloyal thought so authorities could intervene before dissident activity occurred.",
+    "source": "https://helldivers.wiki.gg/wiki/Center_for_Civilian_Surveillance_and_Safety",
+    "image": "",
+    "aliases": [
+      "pre-dissidence program",
+      "pre dissidence program",
+      "pre-dissidence",
+      "predissidence program"
+    ]
+  },
+  "center-for-confinement-of-dissidence": {
+    "title": "Center for the Confinement of Dissidence",
+    "category": "Super Earth Facility",
+    "description": "The Center for the Confinement of Dissidence, abbreviated CECOD, is a planet-wide high-security Super Earth detention and re-education facility on Afoyay Bay. Constructed after the War on Dissidence overwhelmed existing holding facilities, it was designed to contain up to 15 million dissidents. Its detainees were later used as the workforce for nearby Pandora Base.",
+    "source": "https://helldivers.wiki.gg/wiki/Center_for_the_Confinement_of_Dissidence",
+    "image": "",
+    "aliases": [
+      "center for confinement of dissidence",
+      "center for the confinement of dissidence",
+      "cecod",
+      "dissidence center",
+      "afoyay bay cecod"
+    ]
+  },
+  "pandora-base": {
+    "title": "Pandora Base",
+    "category": "Super Earth Facility",
+    "description": "Pandora Base is a top-secret Super Earth development and manufacturing facility on Afoyay Bay commissioned by the Ministry of Expansion during Operation Free Space. The facility was established to construct upgrades for the Democracy Space Station, including the Star of Peace, using labor supplied by detainees from the nearby Center for the Confinement of Dissidence.",
+    "source": "https://helldivers.wiki.gg/wiki/Pandora_Base",
+    "image": "",
+    "aliases": [
+      "pandora base",
+      "afoyay bay pandora base",
+      "dss upgrade facility",
+      "star of peace facility"
+    ]
+  },
+  "seaf-bug-wardens": {
+    "title": "SEAF Bug Wardens",
+    "category": "Super Earth Military Unit",
+    "description": "SEAF Bug Wardens were Super Earth Armed Forces personnel assigned to containment and security duties at the Terminid Research Preserve on Acamar IV. They helped maintain the preserve's quarantine systems and monitored the captive Terminid population before the facility was destroyed by a catastrophic subterranean outbreak.",
+    "source": "https://helldivers.wiki.gg/wiki/Terminid_Research_Preserve",
+    "image": "",
+    "aliases": [
+      "seaf bug wardens",
+      "bug wardens",
+      "terminid wardens",
+      "acamar wardens"
+    ]
+  }
 }
