@@ -26,5 +26,52 @@
       "vote snatchers",
       "vote snatcher"
     ]
-  }
+  },
+  "ministry-of-truth": {
+  "title": "Ministry of Truth",
+  "category": "Super Earth Ministry",
+  "description": "The Ministry of Truth is one of the principal Ministries of Super Earth and is responsible for informing the public and protecting citizens from enemy propaganda and misinformation. It oversees official messaging, propaganda, and major media organizations such as Strohmann News, while also supervising programs focused on civilian surveillance, dissident detection, and resistance to Illuminate influence.",
+  "source": "https://helldivers.wiki.gg/wiki/Ministry_of_Truth",
+  "image": "",
+  "aliases": [
+    "ministry of truth",
+    "mot",
+    "truth ministry"
+  ]
+},
+"ministry-of-defense": {
+  "title": "Ministry of Defense",
+  "category": "Super Earth Ministry",
+  "description": "The Ministry of Defense is responsible for defending Super Earth against all military threats. It commands the Super Earth Armed Forces and, by extension, the Helldivers. The Ministry also issues military directives, oversees Helldiver readiness, and plays a major role in the development and deployment of Warbonds and battlefield equipment.",
+  "source": "https://helldivers.wiki.gg/wiki/Ministry_of_Defense",
+  "image": "",
+  "aliases": [
+    "ministry of defense",
+    "mindef",
+    "defense ministry"
+  ]
+},
+"ministry-of-science": {
+  "title": "Ministry of Science",
+  "category": "Super Earth Ministry",
+  "description": "The Ministry of Science is a Super Earth government organization responsible for scientific research, technological development, and investigation of unusual galactic phenomena. Its work has included research into the Terminid Control System, Termicide, the Gloom, E-711, Dark Fluid, and other major scientific projects connected to the Galactic War.",
+  "source": "https://helldivers.wiki.gg/wiki/Ministry_of_Science",
+  "image": "",
+  "aliases": [
+    "ministry of science",
+    "science ministry",
+    "super earth science"
+  ]
+},
+"brasch-tactics": {
+  "title": "Brasch Tactics",
+  "category": "Super Earth Media",
+  "description": "Brasch Tactics is a military instructional broadcast hosted by General Brasch and shown aboard Super Destroyers. The program provides Helldivers with short battlefield lessons covering subjects such as cover, concealment, injuries, reloading, armored enemies, fire modes, tagging, and team weapons.",
+  "source": "https://helldivers.wiki.gg/wiki/Brasch_Tactics",
+  "image": "",
+  "aliases": [
+    "brasch tactics",
+    "general brasch tactics",
+    "brasch training"
+  ]
 }
