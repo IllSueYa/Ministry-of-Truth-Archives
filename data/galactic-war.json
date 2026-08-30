@@ -2,116 +2,107 @@
   "major-orders": {
     "title": "Major Orders",
     "category": "Galactic War",
-    "description": "Major Orders are large-scale strategic objectives issued to the Helldiver community. They can require the liberation or defense of planets, destruction of enemy forces, completion of special operations, or other galaxy-wide objectives within a limited period.",
+    "description": "Major Orders are community-wide, large-scale objectives that direct the course and narrative of the Second Galactic War. They can require Helldivers to liberate or hold planets, defend worlds, exterminate enemy forces, gather resources, or complete operations before a deadline. Success can award Medals, Requisition, equipment, Stratagems, or other campaign rewards.",
     "source": "https://helldivers.wiki.gg/wiki/Major_Orders",
-    "image": ""
+    "image": "",
+    "aliases": [
+      "major orders",
+      "major order",
+      "mo",
+      "mos"
+    ]
   },
   "meridian-black-hole": {
     "title": "Meridian Black Hole",
     "category": "Galactic Phenomenon",
-    "description": "The Meridian Black Hole formed after Helldivers injected Dark Fluid into the Terminid Supercolony on Meridia, causing the planet to collapse on June 2, 2184. Initially believed to be a black hole, later research determined the anomaly was actually a wormhole. Following the return of the Illuminate, the Meridian Singularity became central to their plans: Dark Energy harvested during Illuminate invasions was used to move the anomaly across the galaxy, turning the remains of Meridia into a devastating weapon.",
+    "description": "The Meridian Black Hole formed when Helldivers injected Dark Fluid into the Terminid Supercolony on Meridia, causing the planet to collapse in June 2184. Although initially treated as a black hole, later events revealed the anomaly to function as a wormhole tied to Illuminate activity. It became one of the most strategically important anomalies of the Second Galactic War and a major focus of later Illuminate operations.",
     "source": "https://helldivers.wiki.gg/wiki/Meridian_Black_Hole",
-    "image": ""
+    "image": "",
+    "aliases": [
+      "meridian black hole",
+      "meridia black hole",
+      "meridian singularity",
+      "meridia singularity"
+    ]
   },
   "the-gloom": {
     "title": "The Gloom",
     "category": "Galactic Phenomenon",
-    "description": "The Gloom is an enormous interstellar cloud of Terminid spores that began emerging from deep Terminid territory in August 2184. The cloud rapidly expanded across multiple planets and sectors, blocking Super Earth from gathering reliable intelligence within its boundaries. Ships and probes entering the Gloom lost communications, while Terminids exposed to its extreme evolutionary conditions developed increasingly dangerous mutations. The Gloom eventually concealed heavily transformed worlds, including Oshaune, which was discovered to have become a Terminid Hive World.",
+    "description": "The Gloom is an interstellar Terminid spore cloud that emerged from deep Terminid territory in 2184. It obscures galactic intelligence, disrupts communications, and is associated with extreme evolutionary pressure that has produced dangerous new Terminid strains. The Gloom later revealed heavily transformed Hive Worlds and has receded from some previously engulfed planets while still covering others.",
     "source": "https://helldivers.wiki.gg/wiki/The_Gloom",
-    "image": ""
-  },
-  "hive-worlds": {
-    "title": "Hive Worlds",
-    "category": "Terminid Territory",
-    "description": "Hive Worlds are planets completely infested and terraformed by the Terminids. Beneath their surfaces lie enormous networks of caves containing Terminid nests, hostile organisms, and Spore Lungs believed to produce and sustain the Gloom. Their surfaces are similarly transformed, featuring Terminid structures, spires, and hazardous environments. Oshaune was the first Hive World discovered by Super Earth, while Zagon Prime and Omicron were subsequently identified as Hive Worlds hidden within the Gloom.",
-    "source": "https://helldivers.wiki.gg/wiki/Hive_World",
-    "image": ""
-},
-"the-void": {
-  "title": "The Void",
-  "category": "Galactic Phenomenon",
-  "description": "The Void is an unnatural Illuminate interstellar anomaly formed as the final stage of an Illuminate Exostorm. It can engulf entire star systems, blocks conventional observation and signals, and severely disrupts navigation and intelligence gathering.",
-  "source": "https://helldivers.wiki.gg/wiki/The_Void",
-  "image": "",
-  "aliases": [
-    "void",
-    "illuminate void"
-  ]
-},
- "appropriators": {
-    "title": "Appropriators",
-    "category": "Illuminate Subfaction",
-    "description": "The Appropriators are an Illuminate subfaction composed entirely of Illuminate personnel and machinery rather than Voteless forces. Their deployments feature Illuminate foot soldiers, drones, and piloted constructs.",
-    "source": "https://helldivers.wiki.gg/wiki/Appropriators",
     "image": "",
     "aliases": [
-      "appropriator",
-      "illuminate appropriators"
+      "the gloom",
+      "gloom",
+      "terminid gloom",
+      "gloom cloud",
+      "spore cloud"
     ]
   },
-  "exostorm": {
-  "title": "Exostorm",
-  "category": "Galactic Phenomenon",
-  "description": "Exostorms are unnatural interstellar meteorological phenomena generated by Illuminate Exospires. They progressively intensify through three classifications, producing extreme planetary weather, lightning, tornadoes, and eventually spacetime fractures and disturbances in the passage of time. A prolonged Class 3 Exostorm can destabilize reality around an occupied planet until the system is engulfed by the Void.",
-  "source": "https://helldivers.wiki.gg/wiki/Exostorm",
-  "image": "",
-  "aliases": [
-    "exostorm",
-    "exostorms",
-    "illuminate exostorm",
-    "ritual storm"
-  ]
-},
+  "the-void": {
+    "title": "The Void",
+    "category": "Galactic Phenomenon",
+    "description": "The Void was an unnatural Illuminate interstellar anomaly formed as the final stage of an Exostorm. It engulfed multiple star systems, blocked conventional observation and signals, and severely disrupted navigation and intelligence gathering. Super Earth penetrated the anomaly during Operation Void Piercer, and the Void was ultimately dissolved after Seasse was secured on August 23, 2186.",
+    "source": "https://helldivers.wiki.gg/wiki/The_Void",
+    "image": "",
+    "aliases": [
+      "the void",
+      "void",
+      "illuminate void"
+    ]
+  },
   "void-gateway": {
-  "title": "Void Gateway",
-  "category": "Galactic Point of Interest",
-  "description": "The Void Gateway was a Super Earth-controlled connection point between the galaxy and the Void, established on Rirga Bay after scientists discovered that modified Alcubierre Drive warp bubbles could protect vessels from the Void's destructive outer radiation field. A massive Warp Relay Station was constructed to generate a bubble large enough for Super Destroyers and other Super Earth forces to safely enter the anomaly.",
-  "source": "https://helldivers.wiki.gg/wiki/Void_Gateway",
-  "image": "",
-  "aliases": [
-    "void gateway",
-    "rirga bay gateway",
-    "warp relay station",
-    "void warp relay",
-    "rirga bay warp relay"
-  ]
- },
+    "title": "Void Gateway",
+    "category": "Galactic Point of Interest",
+    "description": "The Void Gateway was a Super Earth-controlled connection point between normal space and the Void on Rirga Bay. Engineers used modified Alcubierre Drive warp bubbles to penetrate the Void's outer radiation shell, and a massive Warp Relay Station was constructed to generate a protective bubble large enough to transport multiple Super Destroyers and even the Democracy Space Station into the anomaly.",
+    "source": "https://helldivers.wiki.gg/wiki/Void_Gateway",
+    "image": "",
+    "aliases": [
+      "void gateway",
+      "rirga bay gateway",
+      "warp relay station",
+      "void warp relay",
+      "rirga bay warp relay"
+    ]
+  },
   "void-sector": {
-  "title": "Void Sector",
-  "category": "Galactic War Region",
-  "description": "The Void Sector was a temporary region of the Galactic Map containing planets engulfed by the Illuminate-created Void. The anomaly obscured conventional galactic intelligence and isolated the affected worlds from normal space. Super Earth eventually penetrated the region during Operation Void Piercer, allowing Helldivers and SEAF forces to conduct operations inside it. The Void Sector ceased to exist after the Void dissipated on August 23, 2186.",
-  "source": "https://helldivers.wiki.gg/wiki/Void_Sector",
-  "image": "",
-  "aliases": [
-    "void sector",
-    "the void sector",
-    "illuminate void sector"
-  ]
-},
+    "title": "Void Sector",
+    "category": "Galactic War Region",
+    "description": "The Void Sector was a temporary Galactic Map region containing planets engulfed by the Void. Conventional galactic intelligence was heavily obstructed within the anomaly. The region became accessible during Operation Void Piercer and ceased to exist after the Void was dispelled, with its affected planets returning to their pre-Void forms.",
+    "source": "https://helldivers.wiki.gg/wiki/Void_Sector",
+    "image": "",
+    "aliases": [
+      "void sector",
+      "the void sector",
+      "illuminate void sector"
+    ]
+  },
   "tcs-plus-breaches": {
-  "title": "TCS+ Breaches",
-  "category": "Galactic War Event",
-  "description": "The TCS+ Breaches are a series of Terminid infestations and attacks affecting planets protected by Super Earth's Terminid Control System+ network. Although the completed barrier was declared capable of permanently preventing Terminid infestation, several protected worlds subsequently experienced renewed Terminid activity. Super Earth attributed some incidents to dissident sabotage. By late August 2186, further breaches included renewed infestation on Brilliance and a Predator Strain assault against Achernar Secundus.",
-  "source": "https://helldivers.wiki.gg/wiki/Terminid_Control_System%2B",
-  "image": "",
-  "aliases": [
-    "tcs+ breaches",
-    "tcs plus breaches",
-    "tcs breach",
-    "termicide 2 breaches",
-    "terminid containment breach"
-  ]
-},
+    "title": "TCS+ Breaches",
+    "category": "Galactic War Event",
+    "description": "The TCS+ Breaches are a series of Terminid outbreaks and attacks affecting planets protected by the Terminid Control System+ network. Despite the system being presented as a permanent containment line, multiple TCS+ worlds suffered renewed Terminid activity, with Super Earth attributing several incidents to dissident sabotage. Notable late-August 2186 breaches included Brilliance and an assault on Achernar Secundus by the Predator Strain.",
+    "source": "https://helldivers.wiki.gg/wiki/Terminid_Control_System%2B",
+    "image": "",
+    "aliases": [
+      "tcs+ breaches",
+      "tcs plus breaches",
+      "tcs breach",
+      "tcs breaches",
+      "termicide 2 breaches",
+      "terminid containment breach"
+    ]
+  },
   "counterdissident-hammer": {
-  "title": "Counterdissident Hammer",
-  "category": "Active Galactic War Campaign",
-  "description": "Counterdissident Hammer is an ongoing Super Earth campaign launched on August 25, 2186 following renewed Terminid outbreaks within the completed TCS+ containment line. Super Earth attributes the failures to extremist dissident sabotage and has ordered a galaxy-wide counter-dissidence operation while Helldivers respond to Terminid incursions. The opening Dissident Manhunt phase followed a major TCS+ failure on Brilliance and directed Helldivers toward planets identified by the Ministry of Truth as suspected dissident strongholds.",
-  "source": "https://helldivers.wiki.gg/wiki/Campaigns",
-  "image": "",
-  "aliases": [
-    "counterdissident hammer",
-    "counter-dissident hammer",
-    "counterdissident campaign",
-    "dissident manhunt"
-  ]
+    "title": "Counterdissident Hammer",
+    "category": "Galactic War Campaign",
+    "description": "Counterdissident Hammer is a Super Earth campaign launched on August 25, 2186 after renewed Terminid outbreaks within the completed TCS+ containment line. Super Earth blamed extremist dissident sabotage for the breaches and initiated a galaxy-wide counter-dissidence operation while Helldivers responded to Terminid incursions. The campaign opened with the Dissident Manhunt phase.",
+    "source": "https://helldivers.wiki.gg/wiki/Campaigns",
+    "image": "",
+    "aliases": [
+      "counterdissident hammer",
+      "counter-dissident hammer",
+      "counterdissident campaign",
+      "dissident manhunt"
+    ]
+  }
 }
