@@ -16,5 +16,145 @@
     "aliases": [
   "managed democracy"
 ]
-  }
+  },
+  "liberty-day": {
+  "title": "Liberty Day",
+  "category": "Super Earth Culture",
+  "description": "Liberty Day is one of Super Earth's most important patriotic holidays and is celebrated annually on October 26. The holiday commemorates Managed Democracy and the citizens and soldiers who defend Super Earth's way of life. Traditions include re-swearing the Oath of Citizenship, watching the televised Lunar Bombardment, gathering gifts from town pyres, and celebrating the achievements of Super Earth and the Helldivers.",
+  "source": "https://helldivers.wiki.gg/wiki/Liberty_Day",
+  "image": "",
+  "aliases": [
+    "liberty day",
+    "super earth liberty day",
+    "october 26",
+    "liberty day celebration"
+  ]
+},
+"super-earth-national-anthem": {
+  "title": "Super Earth National Anthem",
+  "category": "Super Earth Culture",
+  "description": "The Super Earth National Anthem is the official musical anthem of Super Earth and celebrates the Federation, Managed Democracy, sacrifice, liberty, and humanity's supremacy across the galaxy. Instrumental versions of the anthem accompany patriotic activities such as raising the Super Earth Flag during Spread Democracy missions. The anthem also appears as an official track on the Helldivers 2 soundtrack.",
+  "source": "https://helldivers.wiki.gg/wiki/Super_Earth_National_Anthem",
+  "image": "",
+  "aliases": [
+    "super earth national anthem",
+    "super earth anthem",
+    "anthem of super earth",
+    "national anthem",
+    "anthem"
+  ]
+},
+  "malevelon-creek-memorial-day": {
+  "title": "Malevelon Creek Memorial Day",
+  "category": "Super Earth Holiday",
+  "description": "Malevelon Creek Memorial Day is a Super Earth holiday observed every year on April 3 in remembrance of the Helldivers who died fighting for Malevelon Creek. The holiday was established by presidential decree following the planet's liberation during the Second Galactic War. Citizens commemorate the fallen by dedicating three full minutes of their lunch break to solemn remembrance, while Helldivers were originally issued the Fallen Hero's Vengeance cape to carry the memory of the fallen into battle.",
+  "source": "https://helldivers.wiki.gg/wiki/Malevelon_Creek_Memorial_Day",
+  "image": "",
+  "aliases": [
+    "malevelon creek memorial day",
+    "creek memorial day",
+    "memorial day",
+    "remember the creek",
+    "april 3"
+  ]
+},
+"festival-of-reckoning": {
+  "title": "Festival of Reckoning",
+  "category": "Super Earth Holiday",
+  "description": "The Festival of Reckoning is Super Earth's winter holiday celebration, traditionally lasting three days and dedicated to love, family, peace, commerce, and vengeance against the enemies of Managed Democracy. Citizens gather with friends and family, purchase discounted consumer goods, sing holiday carols, and watch televised coverage of Helldiver victories. The celebration is supported by the annual Reckoning Fund, which finances additional ordnance for the Helldivers. The festival also includes traditions such as a dissident execution parade and the Feast of the Electorate.",
+  "source": "https://helldivers.wiki.gg/wiki/Festival_of_Reckoning",
+  "image": "",
+  "aliases": [
+    "festival of reckoning",
+    "reckoning",
+    "winter holiday",
+    "super earth christmas",
+    "reckoning festival"
+  ]
+},
+"feast-of-the-electorate": {
+  "title": "Feast of the Electorate",
+  "category": "Super Earth Holiday",
+  "description": "The Feast of the Electorate is a celebration held during the Festival of Reckoning in honor of Super Earth's first free and Managed Election. It traditionally occurs on the third and final day of the Festival of Reckoning and represents the political culmination of the holiday's celebrations of family, peace, patriotism, and Managed Democracy.",
+  "source": "https://helldivers.wiki.gg/wiki/Festival_of_Reckoning",
+  "image": "",
+  "aliases": [
+    "feast of the electorate",
+    "electorate feast",
+    "managed election feast",
+    "third day of reckoning"
+  ]
+},
+"reckoning-fund": {
+  "title": "Reckoning Fund",
+  "category": "Super Earth Culture",
+  "description": "The Reckoning Fund is an allocation of resources set aside each year for the Festival of Reckoning. Rather than being devoted solely to civilian festivities, the fund finances additional ordnance and military activities so the Helldivers can deliver vengeance against the enemies of Super Earth for citizens to witness. Portions of the fund have also been used for experimental Stratagem testing during Festival campaigns.",
+  "source": "https://helldivers.wiki.gg/wiki/Festival_of_Reckoning",
+  "image": "",
+  "aliases": [
+    "reckoning fund",
+    "festival reckoning fund",
+    "holiday fund",
+    "ordnance fund"
+  ]
+},
+"super-earth-flag": {
+  "title": "Super Earth Flag",
+  "category": "Super Earth Symbol",
+  "description": "The Super Earth Flag is one of the Federation's most recognizable patriotic symbols and represents Super Earth, Managed Democracy, and humanity's authority across the galaxy. Helldivers deploy the flag during Spread Democracy operations, defending the area while it is raised over enemy-controlled territory. An instrumental version of the Super Earth National Anthem plays during the ceremony, turning the battlefield objective into a highly visible declaration of Super Earth sovereignty.",
+  "source": "https://helldivers.wiki.gg/wiki/Super_Earth_Flag",
+  "image": "",
+  "aliases": [
+    "super earth flag",
+    "flag of super earth",
+    "federation flag",
+    "democracy flag",
+    "super earth banner"
+  ]
+},
+  "c-01-permit": {
+  "title": "C-01 Permit",
+  "category": "Super Earth Society",
+  "description": "The C-01 Permit is a government authorization required before Super Earth citizens perform any act that could result in the conception of a child. The permit forms part of the Federation's population-control system and requires citizens to submit an application for government approval. C-01 availability has also been influenced by events in the Galactic War, with Super Earth suspending or increasing permit approvals in response to military and economic circumstances.",
+  "source": "https://helldivers.wiki.gg/wiki/C-01_Permit",
+  "image": "",
+  "aliases": [
+    "c-01 permit",
+    "c01 permit",
+    "c1-perm",
+    "child permit",
+    "procreation permit"
+  ]
+},
+"citizenship-classification-structure": {
+  "title": "Citizenship Classification Structure",
+  "category": "Super Earth Society",
+  "description": "The Citizenship Classification Structure is the system used by the Federation to divide citizens into social classes. Six classes are currently known, ranging from Class A through Class F. Citizenship status can be influenced by service to Super Earth, with military personnel and their families sometimes receiving improved citizenship classifications as rewards for exceptional democratic service.",
+  "source": "https://helldivers.wiki.gg/wiki/Super_Earth_Federation",
+  "image": "",
+  "aliases": [
+    "citizenship classification structure",
+    "citizenship classes",
+    "citizen classes",
+    "class a",
+    "class b",
+    "class c",
+    "class d",
+    "class e",
+    "class f",
+    "ccs"
+  ]
+},
+"freedom-act": {
+  "title": "FREEDOM Act",
+  "category": "Super Earth Law",
+  "description": "The FREEDOM Act, formally the Freedom & Readiness to Enable Effective Defense & Obstruction of Mind-Influence Act of 2184, was enacted in response to the threat of Illuminate mind control and genetic manipulation. The law expanded the Ministry of Unity's authority to combat internal and external threats, created a new loyalty-enforcement security force known as the Unity Corps, and authorized construction of the Center for Civilian Surveillance and Safety on Mastia.",
+  "source": "https://helldivers.wiki.gg/wiki/Center_for_Civilian_Surveillance_and_Safety",
+  "image": "",
+  "aliases": [
+    "freedom act",
+    "freedom act of 2184",
+    "mind influence act",
+    "freedom and readiness act"
+  ]
 }
