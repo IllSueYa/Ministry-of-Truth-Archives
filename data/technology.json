@@ -174,4 +174,31 @@
     "surface to air missile site",
     "surface-to-air missile site"
   ]
+},
+  "radar-station": {
+  "title": "Radar Station",
+  "category": "Super Earth Technology",
+  "description": "Radar Stations are Super Earth installations used to survey planetary mission areas. Helldivers can reactivate a station by raising its radar tower and correctly aligning the dish. Once operational, the station reveals enemy outposts, optional objectives, and Minor Places of Interest across the mission map. Radar Stations are sometimes labeled LiDAR Stations in the field, although this naming has been identified as an unintended inconsistency.",
+  "source": "https://helldivers.wiki.gg/wiki/Radar_Station",
+  "image": "",
+  "aliases": [
+    "radar station",
+    "lidar station",
+    "radar tower",
+    "lidar tower"
+  ]
+},
+  "icbm-launch-site": {
+  "title": "ICBM Launch Site",
+  "category": "Super Earth Technology",
+  "description": "ICBM Launch Sites are fortified Super Earth missile installations containing powerful intercontinental ballistic missiles. Dormant launch sites can be reactivated by Helldivers during planetary operations and used to destroy major enemy targets at long range. Depending on the operation, these missiles have been directed against massive Automaton factories, mature Terminid hives, and Illuminate positions.",
+  "source": "https://helldivers.wiki.gg/wiki/Launch_ICBM",
+  "image": "",
+  "aliases": [
+    "icbm launch site",
+    "icbm silo",
+    "icbm",
+    "missile silo",
+    "super earth icbm"
+  ]
 }
