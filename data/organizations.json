@@ -354,4 +354,17 @@
     "turing research center",
     "terminid research center"
   ]
+},
+  "seaf-bug-wardens": {
+  "title": "SEAF Bug Wardens",
+  "category": "SEAF Unit",
+  "description": "The SEAF Bug Wardens were a specialized Super Earth Armed Forces unit assigned to the Terminid Research Preserve on Acamar IV. Their role was to monitor and contain the Terminids deliberately seeded within the preserve while assisting research teams in obtaining live specimens. The Bug Wardens operated alongside an extensive network of above- and below-ground electrified fencing intended to prevent the Terminids from escaping.",
+  "source": "https://helldivers.wiki.gg/wiki/Super_Earth_Armed_Forces",
+  "image": "",
+  "aliases": [
+    "seaf bug wardens",
+    "bug wardens",
+    "terminid bug wardens",
+    "acamar bug wardens"
+  ]
 }
