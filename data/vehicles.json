@@ -1,216 +1,200 @@
 {
   "super-destroyer": {
     "title": "Super Destroyer",
-    "category": "Vehicle",
-    "description": "The Super Destroyer is the orbital warship assigned to a Helldiver. It serves as a mobile command center and provides orbital support, equipment deployment, reinforcements, and transportation between operations.",
+    "category": "Super Earth Spacecraft",
+    "description": "The Super Destroyer is a class of Super Earth military spacecraft that serves as the forward operating base for Helldivers. Each vessel carries a large number of Helldivers in cryogenic storage and provides orbital fire support, equipment deployment, reinforcements, and Eagle close air support during missions. Powered by an Element-710-fueled Alcubierre Drive, a Super Destroyer can travel between star systems in seconds.",
     "source": "https://helldivers.wiki.gg/wiki/Super_Destroyer",
-"image": "",
-"aliases": [
-  "super destroyer",
-  "destroyer"
-]
-  },
-  "pelican-1": {
-    "title": "Pelican-1",
-    "category": "Vehicle",
-    "description": "Pelican-1 is the extraction shuttle used to retrieve Helldivers from the battlefield after their mission objectives have been completed. The shuttle arrives at designated extraction zones and transports surviving Helldivers back to their Super Destroyer.",
-    "source": "https://helldivers.wiki.gg/wiki/Pelican-1",
     "image": "",
     "aliases": [
-      "pelican",
-      "pelican 1",
-      "extraction shuttle"
+      "super destroyer",
+      "destroyer",
+      "helldiver super destroyer",
+      "class 6 series crewed interplanetary combat vessel"
     ]
   },
-  "super-destroyer": {
-  "title": "Super Destroyer",
-  "category": "Super Earth Spacecraft",
-  "description": "The Super Destroyer is a class of Super Earth military spacecraft that serves as the forward operating base for Helldivers. Each vessel carries a large number of Helldivers in cryogenic storage and provides orbital fire support, equipment deployment, reinforcements, and Eagle close air support during missions. Powered by an Element-710-fueled Alcubierre Drive, a Super Destroyer can travel between star systems in seconds.",
-  "source": "https://helldivers.wiki.gg/wiki/Super_Destroyer",
-  "image": "",
-  "aliases": [
-    "super destroyer",
-    "destroyer",
-    "helldiver super destroyer",
-    "class 6 series crewed interplanetary combat vessel"
-  ]
-},
   "eagle": {
-  "title": "Eagle Aerospace Assault Craft",
-  "category": "Super Earth Aircraft",
-  "description": "The Eagle is a Super Earth aerospace assault craft carried aboard Helldiver Super Destroyers. It provides rapid close air support during planetary operations and can carry multiple weapon configurations for bombing, strafing, rocket, and other attack missions. After expending its available ordnance, the Eagle can return to the Super Destroyer to rearm before resuming support operations.",
-  "source": "https://helldivers.wiki.gg/wiki/Eagle",
-  "image": "",
-  "aliases": [
-    "eagle",
-    "eagle aircraft",
-    "eagle aerospace assault craft",
-    "eagle fighter",
-    "eagle-1 aircraft"
-  ]
-},
+    "title": "Eagle Aerospace Assault Craft",
+    "category": "Super Earth Aircraft",
+    "description": "The Eagle is a Super Earth aerospace assault craft carried aboard Helldiver Super Destroyers. It provides rapid close air support during planetary operations and can carry multiple weapon configurations for bombing, strafing, rocket, and other attack missions. After expending its available ordnance, the Eagle can return to the Super Destroyer to rearm before resuming support operations.",
+    "source": "https://helldivers.wiki.gg/wiki/Eagle",
+    "image": "",
+    "aliases": [
+      "eagle",
+      "eagle aircraft",
+      "eagle aerospace assault craft",
+      "eagle fighter"
+    ]
+  },
   "pelican-shuttle": {
-  "title": "Pelican Shuttle",
-  "category": "Super Earth Aircraft",
-  "description": "Pelican Shuttles are Super Earth transport craft used to move personnel, vehicles, cargo, and fluids between spacecraft and planetary surfaces. They are single-stage-to-orbit tiltwing aircraft capable of vertical takeoff and landing. Known variants include Tanker, Cargo, and Troop Transport models, with specialized Pelicans supporting numerous Helldiver operations.",
-  "source": "https://helldivers.wiki.gg/wiki/Pelican_Shuttle",
-  "image": "",
-  "aliases": [
-    "pelican shuttle",
-    "pelican",
-    "pelican transport",
-    "pelican transport shuttle",
-    "transport pelican"
-  ]
-},
+    "title": "Pelican Shuttle",
+    "category": "Super Earth Aircraft",
+    "description": "Pelican Shuttles are Super Earth transport craft used to move personnel, vehicles, cargo, and fluids between spacecraft and planetary surfaces. They are single-stage-to-orbit tiltwing aircraft capable of vertical takeoff and landing. Known variants include Tanker, Cargo, and Troop Transport models, with specialized Pelicans supporting numerous Helldiver operations.",
+    "source": "https://helldivers.wiki.gg/wiki/Pelican_Shuttle",
+    "image": "",
+    "aliases": [
+      "pelican shuttle",
+      "pelican transport",
+      "pelican transport shuttle",
+      "transport pelican"
+    ]
+  },
   "extraction-shuttle": {
-  "title": "Extraction Shuttle",
-  "category": "Super Earth Aircraft",
-  "description": "The Extraction Shuttle is a Pelican transport assigned to recover Helldivers from planetary operations and return them to their Super Destroyer. After being called to an extraction zone, the shuttle descends to collect surviving Helldivers. If it must remain airborne while awaiting the squad, its nose-mounted autocannon can engage nearby enemies and provide fire support around the landing zone.",
-  "source": "https://helldivers.wiki.gg/wiki/Extraction_Shuttle",
-  "image": "",
-  "aliases": [
-    "extraction shuttle",
-    "extraction pelican",
-    "extract shuttle",
-    "evacuation shuttle",
-    "pelican extraction"
-  ]
-},
+    "title": "Extraction Shuttle",
+    "category": "Super Earth Aircraft",
+    "description": "The Extraction Shuttle is a Pelican transport assigned to recover Helldivers from planetary operations and return them to their Super Destroyer. After being called to an extraction zone, the shuttle descends to collect surviving Helldivers. If it must remain airborne while awaiting the squad, its nose-mounted autocannon can engage nearby enemies and provide fire support around the landing zone.",
+    "source": "https://helldivers.wiki.gg/wiki/Extraction_Shuttle",
+    "image": "",
+    "aliases": [
+      "extraction shuttle",
+      "extraction pelican",
+      "extract shuttle",
+      "evacuation shuttle",
+      "pelican extraction"
+    ]
+  },
   "m-103-supply-frv": {
-  "title": "M-103 Supply FRV",
-  "category": "Super Earth Ground Vehicle",
-  "description": "The M-103 Supply FRV is a Fast Recon Vehicle variant designed to combine rapid squad transportation with battlefield logistics. Unlike the gun-focused M-102, the Supply FRV carries resupply equipment and an automated turret, allowing it to support Helldiver squads while remaining mobile. It is part of Super Earth's expanded family of Fast Recon Vehicles developed for specialized battlefield roles.",
-  "source": "https://helldivers.wiki.gg/wiki/M-103_Supply_FRV",
-  "image": "",
-  "aliases": [
-    "m-103 supply frv",
-    "m103 supply frv",
-    "supply frv",
-    "supply fast recon vehicle"
-  ]
-},
+    "title": "M-103 Supply FRV",
+    "category": "Super Earth Ground Vehicle",
+    "description": "The M-103 Supply FRV is a high-speed Fast Recon Vehicle configured for frontline logistics. It carries a rear supply rack with eight charges that replenish ammunition, grenades, and stims, plus an automated AR-23P Liberator Penetrator turret. It shares the same basic vehicle platform as the M-102 Gunner FRV.",
+    "source": "https://helldivers.wiki.gg/wiki/M-103_Supply_FRV",
+    "image": "",
+    "aliases": [
+      "m 103 supply frv",
+      "m-103 supply frv",
+      "m103 supply frv",
+      "supply frv",
+      "supply fast recon vehicle"
+    ]
+  },
   "m-104-incinerator-frv": {
-  "title": "M-104 Incinerator FRV",
-  "category": "Super Earth Ground Vehicle",
-  "description": "The M-104 Incinerator FRV is a specialized Fast Recon Vehicle configured for incendiary combat. It trades the standard Gunner FRV's heavy machine gun role for an incendiary-focused weapons configuration, giving Helldiver squads a highly mobile platform for burning through concentrations of hostile forces. It belongs to the expanded FRV family alongside the M-102 Gunner and M-103 Supply variants.",
-  "source": "https://helldivers.wiki.gg/wiki/M-104_Incinerator_FRV",
-  "image": "",
-  "aliases": [
-    "m-104 incinerator frv",
-    "m104 incinerator frv",
-    "incinerator frv",
-    "incinerator fast recon vehicle"
-  ]
-},
+    "title": "M-104 Incinerator FRV",
+    "category": "Super Earth Ground Vehicle",
+    "description": "The M-104 Incinerator FRV is a specialized Fast Recon Vehicle with heavier armor, a spiked ramming grille, and a roof-mounted heavy flamethrower. Its large fuel tank replaces the rear seating row, limiting the vehicle to three Helldivers. It was offered during Census Thunder as the alternative vehicle reward tied to liberating Sangis before Basquine VIII; because Basquine VIII was liberated first, the M-103 Supply FRV became the permanent reward instead.",
+    "source": "https://helldivers.wiki.gg/wiki/M-104_Incinerator_FRV",
+    "image": "",
+    "aliases": [
+      "m 104 incinerator frv",
+      "m-104 incinerator frv",
+      "m104 incinerator frv",
+      "incinerator frv",
+      "incinerator fast recon vehicle"
+    ]
+  },
   "exo-51-lumberer": {
-  "title": "EXO-51 Lumberer Exosuit",
-  "category": "Super Earth Exosuit",
-  "description": "The EXO-51 Lumberer is a Super Earth combat Exosuit and a modern reinvention of the Lumberers fielded during the First Galactic War. It combines a flamethrower with an anti-tank cannon, giving its pilot both close-range incendiary firepower and a weapon capable of engaging heavily armored enemies.",
-  "source": "https://helldivers.wiki.gg/wiki/EXO-51_Lumberer_Exosuit",
-  "image": "",
-  "aliases": [
-    "exo-51 lumberer",
-    "exo 51 lumberer",
-    "lumberer",
-    "lumberer exosuit"
-  ]
-},
+    "title": "EXO-51 Lumberer Exosuit",
+    "category": "Super Earth Exosuit",
+    "description": "The EXO-51 Lumberer Exosuit is a modern Super Earth reinvention of the Lumberer used during the First Galactic War. It mounts a 75mm anti-tank cannon on the right arm and a flamethrower on the left, combining anti-armor firepower with close-range incendiary crowd control.",
+    "source": "https://helldivers.wiki.gg/wiki/EXO-51_Lumberer_Exosuit",
+    "image": "",
+    "aliases": [
+      "exo-51 lumberer exosuit",
+      "exo-51 lumberer",
+      "exo 51 lumberer",
+      "lumberer",
+      "lumberer exosuit"
+    ]
+  },
   "exo-55-breakthrough": {
-  "title": "EXO-55 Breakthrough Exosuit",
-  "category": "Super Earth Exosuit",
-  "description": "The EXO-55 Breakthrough is a Super Earth combat Exosuit designed as part of the expanded Helldiver vehicle arsenal. It provides another specialized heavy combat platform alongside the Patriot, Emancipator, and Lumberer Exosuits, allowing Helldivers to deploy armored mechanized firepower directly onto planetary battlefields.",
-  "source": "https://helldivers.wiki.gg/wiki/EXO-55_Breakthrough_Exosuit",
-  "image": "",
-  "aliases": [
-    "exo-55 breakthrough",
-    "exo 55 breakthrough",
-    "breakthrough",
-    "breakthrough exosuit"
-  ]
-},
+    "title": "EXO-55 Breakthrough Exosuit",
+    "category": "Super Earth Exosuit",
+    "description": "The EXO-55 Breakthrough Exosuit is a heavy Super Earth combat Exosuit optimized for mid-to-close-range fighting. Its right arm mounts a heavy flak cannon while its left carries a massive ballistic shield that protects the pilot while closing distance and can also be used offensively to strike and stagger enemies.",
+    "source": "https://helldivers.wiki.gg/wiki/EXO-55_Breakthrough_Exosuit",
+    "image": "",
+    "aliases": [
+      "exo-55 breakthrough exosuit",
+      "exo-55 breakthrough",
+      "exo 55 breakthrough",
+      "breakthrough",
+      "breakthrough exosuit"
+    ]
+  },
   "m-102-gunner-frv": {
-  "title": "M-102 Gunner FRV",
-  "category": "Super Earth Ground Vehicle",
-  "description": "The M-102 Gunner FRV is a lightly armored four-wheeled Fast Recon Vehicle used by Helldivers for rapid transportation and mobile fire support. It carries multiple occupants and mounts an MG-206 Heavy Machine Gun for its gunner. Originally introduced as the Fast Recon Vehicle, it was renamed the M-102 Gunner FRV in August 2186 as additional specialized FRV variants entered service.",
-  "source": "https://helldivers.wiki.gg/wiki/M-102_Gunner_FRV",
-  "image": "",
-  "aliases": [
-    "m-102 gunner frv",
-    "m102 gunner frv",
-    "gunner frv",
-    "fast recon vehicle",
-    "frv"
-  ]
-},
+    "title": "M-102 Gunner FRV",
+    "category": "Super Earth Ground Vehicle",
+    "description": "The M-102 Gunner FRV is a lightly armored four-wheeled Fast Recon Vehicle used by Helldivers for rapid transport and mobile fire support. It mounts an MG-206 Heavy Machine Gun. Originally named the M-102 Fast Recon Vehicle, it was renamed the M-102 Gunner FRV in patch 1.006.300 as additional specialized FRV variants entered service.",
+    "source": "https://helldivers.wiki.gg/wiki/M-102_Gunner_FRV",
+    "image": "",
+    "aliases": [
+      "m 102 gunner frv",
+      "m-102 gunner frv",
+      "m102 gunner frv",
+      "gunner frv",
+      "fast recon vehicle",
+      "frv"
+    ]
+  },
   "exo-45-patriot": {
-  "title": "EXO-45 Patriot Exosuit",
-  "category": "Super Earth Exosuit",
-  "description": "The EXO-45 Patriot is a heavily armored Super Earth combat Exosuit equipped with a rapid-firing gatling gun and a rocket launcher. Its mixed armament allows it to engage both large groups of lighter enemies and heavily armored targets. Production of the Patriot is associated with the Morgunson Arsenal on Tien Kwan, which Helldivers liberated in March 2184 before the Exosuit became available for fleet-wide requisition.",
-  "source": "https://helldivers.wiki.gg/wiki/EXO-45_Patriot_Exosuit",
-  "image": "",
-  "aliases": [
-    "exo-45 patriot",
-    "exo 45 patriot",
-    "patriot exosuit",
-    "patriot",
-    "patriot walker"
-  ]
-},
+    "title": "EXO-45 Patriot Exosuit",
+    "category": "Super Earth Exosuit",
+    "description": "The EXO-45 Patriot is a heavily armored Super Earth combat Exosuit equipped with a rapid-firing gatling gun and a rocket launcher. Its mixed armament allows it to engage both large groups of lighter enemies and heavily armored targets. Production of the Patriot is associated with the Morgunson Arsenal on Tien Kwan, which Helldivers liberated in March 2184 before the Exosuit became available for fleet-wide requisition.",
+    "source": "https://helldivers.wiki.gg/wiki/EXO-45_Patriot_Exosuit",
+    "image": "",
+    "aliases": [
+      "exo-45 patriot exosuit",
+      "exo-45 patriot",
+      "exo 45 patriot",
+      "patriot exosuit",
+      "patriot",
+      "patriot walker"
+    ]
+  },
   "exo-49-emancipator": {
-  "title": "EXO-49 Emancipator Exosuit",
-  "category": "Super Earth Exosuit",
-  "description": "The EXO-49 Emancipator is a heavily armored Super Earth combat Exosuit equipped with dual autocannons for sustained explosive firepower. The design entered service after Helldivers liberated an Automaton Petafactory on Varylia 5 in May 2184. Super Earth engineers subsequently converted the captured facility to manufacture Emancipator Exosuits, which were distributed for Helldiver use.",
-  "source": "https://helldivers.wiki.gg/wiki/EXO-49_Emancipator_Exosuit",
-  "image": "",
-  "aliases": [
-    "exo-49 emancipator",
-    "exo 49 emancipator",
-    "emancipator exosuit",
-    "emancipator",
-    "emancipator walker"
-  ]
-},
+    "title": "EXO-49 Emancipator Exosuit",
+    "category": "Super Earth Exosuit",
+    "description": "The EXO-49 Emancipator is a heavily armored Super Earth combat Exosuit equipped with dual autocannons for sustained explosive firepower. The design entered service after Helldivers liberated an Automaton Petafactory on Varylia 5 in May 2184. Super Earth engineers subsequently converted the captured facility to manufacture Emancipator Exosuits, which were distributed for Helldiver use.",
+    "source": "https://helldivers.wiki.gg/wiki/EXO-49_Emancipator_Exosuit",
+    "image": "",
+    "aliases": [
+      "exo-49 emancipator exosuit",
+      "exo-49 emancipator",
+      "exo 49 emancipator",
+      "emancipator exosuit",
+      "emancipator",
+      "emancipator walker"
+    ]
+  },
   "bt-1317": {
-  "title": "BT-1317",
-  "category": "Super Earth Aircraft",
-  "description": "The BT-1317 is a large Super Earth aircraft whose base configuration appears to serve as a bomber. The four-engine craft carries two quad-barreled autocannons, with one mounted above the aircraft and another positioned toward the rear. Several specialized variants are known from wreckage encountered by Helldivers, including Weather Reconnaissance and Strategic Reconnaissance versions.",
-  "source": "https://helldivers.wiki.gg/wiki/BT-1317",
-  "image": "",
-  "aliases": [
-    "bt-1317",
-    "bt 1317",
-    "super earth bomber",
-    "reconnaissance aircraft",
-    "strategic reconnaissance craft"
-  ]
-},
+    "title": "BT-1317",
+    "category": "Super Earth Aircraft",
+    "description": "The BT-1317 is a large Super Earth aircraft whose base configuration appears to serve as a bomber. The four-engine craft carries two quad-barreled autocannons, with one mounted above the aircraft and another positioned toward the rear. Several specialized variants are known from wreckage encountered by Helldivers, including Weather Reconnaissance and Strategic Reconnaissance versions.",
+    "source": "https://helldivers.wiki.gg/wiki/BT-1317",
+    "image": "",
+    "aliases": [
+      "bt-1317",
+      "bt 1317",
+      "super earth bomber",
+      "reconnaissance aircraft",
+      "strategic reconnaissance craft"
+    ]
+  },
   "super-earth-fighter-craft": {
-  "title": "Unnamed Super Earth Fighter Craft",
-  "category": "Super Earth Aircraft",
-  "description": "An unnamed Super Earth aerospace fighter craft has been observed operating alongside Federation forces during the Second Galactic War. Formations of four aircraft conducted active sorties over Cyberstan during Operation Valid Pretext, and the craft can also appear on planets receiving Eagle Storm support from the Democracy Space Station. Its design appears more specialized toward air-to-air combat than the Eagle aerospace assault craft.",
-  "source": "https://helldivers.wiki.gg/wiki/Unnamed_Super_Earth_Fighter_Craft",
-  "image": "",
-  "aliases": [
-    "unnamed super earth fighter craft",
-    "super earth fighter craft",
-    "super earth fighter",
-    "fighter craft",
-    "cyberstan fighter"
-  ]
-},
+    "title": "Unnamed Super Earth Fighter Craft",
+    "category": "Super Earth Aircraft",
+    "description": "An unnamed Super Earth aerospace fighter craft has been observed operating alongside Federation forces during the Second Galactic War. Formations of four aircraft conducted active sorties over Cyberstan during Operation Valid Pretext, and the craft can also appear on planets receiving Eagle Storm support from the Democracy Space Station. Its design appears more specialized toward air-to-air combat than the Eagle aerospace assault craft.",
+    "source": "https://helldivers.wiki.gg/wiki/Unnamed_Super_Earth_Fighter_Craft",
+    "image": "",
+    "aliases": [
+      "unnamed super earth fighter craft",
+      "super earth fighter craft",
+      "super earth fighter",
+      "fighter craft",
+      "cyberstan fighter"
+    ]
+  },
   "td-220-bastion": {
-  "title": "TD-220 Bastion MK XVI",
-  "category": "Super Earth Ground Vehicle",
-  "description": "The TD-220 Bastion MK XVI is a heavily armored Super Earth tank destroyer deployed as a Helldiver Stratagem. The tracked vehicle is armed with a 120mm high-velocity cannon and a heavy coaxial machine gun. It is operated by a driver and gunner while also providing positions for two additional Helldiver passengers, allowing an entire squad to travel aboard the vehicle.",
-  "source": "https://helldivers.wiki.gg/wiki/TD-220_Bastion_MK_XVI",
-  "image": "",
-  "aliases": [
-    "td-220 bastion",
-    "td 220 bastion",
-    "bastion",
-    "bastion mk xvi",
-    "bastion tank",
-    "tank destroyer"
-  ]
+    "title": "TD-220 Bastion MK XVI",
+    "category": "Super Earth Ground Vehicle",
+    "description": "The TD-220 Bastion MK XVI is a heavily armored Super Earth tank destroyer deployed as a Helldiver Stratagem. The tracked vehicle is armed with a 120mm high-velocity cannon and a heavy coaxial machine gun. It is operated by a driver and gunner while also providing positions for two additional Helldiver passengers, allowing an entire squad to travel aboard the vehicle.",
+    "source": "https://helldivers.wiki.gg/wiki/TD-220_Bastion_MK_XVI",
+    "image": "",
+    "aliases": [
+      "td-220 bastion mk xvi",
+      "td-220 bastion",
+      "td 220 bastion",
+      "bastion",
+      "bastion mk xvi",
+      "bastion tank",
+      "tank destroyer"
+    ]
+  }
 }
