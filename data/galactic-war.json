@@ -87,4 +87,18 @@
     "the void sector",
     "illuminate void sector"
   ]
+},
+  "tcs-plus-breaches": {
+  "title": "TCS+ Breaches",
+  "category": "Galactic War Event",
+  "description": "The TCS+ Breaches are a series of Terminid infestations and attacks affecting planets protected by Super Earth's Terminid Control System+ network. Although the completed barrier was declared capable of permanently preventing Terminid infestation, several protected worlds subsequently experienced renewed Terminid activity. Super Earth attributed some incidents to dissident sabotage. By late August 2186, further breaches included renewed infestation on Brilliance and a Predator Strain assault against Achernar Secundus.",
+  "source": "https://helldivers.wiki.gg/wiki/Terminid_Control_System%2B",
+  "image": "",
+  "aliases": [
+    "tcs+ breaches",
+    "tcs plus breaches",
+    "tcs breach",
+    "termicide 2 breaches",
+    "terminid containment breach"
+  ]
 }
