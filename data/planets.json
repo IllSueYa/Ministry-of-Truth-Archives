@@ -291,5 +291,30 @@
     "fenrir 3",
     "center of science planet"
   ]
-}
+},
+  "void-source-planet": {
+  "title": "Void Source Planet",
+  "category": "Planet",
+  "description": "The Void Source Planet was the designation given to Seasse after it became the origin point of the Illuminate-created Void. Appropriators excavated ancient Illuminate ruins on Seasse and activated Exospires, producing the spacetime-altering phenomenon that eventually engulfed numerous worlds. During Operation Void Piercer, Helldivers liberated the planet while a Ministry of Science team descended beneath its surface to eliminate the source of the anomaly. On August 23, 2186, their success caused the Void to dissipate.",
+  "source": "https://helldivers.wiki.gg/wiki/Void_Source_Planet",
+  "image": "",
+  "aliases": [
+    "void source planet",
+    "seasse void source",
+    "source of the void",
+    "void source"
+  ]
+},
+  "void-forest": {
+  "title": "Void Forest",
+  "category": "Planetary Biome",
+  "description": "The Void Forest was a special planetary biome associated with Seasse after the planet became engulfed by the Void. The environment featured altered, bioluminescent vegetation and unusual terrain produced during the planet's transformation. The biome was encountered during Helldiver operations on the Void Source Planet. Following the destruction of the Void, the affected flora withered and the planet began returning toward its original environmental state.",
+  "source": "https://helldivers.wiki.gg/wiki/Void_Forest",
+  "image": "",
+  "aliases": [
+    "void forest",
+    "void source forest",
+    "seasse void forest",
+    "rift active"
+  ]
 }
