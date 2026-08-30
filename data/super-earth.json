@@ -291,4 +291,44 @@
     "fenrir center of science",
     "fenrir science center"
   ]
+},
+  "seaf-soldier": {
+  "title": "SEAF Soldier",
+  "category": "Super Earth Unit",
+  "description": "SEAF Soldiers are lightly armored conventional infantry serving in the Super Earth Armed Forces. They fight with weapons including assault rifles, submachine guns, machine guns, expendable anti-tank launchers, and grenades. SEAF Soldiers can be encountered defending Mega Cities and can also be deployed from Pelican Shuttles on planets with a Heavy SEAF Presence. Helldivers can recruit nearby squads to follow and support them in combat.",
+  "source": "https://helldivers.wiki.gg/wiki/SEAF_Soldier",
+  "image": "",
+  "aliases": [
+    "seaf soldier",
+    "seaf soldiers",
+    "seaf trooper",
+    "seaf infantry",
+    "super earth soldier"
+  ]
+},
+  "seaf-squad": {
+  "title": "SEAF Squad",
+  "category": "Super Earth Unit",
+  "description": "A SEAF Squad is a conventional Super Earth infantry formation that can support Helldivers during planetary operations. A standard deployed squad consists of one Squad Leader, two Riflemen, two Specialists, and one Medic. The soldiers follow their Squad Leader, and a Helldiver who recruits the Squad Leader gains the support of the entire squad.",
+  "source": "https://helldivers.wiki.gg/wiki/SEAF_Soldier",
+  "image": "",
+  "aliases": [
+    "seaf squad",
+    "seaf infantry squad",
+    "super earth squad",
+    "seaf fireteam"
+  ]
+},
+  "heavy-seaf-presence": {
+  "title": "Heavy SEAF Presence",
+  "category": "Galactic War Modifier",
+  "description": "Heavy SEAF Presence is a planetary modifier indicating that conventional Super Earth Armed Forces are heavily deployed on a world and can directly support Helldiver missions. When active, Pelican Shuttles can deploy SEAF infantry squads into mission areas to reinforce Helldivers engaged with enemy forces. The modifier was introduced during Operation Void Piercer.",
+  "source": "https://helldivers.wiki.gg/wiki/Heavy_SEAF_Presence",
+  "image": "",
+  "aliases": [
+    "heavy seaf presence",
+    "seaf presence",
+    "seaf reinforcements",
+    "seaf support"
+  ]
 }
