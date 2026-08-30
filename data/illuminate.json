@@ -342,5 +342,71 @@
     "exospires",
     "void spire"
   ]
- }
+ },
+  "appropriators": {
+  "title": "Appropriators",
+  "category": "Illuminate Subfaction",
+  "description": "The Appropriators are an Illuminate subfaction composed exclusively of pure Illuminate and their machinery rather than transformed human forces. Their unique units are the Gatekeeper, Veracitor, and Obtruder. The Appropriators were first detected on Seasse while establishing Exospires and later participated in further attempts to expand the Void. Super Earth High Command has identified the abduction of Federation citizens as one of their primary objectives.",
+  "source": "https://helldivers.wiki.gg/wiki/Appropriators",
+  "image": "",
+  "aliases": [
+    "appropriators",
+    "illuminate appropriators",
+    "appropriator",
+    "pure illuminate"
+  ]
+},
+  "vote-snatchers": {
+  "title": "Vote Snatchers",
+  "category": "Illuminate Subfaction",
+  "description": "The Vote Snatchers are an Illuminate subfaction composed of creatures mutated within the Void. Their unique forces consist of Wretches and Crushers, both derived from transformed human victims. On worlds dominated by the Vote Snatchers, these creatures replace the conventional Overseers, Harvesters, Watchers, and Stingrays normally encountered in Illuminate armies.",
+  "source": "https://helldivers.wiki.gg/wiki/Vote_Snatchers",
+  "image": "",
+  "aliases": [
+    "vote snatchers",
+    "vote-snatchers",
+    "illuminate vote snatchers",
+    "vote snatcher"
+  ]
+},
+  "un-democratic-architectural-remains": {
+  "title": "Un-Democratic Architectural Remains",
+  "category": "Illuminate Location",
+  "description": "Un-Democratic Architectural Remains, abbreviated UARs, are buried remnants of ancient Illuminate construction found on former Illuminate worlds. These ruins have been associated with Exospires and the emergence of the Void. In 2186, Illuminate Appropriators conducted excavations of UARs on Keid, prompting Super Earth to deploy Helldivers to prevent the ruins from being uncovered.",
+  "source": "https://helldivers.wiki.gg/wiki/Major_Order",
+  "image": "",
+  "aliases": [
+    "un-democratic architectural remains",
+    "undemocratic architectural remains",
+    "uar",
+    "uars",
+    "illuminate ruins"
+  ]
+},
+  "illuminate-ruins": {
+  "title": "Illuminate Ruins",
+  "category": "Illuminate Location",
+  "description": "Illuminate Ruins are remnants of the Illuminate civilization left behind on worlds formerly occupied by their empire. Some ruins exhibit unusual spacetime activity and have become important to renewed Illuminate operations during the Second Galactic War. On Seasse, anomalous activity around Illuminate ruins increased shortly before the Appropriators were discovered establishing Exospires on the planet.",
+  "source": "https://helldivers.wiki.gg/wiki/Seasse",
+  "image": "",
+  "aliases": [
+    "illuminate ruins",
+    "squid ruins",
+    "ancient illuminate ruins",
+    "illuminate remains"
+  ]
+},
+  "exostorm": {
+  "title": "Exostorm",
+  "category": "Illuminate Phenomenon",
+  "description": "An Exostorm is an anomalous planetary phenomenon generated through Illuminate Exospire activity. Exostorms are associated with extreme atmospheric and spacetime disturbances and played a central role in the Illuminate's creation of the Void. Exospire activity across multiple nearby planets can contribute to the expansion of the Void and the loss of affected worlds from conventional observation.",
+  "source": "https://helldivers.wiki.gg/wiki/The_Void",
+  "image": "",
+  "aliases": [
+    "exostorm",
+    "exostorms",
+    "illuminate exostorm",
+    "exospire storm"
+  ]
+}
 }
