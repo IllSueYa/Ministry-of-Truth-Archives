@@ -109,5 +109,18 @@
     "operation void piercer",
     "void piercer campaign"
   ]
- }
+ },
+  "war-on-dissidence": {
+  "title": "War on Dissidence",
+  "category": "Historical Event",
+  "description": "The War on Dissidence is a Super Earth campaign against widespread internal dissidence discovered throughout Federation territory. The crisis followed investigations by the Center for Civilian Surveillance and Safety, which found evidence of dissident activity across Super Earth-controlled planets. SEAF forces and Ministry of Unity enforcement units conducted large-scale apprehension operations while the Helldivers maintained the external Galactic War fronts. The campaign also resulted in the construction of the Center for the Confinement of Dissidence on Afoyay Bay.",
+  "source": "https://helldivers.wiki.gg/wiki/Second_Galactic_War",
+  "image": "",
+  "aliases": [
+    "war on dissidence",
+    "dissidence war",
+    "dissident crisis",
+    "war against dissidence",
+    "2185 dissident crisis"
+  ]
 }
