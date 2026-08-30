@@ -236,4 +236,43 @@
     "century of peace",
     "post first galactic war"
   ]
+},
+  "operation-celestial-fence": {
+  "title": "Operation Celestial Fence",
+  "category": "Military Operation",
+  "description": "Operation Celestial Fence was a Super Earth campaign conducted from June 30 to July 13, 2186 to begin construction of the Terminid Control System+ barrier. Helldivers defended construction sites, secured resources, and fought Terminid attempts to break through the developing cordon. By the operation's conclusion, the first half of the planned interplanetary TCS+ wall had been completed, with its towers dispersing Termicide 2.0.",
+  "source": "https://helldivers.wiki.gg/wiki/Campaigns",
+  "image": "",
+  "aliases": [
+    "operation celestial fence",
+    "celestial fence",
+    "tcs+ celestial fence",
+    "tcs plus celestial fence"
+  ]
+},
+  "operation-permanent-enclosure": {
+  "title": "Operation Permanent Enclosure",
+  "category": "Military Operation",
+  "description": "Operation Permanent Enclosure was the follow-up campaign to Operation Celestial Fence, launched on July 28, 2186 to complete the remaining half of Super Earth's TCS+ barrier. Helldivers defended and activated new Terminid Control System+ arrays across multiple border planets while fighting Terminid assaults and responding to reported sabotage. The final cordon was declared complete on August 11, 2186, creating a multi-sector network of Termicide 2.0-dispersing worlds intended to contain the Terminids.",
+  "source": "https://helldivers.wiki.gg/wiki/Terminid_Control_System%2B",
+  "image": "",
+  "aliases": [
+    "operation permanent enclosure",
+    "permanent enclosure",
+    "tcs permanent enclosure",
+    "tcs+ permanent enclosure"
+  ]
+},
+  "operation-void-piercer": {
+  "title": "Operation Void Piercer",
+  "category": "Military Operation",
+  "description": "Operation Void Piercer was a major Super Earth offensive conducted from August 12 to August 23, 2186 against the Illuminate-created Void. Using newly developed means of entering the anomaly, Helldivers and SEAF forces penetrated Void-controlled space and advanced toward its hidden source. The campaign culminated at the Void Source Planet, where Super Earth forces eliminated the source of the anomaly. The Void subsequently dissipated, ending the immediate threat it posed to the galaxy.",
+  "source": "https://helldivers.wiki.gg/wiki/Campaigns",
+  "image": "",
+  "aliases": [
+    "operation void piercer",
+    "void piercer",
+    "void piercer campaign",
+    "assault on the void"
+  ]
 }
