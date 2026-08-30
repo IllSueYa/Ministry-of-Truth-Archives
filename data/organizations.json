@@ -392,4 +392,82 @@
     "super earth house",
     "federation house of representatives"
   ]
+},
+  "super-earth-high-command": {
+  "title": "Super Earth High Command",
+  "category": "SEAF Organization",
+  "description": "Super Earth High Command, commonly called High Command, is the primary command authority directing the Super Earth Armed Forces across the galaxy. High Command coordinates large-scale military operations and holds the authority to issue Major Orders to the Helldivers, directing the strategic course of the Galactic War.",
+  "source": "https://helldivers.wiki.gg/wiki/Super_Earth_Armed_Forces",
+  "image": "",
+  "aliases": [
+    "super earth high command",
+    "high command",
+    "seaf high command",
+    "super earth command"
+  ]
+},
+"seaf-army": {
+  "title": "SEAF Army",
+  "category": "SEAF Branch",
+  "description": "The SEAF Army is the ground-combat branch of the Super Earth Armed Forces. Its soldiers defend Federation territory and conduct conventional planetary warfare alongside the more specialized Helldivers. SEAF Army personnel include Squad Leaders, Riflemen, Specialists, Medics, and other battlefield roles, with equipment and uniforms adapted to different planetary environments.",
+  "source": "https://helldivers.wiki.gg/wiki/Super_Earth_Armed_Forces",
+  "image": "",
+  "aliases": [
+    "seaf army",
+    "super earth army",
+    "seaf ground forces",
+    "super earth ground forces"
+  ]
+},
+"seaf-navy": {
+  "title": "SEAF Navy",
+  "category": "SEAF Branch",
+  "description": "The SEAF Navy is the naval branch of the Super Earth Armed Forces. It operates military spacecraft and supports Helldiver deployments throughout the Galactic War. Super Destroyers used by the Helldivers are part of this wider naval force, providing orbital firepower, aerospace support, equipment, and personnel for planetary operations.",
+  "source": "https://helldivers.wiki.gg/wiki/Super_Earth_Armed_Forces",
+  "image": "",
+  "aliases": [
+    "seaf navy",
+    "super earth navy",
+    "super earth naval forces",
+    "seaf naval forces"
+  ]
+},
+"colonial-militia": {
+  "title": "Colonial Militia",
+  "category": "SEAF Branch",
+  "description": "The Colonial Militia is Super Earth's paramilitary force responsible for defending Federation colonies. Colonial Overseers direct local colonial administration, while colonists have access to weapons and civilian versions of military equipment for defensive and practical use. The militia provides local protection separate from the Federation's conventional frontline military forces.",
+  "source": "https://helldivers.wiki.gg/wiki/Super_Earth_Armed_Forces",
+  "image": "",
+  "aliases": [
+    "colonial militia",
+    "super earth colonial militia",
+    "colony militia",
+    "colonial defense force"
+  ]
+},
+"intergalactic-medical-corps": {
+  "title": "Intergalactic Medical Corps",
+  "category": "SEAF Organization",
+  "description": "The Intergalactic Medical Corps is a medical organization associated with the Super Earth Armed Forces. Its personnel are recognizable by their distinctive green, white, and red equipment. Medical Corps equipment includes specialized protective armor such as the CM-09 Bonesnapper, CM-10 Clinician, and CM-14 Physician, designs that have also been made available to Helldivers.",
+  "source": "https://helldivers.wiki.gg/wiki/Super_Earth_Armed_Forces",
+  "image": "",
+  "aliases": [
+    "intergalactic medical corps",
+    "medical corps",
+    "seaf medical corps",
+    "super earth medical corps"
+  ]
+},
+  "service-technician-corps": {
+  "title": "Service Technician Corps",
+  "category": "SEAF Organization",
+  "description": "The Service Technician Corps is a Super Earth Armed Forces organization responsible for maintaining equipment and performing general maintenance aboard Super Destroyers. Service Technicians assigned to Helldiver vessels work near the Engineering Bay and assist in keeping the ship's systems and equipment operational. During the Second Galactic War, the entire corps was temporarily sent to Professional Development Training after some technicians made inquiries concerning a workers' strike.",
+  "source": "https://helldivers.wiki.gg/wiki/Super_Earth_Armed_Forces",
+  "image": "",
+  "aliases": [
+    "service technician corps",
+    "service tech corps",
+    "technician corps",
+    "super destroyer technicians"
+  ]
 }
