@@ -55,5 +55,70 @@
     "planet killer",
     "dark fluid beam"
   ]
- }
+  },
+  "terminid-control-system": {
+  "title": "Terminid Control System",
+  "category": "Super Earth Technology",
+  "description": "The Terminid Control System, commonly called the TCS, was a network of massive Termicide-dispensing towers constructed by SEAF engineers to quarantine the Terminid advance. Helldivers activated the system during Operation Valiant Enclosure. The plan ultimately backfired when Terminids developed resistance to Termicide and began reproducing and mutating at dramatically increased rates, contributing to the transformation of Meridia into a Terminid Supercolony.",
+  "source": "https://helldivers.wiki.gg/wiki/Terminid_Control_System",
+  "image": "",
+  "aliases": [
+    "terminid control system",
+    "tcs",
+    "termicide control system",
+    "termicide towers"
+  ]
+},
+  "terminid-control-system-plus": {
+  "title": "Terminid Control System+",
+  "category": "Super Earth Technology",
+  "description": "The Terminid Control System+, commonly called TCS+, is a new generation of Terminid containment technology developed by Super Earth in 2186. The system uses networks of towers to dispense Termicide 2.0 on planets bordering the Terminid Gloom front. Construction began as part of Operation Celestial Fence, with the planned network intended to form a defensive barrier against further Terminid expansion.",
+  "source": "https://helldivers.wiki.gg/wiki/Terminid_Control_System%2B",
+  "image": "",
+  "aliases": [
+    "terminid control system plus",
+    "terminid control system+",
+    "tcs+",
+    "tcs plus",
+    "new terminid control system"
+  ]
+},
+  "termicide-2": {
+  "title": "Termicide 2.0",
+  "category": "Super Earth Technology",
+  "description": "Termicide 2.0 is a newer anti-Terminid chemical developed by Super Earth following the disastrous long-term consequences of the original Termicide. Completed in 2186, the formula was designed for deployment through the Terminid Control System+ network along the Gloom front. Super Earth intended the improved chemical and TCS+ towers to prevent further Terminid expansion into Federation territory.",
+  "source": "https://helldivers.wiki.gg/wiki/Terminid_Control_System%2B",
+  "image": "",
+  "aliases": [
+    "termicide 2.0",
+    "termicide 2",
+    "new termicide",
+    "tcs+ termicide"
+  ]
+},
+  "dark-fluid": {
+  "title": "Dark Fluid",
+  "category": "Super Earth Technology",
+  "description": "Dark Fluid is a highly classified exotic substance originally derived from Illuminate technology captured following the First Galactic War. Super Earth scientists weaponized Dark Fluid during Operation Enduring Peace to destroy the Terminid Supercolony on Meridia, where its deployment ultimately collapsed the planet into a black hole. Super Earth later learned to synthesize Dark Fluid using Element-711 recovered from Hive Worlds, allowing the substance to be used as part of the Star of Peace weapon system.",
+  "source": "https://helldivers.wiki.gg/wiki/Dark_Fluid",
+  "image": "",
+  "aliases": [
+    "dark fluid",
+    "darkfluid",
+    "illuminate dark fluid",
+    "synthesized dark fluid"
+  ]
+},
+  "dark-fluid-vessel": {
+  "title": "Dark Fluid Vessel",
+  "category": "Super Earth Technology",
+  "description": "The Dark Fluid Vessel is a specialized backpack container designed to transport highly unstable Dark Fluid. During the operation to destroy the Meridia Supercolony, Helldivers carried these vessels to Tectonic Drills and inserted them into the equipment so Dark Fluid could be injected beneath the planet's surface. The vessel can also function as an unusually powerful jump pack, although repeated use destabilizes its contents and can eventually cause a lethal explosion.",
+  "source": "https://helldivers.wiki.gg/wiki/Dark_Fluid_Vessel",
+  "image": "",
+  "aliases": [
+    "dark fluid vessel",
+    "dark fluid backpack",
+    "dark fluid pack",
+    "meridia dark fluid vessel"
+  ]
 }
