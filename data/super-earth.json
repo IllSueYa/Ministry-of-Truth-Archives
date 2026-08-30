@@ -479,4 +479,18 @@
     "patriot arsenal",
     "exosuit production facility"
   ]
+},
+  "morgunson-arsenal": {
+  "title": "Morgunson Arsenal",
+  "category": "Super Earth Facility",
+  "description": "The Morgunson Arsenal on Tien Kwan is a major Super Earth military manufacturing facility associated with the production of Exosuit technology. When Automatons captured Tien Kwan on March 7, 2184, Super Earth ordered an immediate counteroffensive to prevent the enemy from discovering and stealing the technology. Helldivers liberated the planet the following day, recovering the arsenal and its stockpile of newly produced EXO-45 Patriot Exosuits intact.",
+  "source": "https://helldivers.wiki.gg/wiki/Tien_Kwan",
+  "image": "",
+  "aliases": [
+    "morgunson arsenal",
+    "tien kwan arsenal",
+    "exosuit arsenal",
+    "patriot arsenal",
+    "exosuit production facility"
+  ]
 }
