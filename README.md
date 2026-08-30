@@ -99,11 +99,22 @@ The Archives is intended to summarize and organize lore, not replace the work of
 
 The bot is currently being prepared for public installation. This section will be updated with the official Discord installation link when the public release is ready.
 
-## Support
+## Support & Community
 
-**Support server:** Coming soon.
+Need help with the bot, found incorrect lore, or want to suggest a new Archive entry?
 
-Until the public support server is available, bugs, incorrect lore, missing entries, and feature requests can be reported through the project's GitHub repository.
+Join the official Ministry of Truth Archives community and support server:
+
+**Discord:** (https://discord.gg/HnGtTeV72e)
+
+The server provides:
+
+- Bot support and bug reporting
+- Lore requests and corrections
+- Archive development updates
+- Community suggestions
+- Helldivers and lore discussion
+- Contributor opportunities
 
 ## Self-Hosting
 
