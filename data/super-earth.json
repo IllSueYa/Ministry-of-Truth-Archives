@@ -278,4 +278,17 @@
     "big tyrant hunt",
     "acamar tyranny park"
   ]
+},
+  "center-of-science": {
+  "title": "Center of Science",
+  "category": "Super Earth Facility",
+  "description": "The Center of Science is a major Super Earth research facility located on Fenrir III. Constructed in 2184, it became home to leading astrophysicists studying the Meridian anomaly, Dark Fluid, Dark Energy, and Illuminate-related phenomena. Research conducted there helped reveal the unusual nature of the Meridian object and contributed to Super Earth's attempts to understand and counter its movement. The facility later became strategically important enough to draw attacks from multiple enemy factions.",
+  "source": "https://helldivers.wiki.gg/wiki/Center_of_Science",
+  "image": "",
+  "aliases": [
+    "center of science",
+    "centre of science",
+    "fenrir center of science",
+    "fenrir science center"
+  ]
 }
