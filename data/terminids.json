@@ -34,13 +34,6 @@
     "source": "https://helldivers.wiki.gg/wiki/Bile_Titan",
     "image": ""
   },
- "bile-titan": {
-    "title": "Bile Titan",
-    "category": "Terminid",
-    "description": "The Bile Titan is one of the largest and most dangerous Terminid organisms regularly encountered by Helldivers. Protected by heavy armor and supported by enormous legs capable of crushing infantry, the creature can also project streams of highly corrosive bile across the battlefield. A single Bile Titan is considered capable of destroying an entire SEAF platoon and generally requires dedicated anti-tank weaponry or heavy Stratagem support to eliminate.",
-    "source": "https://helldivers.wiki.gg/wiki/Bile_Titan",
-    "image": ""
-  },
   "charger-behemoth": {
     "title": "Charger Behemoth",
     "category": "Terminid",
@@ -124,5 +117,64 @@
     "description": "The Bile Spitter is one of the smallest Terminid organisms but possesses a dangerous ranged attack. Exposure to toxic chemicals caused the creature to develop the ability to launch globules of corrosive bile at its enemies. Its acid can damage and slow Helldivers, while killing a Bile Spitter can cause its body to rupture in a small bile explosion capable of harming nearby targets.",
     "source": "https://helldivers.wiki.gg/wiki/Bile_Spitter",
     "image": ""
-  }
+  },
+  "scavenger": {
+  "title": "Scavenger",
+  "category": "Terminid Unit",
+  "description": "The Scavenger is one of the smallest and weakest Terminids, but it is also one of the most common. Scavengers attack at close range with their claws and are capable of releasing pheromones that trigger a Bug Breach, making them a priority target when encountered in groups.",
+  "source": "https://helldivers.wiki.gg/wiki/Scavenger",
+  "image": "",
+  "aliases": [
+    "scavenger",
+    "terminid scavenger",
+    "bug scavenger"
+  ]
+},
+"warrior": {
+  "title": "Warrior",
+  "category": "Terminid Unit",
+  "description": "The Warrior is a medium-sized Terminid specialized for close-quarters combat. Tougher than smaller Terminids, Warriors advance on Helldivers using their claws and are capable of calling in a Bug Breach. Several specialized Terminid forms, including Bile Warriors and Alpha Warriors, are variants of the Warrior.",
+  "source": "https://helldivers.wiki.gg/wiki/Warrior",
+  "image": "",
+  "aliases": [
+    "warrior",
+    "terminid warrior",
+    "bug warrior"
+  ]
+},
+"hunter": {
+  "title": "Hunter",
+  "category": "Terminid Unit",
+  "description": "The Hunter is a small and highly mobile Terminid that uses flanking movements and long leaps to rapidly close the distance with Helldivers. Hunters can attack with claws or their tongue, with the tongue inflicting an acidic slowing effect. They are also capable of releasing pheromones to trigger a Bug Breach.",
+  "source": "https://helldivers.wiki.gg/wiki/Hunter",
+  "image": "",
+  "aliases": [
+    "hunter",
+    "terminid hunter",
+    "bug hunter"
+  ]
+},
+"pouncer": {
+  "title": "Pouncer",
+  "category": "Terminid Unit",
+  "description": "The Pouncer is a small Terminid capable of using its wings to leap great distances toward Helldivers. Although individually fragile, Pouncers can rapidly close the distance and overwhelm Helldivers when encountered in groups.",
+  "source": "https://helldivers.wiki.gg/wiki/Pouncer",
+  "image": "",
+  "aliases": [
+    "pouncer",
+    "terminid pouncer",
+    "bug pouncer"
+  ]
+},
+"hive-guard": {
+  "title": "Hive Guard",
+  "category": "Terminid Unit",
+  "description": "The Hive Guard is a medium-sized variant of the Warrior distinguished by protective armor covering its head and frontal legs. When threatened, a Hive Guard can adopt a defensive crouching stance that places its armored sections between incoming fire and its more vulnerable body.",
+  "source": "https://helldivers.wiki.gg/wiki/Hive_Guard",
+  "image": "",
+  "aliases": [
+    "hive guard",
+    "hiveguard",
+    "terminid hive guard"
+  ]
 }
