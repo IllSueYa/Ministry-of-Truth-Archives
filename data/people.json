@@ -8,7 +8,6 @@
     "aliases": [
       "eagle",
       "eagle 1"
-    ]
   },
   "democracy-officer": {
     "title": "Democracy Officer",
@@ -16,7 +15,6 @@
     "description": "The Democracy Officer serves aboard the Super Destroyer as a representative of Super Earth authority, providing mission guidance and reinforcing the principles of Managed Democracy.",
     "source": "https://helldivers.wiki.gg/wiki/Democracy_Officer",
     "image": ""
-  }
 },
 "general-brasch": {
   "title": "General Brasch",
@@ -28,7 +26,6 @@
     "general brasch",
     "brasch",
     "super 10 star general brasch"
-  ]
 },
 "ship-master": {
   "title": "Ship Master",
@@ -40,7 +37,6 @@
     "ship master",
     "super destroyer ship master",
     "shipmaster"
-  ]
 },
 "service-technician": {
   "title": "Service Technician",
@@ -53,7 +49,6 @@
     "technician",
     "ship technician",
     "super destroyer technician"
-  ]
 },
 "coretta-kelly": {
   "title": "Coretta Kelly",
