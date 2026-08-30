@@ -215,4 +215,18 @@
     "void warp bubble",
     "alcubierre drive"
   ]
+},
+  "tcs-plus-wall": {
+  "title": "TCS+ Wall",
+  "category": "Super Earth Technology",
+  "description": "The TCS+ Wall is an interplanetary containment network composed of Terminid Control System+ arrays positioned across strategically selected planets. Each array disperses Termicide 2.0 into its planet's atmosphere to prevent Terminid infestation and expansion. Construction began during Operation Celestial Fence and was extended during Operation Permanent Enclosure, producing a multi-sector defensive cordon intended to contain the Terminid Horde.",
+  "source": "https://helldivers.wiki.gg/wiki/Terminid_Control_System%2B",
+  "image": "",
+  "aliases": [
+    "tcs+ wall",
+    "tcs plus wall",
+    "terminid containment wall",
+    "termicide wall",
+    "tcs+ barrier"
+  ]
 }
