@@ -341,5 +341,17 @@
     "dss foundry",
     "afoyay bay foundry"
   ]
-}
+},
+  "xenoentomology-center": {
+  "title": "Xenoentomology Center",
+  "category": "Super Earth Research Organization",
+  "description": "The Xenoentomology Center is a Super Earth scientific institution located on Turing dedicated to the study of Terminid biology. The Center has played an important role in research involving live Terminid specimens and later led development of Termicide 2.0. Its researchers sought to eliminate the mutagenic effects associated with the original Termicide and used Hive World samples and large-scale Terminid testing to advance the new formula.",
+  "source": "https://helldivers.wiki.gg/wiki/Xenoentomology_Center",
+  "image": "",
+  "aliases": [
+    "xenoentomology center",
+    "xenoentomology centre",
+    "turing research center",
+    "terminid research center"
+  ]
 }
