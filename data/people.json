@@ -8,6 +8,7 @@
     "aliases": [
       "eagle",
       "eagle 1"
+    ]
   },
   "democracy-officer": {
     "title": "Democracy Officer",
@@ -15,51 +16,55 @@
     "description": "The Democracy Officer serves aboard the Super Destroyer as a representative of Super Earth authority, providing mission guidance and reinforcing the principles of Managed Democracy.",
     "source": "https://helldivers.wiki.gg/wiki/Democracy_Officer",
     "image": ""
-},
-"general-brasch": {
-  "title": "General Brasch",
-  "category": "Person",
-  "description": "General Brasch is a celebrated Super Earth military figure who serves as the instructor of the Helldiver Training Facility. He guides new recruits through Helldiver training and also hosts the Brasch Tactics broadcasts shown aboard Super Destroyers. Brasch portrays himself as one of Super Earth's oldest and most experienced war heroes and has become one of the most recognizable public figures associated with the Helldivers.",
-  "source": "https://helldivers.wiki.gg/wiki/General_Brasch",
-  "image": "",
-  "aliases": [
-    "general brasch",
-    "brasch",
-    "super 10 star general brasch"
-},
-"ship-master": {
-  "title": "Ship Master",
-  "category": "Person",
-  "description": "The Ship Master is a crew member stationed aboard each Super Destroyer and is responsible for overseeing the vessel's operations and crew. Located near the extraction elevator, the Ship Master greets returning Helldivers and comments on their mission performance, including casualties, friendly-fire incidents, and recovered samples. Like several Super Destroyer personnel, the Ship Master's individual name varies.",
-  "source": "https://helldivers.wiki.gg/wiki/Ship_Master",
-  "image": "",
-  "aliases": [
-    "ship master",
-    "super destroyer ship master",
-    "shipmaster"
-},
-"service-technician": {
-  "title": "Service Technician",
-  "category": "Person",
-  "description": "The Service Technician is a member of the crew stationed aboard a Helldiver's Super Destroyer. The technician can be found near the ship's engineering and equipment areas and provides additional dialogue about life aboard the vessel, Super Earth society, the Galactic War, and the technology used by the Helldivers. Like the Ship Master and Democracy Officer, the technician is generated with an individual name.",
-  "source": "https://helldivers.wiki.gg/wiki/Service_Technician",
-  "image": "",
-  "aliases": [
-    "service technician",
-    "technician",
-    "ship technician",
-    "super destroyer technician"
-},
-"coretta-kelly": {
-  "title": "Coretta Kelly",
-  "category": "Person",
-  "description": "Coretta Kelly is a Super Earth television presenter and the primary host of Strohmann News. She delivers reports concerning the Second Galactic War through broadcasts shown aboard Super Destroyers. Kelly also hosts the tabloid program All You Need To Know, with both programs operating under approval from the Ministry of Truth.",
-  "source": "https://helldivers.wiki.gg/wiki/Coretta_Kelly",
-  "image": "",
-  "aliases": [
-    "coretta kelly",
-    "kelly",
-    "strohmann news anchor",
-    "all you need to know host"
-  ]
+  },
+  "general-brasch": {
+    "title": "General Brasch",
+    "category": "Person",
+    "description": "General Brasch is a celebrated Super Earth military figure who serves as the instructor of the Helldiver Training Facility. He guides new recruits through Helldiver training and also hosts the Brasch Tactics broadcasts shown aboard Super Destroyers. Brasch portrays himself as one of Super Earth's oldest and most experienced war heroes and has become one of the most recognizable public figures associated with the Helldivers.",
+    "source": "https://helldivers.wiki.gg/wiki/General_Brasch",
+    "image": "",
+    "aliases": [
+      "general brasch",
+      "brasch",
+      "super 10 star general brasch"
+    ]
+  },
+  "ship-master": {
+    "title": "Ship Master",
+    "category": "Person",
+    "description": "The Ship Master is a crew member stationed aboard each Super Destroyer and is responsible for overseeing the vessel's operations and crew. Located near the extraction elevator, the Ship Master greets returning Helldivers and comments on their mission performance, including casualties, friendly-fire incidents, and recovered samples. Like several Super Destroyer personnel, the Ship Master's individual name varies.",
+    "source": "https://helldivers.wiki.gg/wiki/Ship_Master",
+    "image": "",
+    "aliases": [
+      "ship master",
+      "super destroyer ship master",
+      "shipmaster"
+    ]
+  },
+  "service-technician": {
+    "title": "Service Technician",
+    "category": "Person",
+    "description": "The Service Technician is a member of the crew stationed aboard a Helldiver's Super Destroyer. The technician can be found near the ship's engineering and equipment areas and provides additional dialogue about life aboard the vessel, Super Earth society, the Galactic War, and the technology used by the Helldivers. Like the Ship Master and Democracy Officer, the technician is generated with an individual name.",
+    "source": "https://helldivers.wiki.gg/wiki/Service_Technician",
+    "image": "",
+    "aliases": [
+      "service technician",
+      "technician",
+      "ship technician",
+      "super destroyer technician"
+    ]
+  },
+  "coretta-kelly": {
+    "title": "Coretta Kelly",
+    "category": "Person",
+    "description": "Coretta Kelly is a Super Earth television presenter and the primary host of Strohmann News. She delivers reports concerning the Second Galactic War through broadcasts shown aboard Super Destroyers. Kelly also hosts the tabloid program All You Need To Know, with both programs operating under approval from the Ministry of Truth.",
+    "source": "https://helldivers.wiki.gg/wiki/Coretta_Kelly",
+    "image": "",
+    "aliases": [
+      "coretta kelly",
+      "kelly",
+      "strohmann news anchor",
+      "all you need to know host"
+    ]
+  }
 }
