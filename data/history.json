@@ -123,4 +123,31 @@
     "war against dissidence",
     "2185 dissident crisis"
   ]
+},
+  "operation-free-space": {
+  "title": "Operation Free Space",
+  "category": "Military Operation",
+  "description": "Operation Free Space was a Super Earth strategic initiative to dramatically upgrade the Democracy Space Station through construction of the Star of Peace. The operation centered on Pandora Base at Afoyay Bay and required massive quantities of E-711, platinum, and salvaged Automaton components. Its centerpiece was an ionized Dark Fluid weapon capable of collapsing an entire planet into a black hole. The operation concluded when Helldivers voted for Penta as the first target and the Star of Peace successfully destroyed the planet.",
+  "source": "https://helldivers.wiki.gg/wiki/Democracy_Space_Station",
+  "image": "",
+  "aliases": [
+    "operation free space",
+    "free space",
+    "star of peace operation",
+    "dss upgrade operation"
+  ]
+},
+"star-of-peace": {
+  "title": "Star of Peace",
+  "category": "Super Earth Superweapon",
+  "description": "The Star of Peace is a major weapon system installed on the Democracy Space Station as part of Operation Free Space. Its primary weapon fires a beam of ionized Dark Fluid synthesized using E-711, with enough energy to collapse an entire planet into a conventional black hole. After resources were gathered and construction completed at Pandora Base, Helldivers voted for Penta as its inaugural target. The weapon fired successfully, destroying Penta and leaving behind a stable black hole.",
+  "source": "https://helldivers.wiki.gg/wiki/Democracy_Space_Station",
+  "image": "",
+  "aliases": [
+    "star of peace",
+    "dss star of peace",
+    "dark fluid weapon",
+    "planet killer",
+    "dark fluid beam"
+  ]
 }
