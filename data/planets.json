@@ -330,4 +330,43 @@
     "x 45",
     "advanced weapons lab planet"
   ]
+},
+  "tien-kwan": {
+  "title": "Tien Kwan",
+  "category": "Planet",
+  "description": "Tien Kwan is a cold Boneyard world in the Theseus Sector and the location of the Morgunson Arsenal. The planet became strategically important during the Second Galactic War when Automatons captured it on March 7, 2184, threatening Super Earth's new Exosuit technology. Helldivers liberated Tien Kwan on March 8 before the arsenal was compromised, allowing the EXO-45 Patriot Exosuit to enter fleet-wide service.",
+  "source": "https://helldivers.wiki.gg/wiki/Tien_Kwan",
+  "image": "",
+  "aliases": [
+    "tien kwan",
+    "tien-kwan",
+    "exosuit planet",
+    "patriot planet"
+  ]
+},
+  "claorell": {
+  "title": "Claorell",
+  "category": "Planet",
+  "description": "Claorell is a mineral-rich moon in the Tanis Sector and the site of the Deep Mantle Forge Complex. During construction of the Democracy Space Station, Super Earth discovered that Automatons were conducting deep-mantle mining beneath its surface. Helldivers liberated the planet, allowing the mining network to be converted into the forge that produced specialized alloys for the DSS.",
+  "source": "https://helldivers.wiki.gg/wiki/Claorell",
+  "image": "",
+  "aliases": [
+    "claorell",
+    "claorell moon",
+    "deep mantle forge planet",
+    "dss forge planet"
+  ]
+},
+  "achernar-secundus": {
+  "title": "Achernar Secundus",
+  "category": "Planet",
+  "description": "Achernar Secundus is a Plains planet in the Borgus Sector and the location of the AM Defense Factory Hub. The planet became strategically important after the Ministry of Defense selected it for a massive military manufacturing expansion. Its industrial facilities have supported production of equipment for the Helldivers, including Fast Recon Vehicles, making control of the planet important to Super Earth's wartime supply network.",
+  "source": "https://helldivers.wiki.gg/wiki/Achernar_Secundus",
+  "image": "",
+  "aliases": [
+    "achernar secundus",
+    "achernar",
+    "factory hub planet",
+    "am defense planet"
+  ]
 }
