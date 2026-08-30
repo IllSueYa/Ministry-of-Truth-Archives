@@ -331,5 +331,17 @@
       "heavy ordnance",
       "dss 380mm support"
     ]
+  },
+  "eagle-blockade": {
+    "title": "Eagle Blockade",
+    "category": "DSS Tactical Action",
+    "description": "Eagle Blockade was a temporary Democracy Space Station Tactical Action deployed during the First Battle for Super Earth. It combined effects associated with Eagle Storm and Orbital Blockade, deploying periodic Eagle Strafing Runs during missions, automatically activating Hellpod Space Optimization, and supporting the planetary defense from orbit. The action was temporary and has since been retired.",
+    "source": "https://helldivers.wiki.gg/wiki/Democracy_Space_Station",
+    "image": "",
+    "aliases": [
+      "eagle blockade",
+      "dss eagle blockade",
+      "super earth eagle blockade"
+    ]
   }
 }
