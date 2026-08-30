@@ -331,4 +331,84 @@
     "seaf reinforcements",
     "seaf support"
   ]
+},
+  "seaf-training-facilities": {
+  "title": "SEAF Training Facilities",
+  "category": "Super Earth Facility",
+  "description": "SEAF Training Facilities were massive emergency military training centers constructed during the early Second Galactic War to rapidly expand the Super Earth Armed Forces. Facilities were established on Aesir Pass, Vernen Wells, Heeth, and Angel's Venture and were capable of supporting enormous numbers of recruits through SEAF basic training. While operational and under Super Earth control, the facilities increased SEAF support for galactic liberation campaigns.",
+  "source": "https://helldivers.wiki.gg/wiki/Minor_Locations",
+  "image": "",
+  "aliases": [
+    "seaf training facilities",
+    "seaf training facility",
+    "seaf basic training facilities",
+    "seaf recruitment facilities"
+  ]
+},
+  "democratic-youth-scouts-camps": {
+  "title": "Democratic Youth Scouts Camps",
+  "category": "Super Earth Facility",
+  "description": "Democratic Youth Scouts Camps were recreational campgrounds created from surviving emergency SEAF Training Facilities after Super Earth's military recruitment requirements had been met. The facilities on Heeth and Angel's Venture were shut down and converted for use by the Democratic Youth Scouts. The Angel's Venture campground was later destroyed along with the planet, while the status of the Heeth campground remains uncertain.",
+  "source": "https://helldivers.wiki.gg/wiki/Minor_Locations",
+  "image": "",
+  "aliases": [
+    "democratic youth scouts camps",
+    "democratic youth scouts camp",
+    "youth scouts camps",
+    "dys camps"
+  ]
+},
+  "zegema-paradise-training-facility": {
+  "title": "Zegema Paradise Helldiver Training Facility",
+  "category": "Super Earth Facility",
+  "description": "The Zegema Paradise Helldiver Training Facility was authorized in 2185 as a replacement for the Helldiver training site lost on Mars. Super Earth launched a major recruitment expansion and ordered Helldivers to secure Terminid-controlled worlds and collect fifty million Terminid samples to support breeding programs for live-fire training. The facility was intended to provide the same elite Helldiver training previously conducted at the Mars installation.",
+  "source": "https://helldivers.wiki.gg/wiki/Major_Orders_of_2025",
+  "image": "",
+  "aliases": [
+    "zegema paradise training facility",
+    "zegema paradise helldiver training facility",
+    "zegema training facility",
+    "new helldiver training facility"
+  ]
+},
+  "rogue-research-station": {
+  "title": "Rogue Research Station",
+  "category": "Super Earth Facility",
+  "description": "Rogue Research Stations are unauthorized Super Earth research facilities encountered on planetary battlefields. The stations contain research deemed unpatriotic by the Federation and are therefore marked for destruction. Helldivers are ordered to demolish the facility and eliminate the illegally produced research data, commonly using a Hellbomb or other sufficiently powerful ordnance.",
+  "source": "https://helldivers.wiki.gg/wiki/Destroy_Rogue_Research_Station",
+  "image": "",
+  "aliases": [
+    "rogue research station",
+    "illegal research station",
+    "research station",
+    "rogue laboratory"
+  ]
+},
+  "super-earth-colony": {
+  "title": "Super Earth Colony",
+  "category": "Super Earth Settlement",
+  "description": "Super Earth Colonies are organized human settlements established across Federation-controlled planets. Unlike the enormous Metropolises found in major urban regions, colonies occupy only part of a planetary mission area and contain networks of roads, buildings, civilian infrastructure, and military installations. Colony infrastructure can include SEAF Artillery, SAM Sites, ICBM Launch Sites, evacuation facilities, storage plants, broadcast towers, and data uplinks.",
+  "source": "https://helldivers.wiki.gg/wiki/Colonies",
+  "image": "",
+  "aliases": [
+    "super earth colony",
+    "colony",
+    "colonies",
+    "human colony",
+    "federation colony"
+  ]
+},
+  "metropolis": {
+  "title": "Metropolis",
+  "category": "Super Earth Settlement",
+  "description": "A Metropolis is an enormous urban megastructure constructed by the Super Earth Federation. Unlike smaller colonies, a Metropolis can encompass an entire planetary mission area. These densely developed regions contain extensive road networks, city blocks, skyscrapers, parks, playgrounds, and smaller structures. Metropolises form the urban environments of major Federation population centers, including the Mega Cities of Super Earth.",
+  "source": "https://helldivers.wiki.gg/wiki/Metropolis",
+  "image": "",
+  "aliases": [
+    "metropolis",
+    "metropolises",
+    "super earth metropolis",
+    "urban megastructure",
+    "super earth city biome"
+  ]
 }
