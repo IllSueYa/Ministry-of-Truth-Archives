@@ -630,5 +630,22 @@
       "terminid wardens",
       "acamar wardens"
     ]
+  },
+  "super-defense-protocols": {
+    "title": "Super Defense Protocols",
+    "category": "Super Earth Military Doctrine",
+    "description": "The Super Defense Protocols are emergency global defense measures reserved for situations in which Super Earth itself faces an extreme military threat. They were activated during the First Battle for Super Earth. Protocol Sapphire converted the remaining rainforests into tactical Eagle airstrips and reduced Eagle rearm time; Protocol Diamond suspended Collateral Damage Mitigation Procedures and augmented Helldiver loadouts with Orbital Napalm Barrage; Protocol Ruby opened Super Destroyer high-cost reserves and augmented loadouts with the Fast Recon Vehicle.",
+    "source": "https://helldivers.wiki.gg/wiki/Super_Earth",
+    "image": "",
+    "aliases": [
+      "super defense protocols",
+      "super defense protocol",
+      "protocol sapphire",
+      "protocol diamond",
+      "protocol ruby",
+      "sapphire protocol",
+      "diamond protocol",
+      "ruby protocol"
+    ]
   }
 }
