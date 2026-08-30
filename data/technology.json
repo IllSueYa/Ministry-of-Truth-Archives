@@ -201,4 +201,18 @@
     "missile silo",
     "super earth icbm"
   ]
+},
+  "alcubierre-warp-bubble": {
+  "title": "Modified Alcubierre Warp Bubble",
+  "category": "Super Earth Technology",
+  "description": "Modified Alcubierre Warp Bubbles were developed by Super Earth scientists as a method of safely penetrating the Illuminate-created Void. Conventional travel into the anomaly had previously been impossible due to its severe spacetime effects. The breakthrough enabled Super Earth ships to enter Void-engulfed space and formed the technological basis for the assault that ultimately reached the Void Source Planet during Operation Void Piercer.",
+  "source": "https://helldivers.wiki.gg/wiki/Void_Source_Planet",
+  "image": "",
+  "aliases": [
+    "alcubierre warp bubble",
+    "modified alcubierre warp bubble",
+    "warp bubble",
+    "void warp bubble",
+    "alcubierre drive"
+  ]
 }
