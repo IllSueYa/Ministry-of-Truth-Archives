@@ -322,4 +322,18 @@
     "overship cannon",
     "super earth planetary defense cannon"
   ]
+},
+  "hellpod": {
+  "title": "Hellpod",
+  "category": "Super Earth Technology",
+  "description": "The Hellpod is Super Earth's high-velocity atmospheric deployment system used to transport Helldivers, equipment, supplies, and other assets from a Super Destroyer to a planetary surface. Helldivers deploy inside crewed Hellpods at the beginning of operations and when called as reinforcements. Other Hellpods deliver equipment, supplies, emplacements, extraction beacons, and mission-critical devices directly to the battlefield.",
+  "source": "https://helldivers.wiki.gg/wiki/Hellpod",
+  "image": "",
+  "aliases": [
+    "hellpod",
+    "hellpods",
+    "drop pod",
+    "helldiver drop pod",
+    "helldiver hellpod"
+  ]
 }
