@@ -177,5 +177,279 @@
     "hiveguard",
     "terminid hive guard"
   ]
+},
+  "stalker": {
+  "title": "Stalker",
+  "category": "Terminid Unit",
+  "description": "The Stalker is a specialized Terminid ambush predator capable of camouflaging itself to become almost invisible. Stalkers emerge from Stalker Lairs and pursue nearby Helldivers, frequently attempting to flank their targets before attacking with powerful claws and a barbed tongue capable of knocking Helldivers away. After taking significant damage, a Stalker may retreat, camouflage itself again, and regenerate health before resuming its attack.",
+  "source": "https://helldivers.wiki.gg/wiki/Stalker",
+  "image": "",
+  "aliases": [
+    "stalker",
+    "terminid stalker",
+    "bug stalker"
+  ]
+},
+"bug-hole": {
+  "title": "Bug Hole",
+  "category": "Terminid Structure",
+  "description": "Bug Holes are Terminid structures that connect underground hive networks to the surface and continuously deploy additional Terminid units until destroyed. They are commonly found within Bug Nests and also appear as part of specialized structures such as Stalker Lairs and Shrieker Nests. Helldivers can seal Bug Holes with suitable explosives or sufficiently powerful demolition weapons.",
+  "source": "https://helldivers.wiki.gg/wiki/Bug_Hole",
+  "image": "",
+  "aliases": [
+    "bug hole",
+    "terminid bug hole",
+    "bughole"
+  ]
+},
+"bug-nest": {
+  "title": "Bug Nest",
+  "category": "Terminid Structure",
+  "description": "Bug Nests are concentrations of Terminid Bug Holes connected to the species' underground hive networks. The holes periodically produce Terminid reinforcements and must all be destroyed to eliminate the nest. Bug Nests appear in several sizes, ranging from small concentrations of holes to enormous Mega Nests containing numerous spawning points and potentially specialized threats.",
+  "source": "https://helldivers.wiki.gg/wiki/Bug_Nest",
+  "image": "",
+  "aliases": [
+    "bug nest",
+    "terminid nest",
+    "terminid bug nest",
+    "mega nest"
+  ]
+},
+"stalker-lair": {
+  "title": "Stalker Lair",
+  "category": "Terminid Structure",
+  "description": "A Stalker Lair is a specialized Terminid structure and optional objective responsible for producing Stalkers. Lairs contain one or two specialized Bug Holes that periodically spawn Stalkers while Helldivers are nearby. Destroying every Stalker-producing hole eliminates the lair and prevents it from producing additional Stalkers.",
+  "source": "https://helldivers.wiki.gg/wiki/Stalker_Lair",
+  "image": "",
+  "aliases": [
+    "stalker lair",
+    "stalker nest",
+    "stalker hole",
+    "stalker spawn"
+  ]
+},
+"spore-spewer": {
+  "title": "Spore Spewer",
+  "category": "Terminid Structure",
+  "description": "The Spore Spewer is a large Terminid structure that continuously releases a dense cloud of spores over the surrounding area. The spores do not directly harm Helldivers but severely reduce visibility and conceal nearby Terminid forces. Destroying the Spore Spewer removes the obscuring cloud and completes its associated optional objective.",
+  "source": "https://helldivers.wiki.gg/wiki/Spore_Spewer",
+  "image": "",
+  "aliases": [
+    "spore spewer",
+    "terminid spore spewer",
+    "fog generator"
+  ]
+},
+  "shrieker-nest": {
+  "title": "Shrieker Nest",
+  "category": "Terminid Structure",
+  "description": "A Shrieker Nest is a specialized Terminid structure that produces Shriekers. The optional objective consists of two or three large mushroom-like towers that act as spawning points for nearby flying Terminids. As long as the nest remains active, Shriekers can continue appearing when Helldivers are detected nearby. Destroying every tower disables the nest and stops it from producing additional Shriekers.",
+  "source": "https://helldivers.wiki.gg/wiki/Shrieker_Nest",
+  "image": "",
+  "aliases": [
+    "shrieker nest",
+    "shrieker nests",
+    "terminid shrieker nest",
+    "flying bug nest"
+  ]
+},
+"alpha-warrior": {
+  "title": "Alpha Warrior",
+  "category": "Terminid Unit",
+  "description": "The Alpha Warrior is a faster and more dangerous variant of the standard Terminid Warrior associated with Alpha Commanders. Alpha Warriors aggressively pursue Helldivers and can continue attacking after suffering fatal head damage while they bleed out. Like standard Warriors, they are also capable of releasing pheromones that can trigger a Bug Breach.",
+  "source": "https://helldivers.wiki.gg/wiki/Alpha_Warrior",
+  "image": "",
+  "aliases": [
+    "alpha warrior",
+    "terminid alpha warrior",
+    "alpha commander warrior"
+  ]
+},
+"predator-hunter": {
+  "title": "Predator Hunter",
+  "category": "Terminid Unit",
+  "description": "The Predator Hunter is an enhanced Hunter variant belonging to the Predator Strain. It is considerably more aggressive than a standard Hunter and is capable of cloaking while attempting to flank Helldivers. Predator Hunters can also spit corrosive bile and release pheromones that trigger Bug Breaches. On worlds affected by the Predator Strain, they replace regular Hunters.",
+  "source": "https://helldivers.wiki.gg/wiki/Predator_Hunter",
+  "image": "",
+  "aliases": [
+    "predator hunter",
+    "predator strain hunter",
+    "cloaking hunter"
+  ]
+},
+"predator-stalker": {
+  "title": "Predator Stalker",
+  "category": "Terminid Unit",
+  "description": "The Predator Stalker is a mutated Stalker variant belonging to the Predator Strain. Unlike ordinary Stalkers, Predator Stalkers cannot camouflage and do not require a Stalker Lair to appear. Instead, they spawn alongside other Terminids in patrols, Bug Breaches, Bug Nests, and other battlefield locations. They are highly aggressive and continuously pursue Helldivers using close-range claw attacks.",
+  "source": "https://helldivers.wiki.gg/wiki/Predator_Stalker",
+  "image": "",
+  "aliases": [
+    "predator stalker",
+    "predator strain stalker",
+    "prowler"
+  ]
+},
+"rupture-warrior": {
+  "title": "Rupture Warrior",
+  "category": "Terminid Unit",
+  "description": "The Rupture Warrior is a burrowing Warrior variant belonging to the Rupture Strain. Adapted to subterranean movement, it can travel beneath the battlefield and emerge close to Helldivers in sudden ambush attacks. On planets where the Rupture Strain is present, Rupture Warriors replace standard Warriors and can appear from Bug Breaches, patrols, Bug Nests, objectives, and specialized Bug Holes.",
+  "source": "https://helldivers.wiki.gg/wiki/Rupture_Warrior",
+  "image": "",
+  "aliases": [
+    "rupture warrior",
+    "rupture strain warrior",
+    "burrowing warrior"
+  ]
+},
+  "rupture-spewer": {
+  "title": "Rupture Spewer",
+  "category": "Terminid Unit",
+  "description": "The Rupture Spewer is a burrowing Terminid belonging to the Rupture Strain and is a variant of the Bile Spewer. It can travel beneath the ground to approach Helldivers before partially emerging to attack with corrosive bile. Depending on its distance from a target, it can use a short-range bile spew or launch a burst of bile projectiles. Rupture Spewers appear on planets where the Rupture Strain is present, replacing Nursing Spewers and some Bile Spewers.",
+  "source": "https://helldivers.wiki.gg/wiki/Rupture_Spewer",
+  "image": "",
+  "aliases": [
+    "rupture spewer",
+    "rupture strain spewer",
+    "burrowing spewer"
+  ]
+},
+"rupture-charger": {
+  "title": "Rupture Charger",
+  "category": "Terminid Unit",
+  "description": "The Rupture Charger is a heavily armored burrowing variant of the Charger belonging to the Rupture Strain. It can tunnel beneath the battlefield at high speed and surface near Helldivers before launching its attack. Rupture Chargers possess particularly strong frontal armor and appear exclusively on planets where the Rupture Strain is present.",
+  "source": "https://helldivers.wiki.gg/wiki/Rupture_Charger",
+  "image": "",
+  "aliases": [
+    "rupture charger",
+    "rupture strain charger",
+    "burrowing charger"
+  ]
+},
+"spore-burst-scavenger": {
+  "title": "Spore Burst Scavenger",
+  "category": "Terminid Unit",
+  "description": "The Spore Burst Scavenger is a mutated Scavenger belonging to the Spore Burst Strain. It behaves similarly to a normal Scavenger but violently releases a damaging cloud of spores when killed. These spores can harm Helldivers, obscure visibility, and increase the movement speed of nearby Spore Burst Terminids. On planets where the Spore Burst Strain is present, these creatures replace standard Scavengers.",
+  "source": "https://helldivers.wiki.gg/wiki/Spore_Burst_Scavenger",
+  "image": "",
+  "aliases": [
+    "spore burst scavenger",
+    "spore scavenger",
+    "spore strain scavenger"
+  ]
+},
+"spore-burst-hunter": {
+  "title": "Spore Burst Hunter",
+  "category": "Terminid Unit",
+  "description": "The Spore Burst Hunter is a mutated Hunter belonging to the Spore Burst Strain. It retains the mobility and aggressive attacks of a normal Hunter but explodes into a damaging spore cloud when killed. The resulting spores can damage Helldivers, reduce visibility, and increase the movement speed of nearby Spore Burst Terminids. Spore Burst Hunters replace normal Hunters on planets where the strain is present.",
+  "source": "https://helldivers.wiki.gg/wiki/Spore_Burst_Hunter",
+  "image": "",
+  "aliases": [
+    "spore burst hunter",
+    "spore hunter",
+    "spore strain hunter"
+  ]
+},
+"spore-burst-warrior": {
+  "title": "Spore Burst Warrior",
+  "category": "Terminid Unit",
+  "description": "The Spore Burst Warrior is a mutated Warrior belonging to the Spore Burst Strain. It fights similarly to a standard Warrior and can trigger Bug Breaches, but its body releases a dangerous cloud of spores when it is killed. These spores can damage Helldivers, obscure vision, and increase the speed of nearby Spore Burst Terminids. On affected planets, Spore Burst Warriors replace standard Warriors.",
+  "source": "https://helldivers.wiki.gg/wiki/Spore_Burst_Warrior",
+  "image": "",
+  "aliases": [
+    "spore burst warrior",
+    "spore warrior",
+    "spore strain warrior"
+  ]
+},
+  "spore-burst-bile-titan": {
+  "title": "Spore Burst Bile Titan",
+  "category": "Terminid Unit",
+  "description": "The Spore Burst Bile Titan is a mutated Bile Titan belonging to the Spore Burst Strain. Instead of the standard Bile Titan's corrosive bile attack, it can unleash a powerful torrent of concentrated spores that knocks down Helldivers and leaves behind vision-obscuring spore clouds. These clouds increase the speed of nearby Spore Burst Terminids. When killed, the creature violently releases additional spores, making its death dangerous to nearby Helldivers while continuing to strengthen other members of its strain.",
+  "source": "https://helldivers.wiki.gg/wiki/Spore_Burst_Bile_Titan",
+  "image": "",
+  "aliases": [
+    "spore burst bile titan",
+    "spore bile titan",
+    "spore titan",
+    "spore burst titan"
+  ]
+},
+"infested-tower": {
+  "title": "Infested Tower",
+  "category": "Terminid Structure",
+  "description": "The Infested Tower is a large Terminid structure associated with the Terminid Control System. Following the failure of the Termicide deployment, Terminid growth infested former TCS facilities on affected planets. Helldivers were deployed to these sites to deactivate the Terminid Control System and prevent further consequences of the Termicide mutation.",
+  "source": "https://helldivers.wiki.gg/wiki/Infested_Tower",
+  "image": "",
+  "aliases": [
+    "infested tower",
+    "terminid infested tower",
+    "infested tcs tower",
+    "tcs tower"
+  ]
+},
+"terminid-eggs": {
+  "title": "Terminid Eggs",
+  "category": "Terminid Structure",
+  "description": "Terminid Eggs are large concentrations of developing Terminids found within egg clusters on Terminid-controlled worlds. Helldivers may be ordered to locate and destroy these hatcheries as part of Eradicate Terminid Swarm operations and other missions intended to reduce the Terminids' ability to reproduce and spread.",
+  "source": "https://helldivers.wiki.gg/wiki/Terminid_Eggs",
+  "image": "",
+  "aliases": [
+    "terminid eggs",
+    "bug eggs",
+    "terminid egg",
+    "egg cluster"
+  ]
+},
+"mutated-eggs": {
+  "title": "Mutated Eggs",
+  "category": "Terminid Structure",
+  "description": "Mutated Eggs are unusual Terminid egg specimens encountered within heavily infested Terminid territory. Unlike ordinary egg clusters, these specimens can be recovered by Helldivers and transported to the extraction point for collection and study by Super Earth. Their unusual properties make them valuable samples of Terminid mutation and development.",
+  "source": "https://helldivers.wiki.gg/wiki/Mutated_Eggs",
+  "image": "",
+  "aliases": [
+    "mutated eggs",
+    "mutated egg",
+    "terminid mutated egg",
+    "terminid mutated eggs"
+  ]
+},
+"bile-titan-bug-hole": {
+  "title": "Bile Titan Bug Hole",
+  "category": "Terminid Structure",
+  "description": "A Bile Titan Bug Hole is an exceptionally large Terminid spawning structure capable of deploying Bile Titans directly onto the battlefield. These enormous holes are considerably larger than standard Bug Holes and are associated with heavily infested Terminid positions. Their ability to produce one of the swarm's largest organisms makes them a particularly dangerous Terminid structure.",
+  "source": "https://helldivers.wiki.gg/wiki/Bile_Titan_Bug_Hole",
+  "image": "",
+  "aliases": [
+    "bile titan bug hole",
+    "bile titan hole",
+    "titan bug hole",
+    "titan hole"
+  ]
+},
+  "spore-lung": {
+  "title": "Spore Lung",
+  "category": "Terminid Structure",
+  "description": "Spore Lungs are enormous subterranean Terminid biological structures found deep within Hive Worlds. Larval Terminids inside the Lungs produce Gloom spores, while the Spore Lung pumps those spores outward and ultimately into the planet's atmosphere and exosphere. Super Earth identified these structures as the source of the Gloom produced by Hive Worlds, leading Helldivers to descend into Terminid tunnel networks and destroy them with Portable Hellbombs.",
+  "source": "https://helldivers.wiki.gg/wiki/Destroy_Spore_Lung",
+  "image": "",
+  "aliases": [
+    "spore lung",
+    "spore lungs",
+    "hive lung",
+    "gloom spore lung"
+  ]
+},
+  "hive-world": {
+  "title": "Hive World",
+  "category": "Terminid Territory",
+  "description": "A Hive World is a planet that has been completely infested and terraformed by the Terminids. Beneath the altered surface are enormous artificial cave systems extending deep into the planet's crust, while massive Terminid biostructures dominate the landscape. Hive Worlds contain subterranean Spore Lungs that generate and release Gloom spores, making these planets major sources of the Gloom.",
+  "source": "https://helldivers.wiki.gg/wiki/Hive_World",
+  "image": "",
+  "aliases": [
+    "hive world",
+    "hive worlds",
+    "terminid hive world",
+    "terminid hive planet"
+  ]
 }
 }
