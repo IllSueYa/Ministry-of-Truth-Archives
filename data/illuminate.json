@@ -408,5 +408,17 @@
     "illuminate exostorm",
     "exospire storm"
   ]
-}
+},
+  "void-blossom": {
+  "title": "Void Blossom",
+  "category": "Illuminate Flora",
+  "description": "Void Blossoms were invasive flora encountered on planets affected by the Void. Super Earth reported that the plants dispersed toxic pollination, reshaped planetary environments, and appeared to invigorate nearby Illuminate forces. During Operation Void Piercer, Helldivers were ordered to support research into chemical countermeasures against the blossoms as part of the effort to weaken Illuminate resistance around the Void Source Planet.",
+  "source": "https://helldivers.wiki.gg/wiki/Hydrobius/Battle_Log",
+  "image": "",
+  "aliases": [
+    "void blossom",
+    "void blossoms",
+    "illuminate void blossom",
+    "void flora"
+  ]
 }
