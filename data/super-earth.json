@@ -171,4 +171,17 @@
     "fallen helldivers memorial",
     "super earth memorial"
   ]
+},
+  "minor-barrier-reef": {
+  "title": "Minor Barrier Reef",
+  "category": "Super Earth Landmark",
+  "description": "The Minor Barrier Reef is a landmark located in Sector 1 of Super Earth. It was formerly known as the Great Barrier Reef, reflecting the Federation's renaming of the historic terrestrial landmark. Although little additional information is currently documented about it, the Minor Barrier Reef is one of the surviving named geographic landmarks connecting modern Super Earth to humanity's pre-Federation past.",
+  "source": "https://helldivers.wiki.gg/wiki/Super_Earth",
+  "image": "",
+  "aliases": [
+    "minor barrier reef",
+    "great barrier reef",
+    "barrier reef",
+    "super earth reef"
+  ]
 }
