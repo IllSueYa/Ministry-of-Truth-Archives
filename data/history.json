@@ -150,4 +150,36 @@
     "planet killer",
     "dark fluid beam"
   ]
+},
+  "battle-for-super-earth": {
+  "title": "Battle for Super Earth",
+  "category": "Historical Event",
+  "description": "The Battle for Super Earth was the massive 2185 defense of humanity's homeworld against the Illuminate Great Host. The invasion developed into a prolonged struggle across Super Earth's seven Mega Cities, forcing High Command to activate the Super Defense Protocols as casualties and infrastructure losses mounted. Eagleopolis, Administrative Center 02, Remembrance, Port Mercy, and York Supreme were destroyed. During the final assault on Prosperity City, the President of Super Earth was killed. Helldivers and SEAF forces ultimately broke the invasion with assistance from the repaired Democracy Space Station, leaving Prosperity City and Equality-on-Sea as the two surviving Mega Cities.",
+  "source": "https://helldivers.wiki.gg/wiki/Galactic_War/First_Battle_For_Super_Earth",
+  "image": "",
+  "aliases": [
+    "battle for super earth",
+    "battle of super earth",
+    "first battle for super earth",
+    "defense of super earth",
+    "super earth invasion",
+    "2185 battle for super earth"
+  ]
+},
+"super-defense-protocols": {
+  "title": "Super Defense Protocols",
+  "category": "Super Earth Military Doctrine",
+  "description": "The Super Defense Protocols are emergency global defense measures reserved for situations in which Super Earth itself faces an extreme military threat. They were activated during the 2185 Battle for Super Earth as the Illuminate destroyed Mega Cities and overwhelmed planetary defenses. Protocol Sapphire converted Super Earth's remaining rainforests into tactical Eagle airstrips, Protocol Diamond suspended Collateral Damage Mitigation Procedures and provided Orbital Napalm Barrages, and Protocol Ruby opened Super Destroyer high-cost reserves and provided Fast Recon Vehicles.",
+  "source": "https://helldivers.wiki.gg/wiki/Super_Earth",
+  "image": "",
+  "aliases": [
+    "super defense protocols",
+    "super defense protocol",
+    "protocol sapphire",
+    "protocol diamond",
+    "protocol ruby",
+    "sapphire protocol",
+    "diamond protocol",
+    "ruby protocol"
+  ]
 }
