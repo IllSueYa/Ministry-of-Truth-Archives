@@ -255,5 +255,41 @@
     "new yearning city planet",
     "new yearning planet"
   ]
+},
+  "acamar-iv": {
+  "title": "Acamar IV",
+  "category": "Planet",
+  "description": "Acamar IV is a Plains planet located in the Jin Xi Sector. The world became strategically important when Super Earth established the planet-wide Terminid Research Preserve there, allowing live Terminids to be studied and harvested for E-710. The preserve included Tyranny Park and was protected by SEAF Bug Wardens, electrified fencing, and containment measures. A catastrophic subterranean Terminid outbreak eventually destroyed the preserve and spread to neighboring worlds.",
+  "source": "https://helldivers.wiki.gg/wiki/Acamar_IV",
+  "image": "",
+  "aliases": [
+    "acamar iv",
+    "acamar 4",
+    "terminid research preserve planet"
+  ]
+},
+  "turing": {
+  "title": "Turing",
+  "category": "Planet",
+  "description": "Turing is an Ethereal Jungle planet located in the Umlaut Sector. It was one of the Barrier Planets selected to host the Terminid Control System during Operation Valiant Enclosure. Following the failure of the original TCS and the destruction of the Meridia Supercolony, Turing became home to the Xenoentomology Center, a major Ministry of Science facility dedicated to Terminid research, E-710 production studies, and technological development.",
+  "source": "https://helldivers.wiki.gg/wiki/Turing",
+  "image": "",
+  "aliases": [
+    "turing",
+    "xenoentomology center planet",
+    "xenoentomology planet"
+  ]
+},
+  "fenrir-iii": {
+  "title": "Fenrir III",
+  "category": "Planet",
+  "description": "Fenrir III is a Moon planet located in the Umlaut Sector. The world hosts Super Earth's Center of Science, where leading astrophysicists conducted research into the Meridian anomaly, Dark Energy, and related Illuminate phenomena. Fenrir III also became the site of the first known encounter with the Gloom-enhanced Predator Strain, prompting Helldivers to defend the planet and its strategically important research facility.",
+  "source": "https://helldivers.wiki.gg/wiki/Fenrir_III",
+  "image": "",
+  "aliases": [
+    "fenrir iii",
+    "fenrir 3",
+    "center of science planet"
+  ]
 }
 }
