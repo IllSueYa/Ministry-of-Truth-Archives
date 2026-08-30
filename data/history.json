@@ -223,5 +223,17 @@
     "great host retreat",
     "end of battle for super earth"
   ]
-}
+},
+  "great-democratization": {
+  "title": "The Great Democratization",
+  "category": "Historical Era",
+  "description": "The Great Democratization was the approximately century-long period of expansion and relative peace following Super Earth's victory in the First Galactic War. With its major enemies defeated, Super Earth expanded its colonies throughout the galaxy. The surviving Cyborgs were imprisoned and forced to work the mines of Cyberstan, the Bugs were placed into farms for Element-710 production, and the Illuminate were believed by the Federation to have been eliminated. The era ended as new conflicts with the Terminids and Automatons developed into the Second Galactic War.",
+  "source": "https://helldivers.wiki.gg/wiki/Second_Galactic_War",
+  "image": "",
+  "aliases": [
+    "great democratization",
+    "the great democratization",
+    "century of peace",
+    "post first galactic war"
+  ]
 }
