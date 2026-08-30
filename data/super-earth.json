@@ -493,4 +493,74 @@
     "patriot arsenal",
     "exosuit production facility"
   ]
+},
+  "deep-mantle-forge-complex": {
+  "title": "Deep Mantle Forge Complex",
+  "category": "Super Earth Facility",
+  "description": "The Deep Mantle Forge Complex is a Super Earth industrial facility on Claorell established during construction of the Democracy Space Station. Helldivers liberated Automaton deep-mantle mining infrastructure on the planet so it could be repurposed for the project. Using the extreme heat and pressure near Claorell's core, the complex produces chromium-cobalt-nickel alloys strong and ductile enough to help the DSS withstand the acceleration forces of faster-than-light travel.",
+  "source": "https://helldivers.wiki.gg/wiki/Deep_Mantle_Forge_Complex",
+  "image": "",
+  "aliases": [
+    "deep mantle forge complex",
+    "deep mantle forge",
+    "claorell forge",
+    "dss forge",
+    "forge complex"
+  ]
+},
+  "factory-hub": {
+  "title": "Factory Hub",
+  "category": "Super Earth Facility",
+  "description": "The Factory Hub is a major industrial facility on Achernar Secundus constructed by AM Defense under a multitrillion-Supercredit Ministry of Defense contract. The complex produces military equipment and other goods important to Super Earth's war effort. Its construction began in December 2184, and the facility later became associated with development and production of Fast Recon Vehicles for Helldiver forces.",
+  "source": "https://helldivers.wiki.gg/wiki/Factory_Hub",
+  "image": "",
+  "aliases": [
+    "factory hub",
+    "am defense factory hub",
+    "achernar secundus factory hub",
+    "frv factory",
+    "am defense factory"
+  ]
+},
+  "negative-energy-laboratory": {
+  "title": "Negative Energy Laboratory",
+  "category": "Super Earth Research Facility",
+  "description": "The Negative Energy Laboratory was a Super Earth research facility established on Pilen V in April 2185. Its scientists investigated Dark Energy and the poorly understood Negative Energy associated with Illuminate phenomena such as Monoliths. The facility may have been intended to replace research capabilities lost with the Moradesh Research Facility, but it survived for only a short period before being destroyed.",
+  "source": "https://helldivers.wiki.gg/wiki/Negative_Energy_Laboratory",
+  "image": "",
+  "aliases": [
+    "negative energy laboratory",
+    "negative energy lab",
+    "pilen v laboratory",
+    "pilen v lab",
+    "dark energy laboratory"
+  ]
+},
+  "e-711-extraction-facility": {
+  "title": "E-711 Extraction Facility",
+  "category": "Super Earth Facility",
+  "description": "The E-711 Extraction Facility is a Super Earth industrial installation on Oshaune constructed to recover Element-711 from deposits beneath the former Hive World. Extensive drilling and mining operations were established after Oshaune's liberation in November 2185 to extract the valuable substance. The recovered E-711 later enabled Super Earth to synthesize Dark Fluid, providing an important new source of the exotic material.",
+  "source": "https://helldivers.wiki.gg/wiki/E-711_Extraction_Facility",
+  "image": "",
+  "aliases": [
+    "e-711 extraction facility",
+    "e711 extraction facility",
+    "element 711 extraction facility",
+    "oshaune extraction facility",
+    "e-711 facility"
+  ]
+},
+  "moradesh-research-facility": {
+  "title": "Moradesh Research Facility",
+  "category": "Super Earth Research Facility",
+  "description": "The Moradesh Research Facility was a Super Earth scientific installation established to study and weaponize Illuminate Dark Fluid for use against the Meridia Supercolony. During research in May 2184, an accident caused exotic material within the facility to collapse into a temporary micro-black hole, killing twelve scientists before evaporating. Research conducted at Moradesh ultimately contributed to the Dark Fluid weapon deployed against Meridia. The facility was later evacuated before Moradesh itself was destroyed by the Meridian Black Hole in March 2185.",
+  "source": "https://helldivers.wiki.gg/wiki/Moradesh",
+  "image": "",
+  "aliases": [
+    "moradesh research facility",
+    "moradesh dark fluid facility",
+    "dark fluid research facility",
+    "moradesh laboratory",
+    "moradesh project"
+  ]
 }
