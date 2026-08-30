@@ -275,4 +275,42 @@
     "void piercer campaign",
     "assault on the void"
   ]
+},"operation-valid-pretext": {
+  "title": "Operation Valid Pretext",
+  "category": "Military Operation",
+  "description": "Operation Valid Pretext was a major Super Earth offensive launched in February 2186 against the Automaton Legion and Cyborg forces on Cyberstan. High Command claimed the enemy intended to use stolen Star of Peace plans to construct a planet-destroying weapon. The operation began with a March to Cyberstan, progressed into an invasion of the planet itself, and culminated in a ground campaign toward Transcendence, the Cyborg capital Megafactory.",
+  "source": "https://helldivers.wiki.gg/wiki/Major_Order",
+  "image": "",
+  "aliases": [
+    "operation valid pretext",
+    "valid pretext",
+    "march to cyberstan",
+    "cyberstan invasion"
+  ]
+},
+  "census-thunder": {
+  "title": "Census Thunder",
+  "category": "Military Campaign",
+  "description": "Census Thunder was a Super Earth campaign conducted from June 16 to June 29, 2186 in response to Voteless hordes emerging from the vicinity of the Void. Helldivers fought the incursions, collected millions of Voteless tissue samples, and secured Automaton bio-processing equipment for Ministry of Science research. The resulting Voteless Processing Plant allowed researchers to study Void-altered tissue while the campaign also served as a field test for new Fast Recon Vehicle variants.",
+  "source": "https://helldivers.wiki.gg/wiki/Campaigns",
+  "image": "",
+  "aliases": [
+    "census thunder",
+    "operation census thunder",
+    "voteless census thunder",
+    "voteless processing campaign"
+  ]
+},
+  "lightning-intercept": {
+  "title": "Lightning Intercept",
+  "category": "Military Campaign",
+  "description": "Lightning Intercept was a Super Earth campaign conducted from July 14 to July 27, 2186 after Cyborg forces deployed a prototype orbital weapons platform capable of devastating entire planets. Helldivers defended worlds struck by the weapon, gathered intelligence from Automaton and Cyborg positions, and traced the platform through its support network. The campaign ended when Helldiver forces and the Democracy Space Station intercepted and destroyed the orbital superweapon before it could attack Mort.",
+  "source": "https://helldivers.wiki.gg/wiki/Campaigns",
+  "image": "",
+  "aliases": [
+    "lightning intercept",
+    "operation lightning intercept",
+    "cyborg orbital superweapon campaign",
+    "orbital superweapon campaign"
+  ]
 }
