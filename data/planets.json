@@ -6,6 +6,7 @@
     "source": "https://helldivers.wiki.gg/wiki/Malevelon_Creek",
     "image": "",
     "aliases": [
+      "malevelon creek",
       "creek",
       "the creek",
       "malevelon"
@@ -16,382 +17,356 @@
     "category": "Planet",
     "description": "Meridia became a Terminid Supercolony after some Terminids adapted to the Termicide used by Super Earth. The planet was eventually destroyed using Dark Fluid, collapsing it into the Meridian Black Hole.",
     "source": "https://helldivers.wiki.gg/wiki/Meridia",
-    "image": ""
+    "image": "",
+    "aliases": [
+      "meridia"
+    ]
   },
   "cyberstan": {
     "title": "Cyberstan",
     "category": "Planet",
     "description": "Cyberstan is the historic homeworld of the Cyborgs and a major location in the conflict surrounding the Automatons and Super Earth.",
     "source": "https://helldivers.wiki.gg/wiki/Cyberstan",
-    "image": ""
+    "image": "",
+    "aliases": [
+      "cyberstan"
+    ]
   },
   "oshaune": {
     "title": "Oshaune",
     "category": "Planet",
     "description": "Oshaune is a planet in the Mirin Sector and the first Terminid Hive World discovered by Super Earth. After being hidden within the Gloom for more than a year, the planet underwent extreme Terminid terraformation, developing vast subterranean cave networks and Spore Lungs responsible for producing Gloom spores. Helldiver expeditions discovered dangerous new and returning Terminid threats on Oshaune, including the Rupture Strain, Dragonroaches, and Hive Lords. In November 2185, Oshaune was liberated and 99% of its Spore Lungs were destroyed, causing the Gloom to dramatically recede.",
     "source": "https://helldivers.wiki.gg/wiki/Oshaune",
-    "image": ""
+    "image": "",
+    "aliases": [
+      "oshaune"
+    ]
   },
   "seasse": {
-    "title": "Seasse (Void Source Planet)",
+    "title": "Seasse",
     "category": "Planet",
-    "description": "Seasse was the first planet consumed by the Void after Appropriator forces activated ancient Illuminate Exospires on its surface. Months later, Super Earth identified Seasse as the world located at the center and source of the anomaly. During Operation Void Piercer, Helldivers and SEAF forces invaded the planet while a Ministry of Science expedition descended into its depths. Seasse was liberated on August 23, 2186, and the successful destruction of the Void's source caused the anomaly to dissipate across the galaxy.",
+    "description": "Seasse is a Void Forest planet in the Omega Sector and the world later designated the Void Source Planet. Illuminate Appropriators excavated ancient ruins and activated Exospires there, causing Seasse to become the first world consumed by the Void. During Operation Void Piercer, Super Earth identified Seasse at the anomaly's barycenter and launched a combined Helldiver, SEAF, and Ministry of Science assault. Seasse was liberated on August 23, 2186, and destruction of the Void's source caused the anomaly to dissolve.",
     "source": "https://helldivers.wiki.gg/wiki/Seasse",
     "image": "",
     "aliases": [
-      "void source planet",
       "seasse",
+      "void source planet",
+      "seasse void source",
       "source of the void",
       "void source"
     ]
   },
   "afoyay-bay": {
-  "title": "Afoyay Bay",
-  "category": "Planet",
-  "description": "Afoyay Bay is a human-controlled world in the Gallux Sector that became an important strategic and political center during the later Second Galactic War. The planet is home to the Center for the Confinement of Dissidence and Pandora Base. It was liberated to allow construction of the massive CECOD detention complex and later became the primary development site for Operation Free Space and the Star of Peace.",
-  "source": "https://helldivers.wiki.gg/wiki/Afoyay_Bay",
-  "image": "",
-  "aliases": [
-    "afoyay bay",
-    "afoyay",
-    "cecod planet",
-    "pandora base planet"
-  ]
-},
-"new-york-supreme": {
-  "title": "New York Supreme",
-  "category": "Super Earth City",
-  "description": "New York Supreme is the name selected for the reconstruction of York Supreme, the former Sector 7 Mega City on Super Earth. York Supreme was catastrophically destroyed during the Illuminate invasion of Super Earth in 2185. Citizens later voted on a replacement name, with New York Supreme winning the Managed Democratic poll. Reconstruction resources intended for the city were subsequently diverted to Afoyay Bay to accelerate construction of the Center for the Confinement of Dissidence.",
-  "source": "https://helldivers.wiki.gg/wiki/Super_Earth",
-  "image": "",
-  "aliases": [
-    "new york supreme",
-    "york supreme",
-    "sector 7 capital",
-    "new york"
-  ]
-},
-"prosperity-city": {
-  "title": "Prosperity City",
-  "category": "Super Earth City",
-  "description": "Prosperity City is the Mega City capital of Super Earth's Sector 3, corresponding broadly to the region once known as Northern Europe. During the Illuminate invasion of Super Earth in 2185, most of the planet's Mega Cities were devastated or destroyed. Prosperity City and Equality-on-Sea were the only two reported to remain standing after the Illuminate were repelled, making Prosperity City one of the surviving major urban centers of Super Earth.",
-  "source": "https://helldivers.wiki.gg/wiki/Super_Earth",
-  "image": "",
-  "aliases": [
-    "prosperity city",
-    "sector 3 capital",
-    "prosperity",
-    "super earth prosperity city"
-  ]
-},
+    "title": "Afoyay Bay",
+    "category": "Planet",
+    "description": "Afoyay Bay is a human-controlled world in the Gallux Sector that became an important strategic and political center during the later Second Galactic War. The planet is home to the Center for the Confinement of Dissidence and Pandora Base. It was liberated to allow construction of the massive CECOD detention complex and later became the primary development site for Operation Free Space and the Star of Peace.",
+    "source": "https://helldivers.wiki.gg/wiki/Afoyay_Bay",
+    "image": "",
+    "aliases": [
+      "afoyay bay",
+      "afoyay",
+      "cecod planet",
+      "pandora base planet"
+    ]
+  },
+  "new-york-supreme": {
+    "title": "New York Supreme",
+    "category": "City",
+    "description": "New York Supreme is the reconstructed Mega City capital of Super Earth's Sector 7 in Northern America. Its predecessor, York Supreme, was destroyed by the Illuminate during the 2185 Battle for Super Earth. A later Managed Democratic naming vote selected New York Supreme as the rebuilt city's name. Reconstruction resources were subsequently diverted for a time to the Center for the Confinement of Dissidence on Afoyay Bay.",
+    "source": "https://helldivers.wiki.gg/wiki/Super_Earth",
+    "image": "",
+    "aliases": [
+      "new york supreme",
+      "york supreme",
+      "sector 7 capital",
+      "new york",
+      "old york supreme",
+      "destroyed york supreme"
+    ]
+  },
+  "prosperity-city": {
+    "title": "Prosperity City",
+    "category": "City",
+    "description": "Prosperity City is the Mega City capital of Super Earth's Sector 3, corresponding broadly to the region once known as Northern Europe. During the Illuminate invasion of Super Earth in 2185, most of the planet's Mega Cities were devastated or destroyed. Prosperity City and Equality-on-Sea were the only two reported to remain standing after the Illuminate were repelled, making Prosperity City one of the surviving major urban centers of Super Earth.",
+    "source": "https://helldivers.wiki.gg/wiki/Super_Earth",
+    "image": "",
+    "aliases": [
+      "prosperity city",
+      "sector 3 capital",
+      "prosperity",
+      "super earth prosperity city"
+    ]
+  },
   "equality-on-sea": {
-  "title": "Equality-on-Sea",
-  "category": "Super Earth City",
-  "description": "Equality-on-Sea is the Mega City capital of Super Earth's Sector 2, covering much of the region once known as mainland China. The city takes its name from the historic conference at which Humanity was declared the most Equal species in the galaxy. During the 2185 Battle for Super Earth, Equality-on-Sea endured repeated Illuminate attacks but never fell. Alongside Prosperity City, it was one of only two Mega Cities still standing when the Great Host was driven from Super Earth.",
-  "source": "https://helldivers.wiki.gg/wiki/Super_Earth",
-  "image": "",
-  "aliases": [
-    "equality-on-sea",
-    "equality on sea",
-    "equality",
-    "sector 2 capital"
-  ]
-},
-"port-mercy": {
-  "title": "Port Mercy",
-  "category": "Super Earth City",
-  "description": "Port Mercy was the Mega City capital of Super Earth's Sector 1, corresponding broadly to Oceania, Southeast Asia, and Japan. The city became famous after sheltering millions of loyal refugees during the Last Great War and was described as a safe haven for Class-A citizens in need. During the 2185 Illuminate invasion of Super Earth, Port Mercy came under siege and was ultimately destroyed by the Great Host.",
-  "source": "https://helldivers.wiki.gg/wiki/Super_Earth",
-  "image": "",
-  "aliases": [
-    "port mercy",
-    "sector 1 capital",
-    "super earth port mercy"
-  ]
-},
-"administrative-center-02": {
-  "title": "Administrative Center 02",
-  "category": "Super Earth City",
-  "description": "Administrative Center 02 was the Mega City capital of Super Earth's Sector 4, spanning Southern Europe and Western Africa. Known commonly as AdminCen, the city was celebrated for its vast bureaucratic institutions, where official forms and applications were marked with the revered Stamp of Ages. Administrative Center 02 was assaulted and destroyed by Illuminate forces during the 2185 Battle for Super Earth.",
-  "source": "https://helldivers.wiki.gg/wiki/Super_Earth",
-  "image": "",
-  "aliases": [
-    "administrative center 02",
-    "administrative center",
-    "admincen",
-    "admin center 02",
-    "sector 4 capital"
-  ]
-},
-"eagleopolis": {
-  "title": "Eagleopolis",
-  "category": "Super Earth City",
-  "description": "Eagleopolis was the Mega City capital of Super Earth's Sector 5, covering India, the Middle East, and Eastern Africa. Known as a great center of commerce, the city was renowned throughout the galaxy for its enormous shopping malls and entertainment centers. Eagleopolis was the first Mega City to fall during the 2185 Illuminate invasion of Super Earth and was ultimately destroyed by the Great Host.",
-  "source": "https://helldivers.wiki.gg/wiki/Super_Earth",
-  "image": "",
-  "aliases": [
-    "eagleopolis",
-    "sector 5 capital",
-    "super earth eagleopolis",
-    "eagle city"
-  ]
-},
-"gun": {
-  "title": "Gun",
-  "category": "Super Earth City",
-  "description": "Gun is the reconstruction name selected for Remembrance, the former Mega City capital of Super Earth's Sector 6 in Central and South America. Remembrance was destroyed by the Illuminate during the 2185 Battle for Super Earth. During a later official community vote to choose the city's new name, Gun won decisively with more than 85,000 votes and approximately 72.5 percent of the total, becoming the name chosen for the rebuilt Sector 6 capital.",
-  "source": "https://helldivers.wiki.gg/wiki/Super_Earth",
-  "image": "",
-  "aliases": [
-    "gun",
-    "city of gun",
-    "new remembrance",
-    "remembrance reconstruction",
-    "sector 6 capital"
-  ]
-},
-  "remembrance": {
-  "title": "Remembrance",
-  "category": "Super Earth City",
-  "description": "Remembrance was the Mega City capital of Super Earth's Sector 6, covering Central and South America. The city was destroyed by the Illuminate during the 2185 Battle for Super Earth. It was later selected by the Ministry of Prosperity as the first destroyed Mega City to be rebuilt. Following a Managed Democratic naming vote, its reconstructed successor was officially named Gun.",
-  "source": "https://helldivers.wiki.gg/wiki/Super_Earth",
-  "image": "",
-  "aliases": [
-    "remembrance",
-    "old remembrance",
-    "sector 6 capital",
-    "destroyed remembrance",
-    "gun former name"
-  ]
-},
-"york-supreme": {
-  "title": "York Supreme",
-  "category": "Super Earth City",
-  "description": "York Supreme was the Mega City capital of Super Earth's Sector 7, covering Northern America. During the final stages of the 2185 Battle for Super Earth, the city was attacked and destroyed by the Illuminate Great Host. Reconstruction was later planned and a Managed Democratic naming vote selected New York Supreme as the city's successor name. Resources gathered for its reconstruction were subsequently redirected to construction of the Center for the Confinement of Dissidence.",
-  "source": "https://helldivers.wiki.gg/wiki/Super_Earth",
-  "image": "",
-  "aliases": [
-    "york supreme",
-    "old york supreme",
-    "sector 7 capital",
-    "destroyed york supreme",
-    "new york supreme former name"
-  ]
-},
+    "title": "Equality-on-Sea",
+    "category": "City",
+    "description": "Equality-on-Sea is the Mega City capital of Super Earth's Sector 2, covering much of the region once known as mainland China. The city takes its name from the historic conference at which Humanity was declared the most Equal species in the galaxy. During the 2185 Battle for Super Earth, Equality-on-Sea endured repeated Illuminate attacks but never fell. Alongside Prosperity City, it was one of only two Mega Cities still standing when the Great Host was driven from Super Earth.",
+    "source": "https://helldivers.wiki.gg/wiki/Super_Earth",
+    "image": "",
+    "aliases": [
+      "equality-on-sea",
+      "equality on sea",
+      "equality",
+      "sector 2 capital"
+    ]
+  },
+  "port-mercy": {
+    "title": "Port Mercy",
+    "category": "City",
+    "description": "Port Mercy was the Mega City capital of Super Earth's Sector 1, corresponding broadly to Oceania, Southeast Asia, and Japan. The city became famous after sheltering millions of loyal refugees during the Last Great War and was described as a safe haven for Class-A citizens in need. During the 2185 Illuminate invasion of Super Earth, Port Mercy came under siege and was ultimately destroyed by the Great Host.",
+    "source": "https://helldivers.wiki.gg/wiki/Super_Earth",
+    "image": "",
+    "aliases": [
+      "port mercy",
+      "sector 1 capital",
+      "super earth port mercy"
+    ]
+  },
+  "administrative-center-02": {
+    "title": "Administrative Center 02",
+    "category": "City",
+    "description": "Administrative Center 02 was the Mega City capital of Super Earth's Sector 4, spanning Southern Europe and Western Africa. Known commonly as AdminCen, the city was celebrated for its vast bureaucratic institutions, where official forms and applications were marked with the revered Stamp of Ages. Administrative Center 02 was assaulted and destroyed by Illuminate forces during the 2185 Battle for Super Earth.",
+    "source": "https://helldivers.wiki.gg/wiki/Super_Earth",
+    "image": "",
+    "aliases": [
+      "administrative center 02",
+      "administrative center",
+      "admincen",
+      "admin center 02",
+      "sector 4 capital"
+    ]
+  },
+  "eagleopolis": {
+    "title": "Eagleopolis",
+    "category": "City",
+    "description": "Eagleopolis was the Mega City capital of Super Earth's Sector 5, covering India, the Middle East, and Eastern Africa. Known as a great center of commerce, the city was renowned throughout the galaxy for its enormous shopping malls and entertainment centers. Eagleopolis was the first Mega City to fall during the 2185 Illuminate invasion of Super Earth and was ultimately destroyed by the Great Host.",
+    "source": "https://helldivers.wiki.gg/wiki/Super_Earth",
+    "image": "",
+    "aliases": [
+      "eagleopolis",
+      "sector 5 capital",
+      "super earth eagleopolis",
+      "eagle city"
+    ]
+  },
+  "gun": {
+    "title": "Gun",
+    "category": "City",
+    "description": "Gun is the reconstructed Mega City capital of Super Earth's Sector 6 in Central and South America. Its predecessor, Remembrance, was destroyed by the Illuminate during the 2185 Battle for Super Earth. During a later official naming vote, Gun received 72.54 percent of the vote and became the name of the rebuilt city.",
+    "source": "https://helldivers.wiki.gg/wiki/Super_Earth",
+    "image": "",
+    "aliases": [
+      "gun",
+      "city of gun",
+      "remembrance",
+      "new remembrance",
+      "old remembrance",
+      "remembrance reconstruction",
+      "sector 6 capital",
+      "destroyed remembrance"
+    ]
+  },
   "new-hope-city": {
-  "title": "New Hope City",
-  "category": "Super Earth City",
-  "description": "New Hope City is the flagship Maximum Security City located on Fort Union. Constructed in 2185 as part of Super Earth's Maximum Security City project, it was designed with extensive surveillance and defensive systems intended to make the city impregnable to tyranny. After construction was completed, citizens began moving into New Hope City in August 2185. Later that month, Terminid forces advanced toward Fort Union and directly threatened the city, prompting an emergency Helldiver defense.",
-  "source": "https://helldivers.wiki.gg/wiki/Fort_Union",
-  "image": "",
-  "aliases": [
-    "new hope city",
-    "new hope",
-    "fort union maximum security city",
-    "fort union megacity",
-    "flagship maximum security city"
-  ]
-},
-"new-aspiration-city": {
-  "title": "New Aspiration City",
-  "category": "Super Earth City",
-  "description": "New Aspiration City is one of the first three Maximum Security Cities constructed by Super Earth and is located on Emeria. Built in 2185, the city incorporates extensive surveillance and security systems intended to protect its citizens from dissidents and other agents of tyranny. As the first residents began moving into the new cities, nearby Automaton forces in the Nanos Sector were considered a threat to New Aspiration City's security and public confidence, prompting Helldivers to establish a defensive buffer by clearing the sector.",
-  "source": "https://helldivers.wiki.gg/wiki/Maximum_Security_City",
-  "image": "",
-  "aliases": [
-    "new aspiration city",
-    "new aspiration",
-    "emeria maximum security city",
-    "emeria megacity",
-    "aspiration city"
-  ]
- },
+    "title": "New Hope City",
+    "category": "City",
+    "description": "New Hope City is the flagship Maximum Security City located on Fort Union. Constructed in 2185 as part of Super Earth's Maximum Security City project, it was designed with extensive surveillance and defensive systems intended to make the city impregnable to tyranny. After construction was completed, citizens began moving into New Hope City in August 2185. Later that month, Terminid forces advanced toward Fort Union and directly threatened the city, prompting an emergency Helldiver defense.",
+    "source": "https://helldivers.wiki.gg/wiki/Fort_Union",
+    "image": "",
+    "aliases": [
+      "new hope city",
+      "new hope",
+      "fort union maximum security city",
+      "fort union megacity",
+      "flagship maximum security city"
+    ]
+  },
+  "new-aspiration-city": {
+    "title": "New Aspiration City",
+    "category": "City",
+    "description": "New Aspiration City is one of the first three Maximum Security Cities constructed by Super Earth and is located on Emeria. Built in 2185, the city incorporates extensive surveillance and security systems intended to protect its citizens from dissidents and other agents of tyranny. As the first residents began moving into the new cities, nearby Automaton forces in the Nanos Sector were considered a threat to New Aspiration City's security and public confidence, prompting Helldivers to establish a defensive buffer by clearing the sector.",
+    "source": "https://helldivers.wiki.gg/wiki/Maximum_Security_City",
+    "image": "",
+    "aliases": [
+      "new aspiration city",
+      "new aspiration",
+      "emeria maximum security city",
+      "emeria megacity",
+      "aspiration city"
+    ]
+  },
   "new-yearning-city": {
-  "title": "New Yearning City",
-  "category": "Super Earth City",
-  "description": "New Yearning City is one of the first three Maximum Security Cities constructed by Super Earth and is located on Fort Sanctuary in the Cancri Sector. Built in 2185 as part of the Maximum Security City project, the city was equipped with extensive surveillance and security measures intended to protect its citizens from dissidents and other agents of tyranny. Construction was completed by early August 2185 and citizens began moving into the city. Later that month, Illuminate forces advanced toward Fort Sanctuary, threatening the newly established Maximum Security City.",
-  "source": "https://helldivers.wiki.gg/wiki/Fort_Sanctuary",
-  "image": "",
-  "aliases": [
-    "new yearning city",
-    "new yearning",
-    "fort sanctuary maximum security city",
-    "fort sanctuary megacity",
-    "yearning city"
-  ]
-},
+    "title": "New Yearning City",
+    "category": "City",
+    "description": "New Yearning City is one of the first three Maximum Security Cities constructed by Super Earth and is located on Fort Sanctuary in the Cancri Sector. Built in 2185 as part of the Maximum Security City project, the city was equipped with extensive surveillance and security measures intended to protect its citizens from dissidents and other agents of tyranny. Construction was completed by early August 2185 and citizens began moving into the city. Later that month, Illuminate forces advanced toward Fort Sanctuary, threatening the newly established Maximum Security City.",
+    "source": "https://helldivers.wiki.gg/wiki/Fort_Sanctuary",
+    "image": "",
+    "aliases": [
+      "new yearning city",
+      "new yearning",
+      "fort sanctuary maximum security city",
+      "fort sanctuary megacity",
+      "yearning city"
+    ]
+  },
   "fort-union": {
-  "title": "Fort Union",
-  "category": "Planet",
-  "description": "Fort Union is a Plains planet located in the Orion Sector. In 2185, it became one of three worlds selected for Super Earth's Maximum Security City project and became home to New Hope City, the flagship Maximum Security City. Fort Union later became strategically important during several operations, including a cyberwarfare effort against enemy forces and the defense of New Hope City from an advancing Terminid outbreak.",
-  "source": "https://helldivers.wiki.gg/wiki/Fort_Union",
-  "image": "",
-  "aliases": [
-    "fort union",
-    "new hope city planet",
-    "new hope planet"
-  ]
-},
+    "title": "Fort Union",
+    "category": "Planet",
+    "description": "Fort Union is a Plains planet located in the Orion Sector. In 2185, it became one of three worlds selected for Super Earth's Maximum Security City project and became home to New Hope City, the flagship Maximum Security City. Fort Union later became strategically important during several operations, including a cyberwarfare effort against enemy forces and the defense of New Hope City from an advancing Terminid outbreak.",
+    "source": "https://helldivers.wiki.gg/wiki/Fort_Union",
+    "image": "",
+    "aliases": [
+      "fort union",
+      "new hope city planet",
+      "new hope planet"
+    ]
+  },
   "emeria": {
-  "title": "Emeria",
-  "category": "Planet",
-  "description": "Emeria is a Rocky Canyons planet located in the Kelvin Sector. In 2185, it was selected as one of three worlds to host Super Earth's first Maximum Security Cities and became home to New Aspiration City. Because Automaton forces operated nearby, Helldivers were ordered to establish a defensive buffer around Emeria. The planet was later directly attacked by Automaton forces, placing New Aspiration City under threat.",
-  "source": "https://helldivers.wiki.gg/wiki/Emeria",
-  "image": "",
-  "aliases": [
-    "emeria",
-    "new aspiration city planet",
-    "new aspiration planet"
-  ]
-},
+    "title": "Emeria",
+    "category": "Planet",
+    "description": "Emeria is a Rocky Canyons planet located in the Kelvin Sector. In 2185, it was selected as one of three worlds to host Super Earth's first Maximum Security Cities and became home to New Aspiration City. Because Automaton forces operated nearby, Helldivers were ordered to establish a defensive buffer around Emeria. The planet was later directly attacked by Automaton forces, placing New Aspiration City under threat.",
+    "source": "https://helldivers.wiki.gg/wiki/Emeria",
+    "image": "",
+    "aliases": [
+      "emeria",
+      "new aspiration city planet",
+      "new aspiration planet"
+    ]
+  },
   "fort-sanctuary": {
-  "title": "Fort Sanctuary",
-  "category": "Planet",
-  "description": "Fort Sanctuary is an Ionic Crimson planet located in the Cancri Sector, where widespread crimson algae covers much of its rocky landscape. The planet experiences Ion Storms that can disrupt Stratagem use. In 2185, Fort Sanctuary was selected as one of the three worlds hosting Super Earth's first Maximum Security Cities and became home to New Yearning City. Illuminate forces later advanced toward the planet, threatening the newly established city.",
-  "source": "https://helldivers.wiki.gg/wiki/Fort_Sanctuary",
-  "image": "",
-  "aliases": [
-    "fort sanctuary",
-    "new yearning city planet",
-    "new yearning planet"
-  ]
-},
+    "title": "Fort Sanctuary",
+    "category": "Planet",
+    "description": "Fort Sanctuary is an Ionic Crimson planet located in the Cancri Sector, where widespread crimson algae covers much of its rocky landscape. The planet experiences Ion Storms that can disrupt Stratagem use. In 2185, Fort Sanctuary was selected as one of the three worlds hosting Super Earth's first Maximum Security Cities and became home to New Yearning City. Illuminate forces later advanced toward the planet, threatening the newly established city.",
+    "source": "https://helldivers.wiki.gg/wiki/Fort_Sanctuary",
+    "image": "",
+    "aliases": [
+      "fort sanctuary",
+      "new yearning city planet",
+      "new yearning planet"
+    ]
+  },
   "acamar-iv": {
-  "title": "Acamar IV",
-  "category": "Planet",
-  "description": "Acamar IV is a Plains planet located in the Jin Xi Sector. The world became strategically important when Super Earth established the planet-wide Terminid Research Preserve there, allowing live Terminids to be studied and harvested for E-710. The preserve included Tyranny Park and was protected by SEAF Bug Wardens, electrified fencing, and containment measures. A catastrophic subterranean Terminid outbreak eventually destroyed the preserve and spread to neighboring worlds.",
-  "source": "https://helldivers.wiki.gg/wiki/Acamar_IV",
-  "image": "",
-  "aliases": [
-    "acamar iv",
-    "acamar 4",
-    "terminid research preserve planet"
-  ]
-},
+    "title": "Acamar IV",
+    "category": "Planet",
+    "description": "Acamar IV is a Plains planet located in the Jin Xi Sector. The world became strategically important when Super Earth established the planet-wide Terminid Research Preserve there, allowing live Terminids to be studied and harvested for E-710. The preserve included Tyranny Park and was protected by SEAF Bug Wardens, electrified fencing, and containment measures. A catastrophic subterranean Terminid outbreak eventually destroyed the preserve and spread to neighboring worlds.",
+    "source": "https://helldivers.wiki.gg/wiki/Acamar_IV",
+    "image": "",
+    "aliases": [
+      "acamar iv",
+      "acamar 4",
+      "terminid research preserve planet"
+    ]
+  },
   "turing": {
-  "title": "Turing",
-  "category": "Planet",
-  "description": "Turing is an Ethereal Jungle planet located in the Umlaut Sector. It was one of the Barrier Planets selected to host the Terminid Control System during Operation Valiant Enclosure. Following the failure of the original TCS and the destruction of the Meridia Supercolony, Turing became home to the Xenoentomology Center, a major Ministry of Science facility dedicated to Terminid research, E-710 production studies, and technological development.",
-  "source": "https://helldivers.wiki.gg/wiki/Turing",
-  "image": "",
-  "aliases": [
-    "turing",
-    "xenoentomology center planet",
-    "xenoentomology planet"
-  ]
-},
+    "title": "Turing",
+    "category": "Planet",
+    "description": "Turing is an Ethereal Jungle planet located in the Umlaut Sector. It was one of the Barrier Planets selected to host the Terminid Control System during Operation Valiant Enclosure. Following the failure of the original TCS and the destruction of the Meridia Supercolony, Turing became home to the Xenoentomology Center, a major Ministry of Science facility dedicated to Terminid research, E-710 production studies, and technological development.",
+    "source": "https://helldivers.wiki.gg/wiki/Turing",
+    "image": "",
+    "aliases": [
+      "turing",
+      "xenoentomology center planet",
+      "xenoentomology planet"
+    ]
+  },
   "fenrir-iii": {
-  "title": "Fenrir III",
-  "category": "Planet",
-  "description": "Fenrir III is a Moon planet located in the Umlaut Sector. The world hosts Super Earth's Center of Science, where leading astrophysicists conducted research into the Meridian anomaly, Dark Energy, and related Illuminate phenomena. Fenrir III also became the site of the first known encounter with the Gloom-enhanced Predator Strain, prompting Helldivers to defend the planet and its strategically important research facility.",
-  "source": "https://helldivers.wiki.gg/wiki/Fenrir_III",
-  "image": "",
-  "aliases": [
-    "fenrir iii",
-    "fenrir 3",
-    "center of science planet"
-  ]
-},
-  "void-source-planet": {
-  "title": "Void Source Planet",
-  "category": "Planet",
-  "description": "The Void Source Planet was the designation given to Seasse after it became the origin point of the Illuminate-created Void. Appropriators excavated ancient Illuminate ruins on Seasse and activated Exospires, producing the spacetime-altering phenomenon that eventually engulfed numerous worlds. During Operation Void Piercer, Helldivers liberated the planet while a Ministry of Science team descended beneath its surface to eliminate the source of the anomaly. On August 23, 2186, their success caused the Void to dissipate.",
-  "source": "https://helldivers.wiki.gg/wiki/Void_Source_Planet",
-  "image": "",
-  "aliases": [
-    "void source planet",
-    "seasse void source",
-    "source of the void",
-    "void source"
-  ]
-},
+    "title": "Fenrir III",
+    "category": "Planet",
+    "description": "Fenrir III is a Moon planet located in the Umlaut Sector. The world hosts Super Earth's Center of Science, where leading astrophysicists conducted research into the Meridian anomaly, Dark Energy, and related Illuminate phenomena. Fenrir III also became the site of the first known encounter with the Gloom-enhanced Predator Strain, prompting Helldivers to defend the planet and its strategically important research facility.",
+    "source": "https://helldivers.wiki.gg/wiki/Fenrir_III",
+    "image": "",
+    "aliases": [
+      "fenrir iii",
+      "fenrir 3",
+      "center of science planet"
+    ]
+  },
   "void-forest": {
-  "title": "Void Forest",
-  "category": "Planetary Biome",
-  "description": "The Void Forest was a special planetary biome associated with Seasse after the planet became engulfed by the Void. The environment featured altered, bioluminescent vegetation and unusual terrain produced during the planet's transformation. The biome was encountered during Helldiver operations on the Void Source Planet. Following the destruction of the Void, the affected flora withered and the planet began returning toward its original environmental state.",
-  "source": "https://helldivers.wiki.gg/wiki/Void_Forest",
-  "image": "",
-  "aliases": [
-    "void forest",
-    "void source forest",
-    "seasse void forest",
-    "rift active"
-  ]
-},
+    "title": "Void Forest",
+    "category": "Planetary Biome",
+    "description": "The Void Forest was a special planetary biome associated with Seasse after the planet became engulfed by the Void. The environment featured altered, bioluminescent vegetation and unusual terrain produced during the planet's transformation. The biome was encountered during Helldiver operations on the Void Source Planet. Following the destruction of the Void, the affected flora withered and the planet began returning toward its original environmental state.",
+    "source": "https://helldivers.wiki.gg/wiki/Void_Forest",
+    "image": "",
+    "aliases": [
+      "void forest",
+      "void source forest",
+      "seasse void forest"
+    ]
+  },
   "x-45": {
-  "title": "X-45",
-  "category": "Planet",
-  "description": "X-45 is a planet of major strategic importance to Super Earth because it contained an abandoned Advanced Weapons Lab holding plans for an interplanetary battle station. Helldivers defended the planet from Automaton attacks and successfully secured the plans. Super Earth later used the recovered technology as the basis for construction of the Democracy Space Station.",
-  "source": "https://helldivers.wiki.gg/wiki/X-45",
-  "image": "",
-  "aliases": [
-    "x-45",
-    "x45",
-    "x 45",
-    "advanced weapons lab planet"
-  ]
-},
+    "title": "X-45",
+    "category": "Planet",
+    "description": "X-45 is a planet of major strategic importance to Super Earth because it contained an abandoned Advanced Weapons Lab holding plans for an interplanetary battle station. Helldivers defended the planet from Automaton attacks and successfully secured the plans. Super Earth later used the recovered technology as the basis for construction of the Democracy Space Station.",
+    "source": "https://helldivers.wiki.gg/wiki/X-45",
+    "image": "",
+    "aliases": [
+      "x-45",
+      "x45",
+      "x 45",
+      "advanced weapons lab planet"
+    ]
+  },
   "tien-kwan": {
-  "title": "Tien Kwan",
-  "category": "Planet",
-  "description": "Tien Kwan is a cold Boneyard world in the Theseus Sector and the location of the Morgunson Arsenal. The planet became strategically important during the Second Galactic War when Automatons captured it on March 7, 2184, threatening Super Earth's new Exosuit technology. Helldivers liberated Tien Kwan on March 8 before the arsenal was compromised, allowing the EXO-45 Patriot Exosuit to enter fleet-wide service.",
-  "source": "https://helldivers.wiki.gg/wiki/Tien_Kwan",
-  "image": "",
-  "aliases": [
-    "tien kwan",
-    "tien-kwan",
-    "exosuit planet",
-    "patriot planet"
-  ]
-},
+    "title": "Tien Kwan",
+    "category": "Planet",
+    "description": "Tien Kwan is a cold Boneyard world in the Theseus Sector and the location of the Morgunson Arsenal. The planet became strategically important during the Second Galactic War when Automatons captured it on March 7, 2184, threatening Super Earth's new Exosuit technology. Helldivers liberated Tien Kwan on March 8 before the arsenal was compromised, allowing the EXO-45 Patriot Exosuit to enter fleet-wide service.",
+    "source": "https://helldivers.wiki.gg/wiki/Tien_Kwan",
+    "image": "",
+    "aliases": [
+      "tien kwan",
+      "tien-kwan",
+      "exosuit planet",
+      "patriot planet"
+    ]
+  },
   "claorell": {
-  "title": "Claorell",
-  "category": "Planet",
-  "description": "Claorell is a mineral-rich moon in the Tanis Sector and the site of the Deep Mantle Forge Complex. During construction of the Democracy Space Station, Super Earth discovered that Automatons were conducting deep-mantle mining beneath its surface. Helldivers liberated the planet, allowing the mining network to be converted into the forge that produced specialized alloys for the DSS.",
-  "source": "https://helldivers.wiki.gg/wiki/Claorell",
-  "image": "",
-  "aliases": [
-    "claorell",
-    "claorell moon",
-    "deep mantle forge planet",
-    "dss forge planet"
-  ]
-},
+    "title": "Claorell",
+    "category": "Planet",
+    "description": "Claorell is a mineral-rich moon in the Tanis Sector and the site of the Deep Mantle Forge Complex. During construction of the Democracy Space Station, Super Earth discovered that Automatons were conducting deep-mantle mining beneath its surface. Helldivers liberated the planet, allowing the mining network to be converted into the forge that produced specialized alloys for the DSS.",
+    "source": "https://helldivers.wiki.gg/wiki/Claorell",
+    "image": "",
+    "aliases": [
+      "claorell",
+      "claorell moon",
+      "deep mantle forge planet",
+      "dss forge planet"
+    ]
+  },
   "achernar-secundus": {
-  "title": "Achernar Secundus",
-  "category": "Planet",
-  "description": "Achernar Secundus is a Plains planet in the Borgus Sector and the location of the AM Defense Factory Hub. The planet became strategically important after the Ministry of Defense selected it for a massive military manufacturing expansion. Its industrial facilities have supported production of equipment for the Helldivers, including Fast Recon Vehicles, making control of the planet important to Super Earth's wartime supply network.",
-  "source": "https://helldivers.wiki.gg/wiki/Achernar_Secundus",
-  "image": "",
-  "aliases": [
-    "achernar secundus",
-    "achernar",
-    "factory hub planet",
-    "am defense planet"
-  ]
-},
+    "title": "Achernar Secundus",
+    "category": "Planet",
+    "description": "Achernar Secundus is a Plains planet in the Borgus Sector and the location of the AM Defense Factory Hub. The planet became strategically important after the Ministry of Defense selected it for a massive military manufacturing expansion. Its industrial facilities have supported production of equipment for the Helldivers, including Fast Recon Vehicles, making control of the planet important to Super Earth's wartime supply network.",
+    "source": "https://helldivers.wiki.gg/wiki/Achernar_Secundus",
+    "image": "",
+    "aliases": [
+      "achernar secundus",
+      "achernar",
+      "factory hub planet",
+      "am defense planet"
+    ]
+  },
   "moradesh": {
-  "title": "Moradesh",
-  "category": "Destroyed Planet",
-  "description": "Moradesh was a Super Earth-controlled planet that hosted the research facility responsible for weaponizing Dark Fluid against the Meridia Supercolony. After Meridia was transformed into the Meridian Black Hole, the anomaly eventually approached Moradesh. Super Earth evacuated the threatened research personnel and much of the planet's higher-class population before Moradesh was annihilated by the Meridian Black Hole on March 14, 2185, leaving the world fractured and uninhabitable.",
-  "source": "https://helldivers.wiki.gg/wiki/Moradesh",
-  "image": "",
-  "aliases": [
-    "moradesh",
-    "destroyed moradesh",
-    "fractured moradesh",
-    "moradesh planet"
-  ]
-},
+    "title": "Moradesh",
+    "category": "Destroyed Planet",
+    "description": "Moradesh was a Super Earth-controlled planet that hosted the research facility responsible for weaponizing Dark Fluid against the Meridia Supercolony. After the Meridian Singularity began moving across the galaxy, Moradesh became one of the worlds in its path. Scientists conducting Dark Fluid research were evacuated, and more than 95 percent of the planet's Class C or higher citizens were reported safely evacuated before Moradesh was annihilated by the Meridian Singularity on March 14, 2185.",
+    "source": "https://helldivers.wiki.gg/wiki/Moradesh",
+    "image": "",
+    "aliases": [
+      "moradesh",
+      "destroyed moradesh",
+      "fractured moradesh",
+      "moradesh planet"
+    ]
+  },
   "mintoria": {
-  "title": "Mintoria",
-  "category": "Planet",
-  "description": "Mintoria is a Plains planet located in the Gellert Sector. The world became strategically important after Super Earth discovered secret Automaton mining operations beneath its surface, most notably the Ultramafic Mine extracting rare metals such as nickel, chromium, and platinum. Helldivers later liberated the planet and recovered technologies from the mining complex for use in Super Earth's wider war effort.",
-  "source": "https://helldivers.wiki.gg/wiki/Mintoria",
-  "image": "",
-  "aliases": [
-    "mintoria",
-    "mintoria planet",
-    "ultramafic mine planet"
-  ]
+    "title": "Mintoria",
+    "category": "Planet",
+    "description": "Mintoria is a Plains planet in the Gellert Sector. It became strategically important after decrypted Automaton communications revealed secret mining operations there, centered on the Ultramafic Mine and its deposits of nickel, chromium, and platinum. Helldivers later liberated Mintoria and recovered habitat technologies from the mine that were used to upgrade Outpost Alpha into Gloom Base Alpha.",
+    "source": "https://helldivers.wiki.gg/wiki/Mintoria",
+    "image": "",
+    "aliases": [
+      "mintoria",
+      "mintoria planet",
+      "ultramafic mine planet"
+    ]
+  }
 }
