@@ -21,5 +21,59 @@
       "pelican 1",
       "extraction shuttle"
     ]
-  }
+  },
+  "super-destroyer": {
+  "title": "Super Destroyer",
+  "category": "Super Earth Spacecraft",
+  "description": "The Super Destroyer is a class of Super Earth military spacecraft that serves as the forward operating base for Helldivers. Each vessel carries a large number of Helldivers in cryogenic storage and provides orbital fire support, equipment deployment, reinforcements, and Eagle close air support during missions. Powered by an Element-710-fueled Alcubierre Drive, a Super Destroyer can travel between star systems in seconds.",
+  "source": "https://helldivers.wiki.gg/wiki/Super_Destroyer",
+  "image": "",
+  "aliases": [
+    "super destroyer",
+    "destroyer",
+    "helldiver super destroyer",
+    "class 6 series crewed interplanetary combat vessel"
+  ]
+},
+  "eagle": {
+  "title": "Eagle Aerospace Assault Craft",
+  "category": "Super Earth Aircraft",
+  "description": "The Eagle is a Super Earth aerospace assault craft carried aboard Helldiver Super Destroyers. It provides rapid close air support during planetary operations and can carry multiple weapon configurations for bombing, strafing, rocket, and other attack missions. After expending its available ordnance, the Eagle can return to the Super Destroyer to rearm before resuming support operations.",
+  "source": "https://helldivers.wiki.gg/wiki/Eagle",
+  "image": "",
+  "aliases": [
+    "eagle",
+    "eagle aircraft",
+    "eagle aerospace assault craft",
+    "eagle fighter",
+    "eagle-1 aircraft"
+  ]
+},
+  "pelican-shuttle": {
+  "title": "Pelican Shuttle",
+  "category": "Super Earth Aircraft",
+  "description": "Pelican Shuttles are Super Earth transport craft used to move personnel, vehicles, cargo, and fluids between spacecraft and planetary surfaces. They are single-stage-to-orbit tiltwing aircraft capable of vertical takeoff and landing. Known variants include Tanker, Cargo, and Troop Transport models, with specialized Pelicans supporting numerous Helldiver operations.",
+  "source": "https://helldivers.wiki.gg/wiki/Pelican_Shuttle",
+  "image": "",
+  "aliases": [
+    "pelican shuttle",
+    "pelican",
+    "pelican transport",
+    "pelican transport shuttle",
+    "transport pelican"
+  ]
+},
+  "extraction-shuttle": {
+  "title": "Extraction Shuttle",
+  "category": "Super Earth Aircraft",
+  "description": "The Extraction Shuttle is a Pelican transport assigned to recover Helldivers from planetary operations and return them to their Super Destroyer. After being called to an extraction zone, the shuttle descends to collect surviving Helldivers. If it must remain airborne while awaiting the squad, its nose-mounted autocannon can engage nearby enemies and provide fire support around the landing zone.",
+  "source": "https://helldivers.wiki.gg/wiki/Extraction_Shuttle",
+  "image": "",
+  "aliases": [
+    "extraction shuttle",
+    "extraction pelican",
+    "extract shuttle",
+    "evacuation shuttle",
+    "pelican extraction"
+  ]
 }
