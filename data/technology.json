@@ -160,4 +160,18 @@
     "seaf artillery cannon",
     "seaf artillery emplacement"
   ]
+},
+  "seaf-sam-site": {
+  "title": "SEAF SAM Site",
+  "category": "Super Earth Technology",
+  "description": "SEAF SAM Sites are surface-to-air defense installations constructed by Super Earth. Helldivers can reactivate abandoned or captured sites during operations, after which the launcher automatically engages hostile aircraft within approximately 300 meters. The system carries twenty-four missiles before exhausting its ammunition and can target threats including Automaton Dropships and Gunships as well as Illuminate Stingrays, Warp Ships, and Leviathans.",
+  "source": "https://helldivers.wiki.gg/wiki/SEAF_SAM_Site",
+  "image": "",
+  "aliases": [
+    "seaf sam site",
+    "sam site",
+    "seaf sam",
+    "surface to air missile site",
+    "surface-to-air missile site"
+  ]
 }
