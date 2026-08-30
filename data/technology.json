@@ -147,4 +147,17 @@
     "voting software",
     "managed democracy voting system"
   ]
+},
+  "seaf-artillery": {
+  "title": "SEAF Artillery",
+  "category": "Super Earth Technology",
+  "description": "SEAF Artillery is a stationary Super Earth artillery platform found on planetary battlefields. Helldivers can reactivate an artillery site by loading five available shells and establishing a connection between the platform and their Super Destroyer. Once operational, the squad gains access to five artillery strikes using the shells that were loaded. Available ammunition includes Explosive, High-Yield Explosive, Mini-Nuke, Smoke, Static Field, and Napalm shells.",
+  "source": "https://helldivers.wiki.gg/wiki/SEAF_Artillery",
+  "image": "",
+  "aliases": [
+    "seaf artillery",
+    "artillery",
+    "seaf artillery cannon",
+    "seaf artillery emplacement"
+  ]
 }
