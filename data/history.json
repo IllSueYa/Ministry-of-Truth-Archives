@@ -327,4 +327,17 @@
     "dark fluid operation",
     "destruction of meridia"
   ]
+},
+  "terminid-research-initiative": {
+  "title": "Terminid Research Initiative",
+  "category": "Scientific Initiative",
+  "description": "The Terminid Research Initiative was a Ministry of Science program conducted during the Second Galactic War to study Terminid biology and improve Element-710 production. Research found that Terminids harvested after periods of extreme duress produced significantly greater E-710 yields. Follow-up trials ordered Helldivers to exterminate large numbers of Terminids using varied methods so scientists could investigate the relationship between extermination conditions and E-710 production.",
+  "source": "https://helldivers.wiki.gg/wiki/Major_Orders_of_2024",
+  "image": "",
+  "aliases": [
+    "terminid research initiative",
+    "terminid research program",
+    "e-710 research initiative",
+    "e710 research initiative"
+  ]
 }
