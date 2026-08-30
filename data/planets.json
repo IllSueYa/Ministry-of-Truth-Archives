@@ -369,4 +369,17 @@
     "factory hub planet",
     "am defense planet"
   ]
+},
+  "moradesh": {
+  "title": "Moradesh",
+  "category": "Destroyed Planet",
+  "description": "Moradesh was a Super Earth-controlled planet that hosted the research facility responsible for weaponizing Dark Fluid against the Meridia Supercolony. After Meridia was transformed into the Meridian Black Hole, the anomaly eventually approached Moradesh. Super Earth evacuated the threatened research personnel and much of the planet's higher-class population before Moradesh was annihilated by the Meridian Black Hole on March 14, 2185, leaving the world fractured and uninhabitable.",
+  "source": "https://helldivers.wiki.gg/wiki/Moradesh",
+  "image": "",
+  "aliases": [
+    "moradesh",
+    "destroyed moradesh",
+    "fractured moradesh",
+    "moradesh planet"
+  ]
 }
