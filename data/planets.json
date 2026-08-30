@@ -317,4 +317,17 @@
     "seasse void forest",
     "rift active"
   ]
+},
+  "x-45": {
+  "title": "X-45",
+  "category": "Planet",
+  "description": "X-45 is a planet of major strategic importance to Super Earth because it contained an abandoned Advanced Weapons Lab holding plans for an interplanetary battle station. Helldivers defended the planet from Automaton attacks and successfully secured the plans. Super Earth later used the recovered technology as the basis for construction of the Democracy Space Station.",
+  "source": "https://helldivers.wiki.gg/wiki/X-45",
+  "image": "",
+  "aliases": [
+    "x-45",
+    "x45",
+    "x 45",
+    "advanced weapons lab planet"
+  ]
 }
