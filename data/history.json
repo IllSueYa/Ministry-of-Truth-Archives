@@ -253,5 +253,18 @@
       "void piercer campaign",
       "assault on the void"
     ]
+  },
+  "terminid-research-initiative": {
+    "title": "Terminid Research Initiative",
+    "category": "Historical Campaign",
+    "description": "The Terminid Research Initiative was a Ministry of Science research program conducted in July 2184 to study how Terminids responded to controlled duress and to improve Super Earth's understanding of bug-eradication methods. Helldivers first killed 100 million Terminids for the initiative and later participated in a second, larger trial targeting one billion Terminids. The research found that Terminids subjected to extreme duress could yield higher-quality Element-710 and also documented new spore-producing behavior.",
+    "source": "https://helldivers.wiki.gg/wiki/Major_Orders_of_2024",
+    "image": "",
+    "aliases": [
+      "terminid research initiative",
+      "terminid research program",
+      "terminid research trial",
+      "terminid research initiative second trial"
+    ]
   }
 }
