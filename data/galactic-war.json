@@ -101,4 +101,17 @@
     "termicide 2 breaches",
     "terminid containment breach"
   ]
+},
+  "counterdissident-hammer": {
+  "title": "Counterdissident Hammer",
+  "category": "Active Galactic War Campaign",
+  "description": "Counterdissident Hammer is an ongoing Super Earth campaign launched on August 25, 2186 following renewed Terminid outbreaks within the completed TCS+ containment line. Super Earth attributes the failures to extremist dissident sabotage and has ordered a galaxy-wide counter-dissidence operation while Helldivers respond to Terminid incursions. The opening Dissident Manhunt phase followed a major TCS+ failure on Brilliance and directed Helldivers toward planets identified by the Ministry of Truth as suspected dissident strongholds.",
+  "source": "https://helldivers.wiki.gg/wiki/Campaigns",
+  "image": "",
+  "aliases": [
+    "counterdissident hammer",
+    "counter-dissident hammer",
+    "counterdissident campaign",
+    "dissident manhunt"
+  ]
 }
