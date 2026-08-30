@@ -198,4 +198,46 @@
     "prosperity city bunker",
     "president bunker"
   ]
+},
+  "victory-day": {
+  "title": "Victory Day",
+  "category": "Super Earth Holiday",
+  "description": "Victory Day commemorates Super Earth's victory over the Illuminate Great Host during the Battle for Super Earth. The observance honors the millions of citizens and defenders who died during the invasion, including those who fought at Equality-on-Sea and the President who was killed during the siege of Prosperity City. In 2186, the first anniversary was preceded by the Victory Day Crusade, during which Helldivers were ordered to carry the war into Illuminate territory while continuing to defend Super Earth.",
+  "source": "https://helldivers.wiki.gg/wiki/Major_Orders",
+  "image": "",
+  "aliases": [
+    "victory day",
+    "super earth victory day",
+    "battle for super earth anniversary",
+    "victory day crusade"
+  ]
+},
+"maximum-security-cities": {
+  "title": "Maximum Security Cities",
+  "category": "Super Earth Society",
+  "description": "Maximum Security Cities are heavily fortified Super Earth cities designed to provide exceptional protection against dissidents, thoughtcriminals, and other threats to Managed Democracy. Their security systems include high-definition facial recognition cameras throughout buildings and city blocks, increased foot and drone patrols, and dedicated surveillance satellites. The first three Maximum Security Cities were constructed on Fort Union, Emeria, and Fort Sanctuary and named New Hope City, New Aspiration City, and New Yearning City.",
+  "source": "https://helldivers.wiki.gg/wiki/Maximum_Security_City",
+  "image": "",
+  "aliases": [
+    "maximum security cities",
+    "maximum security city",
+    "msc",
+    "mscs",
+    "security cities",
+    "msc project"
+  ]
+},
+"405th-cyberwarfare-detachment": {
+  "title": "405th Cyberwarfare Detachment",
+  "category": "Super Earth Military Unit",
+  "description": "The 405th Cyberwarfare Detachment is a Super Earth cyberwarfare formation associated with the decisive Fort Union cyberattack during the Battle for Super Earth. After a former satellite technician developed malware capable of disabling Illuminate technology, Helldivers defended Fort Union long enough for the code to be transmitted through the planet's long-range satellites. The malware disabled a significant portion of the Great Host, and the technician responsible received a field promotion to command the 405th Cyberwarfare Detachment.",
+  "source": "https://helldivers.wiki.gg/wiki/Fort_Union",
+  "image": "",
+  "aliases": [
+    "405th cyberwarfare detachment",
+    "405th",
+    "405th cyberwarfare",
+    "cyberwarfare detachment",
+    "fort union cyberwarfare unit"
+  ]
 }
