@@ -437,4 +437,18 @@
     "tarsh logistics hub",
     "dss hub"
   ]
+},
+  "advanced-weapons-lab": {
+  "title": "Advanced Weapons Lab",
+  "category": "Super Earth Facility",
+  "description": "The Advanced Weapons Lab on X-45 was an abandoned Super Earth research installation containing plans for a powerful interplanetary battle station. During the Second Galactic War, Helldivers defended X-45 and secured the plans held within the facility. Those plans became the foundation of the Democracy Space Station project, making the laboratory an important part of the DSS's origins.",
+  "source": "https://helldivers.wiki.gg/wiki/Democracy_Space_Station",
+  "image": "",
+  "aliases": [
+    "advanced weapons lab",
+    "advanced weaponry lab",
+    "x-45 weapons lab",
+    "x45 weapons lab",
+    "dss weapons lab"
+  ]
 }
