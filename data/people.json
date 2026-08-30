@@ -1,25 +1,32 @@
 {
   "eagle-1": {
     "title": "Eagle-1",
-    "category": "Person",
+    "category": "Military Personnel",
     "description": "Eagle-1 is the pilot responsible for delivering Eagle-based air support to Helldivers on the battlefield. From the Super Destroyer, Eagle-1 conducts rapid attack runs using weapons selected as Stratagems by the Helldiver.",
     "source": "https://helldivers.wiki.gg/wiki/Eagle-1",
     "image": "",
     "aliases": [
-      "eagle",
-      "eagle 1"
+      "eagle 1",
+      "eagle-1",
+      "eagle one",
+      "eagle pilot"
     ]
   },
   "democracy-officer": {
     "title": "Democracy Officer",
-    "category": "Person",
+    "category": "Military Personnel",
     "description": "The Democracy Officer serves aboard the Super Destroyer as a representative of Super Earth authority, providing mission guidance and reinforcing the principles of Managed Democracy.",
     "source": "https://helldivers.wiki.gg/wiki/Democracy_Officer",
-    "image": ""
+    "image": "",
+    "aliases": [
+      "democracy officer",
+      "ship democracy officer",
+      "super destroyer democracy officer"
+    ]
   },
   "general-brasch": {
     "title": "General Brasch",
-    "category": "Person",
+    "category": "Military Personnel",
     "description": "General Brasch is a celebrated Super Earth military figure who serves as the instructor of the Helldiver Training Facility. He guides new recruits through Helldiver training and also hosts the Brasch Tactics broadcasts shown aboard Super Destroyers. Brasch portrays himself as one of Super Earth's oldest and most experienced war heroes and has become one of the most recognizable public figures associated with the Helldivers.",
     "source": "https://helldivers.wiki.gg/wiki/General_Brasch",
     "image": "",
@@ -31,7 +38,7 @@
   },
   "ship-master": {
     "title": "Ship Master",
-    "category": "Person",
+    "category": "Super Destroyer Crew",
     "description": "The Ship Master is a crew member stationed aboard each Super Destroyer and is responsible for overseeing the vessel's operations and crew. Located near the extraction elevator, the Ship Master greets returning Helldivers and comments on their mission performance, including casualties, friendly-fire incidents, and recovered samples. Like several Super Destroyer personnel, the Ship Master's individual name varies.",
     "source": "https://helldivers.wiki.gg/wiki/Ship_Master",
     "image": "",
@@ -43,7 +50,7 @@
   },
   "service-technician": {
     "title": "Service Technician",
-    "category": "Person",
+    "category": "Super Destroyer Crew",
     "description": "The Service Technician is a member of the crew stationed aboard a Helldiver's Super Destroyer. The technician can be found near the ship's engineering and equipment areas and provides additional dialogue about life aboard the vessel, Super Earth society, the Galactic War, and the technology used by the Helldivers. Like the Ship Master and Democracy Officer, the technician is generated with an individual name.",
     "source": "https://helldivers.wiki.gg/wiki/Service_Technician",
     "image": "",
@@ -56,7 +63,7 @@
   },
   "coretta-kelly": {
     "title": "Coretta Kelly",
-    "category": "Person",
+    "category": "Media Personality",
     "description": "Coretta Kelly is a Super Earth television presenter and the primary host of Strohmann News. She delivers reports concerning the Second Galactic War through broadcasts shown aboard Super Destroyers. Kelly also hosts the tabloid program All You Need To Know, with both programs operating under approval from the Ministry of Truth.",
     "source": "https://helldivers.wiki.gg/wiki/Coretta_Kelly",
     "image": "",
@@ -68,193 +75,191 @@
     ]
   },
   "former-president-of-super-earth": {
-  "title": "Former President of Super Earth",
-  "category": "Person",
-  "description": "The Former President of Super Earth was the unnamed President serving during the 2184–2185 period of the Second Galactic War. During the Illuminate siege of Prosperity City, enemy forces breached the Presidential Security Bunker. Reports stated that the President fought the attackers with a pistol before being killed. Following the President's death, presidential authority was temporarily transferred to the Minister of Defense until a new President was elected.",
-  "source": "https://helldivers.wiki.gg/wiki/Former_President_of_Super_Earth",
-  "image": "",
-  "aliases": [
-    "former president",
-    "former president of super earth",
-    "2185 president",
-    "president of super earth"
-  ]
-},
-"john-w-killjoy": {
-  "title": "John W. Killjoy",
-  "category": "Person",
-  "description": "John W. Killjoy was a Super Earth senator during the era of the First Galactic War. He publicly supported Super Earth's actions against the Illuminate and argued that technologically advanced civilizations posed a threat to the Federation. Killjoy is one of the named political figures associated with Super Earth's campaign against the Illuminate.",
-  "source": "https://helldivers.wiki.gg/wiki/Helldivers_1:Federation_of_Super_Earth",
-  "image": "",
-  "aliases": [
-    "john w killjoy",
-    "john killjoy",
-    "senator killjoy",
-    "senator john w killjoy"
-  ]
-},
-"powley-colle": {
-  "title": "Powley Colle",
-  "category": "Person",
-  "description": "Powley Colle was a representative in the Super Earth House of Representatives during the First Galactic War. Colle publicly asserted that the Illuminate possessed weapons of mass destruction capable of destroying entire planets. His speech helped incite Super Earth to declare war against the Illuminate.",
-  "source": "https://helldivers.wiki.gg/wiki/Minor_Characters",
-  "image": "",
-  "aliases": [
-    "powley colle",
-    "representative powley colle",
-    "house representative powley colle",
-    "colle"
-  ]
-},
-"henk-ploeg": {
-  "title": "Dr. Henk Ploeg",
-  "category": "Person",
-  "description": "Dr. Henk Ploeg was a Super Earth scientist whose statements appeared during the First Galactic War. He provided scientific arguments supporting Super Earth's wars against the Bugs and Cyborgs. Following victory over the Illuminate, Ploeg also expressed enthusiasm for adapting captured Illuminate technology into powerful Super Earth peacekeeping devices.",
-  "source": "https://helldivers.wiki.gg/wiki/Minor_Characters",
-  "image": "",
-  "aliases": [
-    "henk ploeg",
-    "dr henk ploeg",
-    "doctor henk ploeg",
-    "dr ploeg"
-  ]
-},
-"last-lord-governor-of-chara": {
-  "title": "Last Lord Governor of Chara",
-  "category": "Person",
-  "description": "The Last Lord Governor of Chara was an unnamed Super Earth colonial official associated with Chara. Lord Governors historically held authority over entire planets during the era of the First Galactic War, although the precise responsibilities of the office are unclear. A statement attributed to the Last Lord Governor of Chara survives through Super Earth military equipment records.",
-  "source": "https://helldivers.wiki.gg/wiki/Government_of_Super_Earth",
-  "image": "",
-  "aliases": [
-    "last lord governor of chara",
-    "lord governor of chara",
-    "chara lord governor",
-    "lord governor"
-  ]
-},
+    "title": "Former President of Super Earth",
+    "category": "Political Figure",
+    "description": "The Former President of Super Earth was the unnamed President serving during the 2184–2185 period of the Second Galactic War. During the Illuminate siege of Prosperity City, enemy forces breached the Presidential Security Bunker. Reports stated that the President fought the attackers with a pistol before being killed. Following the President's death, presidential authority was temporarily transferred to the Minister of Defense until a new President was elected.",
+    "source": "https://helldivers.wiki.gg/wiki/Former_President_of_Super_Earth",
+    "image": "",
+    "aliases": [
+      "former president",
+      "former president of super earth",
+      "2185 president"
+    ]
+  },
+  "john-w-killjoy": {
+    "title": "John W. Killjoy",
+    "category": "Political Figure",
+    "description": "John W. Killjoy was a Super Earth senator during the era of the First Galactic War. He publicly supported Super Earth's actions against the Illuminate and argued that technologically advanced civilizations posed a threat to the Federation. Killjoy is one of the named political figures associated with Super Earth's campaign against the Illuminate.",
+    "source": "https://helldivers.wiki.gg/wiki/Helldivers_1:Federation_of_Super_Earth",
+    "image": "",
+    "aliases": [
+      "john w killjoy",
+      "john killjoy",
+      "senator killjoy",
+      "senator john w killjoy"
+    ]
+  },
+  "powley-colle": {
+    "title": "Powley Colle",
+    "category": "Political Figure",
+    "description": "Powley Colle was a representative in the Super Earth House of Representatives during the First Galactic War. Colle publicly asserted that the Illuminate possessed weapons of mass destruction capable of destroying entire planets. His speech helped incite Super Earth to declare war against the Illuminate.",
+    "source": "https://helldivers.wiki.gg/wiki/Minor_Characters",
+    "image": "",
+    "aliases": [
+      "powley colle",
+      "representative powley colle",
+      "house representative powley colle",
+      "colle"
+    ]
+  },
+  "henk-ploeg": {
+    "title": "Dr. Henk Ploeg",
+    "category": "Scientist",
+    "description": "Dr. Henk Ploeg was a Super Earth scientist whose statements appeared during the First Galactic War. He provided scientific arguments supporting Super Earth's wars against the Bugs and Cyborgs. Following victory over the Illuminate, Ploeg also expressed enthusiasm for adapting captured Illuminate technology into powerful Super Earth peacekeeping devices.",
+    "source": "https://helldivers.wiki.gg/wiki/Minor_Characters",
+    "image": "",
+    "aliases": [
+      "henk ploeg",
+      "dr henk ploeg",
+      "doctor henk ploeg",
+      "dr ploeg"
+    ]
+  },
+  "last-lord-governor-of-chara": {
+    "title": "Last Lord Governor of Chara",
+    "category": "Political Figure",
+    "description": "The Last Lord Governor of Chara was an unnamed Super Earth colonial official associated with Chara. Lord Governors historically held authority over entire planets during the era of the First Galactic War, although the precise responsibilities of the office are unclear. A statement attributed to the Last Lord Governor of Chara survives through Super Earth military equipment records.",
+    "source": "https://helldivers.wiki.gg/wiki/Government_of_Super_Earth",
+    "image": "",
+    "aliases": [
+      "last lord governor of chara",
+      "lord governor of chara",
+      "chara lord governor",
+      "lord governor"
+    ]
+  },
   "mission-control": {
-  "title": "Mission Control",
-  "category": "Person",
-  "description": "Mission Control is the unseen Super Earth military voice that provides Helldivers with operational information during missions. Mission Control announces objectives, mission status updates, extraction information, and other battlefield developments, acting as a communications link between deployed Helldivers and Super Earth command.",
-  "source": "https://helldivers.wiki.gg/wiki/Non-Playable_Characters",
-  "image": "",
-  "aliases": [
-    "mission control",
-    "helldivers mission control",
-    "super earth mission control"
-  ]
-},
-"facility-operator": {
-  "title": "Facility Operator",
-  "category": "Person",
-  "description": "The Facility Operator is a Super Earth personnel member encountered during Helldiver training. The operator oversees portions of the Helldiver Training Facility and communicates with recruits as they progress through their training before receiving their cape and becoming fully recognized Helldivers.",
-  "source": "https://helldivers.wiki.gg/wiki/Non-Playable_Characters",
-  "image": "",
-  "aliases": [
-    "facility operator",
-    "training facility operator",
-    "helldiver facility operator"
-  ]
-},
-"chip-messiter": {
-  "title": "Chip Messiter",
-  "category": "Person",
-  "description": "Chip Messiter is a famous actor within the Super Earth Federation. He starred in the action-rom-com-musical Lost My Heart to a Man in a Helmet, in which he wore the FS-11 Executioner armor. His appearance in the production helped popularize the armor among citizens of Super Earth.",
-  "source": "https://helldivers.wiki.gg/wiki/Minor_Characters",
-  "image": "",
-  "aliases": [
-    "chip messiter",
-    "actor chip messiter",
-    "messiter"
-  ]
-},
-"gustaf-smith": {
-  "title": "Dr. Gustaf Smith",
-  "category": "Person",
-  "description": "Dr. Gustaf Smith was a Super Earth expert on Cyborg relations during the First Galactic War. Following the defeat of the Cyborgs, Smith explained Super Earth's policy of disarming them and imposing compulsory participation in Managed Democracy, including penalties against the families of Cyborgs who refused to vote.",
-  "source": "https://helldivers.wiki.gg/wiki/Minor_Characters",
-  "image": "",
-  "aliases": [
-    "gustaf smith",
-    "dr gustaf smith",
-    "doctor gustaf smith",
-    "dr smith"
-  ]
-},
-"mulle-mick": {
-  "title": "Mullé Mick",
-  "category": "Person",
-  "description": "Mullé Mick was the CEO of the Super Earth Construction Company during the First Galactic War era. Following the defeat of the Cyborgs, his company took control of industrial complexes and forges across Cyberstan. Mick publicly described the acquisition as profitable for both the company and mankind.",
-  "source": "https://helldivers.wiki.gg/wiki/Minor_Characters",
-  "image": "",
-  "aliases": [
-    "mulle mick",
-    "mullé mick",
-    "mick",
-    "super earth construction company ceo"
-  ]
-},
+    "title": "Mission Control",
+    "category": "Military Personnel",
+    "description": "Mission Control is the unseen Super Earth military voice that provides Helldivers with operational information during missions. Mission Control announces objectives, mission status updates, extraction information, and other battlefield developments, acting as a communications link between deployed Helldivers and Super Earth command.",
+    "source": "https://helldivers.wiki.gg/wiki/Non-Playable_Characters",
+    "image": "",
+    "aliases": [
+      "mission control",
+      "helldivers mission control",
+      "super earth mission control"
+    ]
+  },
+  "facility-operator": {
+    "title": "Facility Operator",
+    "category": "Training Personnel",
+    "description": "The Facility Operator is a Super Earth personnel member encountered during Helldiver training. The operator oversees portions of the Helldiver Training Facility and communicates with recruits as they progress through their training before receiving their cape and becoming fully recognized Helldivers.",
+    "source": "https://helldivers.wiki.gg/wiki/Non-Playable_Characters",
+    "image": "",
+    "aliases": [
+      "facility operator",
+      "training facility operator",
+      "helldiver facility operator"
+    ]
+  },
+  "chip-messiter": {
+    "title": "Chip Messiter",
+    "category": "Entertainer",
+    "description": "Chip Messiter is a famous actor within the Super Earth Federation. He starred in the action-rom-com-musical Lost My Heart to a Man in a Helmet, in which he wore the FS-11 Executioner armor. His appearance in the production helped popularize the armor among citizens of Super Earth.",
+    "source": "https://helldivers.wiki.gg/wiki/Minor_Characters",
+    "image": "",
+    "aliases": [
+      "chip messiter",
+      "actor chip messiter",
+      "messiter"
+    ]
+  },
+  "gustaf-smith": {
+    "title": "Dr. Gustaf Smith",
+    "category": "Scientist",
+    "description": "Dr. Gustaf Smith was a Super Earth expert on Cyborg relations during the First Galactic War. Following the defeat of the Cyborgs, Smith explained Super Earth's policy of disarming them and imposing compulsory participation in Managed Democracy, including penalties against the families of Cyborgs who refused to vote.",
+    "source": "https://helldivers.wiki.gg/wiki/Minor_Characters",
+    "image": "",
+    "aliases": [
+      "gustaf smith",
+      "dr gustaf smith",
+      "doctor gustaf smith",
+      "dr smith"
+    ]
+  },
+  "mulle-mick": {
+    "title": "Mullé Mick",
+    "category": "Corporate Figure",
+    "description": "Mullé Mick was the CEO of the Super Earth Construction Company during the First Galactic War era. Following the defeat of the Cyborgs, his company took control of industrial complexes and forges across Cyberstan. Mick publicly described the acquisition as profitable for both the company and mankind.",
+    "source": "https://helldivers.wiki.gg/wiki/Minor_Characters",
+    "image": "",
+    "aliases": [
+      "mulle mick",
+      "mullé mick",
+      "mick",
+      "super earth construction company ceo"
+    ]
+  },
   "general-consensus": {
-  "title": "General Consensus",
-  "category": "Person",
-  "description": "General Consensus was a famous commander in the Super Earth Armed Forces. He became known for a personal seal associated with the principle that perfect Unity is necessary to ensure perfect Freedom. The Seal of General Consensus was later preserved as a symbol honoring the commander's reputation and ideals.",
-  "source": "https://helldivers.wiki.gg/wiki/Minor_Characters",
-  "image": "",
-  "aliases": [
-    "general consensus",
-    "seaf general consensus",
-    "commander consensus"
-  ]
-},
-"hannah-sc": {
-  "title": "Hannah S.C.",
-  "category": "Person",
-  "description": "Hannah S.C. was a former President of Super Earth. A surviving plaque found within Super Earth cities attributes a wartime address to the President calling upon citizens to take up arms against threats to their liberty. Little else is currently known about Hannah S.C., although the RS-40 Beast of Prey armor was later designed to evoke the former President's likeness.",
-  "source": "https://helldivers.wiki.gg/wiki/Minor_Characters",
-  "image": "",
-  "aliases": [
-    "hannah sc",
-    "hannah s.c.",
-    "president hannah",
-    "president hannah sc"
-  ]
-},
-"jack-boote": {
-  "title": "Jack Boote",
-  "category": "Person",
-  "description": "Jack Boote was a Helldiver renowned for shutting down 908 illegal broadcasts during his service to the Super Earth Federation. Boote eventually retired with honors, and the BP-32 Jackboot armor was named in recognition of his service record.",
-  "source": "https://helldivers.wiki.gg/wiki/Minor_Characters",
-  "image": "",
-  "aliases": [
-    "jack boote",
-    "helldiver jack boote",
-    "jackboot",
-    "bp-32 jackboot"
-  ]
-},
-"jen-shriver": {
-  "title": "Jen Shriver",
-  "category": "Person",
-  "description": "Jen Shriver is the host of the Super Earth children's educational program Jen Shriver the Science Diver. The character's distinctive equipment became recognizable enough throughout the Federation that it served as the basis for the AF-91 Field Chemist armor and its friendly-faced helmet.",
-  "source": "https://helldivers.wiki.gg/wiki/Minor_Characters",
-  "image": "",
-  "aliases": [
-    "jen shriver",
-    "science diver",
-    "jen shriver the science diver",
-    "science diver jen shriver"
-  ]
-},
-"sergeant-major-janet-jones": {
-  "title": "Sergeant Major Janet Jones",
-  "category": "Person",
-  "description": "Sergeant Major Janet Jones is the founder of the SEAF Excavation Corps. Her association with military excavation and subterranean operations is commemorated through the CE-27 Ground Breaker armor, whose description preserves one of her statements concerning the conquest of underground obstacles.",
-  "source": "https://helldivers.wiki.gg/wiki/Minor_Characters",
-  "image": "",
-  "aliases": [
-    "sergeant major janet jones",
-    "sgm janet jones",
-    "janet jones",
-    "excavation corps founder"
-  ]
+    "title": "General Consensus",
+    "category": "Military Personnel",
+    "description": "General Consensus was a famous commander in the Super Earth Armed Forces. He became known for a personal seal associated with the principle that perfect Unity is necessary to ensure perfect Freedom. The Seal of General Consensus was later preserved as a symbol honoring the commander's reputation and ideals.",
+    "source": "https://helldivers.wiki.gg/wiki/Minor_Characters",
+    "image": "",
+    "aliases": [
+      "general consensus",
+      "seaf general consensus",
+      "commander consensus"
+    ]
+  },
+  "hannah-sc": {
+    "title": "Hannah S.C.",
+    "category": "Political Figure",
+    "description": "Hannah S.C. was a former President of Super Earth. A surviving plaque found within Super Earth cities attributes a wartime address to the President calling upon citizens to take up arms against threats to their liberty. Little else is currently known about Hannah S.C., although the RS-40 Beast of Prey armor was later designed to evoke the former President's likeness.",
+    "source": "https://helldivers.wiki.gg/wiki/Minor_Characters",
+    "image": "",
+    "aliases": [
+      "hannah sc",
+      "hannah s.c.",
+      "president hannah",
+      "president hannah sc"
+    ]
+  },
+  "jack-boote": {
+    "title": "Jack Boote",
+    "category": "Helldiver",
+    "description": "Jack Boote was a Helldiver renowned for shutting down 908 illegal broadcasts during his service to the Super Earth Federation. Boote eventually retired with honors, and the BP-32 Jackboot armor was named in recognition of his service record.",
+    "source": "https://helldivers.wiki.gg/wiki/Minor_Characters",
+    "image": "",
+    "aliases": [
+      "jack boote",
+      "helldiver jack boote"
+    ]
+  },
+  "jen-shriver": {
+    "title": "Jen Shriver",
+    "category": "Media Personality",
+    "description": "Jen Shriver is the host of the Super Earth children's educational program Jen Shriver the Science Diver. The character's distinctive equipment became recognizable enough throughout the Federation that it served as the basis for the AF-91 Field Chemist armor and its friendly-faced helmet.",
+    "source": "https://helldivers.wiki.gg/wiki/Minor_Characters",
+    "image": "",
+    "aliases": [
+      "jen shriver",
+      "science diver",
+      "jen shriver the science diver",
+      "science diver jen shriver"
+    ]
+  },
+  "sergeant-major-janet-jones": {
+    "title": "Sergeant Major Janet Jones",
+    "category": "Military Personnel",
+    "description": "Sergeant Major Janet Jones is the founder of the SEAF Excavation Corps. Her association with military excavation and subterranean operations is commemorated through the CE-27 Ground Breaker armor, whose description preserves one of her statements concerning the conquest of underground obstacles.",
+    "source": "https://helldivers.wiki.gg/wiki/Minor_Characters",
+    "image": "",
+    "aliases": [
+      "sergeant major janet jones",
+      "sgm janet jones",
+      "janet jones",
+      "excavation corps founder"
+    ]
+  }
 }
