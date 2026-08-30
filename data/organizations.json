@@ -1,499 +1,402 @@
 {
   "helldivers": {
-    "title": "Helldivers",
-    "category": "Organization",
-    "description": "Helldivers are elite soldiers deployed by Super Earth to conduct high-risk missions across hostile worlds. They are launched from orbit aboard Super Destroyers and are expected to complete objectives under extreme battlefield conditions in service of Managed Democracy.",
-    "source": "https://helldivers.wiki.gg/wiki/Helldivers",
-    "image": ""
+    "title": "The Helldivers",
+    "category": "SEAF Division",
+    "description": "The Helldivers are an elite division of the Super Earth Armed Forces and the Federation's premier special-operations force. Recruited from the wider military, Helldivers deploy from Super Destroyers in Hellpods to conduct high-risk planetary missions, complete strategic objectives, and direct the orbital and aerospace firepower assigned to their vessels.",
+    "source": "https://helldivers.wiki.gg/wiki/The_Helldivers",
+    "image": "",
+    "aliases": [
+      "the helldivers",
+      "helldivers",
+      "helldiver corps",
+      "helldivers division"
+    ]
   },
   "seaf": {
     "title": "Super Earth Armed Forces (SEAF)",
-    "category": "Organization",
-    "description": "The Super Earth Armed Forces, commonly known as SEAF, are the conventional military forces of Super Earth. They defend Federation territory, operate military installations, and fight alongside the Helldivers throughout the Galactic War.",
+    "category": "Military Organization",
+    "description": "The Super Earth Armed Forces, commonly abbreviated SEAF, are the primary military forces of the Federation of Super Earth. They consist of several branches and divisions under the authority of the Ministry of Defense, including conventional forces and the Helldivers. SEAF personnel defend Federation territory, operate military installations, and conduct warfare throughout the Galactic War.",
     "source": "https://helldivers.wiki.gg/wiki/Super_Earth_Armed_Forces",
     "image": "",
-"aliases": [
-  "super earth armed forces"
-  ]
-},
-  "vote-snatchers": {
-    "title": "Vote Snatchers",
-    "category": "Organization",
-    "description": "The Vote Snatchers are an anti-Super Earth dissident movement that emerged during the Second Galactic War. Branded as enemies of Managed Democracy, the group has been associated with sabotage, propaganda, and attempts to undermine Super Earth's democratic institutions.",
-    "source": "https://helldivers.wiki.gg/wiki/Vote_Snatchers",
-    "image": "",
     "aliases": [
-      "vote snatchers",
-      "vote snatcher"
+      "super earth armed forces (seaf)",
+      "super earth armed forces",
+      "seaf",
+      "s.e.a.f.",
+      "super earth military"
     ]
   },
   "ministry-of-truth": {
-  "title": "Ministry of Truth",
-  "category": "Super Earth Ministry",
-  "description": "The Ministry of Truth is one of the principal Ministries of Super Earth and is responsible for informing the public and protecting citizens from enemy propaganda and misinformation. It oversees official messaging, propaganda, and major media organizations such as Strohmann News, while also supervising programs focused on civilian surveillance, dissident detection, and resistance to Illuminate influence.",
-  "source": "https://helldivers.wiki.gg/wiki/Ministry_of_Truth",
-  "image": "",
-  "aliases": [
-    "ministry of truth",
-    "mot",
-    "truth ministry"
-  ]
-},
-"ministry-of-defense": {
-  "title": "Ministry of Defense",
-  "category": "Super Earth Ministry",
-  "description": "The Ministry of Defense is responsible for defending Super Earth against all military threats. It commands the Super Earth Armed Forces and, by extension, the Helldivers. The Ministry also issues military directives, oversees Helldiver readiness, and plays a major role in the development and deployment of Warbonds and battlefield equipment.",
-  "source": "https://helldivers.wiki.gg/wiki/Ministry_of_Defense",
-  "image": "",
-  "aliases": [
-    "ministry of defense",
-    "mindef",
-    "defense ministry"
-  ]
-},
-"ministry-of-science": {
-  "title": "Ministry of Science",
-  "category": "Super Earth Ministry",
-  "description": "The Ministry of Science is a Super Earth government organization responsible for scientific research, technological development, and investigation of unusual galactic phenomena. Its work has included research into the Terminid Control System, Termicide, the Gloom, E-711, Dark Fluid, and other major scientific projects connected to the Galactic War.",
-  "source": "https://helldivers.wiki.gg/wiki/Ministry_of_Science",
-  "image": "",
-  "aliases": [
-    "ministry of science",
-    "science ministry",
-    "super earth science"
-  ]
-},
-"brasch-tactics": {
-  "title": "Brasch Tactics",
-  "category": "Super Earth Media",
-  "description": "Brasch Tactics is a military instructional broadcast hosted by General Brasch and shown aboard Super Destroyers. The program provides Helldivers with short battlefield lessons covering subjects such as cover, concealment, injuries, reloading, armored enemies, fire modes, tagging, and team weapons.",
-  "source": "https://helldivers.wiki.gg/wiki/Brasch_Tactics",
-  "image": "",
-  "aliases": [
-    "brasch tactics",
-    "general brasch tactics",
-    "brasch training"
-  ]
-},
+    "title": "Ministry of Truth",
+    "category": "Super Earth Ministry",
+    "description": "The Ministry of Truth is one of the principal Ministries of Super Earth and is responsible for informing the public and protecting citizens from enemy propaganda and misinformation. It oversees official messaging, propaganda, and major media organizations such as Strohmann News, while also supervising programs focused on civilian surveillance, dissident detection, and resistance to Illuminate influence.",
+    "source": "https://helldivers.wiki.gg/wiki/Ministry_of_Truth",
+    "image": "",
+    "aliases": [
+      "ministry of truth",
+      "mot",
+      "truth ministry"
+    ]
+  },
+  "ministry-of-defense": {
+    "title": "Ministry of Defense",
+    "category": "Super Earth Ministry",
+    "description": "The Ministry of Defense is responsible for defending Super Earth against all military threats. It commands the Super Earth Armed Forces and, by extension, the Helldivers. The Ministry also issues military directives, oversees Helldiver readiness, and plays a major role in the development and deployment of Warbonds and battlefield equipment.",
+    "source": "https://helldivers.wiki.gg/wiki/Ministry_of_Defense",
+    "image": "",
+    "aliases": [
+      "ministry of defense",
+      "mindef",
+      "defense ministry"
+    ]
+  },
+  "ministry-of-science": {
+    "title": "Ministry of Science",
+    "category": "Super Earth Ministry",
+    "description": "The Ministry of Science is a Super Earth government organization responsible for scientific research, technological development, and investigation of unusual galactic phenomena. Its work has included research into the Terminid Control System, Termicide, the Gloom, E-711, Dark Fluid, and other major scientific projects connected to the Galactic War.",
+    "source": "https://helldivers.wiki.gg/wiki/Ministry_of_Science",
+    "image": "",
+    "aliases": [
+      "ministry of science",
+      "science ministry",
+      "super earth science"
+    ]
+  },
+  "brasch-tactics": {
+    "title": "Brasch Tactics",
+    "category": "Super Earth Media",
+    "description": "Brasch Tactics is a military instructional broadcast hosted by General Brasch and shown aboard Super Destroyers. The program provides Helldivers with short battlefield lessons covering subjects such as cover, concealment, injuries, reloading, armored enemies, fire modes, tagging, and team weapons.",
+    "source": "https://helldivers.wiki.gg/wiki/Brasch_Tactics",
+    "image": "",
+    "aliases": [
+      "brasch tactics",
+      "general brasch tactics",
+      "brasch training"
+    ]
+  },
   "strohmann-news": {
-  "title": "Strohmann News",
-  "category": "Super Earth Media",
-  "description": "Strohmann News is a Super Earth news channel hosted primarily by Coretta Kelly. Its broadcasts report on major developments in the Second Galactic War and are approved by the Ministry of Truth. Helldivers can watch its reports on television screens aboard their Super Destroyers, where broadcasts change to reflect major events occurring throughout the Galactic War.",
-  "source": "https://helldivers.wiki.gg/wiki/Strohmann_News",
-  "image": "",
-  "aliases": [
-    "strohmann news",
-    "strohmann",
-    "super earth news",
-    "news broadcast",
-    "ship news"
-  ]
-},
-"ministry-of-expansion": {
-  "title": "Ministry of Expansion",
-  "category": "Super Earth Ministry",
-  "description": "The Ministry of Expansion is a branch of the Super Earth government responsible for expanding the Federation's reach and securing resources needed by its society. Its responsibilities include colonial development, planetary terraforming, resource extraction, and colonist management. The Ministry oversees Colonial Overseers and has played an active role in major expansion and infrastructure projects during the Second Galactic War.",
-  "source": "https://helldivers.wiki.gg/wiki/Ministry_of_Expansion",
-  "image": "",
-  "aliases": [
-    "ministry of expansion",
-    "expansion ministry",
-    "super earth expansion",
-    "moe"
-  ]
-},
+    "title": "Strohmann News",
+    "category": "Super Earth Media",
+    "description": "Strohmann News is a Super Earth news channel hosted primarily by Coretta Kelly. Its broadcasts report on major developments in the Second Galactic War and are approved by the Ministry of Truth. Helldivers can watch its reports on television screens aboard their Super Destroyers, where broadcasts change to reflect major events occurring throughout the Galactic War.",
+    "source": "https://helldivers.wiki.gg/wiki/Strohmann_News",
+    "image": "",
+    "aliases": [
+      "strohmann news",
+      "strohmann",
+      "super earth news",
+      "news broadcast",
+      "ship news"
+    ]
+  },
+  "ministry-of-expansion": {
+    "title": "Ministry of Expansion",
+    "category": "Super Earth Ministry",
+    "description": "The Ministry of Expansion is a branch of the Super Earth government responsible for expanding the Federation's reach and securing resources needed by its society. Its responsibilities include colonial development, planetary terraforming, resource extraction, and colonist management. The Ministry oversees Colonial Overseers and has played an active role in major expansion and infrastructure projects during the Second Galactic War.",
+    "source": "https://helldivers.wiki.gg/wiki/Ministry_of_Expansion",
+    "image": "",
+    "aliases": [
+      "ministry of expansion",
+      "expansion ministry",
+      "super earth expansion",
+      "moe"
+    ]
+  },
   "ministry-of-humanity": {
-  "title": "Ministry of Humanity",
-  "category": "Super Earth Ministry",
-  "description": "The Ministry of Humanity is a Super Earth government ministry responsible for maintaining healthy and productive voters. Its authority extends across education, healthcare, social grading, and gene management. The Ministry also handles aspects of citizens' personal lives, including marriage approvals, missing-person reports, and procedures following the deaths of family members.",
-  "source": "https://helldivers.wiki.gg/wiki/Ministry_of_Humanity",
-  "image": "",
-  "aliases": [
-    "ministry of humanity",
-    "humanity ministry",
-    "super earth humanity"
-  ]
-},
-"ministry-of-unity": {
-  "title": "Ministry of Unity",
-  "category": "Super Earth Ministry",
-  "description": "The Ministry of Unity is a Super Earth government ministry responsible for protecting society from internal threats, including deviant behavior and dangerous ideas. It conducts programs aimed at identifying dissidents and has deployed Loyalty Intervention & Enforcement Squads against suspected traitors. The Ministry also oversees the Unity Corps, a security force tasked with apprehending loyalty-challenged individuals identified through Super Earth's civilian surveillance system.",
-  "source": "https://helldivers.wiki.gg/wiki/Ministry_of_Unity",
-  "image": "",
-  "aliases": [
-    "ministry of unity",
-    "unity ministry",
-    "super earth unity",
-    "mou"
-  ]
-},
-"colonial-overseers": {
-  "title": "Colonial Overseers",
-  "category": "Super Earth Government",
-  "description": "Colonial Overseers are officials responsible for managing colonies throughout the Super Earth Federation and operate under the Ministry of Expansion. Their responsibilities include overseeing colonists, productivity, security, planetary terraforming, and resource extraction. Communications found throughout Super Earth territory show that Colonial Overseers receive government directives concerning colony budgets, worker productivity, and compliance.",
-  "source": "https://helldivers.wiki.gg/wiki/Government_of_Super_Earth",
-  "image": "",
-  "aliases": [
-    "colonial overseers",
-    "colonial overseer",
-    "colony overseer",
-    "super earth colonial overseer"
-  ]
-},
-"government-of-super-earth": {
-  "title": "Government of Super Earth",
-  "category": "Super Earth Government",
-  "description": "The Government of Super Earth administers the Federation under the system of Managed Democracy. The Federation is overseen by institutions including the Democratic Council and Democratic Assembly, while specialized Ministries administer areas such as defense, science, expansion, truth, unity, and humanity. Government authority extends throughout Super Earth's colonies, armed forces, public institutions, and civilian society.",
-  "source": "https://helldivers.wiki.gg/wiki/Government_of_Super_Earth",
-  "image": "",
-  "aliases": [
-    "government of super earth",
-    "super earth government",
-    "federation government",
-    "government"
-  ]
-},
-"democratic-council": {
-  "title": "Democratic Council",
-  "category": "Super Earth Government",
-  "description": "The Democratic Council is one of the principal governing institutions of the Super Earth Federation. It is closely associated with the establishment of Managed Democracy, having presented its first and final draft before the system was instituted. Super Earth commemorates this event every Liberty Day, and official broadcasts state that the Council ensures elected leaders act according to the shared values of the Federation.",
-  "source": "https://helldivers.wiki.gg/wiki/Government_of_Super_Earth",
-  "image": "",
-  "aliases": [
-    "democratic council",
-    "super earth democratic council",
-    "council",
-    "democracy council"
-  ]
-},
+    "title": "Ministry of Humanity",
+    "category": "Super Earth Ministry",
+    "description": "The Ministry of Humanity is a Super Earth government ministry responsible for maintaining healthy and productive voters. Its authority extends across education, healthcare, social grading, and gene management. The Ministry also handles aspects of citizens' personal lives, including marriage approvals, missing-person reports, and procedures following the deaths of family members.",
+    "source": "https://helldivers.wiki.gg/wiki/Ministry_of_Humanity",
+    "image": "",
+    "aliases": [
+      "ministry of humanity",
+      "humanity ministry",
+      "super earth humanity"
+    ]
+  },
+  "ministry-of-unity": {
+    "title": "Ministry of Unity",
+    "category": "Super Earth Ministry",
+    "description": "The Ministry of Unity is a Super Earth government ministry responsible for protecting society from internal threats, including deviant behavior and dangerous ideas. It conducts programs aimed at identifying dissidents and has deployed Loyalty Intervention & Enforcement Squads against suspected traitors. The Ministry also oversees the Unity Corps, a security force tasked with apprehending loyalty-challenged individuals identified through Super Earth's civilian surveillance system.",
+    "source": "https://helldivers.wiki.gg/wiki/Ministry_of_Unity",
+    "image": "",
+    "aliases": [
+      "ministry of unity",
+      "unity ministry",
+      "super earth unity",
+      "mou"
+    ]
+  },
+  "colonial-overseers": {
+    "title": "Colonial Overseers",
+    "category": "Government Office",
+    "description": "Colonial Overseers are officials responsible for managing colonies throughout the Super Earth Federation and operate under the Ministry of Expansion. Their responsibilities include overseeing colonists, productivity, security, planetary terraforming, and resource extraction. Communications found throughout Super Earth territory show that Colonial Overseers receive government directives concerning colony budgets, worker productivity, and compliance.",
+    "source": "https://helldivers.wiki.gg/wiki/Government_of_Super_Earth",
+    "image": "",
+    "aliases": [
+      "colonial overseers",
+      "colonial overseer",
+      "colony overseer",
+      "super earth colonial overseer"
+    ]
+  },
+  "government-of-super-earth": {
+    "title": "Government of Super Earth",
+    "category": "Government",
+    "description": "The Government of Super Earth administers the Federation under the system of Managed Democracy. The Federation is overseen by institutions including the Democratic Council and Democratic Assembly, while specialized Ministries administer areas such as defense, science, expansion, truth, unity, and humanity. Government authority extends throughout Super Earth's colonies, armed forces, public institutions, and civilian society.",
+    "source": "https://helldivers.wiki.gg/wiki/Government_of_Super_Earth",
+    "image": "",
+    "aliases": [
+      "government of super earth",
+      "super earth government",
+      "federation government",
+      "government"
+    ]
+  },
+  "democratic-council": {
+    "title": "Democratic Council",
+    "category": "Government Institution",
+    "description": "The Democratic Council is one of the principal governing institutions of the Super Earth Federation. It is closely associated with the establishment of Managed Democracy, having presented its first and final draft before the system was instituted. Super Earth commemorates this event every Liberty Day, and official broadcasts state that the Council ensures elected leaders act according to the shared values of the Federation.",
+    "source": "https://helldivers.wiki.gg/wiki/Government_of_Super_Earth",
+    "image": "",
+    "aliases": [
+      "democratic council",
+      "super earth democratic council",
+      "council",
+      "democracy council"
+    ]
+  },
   "democratic-assembly": {
-  "title": "Democratic Assembly",
-  "category": "Super Earth Government",
-  "description": "The Democratic Assembly is one of the governing institutions overseeing the Federation of Super Earth alongside the Democratic Council. It forms part of the political structure operating under Managed Democracy and is identified in official lore as one of the institutions responsible for the governance of the Federation.",
-  "source": "https://helldivers.wiki.gg/wiki/Lore",
-  "image": "",
-  "aliases": [
-    "democratic assembly",
-    "super earth democratic assembly",
-    "assembly",
-    "federation assembly"
-  ]
-},
-"ministry-of-prosperity": {
-  "title": "Ministry of Prosperity",
-  "category": "Super Earth Ministry",
-  "description": "The Ministry of Prosperity is responsible for managing Super Earth's economy and ensuring resources are distributed throughout the Federation. Its activities include economic administration, management of currency and resources, and ensuring colonies have access to approved consumer goods. The Ministry has also issued rewards and commemorative items to Helldivers.",
-  "source": "https://helldivers.wiki.gg/wiki/Ministry_of_Prosperity",
-  "image": "",
-  "aliases": [
-    "ministry of prosperity",
-    "prosperity ministry",
-    "super earth prosperity",
-    "economic ministry"
-  ]
-},
-"ministry-of-intelligence": {
-  "title": "Ministry of Intelligence",
-  "category": "Super Earth Ministry",
-  "description": "The Ministry of Intelligence is a Super Earth government ministry associated with military intelligence and classified briefings. It has provided intelligence concerning major threats during the Second Galactic War, including the emergence of Terminid Shriekers and the return of the Illuminate. Compared with other Super Earth ministries, relatively little is publicly known about its organization or operations.",
-  "source": "https://helldivers.wiki.gg/wiki/Ministry_of_Intelligence",
-  "image": "",
-  "aliases": [
-    "ministry of intelligence",
-    "intelligence ministry",
-    "super earth intelligence",
-    "military intelligence"
-  ]
-},
-"ministry-of-employment": {
-  "title": "Ministry of Employment",
-  "category": "Super Earth Ministry",
-  "description": "The Ministry of Employment is a Super Earth government ministry known primarily through the Helldiver Contract of Employment. The Ministry classifies service as a Helldiver as an 'Exceptionally Patriotic Duty.' Under the contract, commencement of a Helldiver's service awards 4.5 citizenship points to members of the enlisted Helldiver's immediate family.",
-  "source": "https://helldivers.wiki.gg/wiki/Ministry_of_Employment",
-  "image": "",
-  "aliases": [
-    "ministry of employment",
-    "employment ministry",
-    "super earth employment",
-    "helldiver employment"
-  ]
-},
-"unity-corps": {
-  "title": "Unity Corps",
-  "category": "Super Earth Security Organization",
-  "description": "The Unity Corps is a Super Earth security force created as part of the FREEDOM Act. Working under the Ministry of Unity, the organization apprehends individuals identified as loyalty-challenged through the Center for Civilian Surveillance and Safety. The surveillance center detects and reports signs of dissidence or Illuminate influence, after which the Unity Corps can act against the identified individuals.",
-  "source": "https://helldivers.wiki.gg/wiki/Unity_Corps",
-  "image": "",
-  "aliases": [
-    "unity corps",
-    "super earth unity corps",
-    "unity security",
-    "loyalty enforcement"
-  ]
-},
+    "title": "Democratic Assembly",
+    "category": "Government Institution",
+    "description": "The Democratic Assembly is a governing institution associated with the Federation of Super Earth and Managed Democracy. It is referenced in Super Earth lore alongside the Democratic Council, although its precise constitutional role and responsibilities are not clearly defined in currently available records.",
+    "source": "https://helldivers.wiki.gg/wiki/Lore",
+    "image": "",
+    "aliases": [
+      "democratic assembly",
+      "super earth democratic assembly",
+      "assembly",
+      "federation assembly"
+    ]
+  },
+  "ministry-of-prosperity": {
+    "title": "Ministry of Prosperity",
+    "category": "Super Earth Ministry",
+    "description": "The Ministry of Prosperity is responsible for managing Super Earth's economy and ensuring resources are distributed throughout the Federation. Its activities include economic administration, management of currency and resources, and ensuring colonies have access to approved consumer goods. The Ministry has also issued rewards and commemorative items to Helldivers.",
+    "source": "https://helldivers.wiki.gg/wiki/Ministry_of_Prosperity",
+    "image": "",
+    "aliases": [
+      "ministry of prosperity",
+      "prosperity ministry",
+      "super earth prosperity",
+      "economic ministry"
+    ]
+  },
+  "ministry-of-intelligence": {
+    "title": "Ministry of Intelligence",
+    "category": "Super Earth Ministry",
+    "description": "The Ministry of Intelligence is a Super Earth government ministry associated with military intelligence and classified briefings. It has provided intelligence concerning major threats during the Second Galactic War, including the emergence of Terminid Shriekers and the return of the Illuminate. Compared with other Super Earth ministries, relatively little is publicly known about its organization or operations.",
+    "source": "https://helldivers.wiki.gg/wiki/Ministry_of_Intelligence",
+    "image": "",
+    "aliases": [
+      "ministry of intelligence",
+      "intelligence ministry",
+      "super earth intelligence",
+      "military intelligence"
+    ]
+  },
+  "ministry-of-employment": {
+    "title": "Ministry of Employment",
+    "category": "Super Earth Ministry",
+    "description": "The Ministry of Employment is a Super Earth government ministry known primarily through the Helldiver Contract of Employment. The Ministry classifies service as a Helldiver as an 'Exceptionally Patriotic Duty.' Under the contract, commencement of a Helldiver's service awards 4.5 citizenship points to members of the enlisted Helldiver's immediate family.",
+    "source": "https://helldivers.wiki.gg/wiki/Ministry_of_Employment",
+    "image": "",
+    "aliases": [
+      "ministry of employment",
+      "employment ministry",
+      "super earth employment",
+      "helldiver employment"
+    ]
+  },
+  "unity-corps": {
+    "title": "Unity Corps",
+    "category": "Security Organization",
+    "description": "The Unity Corps is a Super Earth security force created as part of the FREEDOM Act. Working under the Ministry of Unity, the organization apprehends individuals identified as loyalty-challenged through the Center for Civilian Surveillance and Safety. The surveillance center detects and reports signs of dissidence or Illuminate influence, after which the Unity Corps can act against the identified individuals.",
+    "source": "https://helldivers.wiki.gg/wiki/Unity_Corps",
+    "image": "",
+    "aliases": [
+      "unity corps",
+      "super earth unity corps",
+      "unity security",
+      "loyalty enforcement"
+    ]
+  },
   "president-of-super-earth": {
-  "title": "President of Super Earth",
-  "category": "Super Earth Government",
-  "description": "The President of Super Earth is a major political office within the Federation's government. During the Battle of Super Earth in 2185, the sitting President was killed when Illuminate forces breached the Presidential Security Bunker during the siege of Prosperity City. Presidential authority temporarily passed to the Minister of Defense. Following Super Earth's victory over the Illuminate assault, a new President was sworn in after winning a landslide Managed Election.",
-  "source": "https://helldivers.wiki.gg/wiki/Government_Of_Super_Earth",
-  "image": "",
-  "aliases": [
-    "president of super earth",
-    "super earth president",
-    "president",
-    "federation president"
-  ]
-},
-"super-earth-senate": {
-  "title": "Super Earth Senate",
-  "category": "Super Earth Government",
-  "description": "The Super Earth Senate is part of the legislative branch of the Federation's government. The institution dates back to at least the era of the First Galactic War and forms part of Super Earth's wider political structure alongside the House of Representatives, Democratic Council, and Presidency.",
-  "source": "https://helldivers.wiki.gg/wiki/Government_Of_Super_Earth",
-  "image": "",
-  "aliases": [
-    "super earth senate",
-    "senate",
-    "federation senate",
-    "super earth senators"
-  ]
-},
-"super-earth-house-of-representatives": {
-  "title": "Super Earth House of Representatives",
-  "category": "Super Earth Government",
-  "description": "The Super Earth House of Representatives is part of the Federation's legislative branch and was established in lore during the First Galactic War. A House representative, Powley Colle, publicly supported Super Earth's case for war against the Illuminate by claiming they possessed weapons capable of destroying entire planets.",
-  "source": "https://helldivers.wiki.gg/wiki/Government_Of_Super_Earth",
-  "image": "",
-  "aliases": [
-    "super earth house of representatives",
-    "house of representatives",
-    "super earth house",
-    "house representative",
-    "representatives"
-  ]
-},
-  "center-for-civilian-surveillance-and-safety": {
-  "title": "Center for Civilian Surveillance and Safety",
-  "category": "Super Earth Government Facility",
-  "description": "The Center for Civilian Surveillance and Safety is a government surveillance facility located on Mastia and constructed under the FREEDOM Act. Operated by the Ministry of Truth, the Center analyzes citizens' activity, speech, data, DNA, RNA, and neural topology for evidence of Illuminate manipulation, dissidence, and other threats. Suspicious individuals identified by the Center can be reported to the Ministry of Unity and apprehended by the Unity Corps.",
-  "source": "https://helldivers.wiki.gg/wiki/Center_for_Civilian_Surveillance_and_Safety",
-  "image": "",
-  "aliases": [
-    "center for civilian surveillance and safety",
-    "center for citizen surveillance and safety",
-    "civilian surveillance center",
-    "citizen surveillance center",
-    "ccss"
-  ]
-},
-"pre-dissidence-program": {
-  "title": "Pre-Dissidence Program",
-  "category": "Super Earth Government Program",
-  "description": "The Pre-Dissidence Program is an initiative operated through the Center for Civilian Surveillance and Safety. Recovered Automaton technology, including neural processors and optical lenses, was allocated to the program to improve Super Earth's ability to identify individuals considered at risk of disloyal thought. Expansion of the Center for the program included a database for identifying potential dissidents, facilities for training undercover agents, and mortar fields used for Loyalty Intervention and Enforcement Squad training.",
-  "source": "https://helldivers.wiki.gg/wiki/Center_for_Civilian_Surveillance_and_Safety",
-  "image": "",
-  "aliases": [
-    "pre-dissidence program",
-    "pre dissidence program",
-    "predissidence",
-    "dissidence program",
-    "pre-dissidence"
-  ]
-},
-  "center-for-confinement-of-dissidence": {
-  "title": "Center for the Confinement of Dissidence",
-  "category": "Super Earth Government Facility",
-  "description": "The Center for the Confinement of Dissidence, abbreviated CECOD, is a massive high-security Super Earth detention and re-education facility located on Afoyay Bay. It was constructed during the War on Dissidence after existing detention facilities became overwhelmed by mass arrests throughout Federation territory. CECOD was designed to hold as many as 15 million dissidents for confinement, rehabilitation, and re-education. Its construction was prioritized so heavily that resources intended for the reconstruction of New York Supreme were redirected to the project.",
-  "source": "https://helldivers.wiki.gg/wiki/Center_for_the_Confinement_of_Dissidence",
-  "image": "",
-  "aliases": [
-    "center for the confinement of dissidence",
-    "center for confinement of dissidence",
-    "cecod",
-    "dissident prison",
-    "dissident center",
-    "afoyay bay prison"
-  ]
-},
-"loyalty-intervention-enforcement-squads": {
-  "title": "Loyalty Intervention & Enforcement Squads",
-  "category": "Super Earth Security Organization",
-  "description": "Loyalty Intervention & Enforcement Squads are Ministry of Unity forces deployed to locate and apprehend suspected dissidents within the Super Earth Federation. They were activated during the 2185 loyalty crisis on Gaellivare, Alta V, and Diluvia after surveillance reports identified widespread dissident activity. The squads worked alongside SEAF forces during mass apprehension operations and later received dedicated mortar training fields as part of the expansion of Super Earth's anti-dissidence infrastructure.",
-  "source": "https://helldivers.wiki.gg/wiki/Ministry_of_Unity",
-  "image": "",
-  "aliases": [
-    "loyalty intervention and enforcement squads",
-    "loyalty intervention enforcement squads",
-    "loyalty enforcement squads",
-    "enforcement squads",
-    "lies"
-  ]
-},
-"pandora-base": {
-  "title": "Pandora Base",
-  "category": "Super Earth Government Facility",
-  "description": "Pandora Base is a top-secret Super Earth development facility located on Afoyay Bay and commissioned by the Ministry of Expansion. Established as part of Operation Free Space, the facility was created to construct upgrades for the Democracy Space Station, including the Star of Peace. Pandora Base shares Afoyay Bay with the Center for the Confinement of Dissidence, whose detained dissidents provide the workforce used by the facility.",
-  "source": "https://helldivers.wiki.gg/wiki/Pandora_Base",
-  "image": "",
-  "aliases": [
-    "pandora base",
-    "pandora",
-    "operation free space base",
-    "dss foundry",
-    "afoyay bay foundry"
-  ]
-},
-  "xenoentomology-center": {
-  "title": "Xenoentomology Center",
-  "category": "Super Earth Research Organization",
-  "description": "The Xenoentomology Center is a Super Earth scientific institution located on Turing dedicated to the study of Terminid biology. The Center has played an important role in research involving live Terminid specimens and later led development of Termicide 2.0. Its researchers sought to eliminate the mutagenic effects associated with the original Termicide and used Hive World samples and large-scale Terminid testing to advance the new formula.",
-  "source": "https://helldivers.wiki.gg/wiki/Xenoentomology_Center",
-  "image": "",
-  "aliases": [
-    "xenoentomology center",
-    "xenoentomology centre",
-    "turing research center",
-    "terminid research center"
-  ]
-},
-  "seaf-bug-wardens": {
-  "title": "SEAF Bug Wardens",
-  "category": "SEAF Unit",
-  "description": "The SEAF Bug Wardens were a specialized Super Earth Armed Forces unit assigned to the Terminid Research Preserve on Acamar IV. Their role was to monitor and contain the Terminids deliberately seeded within the preserve while assisting research teams in obtaining live specimens. The Bug Wardens operated alongside an extensive network of above- and below-ground electrified fencing intended to prevent the Terminids from escaping.",
-  "source": "https://helldivers.wiki.gg/wiki/Super_Earth_Armed_Forces",
-  "image": "",
-  "aliases": [
-    "seaf bug wardens",
-    "bug wardens",
-    "terminid bug wardens",
-    "acamar bug wardens"
-  ]
-},
+    "title": "President of Super Earth",
+    "category": "Government Office",
+    "description": "The President of Super Earth is a major political office within the Federation's government. During the Battle of Super Earth in 2185, the sitting President was killed when Illuminate forces breached the Presidential Security Bunker during the siege of Prosperity City. Presidential authority temporarily passed to the Minister of Defense. Following Super Earth's victory over the Illuminate assault, a new President was sworn in after winning a landslide Managed Election.",
+    "source": "https://helldivers.wiki.gg/wiki/Government_Of_Super_Earth",
+    "image": "",
+    "aliases": [
+      "president of super earth",
+      "super earth president",
+      "president",
+      "federation president"
+    ]
+  },
   "super-earth-senate": {
-  "title": "Super Earth Senate",
-  "category": "Super Earth Government",
-  "description": "The Super Earth Senate is a governmental body of the Federation of Super Earth documented during the First Galactic War. Senators participated in the political response to threats facing the Federation, with Senator John W. Killjoy becoming particularly notable for speeches concerning the Cyborg conflict. The Senate forms part of the broader political history of Super Earth's Managed Democracy.",
-  "source": "https://helldivers.wiki.gg/wiki/Government_of_Super_Earth",
-  "image": "",
-  "aliases": [
-    "super earth senate",
-    "senate",
-    "federation senate"
-  ]
-},
+    "title": "Super Earth Senate",
+    "category": "Government Institution",
+    "description": "The Super Earth Senate is a governmental body of the Federation of Super Earth documented during the First Galactic War. Senators participated in the political response to threats facing the Federation, with Senator John W. Killjoy becoming particularly notable for speeches concerning the Cyborg conflict. The Senate forms part of the broader political history of Super Earth's Managed Democracy.",
+    "source": "https://helldivers.wiki.gg/wiki/Government_of_Super_Earth",
+    "image": "",
+    "aliases": [
+      "super earth senate",
+      "senate",
+      "federation senate"
+    ]
+  },
   "super-earth-house-of-representatives": {
-  "title": "Super Earth House of Representatives",
-  "category": "Super Earth Government",
-  "description": "The Super Earth House of Representatives is a governmental body documented during the First Galactic War. One of its known members, Representative Powley Colle, publicly supported Super Earth's case for military action against the Illuminate by asserting that they possessed weapons capable of destroying entire planets. The House forms part of the historical governmental structure of the Federation of Super Earth.",
-  "source": "https://helldivers.wiki.gg/wiki/Government_of_Super_Earth",
-  "image": "",
-  "aliases": [
-    "super earth house of representatives",
-    "house of representatives",
-    "super earth house",
-    "federation house of representatives"
-  ]
-},
+    "title": "Super Earth House of Representatives",
+    "category": "Government Institution",
+    "description": "The Super Earth House of Representatives is a governmental body documented during the First Galactic War. One of its known members, Representative Powley Colle, publicly supported Super Earth's case for military action against the Illuminate by asserting that they possessed weapons capable of destroying entire planets. The House forms part of the historical governmental structure of the Federation of Super Earth.",
+    "source": "https://helldivers.wiki.gg/wiki/Government_of_Super_Earth",
+    "image": "",
+    "aliases": [
+      "super earth house of representatives",
+      "house of representatives",
+      "super earth house",
+      "federation house of representatives"
+    ]
+  },
+  "loyalty-intervention-enforcement-squads": {
+    "title": "Loyalty Intervention & Enforcement Squads",
+    "category": "Security Organization",
+    "description": "Loyalty Intervention & Enforcement Squads are Ministry of Unity forces deployed to locate and apprehend suspected dissidents within the Super Earth Federation. They were activated during the 2185 loyalty crisis on Gaellivare, Alta V, and Diluvia after surveillance reports identified widespread dissident activity. The squads worked alongside SEAF forces during mass apprehension operations and later received dedicated mortar training fields as part of the expansion of Super Earth's anti-dissidence infrastructure.",
+    "source": "https://helldivers.wiki.gg/wiki/Ministry_of_Unity",
+    "image": "",
+    "aliases": [
+      "loyalty intervention & enforcement squads",
+      "loyalty intervention and enforcement squads",
+      "loyalty intervention enforcement squads",
+      "loyalty enforcement squads",
+      "enforcement squads",
+      "lies"
+    ]
+  },
+  "xenoentomology-center": {
+    "title": "Xenoentomology Center",
+    "category": "Research Organization",
+    "description": "The Xenoentomology Center is a Super Earth scientific institution located on Turing dedicated to the study of Terminid biology. The Center has played an important role in research involving live Terminid specimens and later led development of Termicide 2.0. Its researchers sought to eliminate the mutagenic effects associated with the original Termicide and used Hive World samples and large-scale Terminid testing to advance the new formula.",
+    "source": "https://helldivers.wiki.gg/wiki/Xenoentomology_Center",
+    "image": "",
+    "aliases": [
+      "xenoentomology center",
+      "xenoentomology centre",
+      "turing research center",
+      "terminid research center"
+    ]
+  },
   "super-earth-high-command": {
-  "title": "Super Earth High Command",
-  "category": "SEAF Organization",
-  "description": "Super Earth High Command, commonly called High Command, is the primary command authority directing the Super Earth Armed Forces across the galaxy. High Command coordinates large-scale military operations and holds the authority to issue Major Orders to the Helldivers, directing the strategic course of the Galactic War.",
-  "source": "https://helldivers.wiki.gg/wiki/Super_Earth_Armed_Forces",
-  "image": "",
-  "aliases": [
-    "super earth high command",
-    "high command",
-    "seaf high command",
-    "super earth command"
-  ]
-},
-"seaf-army": {
-  "title": "SEAF Army",
-  "category": "SEAF Branch",
-  "description": "The SEAF Army is the ground-combat branch of the Super Earth Armed Forces. Its soldiers defend Federation territory and conduct conventional planetary warfare alongside the more specialized Helldivers. SEAF Army personnel include Squad Leaders, Riflemen, Specialists, Medics, and other battlefield roles, with equipment and uniforms adapted to different planetary environments.",
-  "source": "https://helldivers.wiki.gg/wiki/Super_Earth_Armed_Forces",
-  "image": "",
-  "aliases": [
-    "seaf army",
-    "super earth army",
-    "seaf ground forces",
-    "super earth ground forces"
-  ]
-},
-"seaf-navy": {
-  "title": "SEAF Navy",
-  "category": "SEAF Branch",
-  "description": "The SEAF Navy is the naval branch of the Super Earth Armed Forces. It operates military spacecraft and supports Helldiver deployments throughout the Galactic War. Super Destroyers used by the Helldivers are part of this wider naval force, providing orbital firepower, aerospace support, equipment, and personnel for planetary operations.",
-  "source": "https://helldivers.wiki.gg/wiki/Super_Earth_Armed_Forces",
-  "image": "",
-  "aliases": [
-    "seaf navy",
-    "super earth navy",
-    "super earth naval forces",
-    "seaf naval forces"
-  ]
-},
-"colonial-militia": {
-  "title": "Colonial Militia",
-  "category": "SEAF Branch",
-  "description": "The Colonial Militia is Super Earth's paramilitary force responsible for defending Federation colonies. Colonial Overseers direct local colonial administration, while colonists have access to weapons and civilian versions of military equipment for defensive and practical use. The militia provides local protection separate from the Federation's conventional frontline military forces.",
-  "source": "https://helldivers.wiki.gg/wiki/Super_Earth_Armed_Forces",
-  "image": "",
-  "aliases": [
-    "colonial militia",
-    "super earth colonial militia",
-    "colony militia",
-    "colonial defense force"
-  ]
-},
-"intergalactic-medical-corps": {
-  "title": "Intergalactic Medical Corps",
-  "category": "SEAF Organization",
-  "description": "The Intergalactic Medical Corps is a medical organization associated with the Super Earth Armed Forces. Its personnel are recognizable by their distinctive green, white, and red equipment. Medical Corps equipment includes specialized protective armor such as the CM-09 Bonesnapper, CM-10 Clinician, and CM-14 Physician, designs that have also been made available to Helldivers.",
-  "source": "https://helldivers.wiki.gg/wiki/Super_Earth_Armed_Forces",
-  "image": "",
-  "aliases": [
-    "intergalactic medical corps",
-    "medical corps",
-    "seaf medical corps",
-    "super earth medical corps"
-  ]
-},
+    "title": "Super Earth High Command",
+    "category": "Military Organization",
+    "description": "Super Earth High Command, commonly called High Command, is the primary command authority directing the Super Earth Armed Forces across the galaxy. High Command coordinates large-scale military operations and holds the authority to issue Major Orders to the Helldivers, directing the strategic course of the Galactic War.",
+    "source": "https://helldivers.wiki.gg/wiki/Super_Earth_Armed_Forces",
+    "image": "",
+    "aliases": [
+      "super earth high command",
+      "high command",
+      "seaf high command",
+      "super earth command"
+    ]
+  },
+  "seaf-army": {
+    "title": "SEAF Army",
+    "category": "SEAF Branch",
+    "description": "The SEAF Army is the ground-combat branch of the Super Earth Armed Forces. Its soldiers defend Federation territory and conduct conventional planetary warfare alongside the more specialized Helldivers. SEAF Army personnel include Squad Leaders, Riflemen, Specialists, Medics, and other battlefield roles, with equipment and uniforms adapted to different planetary environments.",
+    "source": "https://helldivers.wiki.gg/wiki/Super_Earth_Armed_Forces",
+    "image": "",
+    "aliases": [
+      "seaf army",
+      "super earth army",
+      "seaf ground forces",
+      "super earth ground forces"
+    ]
+  },
+  "seaf-navy": {
+    "title": "SEAF Navy",
+    "category": "SEAF Branch",
+    "description": "The SEAF Navy is the naval branch of the Super Earth Armed Forces. It operates military spacecraft and supports Helldiver deployments throughout the Galactic War. Super Destroyers used by the Helldivers are part of this wider naval force, providing orbital firepower, aerospace support, equipment, and personnel for planetary operations.",
+    "source": "https://helldivers.wiki.gg/wiki/Super_Earth_Armed_Forces",
+    "image": "",
+    "aliases": [
+      "seaf navy",
+      "super earth navy",
+      "super earth naval forces",
+      "seaf naval forces"
+    ]
+  },
+  "colonial-militia": {
+    "title": "Colonial Militia",
+    "category": "SEAF Branch",
+    "description": "The Colonial Militia is Super Earth's paramilitary force responsible for defending Federation colonies. Colonial Overseers direct local colonial administration, while colonists have access to weapons and civilian versions of military equipment for defensive and practical use. The militia provides local protection separate from the Federation's conventional frontline military forces.",
+    "source": "https://helldivers.wiki.gg/wiki/Super_Earth_Armed_Forces",
+    "image": "",
+    "aliases": [
+      "colonial militia",
+      "super earth colonial militia",
+      "colony militia",
+      "colonial defense force"
+    ]
+  },
+  "intergalactic-medical-corps": {
+    "title": "Intergalactic Medical Corps",
+    "category": "SEAF Organization",
+    "description": "The Intergalactic Medical Corps is a medical organization associated with the Super Earth Armed Forces. Its personnel are recognizable by their distinctive green, white, and red equipment. Medical Corps equipment includes specialized protective armor such as the CM-09 Bonesnapper, CM-10 Clinician, and CM-14 Physician, designs that have also been made available to Helldivers.",
+    "source": "https://helldivers.wiki.gg/wiki/Super_Earth_Armed_Forces",
+    "image": "",
+    "aliases": [
+      "intergalactic medical corps",
+      "medical corps",
+      "seaf medical corps",
+      "super earth medical corps"
+    ]
+  },
   "service-technician-corps": {
-  "title": "Service Technician Corps",
-  "category": "SEAF Organization",
-  "description": "The Service Technician Corps is a Super Earth Armed Forces organization responsible for maintaining equipment and performing general maintenance aboard Super Destroyers. Service Technicians assigned to Helldiver vessels work near the Engineering Bay and assist in keeping the ship's systems and equipment operational. During the Second Galactic War, the entire corps was temporarily sent to Professional Development Training after some technicians made inquiries concerning a workers' strike.",
-  "source": "https://helldivers.wiki.gg/wiki/Super_Earth_Armed_Forces",
-  "image": "",
-  "aliases": [
-    "service technician corps",
-    "service tech corps",
-    "technician corps",
-    "super destroyer technicians"
-  ]
-},
+    "title": "Service Technician Corps",
+    "category": "SEAF Organization",
+    "description": "The Service Technician Corps is a Super Earth Armed Forces organization responsible for maintaining equipment and performing general maintenance aboard Super Destroyers. Service Technicians assigned to Helldiver vessels work near the Engineering Bay and assist in keeping the ship's systems and equipment operational. During the Second Galactic War, the entire corps was temporarily sent to Professional Development Training after some technicians made inquiries concerning a workers' strike.",
+    "source": "https://helldivers.wiki.gg/wiki/Super_Earth_Armed_Forces",
+    "image": "",
+    "aliases": [
+      "service technician corps",
+      "service tech corps",
+      "technician corps",
+      "super destroyer technicians"
+    ]
+  },
   "seaf-excavation-corps": {
-  "title": "SEAF Excavation Corps",
-  "category": "SEAF Organization",
-  "description": "The SEAF Excavation Corps is a specialized corps within the Super Earth Armed Forces founded by Sergeant Major Janet Jones. Available records indicate that the corps handles drilling, blasting, and excavation at locations considered strategically valuable to Super Earth.",
-  "source": "https://helldivers.wiki.gg/wiki/Super_Earth_Armed_Forces",
-  "image": "",
-  "aliases": [
-    "seaf excavation corps",
-    "excavation corps",
-    "super earth excavation corps"
-  ]
-},
+    "title": "SEAF Excavation Corps",
+    "category": "SEAF Organization",
+    "description": "The SEAF Excavation Corps is a specialized corps within the Super Earth Armed Forces founded by Sergeant Major Janet Jones. Available records indicate that the corps handles drilling, blasting, and excavation at locations considered strategically valuable to Super Earth.",
+    "source": "https://helldivers.wiki.gg/wiki/Super_Earth_Armed_Forces",
+    "image": "",
+    "aliases": [
+      "seaf excavation corps",
+      "excavation corps",
+      "super earth excavation corps"
+    ]
+  },
   "morgunson": {
-  "title": "Morgunson",
-  "category": "Super Earth Corporation",
-  "description": "Morgunson is a Super Earth mega-corporation and the primary weapons supplier for the Ministry of Defense. The company manufactures numerous weapons and military systems used by Federation forces, including the SG-225 Breaker, EAT-17 Expendable Anti-Tank, and EXO-45 Patriot Exosuit. Its exosuit production facilities on Tien Kwan became strategically important during the early Automaton campaigns of the Second Galactic War.",
-  "source": "https://helldivers.wiki.gg/wiki/Morgunson",
-  "image": "",
-  "aliases": [
-    "morgunson",
-    "morgunson arsenal",
-    "morgunson corporation",
-    "morgunson mega-corporation",
-    "super earth weapons supplier"
-  ]
+    "title": "Morgunson",
+    "category": "Super Earth Corporation",
+    "description": "Morgunson is a Super Earth mega-corporation and the primary weapons supplier for the Ministry of Defense. The company manufactures numerous weapons and military systems used by Federation forces, including the SG-225 Breaker, EAT-17 Expendable Anti-Tank, and EXO-45 Patriot Exosuit. Its exosuit production facilities on Tien Kwan became strategically important during the early Automaton campaigns of the Second Galactic War.",
+    "source": "https://helldivers.wiki.gg/wiki/Morgunson",
+    "image": "",
+    "aliases": [
+      "morgunson",
+      "morgunson corporation",
+      "morgunson mega-corporation",
+      "super earth weapons supplier"
+    ]
+  }
 }
