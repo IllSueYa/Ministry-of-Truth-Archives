@@ -470,4 +470,16 @@
     "technician corps",
     "super destroyer technicians"
   ]
+},
+  "seaf-excavation-corps": {
+  "title": "SEAF Excavation Corps",
+  "category": "SEAF Organization",
+  "description": "The SEAF Excavation Corps is a specialized corps within the Super Earth Armed Forces founded by Sergeant Major Janet Jones. Available records indicate that the corps handles drilling, blasting, and excavation at locations considered strategically valuable to Super Earth.",
+  "source": "https://helldivers.wiki.gg/wiki/Super_Earth_Armed_Forces",
+  "image": "",
+  "aliases": [
+    "seaf excavation corps",
+    "excavation corps",
+    "super earth excavation corps"
+  ]
 }
