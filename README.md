@@ -93,11 +93,23 @@ Source links are included with encyclopedia entries whenever possible so users c
 
 The Archives is intended to summarize and organize lore, not replace the work of the wiki's editors and contributors.
 
-## Invite the Bot
+## Add Ministry of Truth Archives to Your Server
 
-**Public invite link:** Coming soon.
+Bring the Ministry Archives directly to your Discord server.
 
-The bot is currently being prepared for public installation. This section will be updated with the official Discord installation link when the public release is ready.
+**[Install Ministry of Truth Archives](https://discord.com/oauth2/authorize?client_id=1543084738246475926))**
+
+Once installed, use `/lore` and begin typing a topic to search the Archives.
+
+### Required Permissions
+
+Ministry of Truth Archives only requires:
+
+- View Channels
+- Send Messages
+- Embed Links
+
+No privileged Discord intents are required.
 
 ## Support & Community
 
