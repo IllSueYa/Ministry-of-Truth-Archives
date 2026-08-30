@@ -97,7 +97,7 @@ The Archives is intended to summarize and organize lore, not replace the work of
 
 Bring the Ministry Archives directly to your Discord server.
 
-**[Install Ministry of Truth Archives](https://discord.com/oauth2/authorize?client_id=1543084738246475926))**
+**[Install Ministry of Truth Archives](https://discord.com/oauth2/authorize?client_id=1543084738246475926)**
 
 Once installed, use `/lore` and begin typing a topic to search the Archives.
 
